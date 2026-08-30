@@ -17,29 +17,26 @@ description: When doing online research tasks with structured data, where we nee
 
 Before starting, clone this repo as your 'database', and just check that the same query hasn't been researched already. If so, still create a fresh folder, copy the schema, and re-generate the individual entities for freshness.
 
-First, identify some of the main data sources for the users query, and classify each by how it must be accessed:
-
-- **Spoofable sources** (e.g. Rightmove, OnTheMarket): their internal JSON APIs respond to plain HTTP requests with spoofed browser headers — scrape these with a simple local Python script, no browser or sandbox needed.
-- **Protected sources** (e.g. Zoopla, SpareRoom): bot detection can't be beaten by header spoofing, so these need a real browser session — use Daytona web research agents (or a local headless browser as fallback).
+First, identify some of the main data sources for the users query. For property listings in London, maybe Rightmove and OnTheMarket (which you can spoof the browser headers of to get thier internal JSON api) and SpareRoom and Zoopla (which you can browse with Daytona web research agents).
 
 Using a few example entities, identify the unified schema that matches all sources. Build a .yaml schema that outlines the consistent format and data you need to gather from each entity as part of answering the users query. For example, for a property query, the property sites all have price, rooms, etc.
 Also add research provenance (sources at the yaml file level, date researched, etc)
 
-Then, figure out what derived entities are needed for answering the user queries (these fields are query-shaped, NOT source-shaped). For example, if they want the price per room between £500 - £1000, then you need to derive price per room carefully for each entity, as a new column that you can later query and sort over. Another example might be house type (warehouse conversion, council house, new build, etc), which you can't tell from descriptions consistently so you have to look at the photos themselves (which can be expensive so perhaps filter what you can first).
+Then, figure out what derived entities are needed for answering the user queries (these fields are query-shaped, NOT source-shaped). For example, if they want the price per room between £500 - £1000, then you need to derive price per room carefully for each entity, as a new column that you can later query and sort over. Another example might be house type (warehouse conversion, council house, new build, etc), which probably needs to be judged by looking at the photos, which can be expensive so perhaps filter what you can first.
 If you need to define any guidelines (e.g. all prices should be monthly, normalise price per week to monthly), use a description field to add those in the schema too. 
 
 Then, get all entities (download raw data/file), and start outputting a valid .yaml file for each entity, building up your library. Once complete, you will be able to load and sort/filter to get the most relevant information to present to the user.
 
 
-All research output lives in the dedicated repo https://github.com/jerrysam/research-databases — clone it (or pull if already cloned), create/reuse a topic directory at its root per the README, do all work there, and commit + push when done.
+All research output lives in this skill's own repo, https://github.com/jerrysam/SuperWebResearch — the database topics live in its `databases/` subfolder. Clone it (or pull if already cloned), create/reuse a topic directory inside `databases/` per the README, do all work there, and commit + push when done.
 
 ## Workflow
 
 Copy this checklist and track progress:
 
 ```
-- [ ] Step 1: Clone/pull the research-databases repo and create the topic directory
-- [ ] Step 2: Identify sources and unify key fields to generate schema (GATE: no entity research until the schema file is committed)
+- [ ] Step 1: Clone/pull the SuperWebResearch repo and create the topic directory
+- [ ] Step 2: Identify sources and unify key fields to generate schema
 - [ ] Step 3: Add derivative fields matching the user query to the schema, and ensure it's correct for the final research loop
 - [ ] Step 4: Research loop — populate one YAML per entity
 - [ ] Step 5: Filter with a script and present best answers
@@ -52,7 +49,6 @@ For heavy scraping (many pages, JS-rendered sites, or when local network access 
 1. Use the Daytona CLI only (do not use Daytona MCP tools even if present): `daytona sandbox create` to provision, `daytona exec` to run commands (requires `daytona login` or `DAYTONA_API_KEY`).
 2. In the sandbox: install Python + `requests`, `beautifulsoup4`, `pyyaml` (add `playwright` only if pages need JS rendering), run the scraping script there, writing entity YAML files inside the sandbox.
 3. Download the resulting `entities/*.yaml` back into the topic directory in the research-databases repo, then destroy the sandbox.
-4. Before relying on a sandbox, verify egress works (`curl -m 10 https://example.com` inside it): Daytona orgs on Tier 1/2 block general outbound traffic (only package registries etc. are reachable) and this cannot be overridden per-sandbox. If egress is blocked, or Daytona is unavailable (no CLI, no API key), do the research locally and note the limitation to the user.
 
 ## Conventions
 
