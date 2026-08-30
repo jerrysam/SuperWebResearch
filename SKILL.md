@@ -17,7 +17,10 @@ description: When doing online research tasks with structured data, where we nee
 
 Before starting, clone this repo as your 'database', and just check that the same query hasn't been researched already. If so, still create a fresh folder, copy the schema, and re-generate the individual entities for freshness.
 
-First, identify some of the main data sources for the users query. For property listings in London, maybe Rightmove and OnTheMarket (which you can spoof the browser headers of to get thier internal JSON api) and SpareRoom and Zoopla (which you can browse with Daytona web research agents).
+First, identify some of the main data sources for the users query, and classify each by how it must be accessed:
+
+- **Spoofable sources** (e.g. Rightmove, OnTheMarket): their internal JSON APIs respond to plain HTTP requests with spoofed browser headers — scrape these with a simple local Python script, no browser or sandbox needed.
+- **Protected sources** (e.g. Zoopla, SpareRoom): bot detection can't be beaten by header spoofing, so these need a real browser session — use Daytona web research agents (or a local headless browser as fallback).
 
 Using a few example entities, identify the unified schema that matches all sources. Build a .yaml schema that outlines the consistent format and data you need to gather from each entity as part of answering the users query. For example, for a property query, the property sites all have price, rooms, etc.
 Also add research provenance (sources at the yaml file level, date researched, etc)
@@ -49,7 +52,7 @@ For heavy scraping (many pages, JS-rendered sites, or when local network access 
 1. Use the Daytona CLI only (do not use Daytona MCP tools even if present): `daytona sandbox create` to provision, `daytona exec` to run commands (requires `daytona login` or `DAYTONA_API_KEY`).
 2. In the sandbox: install Python + `requests`, `beautifulsoup4`, `pyyaml` (add `playwright` only if pages need JS rendering), run the scraping script there, writing entity YAML files inside the sandbox.
 3. Download the resulting `entities/*.yaml` back into the topic directory in the research-databases repo, then destroy the sandbox.
-4. If Daytona is unavailable (no CLI, no MCP tools, no API key), do the research locally and note the limitation to the user.
+4. Before relying on a sandbox, verify egress works (`curl -m 10 https://example.com` inside it): Daytona orgs on Tier 1/2 block general outbound traffic (only package registries etc. are reachable) and this cannot be overridden per-sandbox. If egress is blocked, or Daytona is unavailable (no CLI, no API key), do the research locally and note the limitation to the user.
 
 ## Conventions
 
