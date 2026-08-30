@@ -1,0 +1,25 @@
+_meta:
+  last_researched: "2026-08-30"
+  sources:
+    - publisher: Rightmove
+      url: "https://www.rightmove.co.uk/properties/92556051"
+      retrieved: "2026-08-30"
+address: "Phipp Street, Shoreditch, EC2A"
+search_scope: core_shoreditch
+status: active
+listing_added: "2026-08-30"
+available_from: "2026-10-16"
+rent_monthly_gbp: 1975
+rent_weekly_gbp: 456
+bedrooms: 1
+bathrooms: 1
+receptions: 1
+price_per_bedroom_monthly_gbp: 1975
+furnishing: unfurnished
+deposit_gbp: 2278
+council_tax_band: C
+epc_rating: C
+agent: Storeys
+warehouse_conversion_evidence: "Marketed as a warehouse-style apartment within a converted development, with the character expected from a Shoreditch warehouse conversion."
+key_features: ["large bedroom", "open-plan living", "secure intercom entry"]
+eligibility_note: "The warehouse provenance is less explicit than the Charlotte Road or Mills Court listings; treat this as warehouse-style rather than a confirmed former warehouse."

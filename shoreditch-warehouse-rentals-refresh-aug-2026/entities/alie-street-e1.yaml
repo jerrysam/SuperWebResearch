@@ -1,0 +1,23 @@
+_meta:
+  last_researched: "2026-08-30"
+  sources:
+    - publisher: Winkworth Shoreditch
+      url: "https://www.winkworth.co.uk/properties/lettings/alie-street-london-e1/SHO260177"
+      retrieved: "2026-08-30"
+address: "Alie Street, E1 (Aldgate/Spitalfields fringe)"
+search_scope: shoreditch_fringe
+status: active
+rent_monthly_gbp: 3250
+rent_weekly_gbp: 750
+bedrooms: 2
+bathrooms: 2
+receptions: 1
+size_sq_ft: 733
+price_per_bedroom_monthly_gbp: 1625
+furnishing: furnished
+council_tax_band: F
+epc_rating: E
+agent: "Winkworth Shoreditch"
+warehouse_conversion_evidence: "Explicitly marketed as a two-double-bedroom apartment in a characterful warehouse conversion (Harvard House)."
+key_features: ["en-suite plus Jack-and-Jill bathroom", "private rear balcony", "open-plan living"]
+eligibility_note: "Active short let in Aldgate/Spitalfields fringe; it is cheaper but outside core Shoreditch."

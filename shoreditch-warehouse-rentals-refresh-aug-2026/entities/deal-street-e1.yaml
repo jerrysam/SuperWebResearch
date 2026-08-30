@@ -1,0 +1,24 @@
+_meta:
+  last_researched: "2026-08-30"
+  sources:
+    - publisher: Rightmove / Stirling Ackroyd Lettings, Shoreditch
+      url: "https://www.rightmove.co.uk/properties/92532756"
+      retrieved: "2026-08-30"
+address: "Deal Street, E1 (east of Brick Lane)"
+search_scope: shoreditch_fringe
+status: active
+listing_added: "2026-08-28"
+available_from: "2026-09-03"
+rent_monthly_gbp: 3500
+bedrooms: 2
+bathrooms: 2
+receptions: 1
+size_sq_ft: 970
+price_per_bedroom_monthly_gbp: 1750
+furnishing: furnished
+deposit_gbp: 4038
+council_tax_band: E
+agent: "Stirling Ackroyd - Shoreditch"
+warehouse_conversion_evidence: "Explicitly marketed as a Victorian warehouse conversion retaining exposed beams, exposed brickwork, and warehouse-style windows."
+key_features: ["two bathrooms", "allocated gated parking", "communal roof terrace"]
+eligibility_note: "Active, but east of Brick Lane and therefore Shoreditch fringe rather than the core area."

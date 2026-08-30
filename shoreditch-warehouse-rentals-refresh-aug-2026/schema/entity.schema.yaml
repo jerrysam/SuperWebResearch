@@ -1,0 +1,38 @@
+$schema: "https://json-schema.org/draft/2020-12/schema"
+title: Shoreditch warehouse-conversion rental listing
+description: Normalised residential rental listing used to compare monthly rent per advertised bedroom.
+type: object
+required:
+  - _meta
+  - address
+  - search_scope
+  - status
+  - rent_monthly_gbp
+  - bedrooms
+  - price_per_bedroom_monthly_gbp
+  - warehouse_conversion_evidence
+properties:
+  _meta:
+    type: object
+  address:
+    type: string
+  search_scope:
+    enum: [core_shoreditch, shoreditch_fringe]
+  status:
+    enum: [active, let_agreed]
+  rent_monthly_gbp:
+    type: number
+  bedrooms:
+    type: integer
+  price_per_bedroom_monthly_gbp:
+    type: number
+  warehouse_conversion_evidence:
+    type: string
+x-guidelines:
+  research_date: "2026-08-30"
+  sources: "Agent and portal listings (Winkworth, Rightmove, and Zoopla)."
+  scope: "Core Shoreditch includes EC2A and listings explicitly described as Shoreditch/Shoreditch Triangle. Shoreditch fringe is E1 around Brick Lane, Spitalfields, or Aldgate and is labelled separately."
+  warehouse_classification: "Include only listings whose description explicitly says warehouse conversion, converted warehouse, warehouse apartment, or equivalent; preserve the source wording so a warehouse-style-only claim can be assessed."
+  status: "Only listings whose current page presents an enquiry/viewing path without a let-agreed label are active. Let-agreed listings are retained solely to avoid recommending stale apparent bargains."
+  price_normalisation: "All values are GBP per calendar month as listed. Price per bedroom = monthly rent divided by advertised bedroom count, rounded to nearest pound. Receptions, studies, and guest rooms are not counted."
+  recommendation_rule: "Rank active core-Shoreditch whole-property listings by price_per_bedroom_monthly_gbp. Fringe listings are not allowed to displace a core-Shoreditch recommendation."

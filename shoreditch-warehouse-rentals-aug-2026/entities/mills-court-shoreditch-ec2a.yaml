@@ -1,0 +1,24 @@
+_meta:
+  last_researched: "2026-08-30"
+  sources:
+    - publisher: Zoopla
+      url: "https://www.zoopla.co.uk/to-rent/details/74095723/"
+      retrieved: "2026-08-30"
+address: "Mills Court, EC2A (off Curtain Road, Shoreditch)"
+search_scope: core_shoreditch
+status: active
+listing_added: "2026-08-28"
+available_from: "2026-09-07"
+rent_monthly_gbp: 3500
+rent_weekly_gbp: 808
+bedrooms: 2
+bathrooms: 2
+receptions: 1
+price_per_bedroom_monthly_gbp: 1750
+furnishing: furnished
+deposit_gbp: 4038
+council_tax_band: D
+epc_rating: B
+agent: "Hamptons - City & West End Lettings"
+warehouse_conversion_evidence: "Explicitly marketed as an impressive modern warehouse conversion, with exposed brick, concrete ceilings, and exposed pipes."
+key_features: ["two bathrooms", balcony, lift]

@@ -1,0 +1,24 @@
+_meta:
+  last_researched: "2026-08-30"
+  sources:
+    - publisher: Zoopla / Storeys
+      url: "https://www.zoopla.co.uk/to-rent/details/73922131/"
+      retrieved: "2026-08-30"
+address: "Phipp Street, Shoreditch, EC2A"
+search_scope: core_shoreditch
+status: let_agreed
+listing_added: "2026-08-07"
+available_from: "2026-09-28"
+rent_monthly_gbp: 2400
+bedrooms: 2
+bathrooms: 1
+receptions: 1
+price_per_bedroom_monthly_gbp: 1200
+furnishing: unfurnished
+deposit_gbp: 2769
+council_tax_band: D
+epc_rating: C
+agent: Storeys
+warehouse_conversion_evidence: "The description calls it a warehouse-style apartment and describes it as a quirky warehouse conversion with exposed brickwork and sash windows."
+key_features: ["two equal double bedrooms", balcony, "open-plan living"]
+eligibility_note: "Excluded because the current portal page is labelled Let agreed despite its excellent price per bedroom."
