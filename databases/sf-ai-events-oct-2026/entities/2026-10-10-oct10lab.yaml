@@ -1,0 +1,27 @@
+_meta:
+  last_researched: '2026-09-16'
+  sources:
+  - publisher: Luma (api.lu.ma)
+    url: https://luma.com/oct10lab
+    retrieved: '2026-09-16'
+name: Production Agent Lab - Workshop
+url: https://luma.com/oct10lab
+platform: luma
+start_date: '2026-10-10'
+start_time: '10:00'
+city: San Francisco
+host_calendar: tokens&
+hosts:
+- tokens&
+- Alessandro Amenta
+- Jacopo Piazza
+companies_involved: []
+relevance_category: ai_infra_compute
+priority: strong
+registration_status: waitlist_or_approval
+in_trip_window: true
+description_snippet: The infrastructure behind AI agents is changing quickly. New approaches are emerging
+  faster than most  teams can properly test them, making it hard to distinguish actual durable ideas from
+  the short-lived abstractions.We're doing a hands-on workshop day to shorten the gap between hearing
+  about a new
+note: tokens& production-agent workshop (hands-on, Saturday).

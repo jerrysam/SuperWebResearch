@@ -1,0 +1,26 @@
+_meta:
+  last_researched: '2026-09-16'
+  sources:
+  - publisher: Luma (api.lu.ma)
+    url: https://luma.com/supabase-select-2026
+    retrieved: '2026-09-16'
+name: Supabase Select 2026
+url: https://luma.com/supabase-select-2026
+platform: luma
+start_date: '2026-10-02'
+start_time: 09:00
+city: San Francisco
+host_calendar: Supabase Community Events
+hosts:
+- Supabase
+companies_involved: []
+relevance_category: general_ai
+priority: strong
+registration_status: waitlist_or_approval
+in_trip_window: true
+description_snippet: Supabase Select is a curated conference for builders. Get first-hand information
+  about what's coming soon in Supabase. Learn from some of the industry's most prominent builders. Meet
+  the Supabase team and get your questions answered.Visit select.supabase.com to learn more about speakers
+  and sponsors
+note: Supabase's curated builders conference. Supabase is the default backend of the vibecoding stack
+  (Lovable/v0/Replit apps) - high density of vibecoding-ecosystem people.

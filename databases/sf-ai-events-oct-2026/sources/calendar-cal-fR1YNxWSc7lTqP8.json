@@ -1,0 +1,1171 @@
+{
+ "entries": [
+  {
+   "api_id": "calev-9JwkgVclEm7jQZi",
+   "event": {
+    "api_id": "evt-dFMlvFMBhXTUbmM",
+    "calendar_api_id": "cal-fR1YNxWSc7lTqP8",
+    "cover_url": "https://images.lumacdn.com/uploads/80/0977342a-ec07-429e-93e6-b8aef46e6a8d.png",
+    "end_at": "2026-09-18T01:00:00.000Z",
+    "event_type": "independent",
+    "hide_rsvp": false,
+    "location_type": "twitter",
+    "name": "Grok Bot Galaxy: Livestream",
+    "one_to_one": true,
+    "recurrence_id": null,
+    "show_guest_list": false,
+    "social_image_url": "https://images.lumacdn.com/event-social/ct/32ce60bc-4352-4c82-841d-c7f5a3b2817f.png",
+    "start_at": "2026-09-15T15:30:00.000Z",
+    "timezone": "America/Los_Angeles",
+    "url": "3ifrgttw",
+    "user_api_id": "usr-7a9ZqEak1cGAdBY",
+    "visibility": "public",
+    "virtual_info": {
+     "has_access": false
+    },
+    "geo_address_info": null,
+    "geo_address_visibility": "public",
+    "coordinate": null,
+    "waitlist_enabled": false,
+    "waitlist_status": "disabled"
+   },
+   "cover_image": {
+    "colors": [
+     "#000000",
+     "#ffffff",
+     "#00c972",
+     "#ff309b"
+    ],
+    "palette": {
+     "neutral": [
+      {
+       "color": "#000000",
+       "percentage": 65.1
+      },
+      {
+       "color": "#ffffff",
+       "percentage": 15.47
+      }
+     ],
+     "vibrant": [
+      {
+       "color": "#00c972",
+       "percentage": 7.14
+      },
+      {
+       "color": "#ff309b",
+       "percentage": 2.12
+      },
+      {
+       "color": "#1084fe",
+       "percentage": 5.21
+      },
+      {
+       "color": "#fe9800",
+       "percentage": 3.12
+      }
+     ]
+    }
+   },
+   "calendar": {
+    "access_level": "public",
+    "api_id": "cal-fR1YNxWSc7lTqP8",
+    "avatar_url": "https://images.lumacdn.com/uploads/bi/84325cd8-1e18-46b1-bc5e-b0bdd48c6f4d.png",
+    "coordinate": null,
+    "cover_image_url": null,
+    "description_short": "",
+    "end_date": null,
+    "event_submission_restriction": "open",
+    "google_measurement_id": null,
+    "instagram_handle": null,
+    "is_blocked": false,
+    "is_verified": false,
+    "launch_status": "launched",
+    "linkedin_handle": null,
+    "location": null,
+    "luma_plan": "plus",
+    "luma_plus_active": true,
+    "meta_pixel_id": null,
+    "name": "Grok Bot",
+    "personal_user_api_id": null,
+    "refund_policy": null,
+    "slug": null,
+    "social_image_url": null,
+    "start_date": null,
+    "stripe_account_id": null,
+    "tax_config": null,
+    "tiktok_handle": null,
+    "tint_color": "#1e1e1e",
+    "track_meta_ads_from_luma": false,
+    "twitter_handle": null,
+    "verified_at": "2026-08-25T21:37:19.195Z",
+    "website": null,
+    "youtube_handle": null,
+    "is_personal": false,
+    "personal_user": null,
+    "timezone": null
+   },
+   "start_at": "2026-09-15T15:30:00.000Z",
+   "hosts": [
+    {
+     "api_id": "usr-7a9ZqEak1cGAdBY",
+     "avatar_url": "https://cdn.lu.ma/avatars-default/avatar_6.png",
+     "bio_short": "",
+     "first_name": "SpaceXAI",
+     "last_name": "Events",
+     "instagram_handle": null,
+     "is_verified": false,
+     "linkedin_handle": null,
+     "name": "SpaceXAI Events",
+     "tiktok_handle": null,
+     "timezone": "America/Los_Angeles",
+     "twitter_handle": null,
+     "username": null,
+     "website": null,
+     "youtube_handle": null
+    },
+    {
+     "api_id": "usr-64nirwuBerW0JqW",
+     "avatar_url": "https://cdn.lu.ma/avatars-default/avatar_1.png",
+     "bio_short": null,
+     "first_name": "Sarah",
+     "last_name": "Stevens",
+     "instagram_handle": null,
+     "is_verified": false,
+     "linkedin_handle": null,
+     "name": "Sarah Stevens",
+     "tiktok_handle": null,
+     "timezone": "America/Los_Angeles",
+     "twitter_handle": null,
+     "username": null,
+     "website": null,
+     "youtube_handle": null
+    },
+    {
+     "api_id": "usr-qqG7IytaNbxy80h",
+     "avatar_url": "https://cdn.lu.ma/avatars-default/avatar_12.png",
+     "bio_short": "",
+     "first_name": "Kathryn",
+     "last_name": "Trainor",
+     "instagram_handle": null,
+     "is_verified": false,
+     "linkedin_handle": null,
+     "name": "Kathryn Trainor",
+     "tiktok_handle": null,
+     "timezone": "America/Los_Angeles",
+     "twitter_handle": null,
+     "username": null,
+     "website": null,
+     "youtube_handle": null
+    }
+   ],
+   "guest_count": 0,
+   "ticket_count": 0,
+   "ticket_info": {
+    "price": null,
+    "is_free": true,
+    "max_price": null,
+    "is_sold_out": false,
+    "spots_remaining": null,
+    "is_near_capacity": false,
+    "require_approval": false
+   },
+   "registration_availability": "open",
+   "featured_guests": [],
+   "manager_info": null,
+   "guest_info": null,
+   "host_info": null,
+   "waitlist_active": false,
+   "featured_city": null,
+   "calendar_api_id": "cal-fR1YNxWSc7lTqP8",
+   "is_manager": true,
+   "platform": "luma",
+   "status": "approved",
+   "submitted_by_user_api_id": "usr-7a9ZqEak1cGAdBY",
+   "tags": []
+  },
+  {
+   "api_id": "calev-7Mo6mFDzAr8V4dc",
+   "event": {
+    "api_id": "evt-BdrSnlrAIFKEyBv",
+    "calendar_api_id": "cal-fR1YNxWSc7lTqP8",
+    "cover_url": "https://images.lumacdn.com/uploads/py/8b3b977b-66a8-40b7-9685-93fdf8ae0cf4.png",
+    "end_at": "2026-09-16T17:30:00.000Z",
+    "event_type": "independent",
+    "hide_rsvp": false,
+    "location_type": "offline",
+    "name": "Grok Bot for Sales Engineering",
+    "one_to_one": true,
+    "recurrence_id": null,
+    "show_guest_list": false,
+    "social_image_url": "https://images.lumacdn.com/event-social/cx/7c0a06e8-0fcf-4b5e-bdbe-575f92bc76e4.png",
+    "start_at": "2026-09-16T16:00:00.000Z",
+    "timezone": "America/Los_Angeles",
+    "url": "spacexai-7n4l",
+    "user_api_id": "usr-uFJjVOweivEMqgg",
+    "visibility": "public",
+    "virtual_info": {
+     "has_access": false
+    },
+    "geo_address_info": {
+     "city": "San Francisco",
+     "type": "google",
+     "region": "California",
+     "address": "The Howard SF",
+     "country": "United States",
+     "place_id": "ChIJb8K_lqaBhYARo8f_jOdw_xQ",
+     "localized": null,
+     "city_state": "San Francisco, CA",
+     "description": "",
+     "sublocality": "Yerba Buena",
+     "country_code": "US",
+     "full_address": "The Howard SF, 661 Howard St, San Francisco, CA 94105, USA",
+     "region_short": "CA",
+     "short_address": "661 Howard St, San Francisco",
+     "place_coordinate": {
+      "latitude": 37.7853542,
+      "longitude": -122.3994943
+     },
+     "apple_maps_place_id": "I7E15C956EC172062",
+     "mode": "shown"
+    },
+    "geo_address_visibility": "public",
+    "coordinate": {
+     "longitude": -122.3994943,
+     "latitude": 37.7853542
+    },
+    "waitlist_enabled": true,
+    "waitlist_status": "active"
+   },
+   "cover_image": {
+    "colors": [
+     "#000000",
+     "#ff9800",
+     "#ffffff"
+    ],
+    "palette": {
+     "neutral": [
+      {
+       "color": "#000000",
+       "percentage": 54.56
+      },
+      {
+       "color": "#ffffff",
+       "percentage": 1.59
+      }
+     ],
+     "vibrant": [
+      {
+       "color": "#ff9800",
+       "percentage": 42.17
+      }
+     ]
+    }
+   },
+   "calendar": {
+    "access_level": "public",
+    "api_id": "cal-fR1YNxWSc7lTqP8",
+    "avatar_url": "https://images.lumacdn.com/uploads/bi/84325cd8-1e18-46b1-bc5e-b0bdd48c6f4d.png",
+    "coordinate": null,
+    "cover_image_url": null,
+    "description_short": "",
+    "end_date": null,
+    "event_submission_restriction": "open",
+    "google_measurement_id": null,
+    "instagram_handle": null,
+    "is_blocked": false,
+    "is_verified": false,
+    "launch_status": "launched",
+    "linkedin_handle": null,
+    "location": null,
+    "luma_plan": "plus",
+    "luma_plus_active": true,
+    "meta_pixel_id": null,
+    "name": "Grok Bot",
+    "personal_user_api_id": null,
+    "refund_policy": null,
+    "slug": null,
+    "social_image_url": null,
+    "start_date": null,
+    "stripe_account_id": null,
+    "tax_config": null,
+    "tiktok_handle": null,
+    "tint_color": "#1e1e1e",
+    "track_meta_ads_from_luma": false,
+    "twitter_handle": null,
+    "verified_at": "2026-08-25T21:37:19.195Z",
+    "website": null,
+    "youtube_handle": null,
+    "is_personal": false,
+    "personal_user": null,
+    "timezone": null
+   },
+   "start_at": "2026-09-16T16:00:00.000Z",
+   "hosts": [
+    {
+     "api_id": "usr-uFJjVOweivEMqgg",
+     "avatar_url": "https://images.lumacdn.com/uploads/8t/99a5c108-ee52-4f7e-9243-7cddefa88259.png",
+     "bio_short": "field growth @ SpaceXAI",
+     "first_name": "Jenna",
+     "last_name": "Nanpei",
+     "instagram_handle": "jennananpei",
+     "is_verified": false,
+     "linkedin_handle": "/in/jennananpei",
+     "name": "Jenna Nanpei",
+     "tiktok_handle": null,
+     "timezone": "America/New_York",
+     "twitter_handle": "jennananpei",
+     "username": null,
+     "website": null,
+     "youtube_handle": null
+    },
+    {
+     "api_id": "usr-qqG7IytaNbxy80h",
+     "avatar_url": "https://cdn.lu.ma/avatars-default/avatar_12.png",
+     "bio_short": "",
+     "first_name": "Kathryn",
+     "last_name": "Trainor",
+     "instagram_handle": null,
+     "is_verified": false,
+     "linkedin_handle": null,
+     "name": "Kathryn Trainor",
+     "tiktok_handle": null,
+     "timezone": "America/Los_Angeles",
+     "twitter_handle": null,
+     "username": null,
+     "website": null,
+     "youtube_handle": null
+    }
+   ],
+   "guest_count": 0,
+   "ticket_count": 0,
+   "ticket_info": {
+    "price": null,
+    "is_free": true,
+    "max_price": null,
+    "is_sold_out": true,
+    "spots_remaining": 0,
+    "is_near_capacity": false,
+    "require_approval": true
+   },
+   "registration_availability": "waitlist",
+   "featured_guests": [],
+   "manager_info": null,
+   "guest_info": null,
+   "host_info": null,
+   "waitlist_active": true,
+   "featured_city": null,
+   "calendar_api_id": "cal-fR1YNxWSc7lTqP8",
+   "is_manager": true,
+   "platform": "luma",
+   "status": "approved",
+   "submitted_by_user_api_id": "usr-qqG7IytaNbxy80h",
+   "tags": []
+  },
+  {
+   "api_id": "calev-8Qeg9xqyF68q10z",
+   "event": {
+    "api_id": "evt-15IAi2M7qbbWxuO",
+    "calendar_api_id": "cal-fR1YNxWSc7lTqP8",
+    "cover_url": "https://images.lumacdn.com/uploads/u1/0be4ed2d-a830-4138-be1b-d3d880fefb73.png",
+    "end_at": "2026-09-16T21:00:00.000Z",
+    "event_type": "independent",
+    "hide_rsvp": false,
+    "location_type": "offline",
+    "name": "Grok Bot for Sales",
+    "one_to_one": true,
+    "recurrence_id": null,
+    "show_guest_list": false,
+    "social_image_url": "https://images.lumacdn.com/event-social/x5/c63cc339-8fe3-4a0e-a723-91f4432dc8fd.png",
+    "start_at": "2026-09-16T19:30:00.000Z",
+    "timezone": "America/Los_Angeles",
+    "url": "spacexai-vpud",
+    "user_api_id": "usr-uFJjVOweivEMqgg",
+    "visibility": "public",
+    "virtual_info": {
+     "has_access": false
+    },
+    "geo_address_info": {
+     "city": "San Francisco",
+     "type": "google",
+     "region": "California",
+     "address": "The Howard SF",
+     "country": "United States",
+     "place_id": "ChIJb8K_lqaBhYARo8f_jOdw_xQ",
+     "localized": null,
+     "city_state": "San Francisco, CA",
+     "description": "",
+     "sublocality": "Yerba Buena",
+     "country_code": "US",
+     "full_address": "The Howard SF, 661 Howard St, San Francisco, CA 94105, USA",
+     "region_short": "CA",
+     "short_address": "661 Howard St, San Francisco",
+     "place_coordinate": {
+      "latitude": 37.7853542,
+      "longitude": -122.3994943
+     },
+     "apple_maps_place_id": "I7E15C956EC172062",
+     "mode": "shown"
+    },
+    "geo_address_visibility": "public",
+    "coordinate": {
+     "longitude": -122.3994943,
+     "latitude": 37.7853542
+    },
+    "waitlist_enabled": true,
+    "waitlist_status": "active"
+   },
+   "cover_image": {
+    "colors": [
+     "#000000",
+     "#1084fe",
+     "#ffffff"
+    ],
+    "palette": {
+     "neutral": [
+      {
+       "color": "#000000",
+       "percentage": 52.55
+      },
+      {
+       "color": "#ffffff",
+       "percentage": 1
+      }
+     ],
+     "vibrant": [
+      {
+       "color": "#1084fe",
+       "percentage": 44.76
+      }
+     ]
+    }
+   },
+   "calendar": {
+    "access_level": "public",
+    "api_id": "cal-fR1YNxWSc7lTqP8",
+    "avatar_url": "https://images.lumacdn.com/uploads/bi/84325cd8-1e18-46b1-bc5e-b0bdd48c6f4d.png",
+    "coordinate": null,
+    "cover_image_url": null,
+    "description_short": "",
+    "end_date": null,
+    "event_submission_restriction": "open",
+    "google_measurement_id": null,
+    "instagram_handle": null,
+    "is_blocked": false,
+    "is_verified": false,
+    "launch_status": "launched",
+    "linkedin_handle": null,
+    "location": null,
+    "luma_plan": "plus",
+    "luma_plus_active": true,
+    "meta_pixel_id": null,
+    "name": "Grok Bot",
+    "personal_user_api_id": null,
+    "refund_policy": null,
+    "slug": null,
+    "social_image_url": null,
+    "start_date": null,
+    "stripe_account_id": null,
+    "tax_config": null,
+    "tiktok_handle": null,
+    "tint_color": "#1e1e1e",
+    "track_meta_ads_from_luma": false,
+    "twitter_handle": null,
+    "verified_at": "2026-08-25T21:37:19.195Z",
+    "website": null,
+    "youtube_handle": null,
+    "is_personal": false,
+    "personal_user": null,
+    "timezone": null
+   },
+   "start_at": "2026-09-16T19:30:00.000Z",
+   "hosts": [],
+   "guest_count": 0,
+   "ticket_count": 0,
+   "ticket_info": {
+    "price": null,
+    "is_free": true,
+    "max_price": null,
+    "is_sold_out": true,
+    "spots_remaining": 0,
+    "is_near_capacity": false,
+    "require_approval": true
+   },
+   "registration_availability": "waitlist",
+   "featured_guests": [],
+   "manager_info": null,
+   "guest_info": null,
+   "host_info": null,
+   "waitlist_active": true,
+   "featured_city": null,
+   "calendar_api_id": "cal-fR1YNxWSc7lTqP8",
+   "is_manager": true,
+   "platform": "luma",
+   "status": "approved",
+   "submitted_by_user_api_id": "usr-qqG7IytaNbxy80h",
+   "tags": []
+  },
+  {
+   "api_id": "calev-rOsy9WTffWesGbh",
+   "event": {
+    "api_id": "evt-5VFeim4yJAIpywC",
+    "calendar_api_id": "cal-fR1YNxWSc7lTqP8",
+    "cover_url": "https://images.lumacdn.com/uploads/n4/c1d02aed-0ed9-43dc-89db-efef8377727b.png",
+    "end_at": "2026-09-16T22:30:00.000Z",
+    "event_type": "independent",
+    "hide_rsvp": false,
+    "location_type": "offline",
+    "name": "Grok Bot for SDRs",
+    "one_to_one": true,
+    "recurrence_id": null,
+    "show_guest_list": false,
+    "social_image_url": "https://images.lumacdn.com/event-social/bs/916505cc-f0d9-4381-9f28-ac6b769d78d0.png",
+    "start_at": "2026-09-16T21:30:00.000Z",
+    "timezone": "America/Los_Angeles",
+    "url": "spacexai-dtez",
+    "user_api_id": "usr-uFJjVOweivEMqgg",
+    "visibility": "public",
+    "virtual_info": {
+     "has_access": false
+    },
+    "geo_address_info": {
+     "city": "San Francisco",
+     "type": "google",
+     "region": "California",
+     "address": "The Howard SF",
+     "country": "United States",
+     "place_id": "ChIJb8K_lqaBhYARo8f_jOdw_xQ",
+     "localized": null,
+     "city_state": "San Francisco, CA",
+     "description": "",
+     "sublocality": "Yerba Buena",
+     "country_code": "US",
+     "full_address": "The Howard SF, 661 Howard St, San Francisco, CA 94105, USA",
+     "region_short": "CA",
+     "short_address": "661 Howard St, San Francisco",
+     "place_coordinate": {
+      "latitude": 37.7853542,
+      "longitude": -122.3994943
+     },
+     "apple_maps_place_id": "I7E15C956EC172062",
+     "mode": "shown"
+    },
+    "geo_address_visibility": "public",
+    "coordinate": {
+     "longitude": -122.3994943,
+     "latitude": 37.7853542
+    },
+    "waitlist_enabled": true,
+    "waitlist_status": "active"
+   },
+   "cover_image": {
+    "colors": [
+     "#000000",
+     "#ff6700",
+     "#ffffff"
+    ],
+    "palette": {
+     "neutral": [
+      {
+       "color": "#000000",
+       "percentage": 58.91
+      },
+      {
+       "color": "#ffffff",
+       "percentage": 1.02
+      }
+     ],
+     "vibrant": [
+      {
+       "color": "#ff6700",
+       "percentage": 38.43
+      }
+     ]
+    }
+   },
+   "calendar": {
+    "access_level": "public",
+    "api_id": "cal-fR1YNxWSc7lTqP8",
+    "avatar_url": "https://images.lumacdn.com/uploads/bi/84325cd8-1e18-46b1-bc5e-b0bdd48c6f4d.png",
+    "coordinate": null,
+    "cover_image_url": null,
+    "description_short": "",
+    "end_date": null,
+    "event_submission_restriction": "open",
+    "google_measurement_id": null,
+    "instagram_handle": null,
+    "is_blocked": false,
+    "is_verified": false,
+    "launch_status": "launched",
+    "linkedin_handle": null,
+    "location": null,
+    "luma_plan": "plus",
+    "luma_plus_active": true,
+    "meta_pixel_id": null,
+    "name": "Grok Bot",
+    "personal_user_api_id": null,
+    "refund_policy": null,
+    "slug": null,
+    "social_image_url": null,
+    "start_date": null,
+    "stripe_account_id": null,
+    "tax_config": null,
+    "tiktok_handle": null,
+    "tint_color": "#1e1e1e",
+    "track_meta_ads_from_luma": false,
+    "twitter_handle": null,
+    "verified_at": "2026-08-25T21:37:19.195Z",
+    "website": null,
+    "youtube_handle": null,
+    "is_personal": false,
+    "personal_user": null,
+    "timezone": null
+   },
+   "start_at": "2026-09-16T21:30:00.000Z",
+   "hosts": [
+    {
+     "api_id": "usr-uFJjVOweivEMqgg",
+     "avatar_url": "https://images.lumacdn.com/uploads/8t/99a5c108-ee52-4f7e-9243-7cddefa88259.png",
+     "bio_short": "field growth @ SpaceXAI",
+     "first_name": "Jenna",
+     "last_name": "Nanpei",
+     "instagram_handle": "jennananpei",
+     "is_verified": false,
+     "linkedin_handle": "/in/jennananpei",
+     "name": "Jenna Nanpei",
+     "tiktok_handle": null,
+     "timezone": "America/New_York",
+     "twitter_handle": "jennananpei",
+     "username": null,
+     "website": null,
+     "youtube_handle": null
+    }
+   ],
+   "guest_count": 0,
+   "ticket_count": 0,
+   "ticket_info": {
+    "price": null,
+    "is_free": true,
+    "max_price": null,
+    "is_sold_out": true,
+    "spots_remaining": 0,
+    "is_near_capacity": false,
+    "require_approval": true
+   },
+   "registration_availability": "waitlist",
+   "featured_guests": [],
+   "manager_info": null,
+   "guest_info": null,
+   "host_info": null,
+   "waitlist_active": true,
+   "featured_city": null,
+   "calendar_api_id": "cal-fR1YNxWSc7lTqP8",
+   "is_manager": true,
+   "platform": "luma",
+   "status": "approved",
+   "submitted_by_user_api_id": "usr-qqG7IytaNbxy80h",
+   "tags": []
+  },
+  {
+   "api_id": "calev-TaPgGKJc6tabl2Q",
+   "event": {
+    "api_id": "evt-aobD2TOfIWaU5cC",
+    "calendar_api_id": "cal-fR1YNxWSc7lTqP8",
+    "cover_url": "https://images.lumacdn.com/uploads/s0/6f571d16-742d-4245-8a58-901bbab69c5c.png",
+    "end_at": "2026-09-17T17:30:00.000Z",
+    "event_type": "independent",
+    "hide_rsvp": false,
+    "location_type": "offline",
+    "name": "Grok Bot for Marketing Operations",
+    "one_to_one": true,
+    "recurrence_id": null,
+    "show_guest_list": false,
+    "social_image_url": "https://images.lumacdn.com/event-social/ni/04dff4e3-9cef-4c11-a649-58809f1d6ebd.png",
+    "start_at": "2026-09-17T16:00:00.000Z",
+    "timezone": "America/Los_Angeles",
+    "url": "spacexai-obof",
+    "user_api_id": "usr-uFJjVOweivEMqgg",
+    "visibility": "public",
+    "virtual_info": {
+     "has_access": false
+    },
+    "geo_address_info": {
+     "city": "San Francisco",
+     "type": "google",
+     "region": "California",
+     "address": "The Howard SF",
+     "country": "United States",
+     "place_id": "ChIJb8K_lqaBhYARo8f_jOdw_xQ",
+     "localized": null,
+     "city_state": "San Francisco, CA",
+     "description": "",
+     "sublocality": "Yerba Buena",
+     "country_code": "US",
+     "full_address": "The Howard SF, 661 Howard St, San Francisco, CA 94105, USA",
+     "region_short": "CA",
+     "short_address": "661 Howard St, San Francisco",
+     "place_coordinate": {
+      "latitude": 37.7853542,
+      "longitude": -122.3994943
+     },
+     "apple_maps_place_id": "I7E15C956EC172062",
+     "mode": "shown"
+    },
+    "geo_address_visibility": "public",
+    "coordinate": {
+     "longitude": -122.3994943,
+     "latitude": 37.7853542
+    },
+    "waitlist_enabled": true,
+    "waitlist_status": "enabled"
+   },
+   "cover_image": {
+    "colors": [
+     "#000000",
+     "#ff309b",
+     "#ffffff"
+    ],
+    "palette": {
+     "neutral": [
+      {
+       "color": "#000000",
+       "percentage": 64.97
+      },
+      {
+       "color": "#ffffff",
+       "percentage": 1.55
+      }
+     ],
+     "vibrant": [
+      {
+       "color": "#ff309b",
+       "percentage": 31.55
+      }
+     ]
+    }
+   },
+   "calendar": {
+    "access_level": "public",
+    "api_id": "cal-fR1YNxWSc7lTqP8",
+    "avatar_url": "https://images.lumacdn.com/uploads/bi/84325cd8-1e18-46b1-bc5e-b0bdd48c6f4d.png",
+    "coordinate": null,
+    "cover_image_url": null,
+    "description_short": "",
+    "end_date": null,
+    "event_submission_restriction": "open",
+    "google_measurement_id": null,
+    "instagram_handle": null,
+    "is_blocked": false,
+    "is_verified": false,
+    "launch_status": "launched",
+    "linkedin_handle": null,
+    "location": null,
+    "luma_plan": "plus",
+    "luma_plus_active": true,
+    "meta_pixel_id": null,
+    "name": "Grok Bot",
+    "personal_user_api_id": null,
+    "refund_policy": null,
+    "slug": null,
+    "social_image_url": null,
+    "start_date": null,
+    "stripe_account_id": null,
+    "tax_config": null,
+    "tiktok_handle": null,
+    "tint_color": "#1e1e1e",
+    "track_meta_ads_from_luma": false,
+    "twitter_handle": null,
+    "verified_at": "2026-08-25T21:37:19.195Z",
+    "website": null,
+    "youtube_handle": null,
+    "is_personal": false,
+    "personal_user": null,
+    "timezone": null
+   },
+   "start_at": "2026-09-17T16:00:00.000Z",
+   "hosts": [
+    {
+     "api_id": "usr-uFJjVOweivEMqgg",
+     "avatar_url": "https://images.lumacdn.com/uploads/8t/99a5c108-ee52-4f7e-9243-7cddefa88259.png",
+     "bio_short": "field growth @ SpaceXAI",
+     "first_name": "Jenna",
+     "last_name": "Nanpei",
+     "instagram_handle": "jennananpei",
+     "is_verified": false,
+     "linkedin_handle": "/in/jennananpei",
+     "name": "Jenna Nanpei",
+     "tiktok_handle": null,
+     "timezone": "America/New_York",
+     "twitter_handle": "jennananpei",
+     "username": null,
+     "website": null,
+     "youtube_handle": null
+    }
+   ],
+   "guest_count": 0,
+   "ticket_count": 0,
+   "ticket_info": {
+    "price": null,
+    "is_free": true,
+    "max_price": null,
+    "is_sold_out": false,
+    "spots_remaining": 29,
+    "is_near_capacity": false,
+    "require_approval": true
+   },
+   "registration_availability": "open",
+   "featured_guests": [],
+   "manager_info": null,
+   "guest_info": null,
+   "host_info": null,
+   "waitlist_active": false,
+   "featured_city": null,
+   "calendar_api_id": "cal-fR1YNxWSc7lTqP8",
+   "is_manager": true,
+   "platform": "luma",
+   "status": "approved",
+   "submitted_by_user_api_id": "usr-qqG7IytaNbxy80h",
+   "tags": []
+  },
+  {
+   "api_id": "calev-qd7ERLpur8HbQet",
+   "event": {
+    "api_id": "evt-DRO5sK4VzTUwjhP",
+    "calendar_api_id": "cal-fR1YNxWSc7lTqP8",
+    "cover_url": "https://images.lumacdn.com/uploads/54/9c0ca93f-f628-43ad-b881-31049bea19d1.png",
+    "end_at": "2026-09-17T20:30:00.000Z",
+    "event_type": "independent",
+    "hide_rsvp": false,
+    "location_type": "offline",
+    "name": "Grok Bot for Post-Sales",
+    "one_to_one": true,
+    "recurrence_id": null,
+    "show_guest_list": false,
+    "social_image_url": "https://images.lumacdn.com/event-social/bb/df72367e-b991-4aaf-ae1c-0d4aa367330a.png",
+    "start_at": "2026-09-17T19:30:00.000Z",
+    "timezone": "America/Los_Angeles",
+    "url": "spacexai-kczr",
+    "user_api_id": "usr-uFJjVOweivEMqgg",
+    "visibility": "public",
+    "virtual_info": {
+     "has_access": false
+    },
+    "geo_address_info": {
+     "city": "San Francisco",
+     "type": "google",
+     "region": "California",
+     "address": "The Howard SF",
+     "country": "United States",
+     "place_id": "ChIJb8K_lqaBhYARo8f_jOdw_xQ",
+     "localized": null,
+     "city_state": "San Francisco, CA",
+     "description": "",
+     "sublocality": "Yerba Buena",
+     "country_code": "US",
+     "full_address": "The Howard SF, 661 Howard St, San Francisco, CA 94105, USA",
+     "region_short": "CA",
+     "short_address": "661 Howard St, San Francisco",
+     "place_coordinate": {
+      "latitude": 37.7853542,
+      "longitude": -122.3994943
+     },
+     "apple_maps_place_id": "I7E15C956EC172062",
+     "mode": "shown"
+    },
+    "geo_address_visibility": "public",
+    "coordinate": {
+     "longitude": -122.3994943,
+     "latitude": 37.7853542
+    },
+    "waitlist_enabled": true,
+    "waitlist_status": "enabled"
+   },
+   "cover_image": {
+    "colors": [
+     "#000000",
+     "#00bca6",
+     "#ffffff"
+    ],
+    "palette": {
+     "neutral": [
+      {
+       "color": "#000000",
+       "percentage": 51.75
+      },
+      {
+       "color": "#ffffff",
+       "percentage": 1.28
+      }
+     ],
+     "vibrant": [
+      {
+       "color": "#00bca6",
+       "percentage": 45.23
+      }
+     ]
+    }
+   },
+   "calendar": {
+    "access_level": "public",
+    "api_id": "cal-fR1YNxWSc7lTqP8",
+    "avatar_url": "https://images.lumacdn.com/uploads/bi/84325cd8-1e18-46b1-bc5e-b0bdd48c6f4d.png",
+    "coordinate": null,
+    "cover_image_url": null,
+    "description_short": "",
+    "end_date": null,
+    "event_submission_restriction": "open",
+    "google_measurement_id": null,
+    "instagram_handle": null,
+    "is_blocked": false,
+    "is_verified": false,
+    "launch_status": "launched",
+    "linkedin_handle": null,
+    "location": null,
+    "luma_plan": "plus",
+    "luma_plus_active": true,
+    "meta_pixel_id": null,
+    "name": "Grok Bot",
+    "personal_user_api_id": null,
+    "refund_policy": null,
+    "slug": null,
+    "social_image_url": null,
+    "start_date": null,
+    "stripe_account_id": null,
+    "tax_config": null,
+    "tiktok_handle": null,
+    "tint_color": "#1e1e1e",
+    "track_meta_ads_from_luma": false,
+    "twitter_handle": null,
+    "verified_at": "2026-08-25T21:37:19.195Z",
+    "website": null,
+    "youtube_handle": null,
+    "is_personal": false,
+    "personal_user": null,
+    "timezone": null
+   },
+   "start_at": "2026-09-17T19:30:00.000Z",
+   "hosts": [
+    {
+     "api_id": "usr-uFJjVOweivEMqgg",
+     "avatar_url": "https://images.lumacdn.com/uploads/8t/99a5c108-ee52-4f7e-9243-7cddefa88259.png",
+     "bio_short": "field growth @ SpaceXAI",
+     "first_name": "Jenna",
+     "last_name": "Nanpei",
+     "instagram_handle": "jennananpei",
+     "is_verified": false,
+     "linkedin_handle": "/in/jennananpei",
+     "name": "Jenna Nanpei",
+     "tiktok_handle": null,
+     "timezone": "America/New_York",
+     "twitter_handle": "jennananpei",
+     "username": null,
+     "website": null,
+     "youtube_handle": null
+    }
+   ],
+   "guest_count": 0,
+   "ticket_count": 0,
+   "ticket_info": {
+    "price": null,
+    "is_free": true,
+    "max_price": null,
+    "is_sold_out": false,
+    "spots_remaining": 67,
+    "is_near_capacity": false,
+    "require_approval": true
+   },
+   "registration_availability": "open",
+   "featured_guests": [],
+   "manager_info": null,
+   "guest_info": null,
+   "host_info": null,
+   "waitlist_active": false,
+   "featured_city": null,
+   "calendar_api_id": "cal-fR1YNxWSc7lTqP8",
+   "is_manager": true,
+   "platform": "luma",
+   "status": "approved",
+   "submitted_by_user_api_id": "usr-qqG7IytaNbxy80h",
+   "tags": []
+  },
+  {
+   "api_id": "calev-1CSevH6gYjhWwLI",
+   "event": {
+    "api_id": "evt-fjeWj7TwVnBAbye",
+    "calendar_api_id": "cal-fR1YNxWSc7lTqP8",
+    "cover_url": "https://images.lumacdn.com/uploads/l8/ddcae7da-56df-477f-adc5-dbbc5196a9eb.png",
+    "end_at": "2026-09-17T22:30:00.000Z",
+    "event_type": "independent",
+    "hide_rsvp": false,
+    "location_type": "offline",
+    "name": "Grok Bot for Marketing",
+    "one_to_one": true,
+    "recurrence_id": null,
+    "show_guest_list": false,
+    "social_image_url": "https://images.lumacdn.com/event-social/4p/c9179e0f-4072-400c-8b5e-00e5e31ac0c2.png",
+    "start_at": "2026-09-17T21:30:00.000Z",
+    "timezone": "America/Los_Angeles",
+    "url": "spacexai-1ctm",
+    "user_api_id": "usr-uFJjVOweivEMqgg",
+    "visibility": "public",
+    "virtual_info": {
+     "has_access": false
+    },
+    "geo_address_info": {
+     "city": "San Francisco",
+     "type": "google",
+     "region": "California",
+     "address": "The Howard SF",
+     "country": "United States",
+     "place_id": "ChIJb8K_lqaBhYARo8f_jOdw_xQ",
+     "localized": null,
+     "city_state": "San Francisco, CA",
+     "description": "",
+     "sublocality": "Yerba Buena",
+     "country_code": "US",
+     "full_address": "The Howard SF, 661 Howard St, San Francisco, CA 94105, USA",
+     "region_short": "CA",
+     "short_address": "661 Howard St, San Francisco",
+     "place_coordinate": {
+      "latitude": 37.7853542,
+      "longitude": -122.3994943
+     },
+     "apple_maps_place_id": "I7E15C956EC172062",
+     "mode": "shown"
+    },
+    "geo_address_visibility": "public",
+    "coordinate": {
+     "longitude": -122.3994943,
+     "latitude": 37.7853542
+    },
+    "waitlist_enabled": true,
+    "waitlist_status": "active"
+   },
+   "cover_image": {
+    "colors": [
+     "#000000",
+     "#f2f2f2",
+     "#fe9700"
+    ],
+    "palette": {
+     "neutral": [
+      {
+       "color": "#000000",
+       "percentage": 63.25
+      },
+      {
+       "color": "#f2f2f2",
+       "percentage": 21.27
+      }
+     ],
+     "vibrant": [
+      {
+       "color": "#fe9700",
+       "percentage": 0.64
+      }
+     ]
+    }
+   },
+   "calendar": {
+    "access_level": "public",
+    "api_id": "cal-fR1YNxWSc7lTqP8",
+    "avatar_url": "https://images.lumacdn.com/uploads/bi/84325cd8-1e18-46b1-bc5e-b0bdd48c6f4d.png",
+    "coordinate": null,
+    "cover_image_url": null,
+    "description_short": "",
+    "end_date": null,
+    "event_submission_restriction": "open",
+    "google_measurement_id": null,
+    "instagram_handle": null,
+    "is_blocked": false,
+    "is_verified": false,
+    "launch_status": "launched",
+    "linkedin_handle": null,
+    "location": null,
+    "luma_plan": "plus",
+    "luma_plus_active": true,
+    "meta_pixel_id": null,
+    "name": "Grok Bot",
+    "personal_user_api_id": null,
+    "refund_policy": null,
+    "slug": null,
+    "social_image_url": null,
+    "start_date": null,
+    "stripe_account_id": null,
+    "tax_config": null,
+    "tiktok_handle": null,
+    "tint_color": "#1e1e1e",
+    "track_meta_ads_from_luma": false,
+    "twitter_handle": null,
+    "verified_at": "2026-08-25T21:37:19.195Z",
+    "website": null,
+    "youtube_handle": null,
+    "is_personal": false,
+    "personal_user": null,
+    "timezone": null
+   },
+   "start_at": "2026-09-17T21:30:00.000Z",
+   "hosts": [
+    {
+     "api_id": "usr-uFJjVOweivEMqgg",
+     "avatar_url": "https://images.lumacdn.com/uploads/8t/99a5c108-ee52-4f7e-9243-7cddefa88259.png",
+     "bio_short": "field growth @ SpaceXAI",
+     "first_name": "Jenna",
+     "last_name": "Nanpei",
+     "instagram_handle": "jennananpei",
+     "is_verified": false,
+     "linkedin_handle": "/in/jennananpei",
+     "name": "Jenna Nanpei",
+     "tiktok_handle": null,
+     "timezone": "America/New_York",
+     "twitter_handle": "jennananpei",
+     "username": null,
+     "website": null,
+     "youtube_handle": null
+    },
+    {
+     "api_id": "usr-qqG7IytaNbxy80h",
+     "avatar_url": "https://cdn.lu.ma/avatars-default/avatar_12.png",
+     "bio_short": "",
+     "first_name": "Kathryn",
+     "last_name": "Trainor",
+     "instagram_handle": null,
+     "is_verified": false,
+     "linkedin_handle": null,
+     "name": "Kathryn Trainor",
+     "tiktok_handle": null,
+     "timezone": "America/Los_Angeles",
+     "twitter_handle": null,
+     "username": null,
+     "website": null,
+     "youtube_handle": null
+    }
+   ],
+   "guest_count": 0,
+   "ticket_count": 0,
+   "ticket_info": {
+    "price": null,
+    "is_free": true,
+    "max_price": null,
+    "is_sold_out": true,
+    "spots_remaining": 0,
+    "is_near_capacity": false,
+    "require_approval": true
+   },
+   "registration_availability": "waitlist",
+   "featured_guests": [],
+   "manager_info": null,
+   "guest_info": null,
+   "host_info": null,
+   "waitlist_active": true,
+   "featured_city": null,
+   "calendar_api_id": "cal-fR1YNxWSc7lTqP8",
+   "is_manager": true,
+   "platform": "luma",
+   "status": "approved",
+   "submitted_by_user_api_id": "usr-qqG7IytaNbxy80h",
+   "tags": []
+  }
+ ],
+ "has_more": false
+}

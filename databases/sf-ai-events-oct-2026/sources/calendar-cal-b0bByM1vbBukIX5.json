@@ -1,0 +1,925 @@
+{
+ "entries": [
+  {
+   "api_id": "calev-n3vjdSP0fMYm4O4",
+   "event": {
+    "api_id": "evt-sdtPEJbkpSZkp34",
+    "calendar_api_id": "cal-b0bByM1vbBukIX5",
+    "cover_url": "https://images.lumacdn.com/uploads/bi/21c479a9-ffb9-4366-9c77-03710e8f0195.png",
+    "end_at": "2026-09-24T04:00:00.000Z",
+    "event_type": "independent",
+    "hide_rsvp": false,
+    "location_type": "offline",
+    "name": "AI Nerd Meet Up",
+    "one_to_one": true,
+    "recurrence_id": null,
+    "show_guest_list": true,
+    "social_image_url": "https://images.lumacdn.com/event-social/am/94f0e121-c3dd-4f99-ac2e-b14b4221c85a.png",
+    "start_at": "2026-09-24T01:00:00.000Z",
+    "timezone": "America/Los_Angeles",
+    "url": "pgrz81t0",
+    "user_api_id": "usr-koTFGXILqdJ3wV8",
+    "visibility": "public",
+    "virtual_info": {
+     "has_access": false
+    },
+    "geo_address_info": {
+     "mode": "obfuscated",
+     "city": "San Francisco",
+     "city_state": "San Francisco, CA",
+     "sublocality": "Union Square",
+     "country": "United States",
+     "country_code": "US",
+     "region": "California",
+     "region_short": "CA"
+    },
+    "geo_address_visibility": "guests-only",
+    "coordinate": {
+     "latitude": 37.789994546077885,
+     "longitude": -122.40585684321537
+    },
+    "waitlist_enabled": false,
+    "waitlist_status": "disabled"
+   },
+   "cover_image": {
+    "colors": [
+     "#3835dc",
+     "#ef4b7b",
+     "#b23bcb",
+     "#fcfbfc"
+    ],
+    "palette": {
+     "neutral": [
+      {
+       "color": "#fcfbfc",
+       "percentage": 6.42
+      }
+     ],
+     "vibrant": [
+      {
+       "color": "#3835dc",
+       "percentage": 12.85
+      },
+      {
+       "color": "#ef4b7b",
+       "percentage": 11.75
+      },
+      {
+       "color": "#b23bcb",
+       "percentage": 6.49
+      }
+     ]
+    }
+   },
+   "calendar": {
+    "access_level": "public",
+    "api_id": "cal-b0bByM1vbBukIX5",
+    "avatar_url": "https://images.lumacdn.com/calendars/os/9e5d9ef6-2e93-4601-a657-af3949269f01.png",
+    "coordinate": {
+     "longitude": -122.22814100000001,
+     "latitude": 37.4847955
+    },
+    "cover_image_url": "https://images.lumacdn.com/calendar-cover-images/8j/a61c3f8c-af1e-439b-9ffb-5bbb401f2bc8.png",
+    "description_short": "Find Fireworks-hosted events below. \n\nFireworks is the platform for specialized intelligence, helping companies turn open models into AI they own. Train, tune, and serve models built for your business",
+    "end_date": null,
+    "event_submission_restriction": "open",
+    "google_measurement_id": "G-MK7W8EFCP1",
+    "instagram_handle": null,
+    "is_blocked": false,
+    "is_verified": false,
+    "launch_status": "launched",
+    "linkedin_handle": "/company/fireworks-ai",
+    "location": {
+     "city": "Redwood City",
+     "region": "California",
+     "country": "United States",
+     "place_id": "ChIJ4V7zUzmgj4ARbWqqC5t75Lg",
+     "timezone": "America/Los_Angeles",
+     "country_code": "US"
+    },
+    "luma_plan": "plus",
+    "luma_plus_active": true,
+    "meta_pixel_id": null,
+    "name": "Fireworks",
+    "personal_user_api_id": null,
+    "refund_policy": null,
+    "slug": "fireworksai",
+    "social_image_url": "https://images.lumacdn.com/calendar-cover-images/no/61e32257-b5e7-4555-b252-c3b200dd59da.png",
+    "start_date": null,
+    "stripe_account_id": null,
+    "tax_config": null,
+    "tiktok_handle": null,
+    "tint_color": "#6720ff",
+    "track_meta_ads_from_luma": false,
+    "twitter_handle": "FireworksAI_HQ",
+    "verified_at": "2025-09-17T18:24:53.331Z",
+    "website": "https://fireworks.ai/",
+    "youtube_handle": null,
+    "is_personal": false,
+    "personal_user": null,
+    "timezone": "America/Los_Angeles"
+   },
+   "start_at": "2026-09-24T01:00:00.000Z",
+   "hosts": [
+    {
+     "api_id": "usr-koTFGXILqdJ3wV8",
+     "avatar_url": "https://cdn.lu.ma/avatars-default/avatar_28.png",
+     "bio_short": "",
+     "first_name": "Michaela",
+     "last_name": "Landgraf",
+     "instagram_handle": null,
+     "is_verified": false,
+     "linkedin_handle": "/in/michaela-landgraf",
+     "name": "Michaela Landgraf",
+     "tiktok_handle": null,
+     "timezone": "America/Los_Angeles",
+     "twitter_handle": null,
+     "username": null,
+     "website": null,
+     "youtube_handle": null
+    },
+    {
+     "api_id": "usr-zUeRMIKpLacRw3v",
+     "avatar_url": "https://cdn.lu.ma/avatars-default/avatar_44.png",
+     "bio_short": "",
+     "first_name": "Max",
+     "last_name": "Stein",
+     "instagram_handle": null,
+     "is_verified": false,
+     "linkedin_handle": "/in/steinmax",
+     "name": "Max Stein",
+     "tiktok_handle": null,
+     "timezone": "Europe/Copenhagen",
+     "twitter_handle": "maximilian7539",
+     "username": null,
+     "website": null,
+     "youtube_handle": null
+    }
+   ],
+   "guest_count": 0,
+   "ticket_count": 0,
+   "ticket_info": {
+    "price": null,
+    "is_free": true,
+    "max_price": null,
+    "is_sold_out": false,
+    "spots_remaining": null,
+    "is_near_capacity": false,
+    "require_approval": true
+   },
+   "registration_availability": "open",
+   "featured_guests": [],
+   "manager_info": null,
+   "guest_info": null,
+   "host_info": null,
+   "waitlist_active": false,
+   "featured_city": null,
+   "calendar_api_id": "cal-b0bByM1vbBukIX5",
+   "is_manager": true,
+   "platform": "luma",
+   "status": "approved",
+   "submitted_by_user_api_id": "usr-koTFGXILqdJ3wV8",
+   "tags": []
+  },
+  {
+   "api_id": "calev-rxcweQAZHclvNNv",
+   "event": {
+    "api_id": "evt-31EZYgr5g9XDJkg",
+    "calendar_api_id": "cal-b0bByM1vbBukIX5",
+    "cover_url": "https://images.lumacdn.com/uploads/br/cb228910-748b-40bd-9346-802c8c6a5639.png",
+    "end_at": "2026-09-30T04:00:00.000Z",
+    "event_type": "independent",
+    "hide_rsvp": false,
+    "location_type": "offline",
+    "name": "Fireworks: Code & Cocktails SF",
+    "one_to_one": true,
+    "recurrence_id": null,
+    "show_guest_list": false,
+    "social_image_url": "https://images.lumacdn.com/event-social/jh/b3532549-43d5-44ea-9f6d-03f4c38ca538.png",
+    "start_at": "2026-09-30T01:00:00.000Z",
+    "timezone": "America/Los_Angeles",
+    "url": "270tizh3",
+    "user_api_id": "usr-uyOT7KHwfFp8glD",
+    "visibility": "public",
+    "virtual_info": {
+     "has_access": false
+    },
+    "geo_address_info": {
+     "mode": "obfuscated",
+     "city": "San Francisco",
+     "city_state": "San Francisco, CA",
+     "sublocality": "China Basin",
+     "country": "United States",
+     "country_code": "US",
+     "region": "California",
+     "region_short": "CA"
+    },
+    "geo_address_visibility": "guests-only",
+    "coordinate": {
+     "latitude": 37.778796250748286,
+     "longitude": -122.39022509009878
+    },
+    "waitlist_enabled": true,
+    "waitlist_status": "enabled"
+   },
+   "cover_image": {
+    "colors": [
+     "#2b17f2",
+     "#f01b37",
+     "#c9108e",
+     "#fdfbfd"
+    ],
+    "palette": {
+     "neutral": [
+      {
+       "color": "#fdfbfd",
+       "percentage": 8.53
+      }
+     ],
+     "vibrant": [
+      {
+       "color": "#2b17f2",
+       "percentage": 15.6
+      },
+      {
+       "color": "#f01b37",
+       "percentage": 11.84
+      },
+      {
+       "color": "#860dbc",
+       "percentage": 6.94
+      },
+      {
+       "color": "#c9108e",
+       "percentage": 9.1
+      }
+     ]
+    }
+   },
+   "calendar": {
+    "access_level": "public",
+    "api_id": "cal-b0bByM1vbBukIX5",
+    "avatar_url": "https://images.lumacdn.com/calendars/os/9e5d9ef6-2e93-4601-a657-af3949269f01.png",
+    "coordinate": {
+     "longitude": -122.22814100000001,
+     "latitude": 37.4847955
+    },
+    "cover_image_url": "https://images.lumacdn.com/calendar-cover-images/8j/a61c3f8c-af1e-439b-9ffb-5bbb401f2bc8.png",
+    "description_short": "Find Fireworks-hosted events below. \n\nFireworks is the platform for specialized intelligence, helping companies turn open models into AI they own. Train, tune, and serve models built for your business",
+    "end_date": null,
+    "event_submission_restriction": "open",
+    "google_measurement_id": "G-MK7W8EFCP1",
+    "instagram_handle": null,
+    "is_blocked": false,
+    "is_verified": false,
+    "launch_status": "launched",
+    "linkedin_handle": "/company/fireworks-ai",
+    "location": {
+     "city": "Redwood City",
+     "region": "California",
+     "country": "United States",
+     "place_id": "ChIJ4V7zUzmgj4ARbWqqC5t75Lg",
+     "timezone": "America/Los_Angeles",
+     "country_code": "US"
+    },
+    "luma_plan": "plus",
+    "luma_plus_active": true,
+    "meta_pixel_id": null,
+    "name": "Fireworks",
+    "personal_user_api_id": null,
+    "refund_policy": null,
+    "slug": "fireworksai",
+    "social_image_url": "https://images.lumacdn.com/calendar-cover-images/no/61e32257-b5e7-4555-b252-c3b200dd59da.png",
+    "start_date": null,
+    "stripe_account_id": null,
+    "tax_config": null,
+    "tiktok_handle": null,
+    "tint_color": "#6720ff",
+    "track_meta_ads_from_luma": false,
+    "twitter_handle": "FireworksAI_HQ",
+    "verified_at": "2025-09-17T18:24:53.331Z",
+    "website": "https://fireworks.ai/",
+    "youtube_handle": null,
+    "is_personal": false,
+    "personal_user": null,
+    "timezone": "America/Los_Angeles"
+   },
+   "start_at": "2026-09-30T01:00:00.000Z",
+   "hosts": [
+    {
+     "api_id": "usr-3P2ndidhZeXCrdS",
+     "avatar_url": "https://images.lumacdn.com/uploads/fi/d9b9c366-7fc9-47c7-a30f-e8f6cb99f334.png",
+     "bio_short": null,
+     "first_name": "",
+     "last_name": "",
+     "instagram_handle": null,
+     "is_verified": false,
+     "linkedin_handle": null,
+     "name": "Fireworks",
+     "tiktok_handle": null,
+     "timezone": "America/Los_Angeles",
+     "twitter_handle": null,
+     "username": null,
+     "website": null,
+     "youtube_handle": null
+    }
+   ],
+   "guest_count": 0,
+   "ticket_count": 0,
+   "ticket_info": {
+    "price": null,
+    "is_free": true,
+    "max_price": null,
+    "is_sold_out": false,
+    "spots_remaining": 98,
+    "is_near_capacity": false,
+    "require_approval": true
+   },
+   "registration_availability": "open",
+   "featured_guests": [],
+   "manager_info": null,
+   "guest_info": null,
+   "host_info": null,
+   "waitlist_active": false,
+   "featured_city": null,
+   "calendar_api_id": "cal-b0bByM1vbBukIX5",
+   "is_manager": true,
+   "platform": "luma",
+   "status": "approved",
+   "submitted_by_user_api_id": "usr-uyOT7KHwfFp8glD",
+   "tags": []
+  },
+  {
+   "api_id": "calev-zLW7KnsrFrDShvd",
+   "event": {
+    "api_id": "evt-EX3wr0gJKPL8EAZ",
+    "calendar_api_id": "cal-b0bByM1vbBukIX5",
+    "cover_url": "https://images.lumacdn.com/uploads/76/c3e92f1b-d31e-4862-8df7-99a1dd67dba2.png",
+    "end_at": "2026-09-30T21:00:00.000Z",
+    "event_type": "independent",
+    "hide_rsvp": false,
+    "location_type": "offline",
+    "name": "State-of-The-Art Open Models: An Intimate Dinner",
+    "one_to_one": true,
+    "recurrence_id": null,
+    "show_guest_list": false,
+    "social_image_url": "https://images.lumacdn.com/event-social/y3/5e9af649-e01a-4b3c-8b0e-376bdb6abaf0.png",
+    "start_at": "2026-09-30T18:00:00.000Z",
+    "timezone": "Europe/London",
+    "url": "td9ft93l",
+    "user_api_id": "usr-zUeRMIKpLacRw3v",
+    "visibility": "public",
+    "virtual_info": {
+     "has_access": false
+    },
+    "geo_address_info": {
+     "city": "London",
+     "type": "google",
+     "region": "England",
+     "address": "The Devonshire",
+     "country": "United Kingdom",
+     "place_id": "ChIJsc95TQcFdkgRDgDjFkIJCz8",
+     "localized": {
+      "en-GB": {
+       "city": "London",
+       "region": "England",
+       "address": "The Devonshire",
+       "country": "United Kingdom",
+       "city_state": "London, United Kingdom",
+       "sublocality": null,
+       "full_address": "The Devonshire, 17 Denman St, London W1D 7HW, UK",
+       "region_short": "England",
+       "short_address": "The Devonshire, Malvern House, Piccadilly Centre, 17 Denman St, London"
+      }
+     },
+     "city_state": "London, United Kingdom",
+     "description": "",
+     "sublocality": null,
+     "country_code": "GB",
+     "full_address": "The Devonshire, 17 Denman St, London W1D 7HW, UK",
+     "region_short": "England",
+     "short_address": "The Devonshire, Malvern House, Piccadilly Centre, 17 Denman St, London",
+     "place_coordinate": {
+      "latitude": 51.510627500000005,
+      "longitude": -0.1353358
+     },
+     "apple_maps_place_id": "I1ABE3D93170AE3A3",
+     "mode": "shown"
+    },
+    "geo_address_visibility": "public",
+    "coordinate": {
+     "longitude": -0.1353358,
+     "latitude": 51.510627500000005
+    },
+    "waitlist_enabled": false,
+    "waitlist_status": "disabled"
+   },
+   "cover_image": {
+    "colors": [
+     "#37124b",
+     "#fdfdfe",
+     "#7b2544",
+     "#bfb705"
+    ],
+    "palette": {
+     "neutral": [
+      {
+       "color": "#37124b",
+       "percentage": 25.51
+      },
+      {
+       "color": "#fdfdfe",
+       "percentage": 5.79
+      }
+     ],
+     "vibrant": [
+      {
+       "color": "#bfb705",
+       "percentage": 0.09
+      },
+      {
+       "color": "#7b2544",
+       "percentage": 3.25
+      },
+      {
+       "color": "#373b8b",
+       "percentage": 1.71
+      }
+     ]
+    }
+   },
+   "calendar": {
+    "access_level": "public",
+    "api_id": "cal-b0bByM1vbBukIX5",
+    "avatar_url": "https://images.lumacdn.com/calendars/os/9e5d9ef6-2e93-4601-a657-af3949269f01.png",
+    "coordinate": {
+     "longitude": -122.22814100000001,
+     "latitude": 37.4847955
+    },
+    "cover_image_url": "https://images.lumacdn.com/calendar-cover-images/8j/a61c3f8c-af1e-439b-9ffb-5bbb401f2bc8.png",
+    "description_short": "Find Fireworks-hosted events below. \n\nFireworks is the platform for specialized intelligence, helping companies turn open models into AI they own. Train, tune, and serve models built for your business",
+    "end_date": null,
+    "event_submission_restriction": "open",
+    "google_measurement_id": "G-MK7W8EFCP1",
+    "instagram_handle": null,
+    "is_blocked": false,
+    "is_verified": false,
+    "launch_status": "launched",
+    "linkedin_handle": "/company/fireworks-ai",
+    "location": {
+     "city": "Redwood City",
+     "region": "California",
+     "country": "United States",
+     "place_id": "ChIJ4V7zUzmgj4ARbWqqC5t75Lg",
+     "timezone": "America/Los_Angeles",
+     "country_code": "US"
+    },
+    "luma_plan": "plus",
+    "luma_plus_active": true,
+    "meta_pixel_id": null,
+    "name": "Fireworks",
+    "personal_user_api_id": null,
+    "refund_policy": null,
+    "slug": "fireworksai",
+    "social_image_url": "https://images.lumacdn.com/calendar-cover-images/no/61e32257-b5e7-4555-b252-c3b200dd59da.png",
+    "start_date": null,
+    "stripe_account_id": null,
+    "tax_config": null,
+    "tiktok_handle": null,
+    "tint_color": "#6720ff",
+    "track_meta_ads_from_luma": false,
+    "twitter_handle": "FireworksAI_HQ",
+    "verified_at": "2025-09-17T18:24:53.331Z",
+    "website": "https://fireworks.ai/",
+    "youtube_handle": null,
+    "is_personal": false,
+    "personal_user": null,
+    "timezone": "America/Los_Angeles"
+   },
+   "start_at": "2026-09-30T18:00:00.000Z",
+   "hosts": [
+    {
+     "api_id": "usr-3P2ndidhZeXCrdS",
+     "avatar_url": "https://images.lumacdn.com/uploads/fi/d9b9c366-7fc9-47c7-a30f-e8f6cb99f334.png",
+     "bio_short": null,
+     "first_name": "",
+     "last_name": "",
+     "instagram_handle": null,
+     "is_verified": false,
+     "linkedin_handle": null,
+     "name": "Fireworks",
+     "tiktok_handle": null,
+     "timezone": "America/Los_Angeles",
+     "twitter_handle": null,
+     "username": null,
+     "website": null,
+     "youtube_handle": null
+    }
+   ],
+   "guest_count": 0,
+   "ticket_count": 0,
+   "ticket_info": {
+    "price": null,
+    "is_free": true,
+    "max_price": null,
+    "is_sold_out": false,
+    "spots_remaining": null,
+    "is_near_capacity": false,
+    "require_approval": true
+   },
+   "registration_availability": "open",
+   "featured_guests": [],
+   "manager_info": null,
+   "guest_info": null,
+   "host_info": null,
+   "waitlist_active": false,
+   "featured_city": null,
+   "calendar_api_id": "cal-b0bByM1vbBukIX5",
+   "is_manager": true,
+   "platform": "luma",
+   "status": "approved",
+   "submitted_by_user_api_id": "usr-zUeRMIKpLacRw3v",
+   "tags": []
+  },
+  {
+   "api_id": "calev-ByHSrNNuDg531wu",
+   "event": {
+    "api_id": "evt-M7icCy8tluRzTmC",
+    "calendar_api_id": "cal-b0bByM1vbBukIX5",
+    "cover_url": "https://images.lumacdn.com/uploads/qg/75378c87-c898-403c-b67d-241f13bd6b08.png",
+    "end_at": "2026-10-14T01:00:00.000Z",
+    "event_type": "independent",
+    "hide_rsvp": false,
+    "location_type": "offline",
+    "name": "Fireworks: Code & Cocktails NYC",
+    "one_to_one": true,
+    "recurrence_id": null,
+    "show_guest_list": false,
+    "social_image_url": "https://images.lumacdn.com/event-social/ca/bd5b893f-48dc-49d1-bc9d-1973642419fa.png",
+    "start_at": "2026-10-13T22:00:00.000Z",
+    "timezone": "America/New_York",
+    "url": "gydwrqt6",
+    "user_api_id": "usr-uyOT7KHwfFp8glD",
+    "visibility": "public",
+    "virtual_info": {
+     "has_access": false
+    },
+    "geo_address_info": {
+     "mode": "obfuscated",
+     "city": "New York",
+     "city_state": "New York, NY",
+     "sublocality": "Garment District",
+     "country": "United States",
+     "country_code": "US",
+     "region": "New York",
+     "region_short": "NY"
+    },
+    "geo_address_visibility": "guests-only",
+    "coordinate": {
+     "latitude": 40.75484470980646,
+     "longitude": -73.99273201949201
+    },
+    "waitlist_enabled": true,
+    "waitlist_status": "enabled"
+   },
+   "cover_image": {
+    "colors": [
+     "#ef1347",
+     "#2319f3",
+     "#fdfbfd",
+     "#601d8b"
+    ],
+    "palette": {
+     "neutral": [
+      {
+       "color": "#601d8b",
+       "percentage": 8.12
+      },
+      {
+       "color": "#fdfbfd",
+       "percentage": 8.77
+      }
+     ],
+     "vibrant": [
+      {
+       "color": "#ef1347",
+       "percentage": 17.52
+      },
+      {
+       "color": "#2319f3",
+       "percentage": 13.33
+      },
+      {
+       "color": "#fdaa1c",
+       "percentage": 4.51
+      }
+     ]
+    }
+   },
+   "calendar": {
+    "access_level": "public",
+    "api_id": "cal-b0bByM1vbBukIX5",
+    "avatar_url": "https://images.lumacdn.com/calendars/os/9e5d9ef6-2e93-4601-a657-af3949269f01.png",
+    "coordinate": {
+     "longitude": -122.22814100000001,
+     "latitude": 37.4847955
+    },
+    "cover_image_url": "https://images.lumacdn.com/calendar-cover-images/8j/a61c3f8c-af1e-439b-9ffb-5bbb401f2bc8.png",
+    "description_short": "Find Fireworks-hosted events below. \n\nFireworks is the platform for specialized intelligence, helping companies turn open models into AI they own. Train, tune, and serve models built for your business",
+    "end_date": null,
+    "event_submission_restriction": "open",
+    "google_measurement_id": "G-MK7W8EFCP1",
+    "instagram_handle": null,
+    "is_blocked": false,
+    "is_verified": false,
+    "launch_status": "launched",
+    "linkedin_handle": "/company/fireworks-ai",
+    "location": {
+     "city": "Redwood City",
+     "region": "California",
+     "country": "United States",
+     "place_id": "ChIJ4V7zUzmgj4ARbWqqC5t75Lg",
+     "timezone": "America/Los_Angeles",
+     "country_code": "US"
+    },
+    "luma_plan": "plus",
+    "luma_plus_active": true,
+    "meta_pixel_id": null,
+    "name": "Fireworks",
+    "personal_user_api_id": null,
+    "refund_policy": null,
+    "slug": "fireworksai",
+    "social_image_url": "https://images.lumacdn.com/calendar-cover-images/no/61e32257-b5e7-4555-b252-c3b200dd59da.png",
+    "start_date": null,
+    "stripe_account_id": null,
+    "tax_config": null,
+    "tiktok_handle": null,
+    "tint_color": "#6720ff",
+    "track_meta_ads_from_luma": false,
+    "twitter_handle": "FireworksAI_HQ",
+    "verified_at": "2025-09-17T18:24:53.331Z",
+    "website": "https://fireworks.ai/",
+    "youtube_handle": null,
+    "is_personal": false,
+    "personal_user": null,
+    "timezone": "America/Los_Angeles"
+   },
+   "start_at": "2026-10-13T22:00:00.000Z",
+   "hosts": [
+    {
+     "api_id": "usr-uyOT7KHwfFp8glD",
+     "avatar_url": "https://cdn.lu.ma/avatars-default/avatar_16.png",
+     "bio_short": "",
+     "first_name": "Lindsey",
+     "last_name": "Schaub",
+     "instagram_handle": null,
+     "is_verified": false,
+     "linkedin_handle": null,
+     "name": "Lindsey Schaub",
+     "tiktok_handle": null,
+     "timezone": "Europe/London",
+     "twitter_handle": null,
+     "username": null,
+     "website": null,
+     "youtube_handle": null
+    },
+    {
+     "api_id": "usr-jX7nojukEoXe9W6",
+     "avatar_url": "https://cdn.lu.ma/avatars-default/avatar_38.png",
+     "bio_short": null,
+     "first_name": "Ryan",
+     "last_name": "Crowe",
+     "instagram_handle": null,
+     "is_verified": false,
+     "linkedin_handle": null,
+     "name": "Ryan Crowe",
+     "tiktok_handle": null,
+     "timezone": "America/Chicago",
+     "twitter_handle": null,
+     "username": null,
+     "website": null,
+     "youtube_handle": null
+    },
+    {
+     "api_id": "usr-ELqj79T9Sv7EcEN",
+     "avatar_url": "https://images.lumacdn.com/uploads/lw/14078203-b2f3-4faf-973d-76122b9ad661.jpg",
+     "bio_short": "AI Education @ Fireworks",
+     "first_name": "Sinan",
+     "last_name": "Ozdemir",
+     "instagram_handle": null,
+     "is_verified": false,
+     "linkedin_handle": "/in/sinan-ozdemir",
+     "name": "Sinan Ozdemir",
+     "tiktok_handle": null,
+     "timezone": "America/Los_Angeles",
+     "twitter_handle": "prof_oz",
+     "username": "prof_oz",
+     "website": null,
+     "youtube_handle": null
+    }
+   ],
+   "guest_count": 0,
+   "ticket_count": 0,
+   "ticket_info": {
+    "price": null,
+    "is_free": true,
+    "max_price": null,
+    "is_sold_out": false,
+    "spots_remaining": 98,
+    "is_near_capacity": false,
+    "require_approval": true
+   },
+   "registration_availability": "open",
+   "featured_guests": [],
+   "manager_info": null,
+   "guest_info": null,
+   "host_info": null,
+   "waitlist_active": false,
+   "featured_city": null,
+   "calendar_api_id": "cal-b0bByM1vbBukIX5",
+   "is_manager": true,
+   "platform": "luma",
+   "status": "approved",
+   "submitted_by_user_api_id": "usr-uyOT7KHwfFp8glD",
+   "tags": []
+  },
+  {
+   "api_id": "calev-D6ccIqZxBP5gDPp",
+   "event": {
+    "api_id": "evt-WqC8F3RG5hRjxqo",
+    "calendar_api_id": "cal-b0bByM1vbBukIX5",
+    "cover_url": "https://images.lumacdn.com/gallery-images/rc/5f979993-5700-481b-b6a9-06b50d5385df",
+    "end_at": "2026-12-17T06:00:00.000Z",
+    "event_type": "independent",
+    "hide_rsvp": false,
+    "location_type": "offline",
+    "name": "Dune: Part Three [Pre-release Screening]",
+    "one_to_one": true,
+    "recurrence_id": null,
+    "show_guest_list": false,
+    "social_image_url": "https://images.lumacdn.com/event-social/kt/fb1d0fc2-e7e5-4128-a188-022a916ab7a1.png",
+    "start_at": "2026-12-17T03:00:00.000Z",
+    "timezone": "America/Los_Angeles",
+    "url": "fireworks-imk2",
+    "user_api_id": "usr-koTFGXILqdJ3wV8",
+    "visibility": "public",
+    "virtual_info": {
+     "has_access": false
+    },
+    "geo_address_info": {
+     "mode": "obfuscated",
+     "city": "San Francisco",
+     "city_state": "San Francisco, CA",
+     "sublocality": "Mission District",
+     "country": "United States",
+     "country_code": "US",
+     "region": "California",
+     "region_short": "CA"
+    },
+    "geo_address_visibility": "guests-only",
+    "coordinate": {
+     "latitude": 37.757311745676134,
+     "longitude": -122.42058631324298
+    },
+    "waitlist_enabled": false,
+    "waitlist_status": "disabled"
+   },
+   "cover_image": {
+    "colors": [
+     "#cfb695",
+     "#272524",
+     "#3c3732",
+     "#ae997e"
+    ],
+    "palette": {
+     "neutral": [
+      {
+       "color": "#2c2924",
+       "percentage": 44.03
+      },
+      {
+       "color": "#8a7c69",
+       "percentage": 2.52
+      }
+     ],
+     "vibrant": [
+      {
+       "color": "#cdb597",
+       "percentage": 41.84
+      }
+     ]
+    }
+   },
+   "calendar": {
+    "access_level": "public",
+    "api_id": "cal-b0bByM1vbBukIX5",
+    "avatar_url": "https://images.lumacdn.com/calendars/os/9e5d9ef6-2e93-4601-a657-af3949269f01.png",
+    "coordinate": {
+     "longitude": -122.22814100000001,
+     "latitude": 37.4847955
+    },
+    "cover_image_url": "https://images.lumacdn.com/calendar-cover-images/8j/a61c3f8c-af1e-439b-9ffb-5bbb401f2bc8.png",
+    "description_short": "Find Fireworks-hosted events below. \n\nFireworks is the platform for specialized intelligence, helping companies turn open models into AI they own. Train, tune, and serve models built for your business",
+    "end_date": null,
+    "event_submission_restriction": "open",
+    "google_measurement_id": "G-MK7W8EFCP1",
+    "instagram_handle": null,
+    "is_blocked": false,
+    "is_verified": false,
+    "launch_status": "launched",
+    "linkedin_handle": "/company/fireworks-ai",
+    "location": {
+     "city": "Redwood City",
+     "region": "California",
+     "country": "United States",
+     "place_id": "ChIJ4V7zUzmgj4ARbWqqC5t75Lg",
+     "timezone": "America/Los_Angeles",
+     "country_code": "US"
+    },
+    "luma_plan": "plus",
+    "luma_plus_active": true,
+    "meta_pixel_id": null,
+    "name": "Fireworks",
+    "personal_user_api_id": null,
+    "refund_policy": null,
+    "slug": "fireworksai",
+    "social_image_url": "https://images.lumacdn.com/calendar-cover-images/no/61e32257-b5e7-4555-b252-c3b200dd59da.png",
+    "start_date": null,
+    "stripe_account_id": null,
+    "tax_config": null,
+    "tiktok_handle": null,
+    "tint_color": "#6720ff",
+    "track_meta_ads_from_luma": false,
+    "twitter_handle": "FireworksAI_HQ",
+    "verified_at": "2025-09-17T18:24:53.331Z",
+    "website": "https://fireworks.ai/",
+    "youtube_handle": null,
+    "is_personal": false,
+    "personal_user": null,
+    "timezone": "America/Los_Angeles"
+   },
+   "start_at": "2026-12-17T03:00:00.000Z",
+   "hosts": [
+    {
+     "api_id": "usr-koTFGXILqdJ3wV8",
+     "avatar_url": "https://cdn.lu.ma/avatars-default/avatar_28.png",
+     "bio_short": "",
+     "first_name": "Michaela",
+     "last_name": "Landgraf",
+     "instagram_handle": null,
+     "is_verified": false,
+     "linkedin_handle": "/in/michaela-landgraf",
+     "name": "Michaela Landgraf",
+     "tiktok_handle": null,
+     "timezone": "America/Los_Angeles",
+     "twitter_handle": null,
+     "username": null,
+     "website": null,
+     "youtube_handle": null
+    },
+    {
+     "api_id": "usr-oZPD0rKU5NdZVoJ",
+     "avatar_url": "https://images.lumacdn.com/avatars/ay/305387ee-0556-46ae-8df2-533eaf9cf06a.png",
+     "bio_short": "",
+     "first_name": "Fireworks",
+     "last_name": "AI",
+     "instagram_handle": null,
+     "is_verified": false,
+     "linkedin_handle": "/company/fireworks-ai",
+     "name": "Fireworks AI",
+     "tiktok_handle": null,
+     "timezone": "America/Los_Angeles",
+     "twitter_handle": null,
+     "username": null,
+     "website": "https://fireworks.ai",
+     "youtube_handle": "fireworksai"
+    }
+   ],
+   "guest_count": 0,
+   "ticket_count": 0,
+   "ticket_info": {
+    "price": null,
+    "is_free": true,
+    "max_price": null,
+    "is_sold_out": false,
+    "spots_remaining": 45,
+    "is_near_capacity": false,
+    "require_approval": false
+   },
+   "registration_availability": "open",
+   "featured_guests": [],
+   "manager_info": null,
+   "guest_info": null,
+   "host_info": null,
+   "waitlist_active": false,
+   "featured_city": null,
+   "calendar_api_id": "cal-b0bByM1vbBukIX5",
+   "is_manager": true,
+   "platform": "luma",
+   "status": "approved",
+   "submitted_by_user_api_id": "usr-koTFGXILqdJ3wV8",
+   "tags": []
+  }
+ ],
+ "has_more": false
+}

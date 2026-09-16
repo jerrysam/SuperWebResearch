@@ -1,0 +1,772 @@
+{
+ "entries": [
+  {
+   "api_id": "calev-Me01aU2rCE4elPe",
+   "event": {
+    "api_id": "evt-ZvfhovZ8O2NRst7",
+    "calendar_api_id": "cal-mL2jBT8o1DGayfo",
+    "cover_url": "https://images.lumacdn.com/event-covers/mo/ee298077-fd2b-4071-a164-9ef7d76155b5.jpg",
+    "end_at": "2026-09-16T20:00:00.000Z",
+    "event_type": "independent",
+    "hide_rsvp": false,
+    "location_type": "zoom",
+    "name": "Anthropic Threat Intelligence Report - Sept 2026 : DECODED",
+    "one_to_one": true,
+    "recurrence_id": null,
+    "show_guest_list": false,
+    "social_image_url": "https://images.lumacdn.com/event-social/6x/fdc7a3f0-da50-4d73-a057-a2e4f96f05ff.png",
+    "start_at": "2026-09-16T19:00:00.000Z",
+    "timezone": "America/Los_Angeles",
+    "url": "tejas-g8te",
+    "user_api_id": "usr-wHbCrBXikPCK59Y",
+    "visibility": "public",
+    "virtual_info": {
+     "has_access": false
+    },
+    "geo_address_info": null,
+    "geo_address_visibility": "public",
+    "coordinate": null,
+    "waitlist_enabled": false,
+    "waitlist_status": "disabled"
+   },
+   "cover_image": {
+    "colors": [
+     "#ffffff",
+     "#bf1e2e",
+     "#be5560",
+     "#f5b5bb"
+    ],
+    "palette": {
+     "neutral": [
+      {
+       "color": "#ffffff",
+       "percentage": 87.62
+      }
+     ],
+     "vibrant": [
+      {
+       "color": "#bf1e2e",
+       "percentage": 10.17
+      }
+     ]
+    }
+   },
+   "calendar": {
+    "access_level": "public",
+    "api_id": "cal-mL2jBT8o1DGayfo",
+    "avatar_url": "https://images.lumacdn.com/calendars/91/61ca87fa-abeb-4922-a4de-561efd69813b",
+    "coordinate": null,
+    "cover_image_url": "https://images.lumacdn.com/uploads/m4/45ad1d2d-f384-4c09-9591-508795dba651.png",
+    "description_short": "We are a global, vendor agnostic, OPEN TO ALL, Professional Networking Community based on strict professional standards, dedicated to Cyber Professionals.",
+    "end_date": null,
+    "event_submission_restriction": "open",
+    "google_measurement_id": null,
+    "instagram_handle": "tejascybernetwork",
+    "is_blocked": false,
+    "is_verified": false,
+    "launch_status": "launched",
+    "linkedin_handle": "/company/tejas-cyber-network",
+    "location": null,
+    "luma_plan": "plus",
+    "luma_plus_active": true,
+    "meta_pixel_id": null,
+    "name": "Tejas Cyber Network",
+    "personal_user_api_id": null,
+    "refund_policy": null,
+    "slug": "tejascybernetwork",
+    "social_image_url": "https://images.lumacdn.com/calendar-cover-images/ab/668aee9e-0e2c-4eaf-90bc-098b254aac55",
+    "start_date": null,
+    "stripe_account_id": "acct_1DqnaYJbrAw1JuXI",
+    "tax_config": null,
+    "tiktok_handle": null,
+    "tint_color": "#ED2B32",
+    "track_meta_ads_from_luma": false,
+    "twitter_handle": "tejascybernet",
+    "verified_at": "2024-06-13T01:32:42.570Z",
+    "website": "https://www.tejascybernetwork.com/",
+    "youtube_handle": null,
+    "is_personal": false,
+    "personal_user": null,
+    "timezone": null
+   },
+   "start_at": "2026-09-16T19:00:00.000Z",
+   "hosts": [
+    {
+     "api_id": "usr-wHbCrBXikPCK59Y",
+     "avatar_url": "https://images.lumacdn.com/avatars/4o/d19e93de-d0b6-41e9-9825-c630eef9e018",
+     "bio_short": "We are a global, project oriented, vendor agnostic, OPEN TO ALL, Professional Networking Community for Cyber Professionals",
+     "first_name": "Tejas",
+     "last_name": "Events",
+     "instagram_handle": "tejascybernetwork",
+     "is_verified": false,
+     "linkedin_handle": "/company/tejas-cyber-network",
+     "name": "Tejas Events",
+     "tiktok_handle": null,
+     "timezone": "America/Los_Angeles",
+     "twitter_handle": "tejascybernet",
+     "username": null,
+     "website": "https://www.tejascybernetwork.com/",
+     "youtube_handle": ""
+    }
+   ],
+   "guest_count": 0,
+   "ticket_count": 0,
+   "ticket_info": {
+    "price": null,
+    "is_free": true,
+    "max_price": null,
+    "is_sold_out": false,
+    "spots_remaining": null,
+    "is_near_capacity": false,
+    "require_approval": false
+   },
+   "registration_availability": "open",
+   "featured_guests": [],
+   "manager_info": null,
+   "guest_info": null,
+   "host_info": null,
+   "waitlist_active": false,
+   "featured_city": null,
+   "calendar_api_id": "cal-mL2jBT8o1DGayfo",
+   "is_manager": true,
+   "platform": "luma",
+   "status": "approved",
+   "submitted_by_user_api_id": "usr-wHbCrBXikPCK59Y",
+   "tags": []
+  },
+  {
+   "api_id": "calev-nbkM9GbMGP02JOK",
+   "event": {
+    "api_id": "evt-8S9a2YoDMp1rCBT",
+    "calendar_api_id": "cal-mL2jBT8o1DGayfo",
+    "cover_url": "https://images.lumacdn.com/uploads/i3/ab065524-e635-461a-93b2-1ac850b5f0c5.jpg",
+    "end_at": "2026-09-17T04:00:00.000Z",
+    "event_type": "independent",
+    "hide_rsvp": false,
+    "location_type": "offline",
+    "name": "Cybersecurity at the Frontier: Benchmarking Super-Intelligent LLMs - Talk, Panel & Gourmet Dinner",
+    "one_to_one": true,
+    "recurrence_id": null,
+    "show_guest_list": false,
+    "social_image_url": "https://images.lumacdn.com/event-social/kd/a062e7fc-4103-4241-92c2-5c2cca2e956c.png",
+    "start_at": "2026-09-17T01:00:00.000Z",
+    "timezone": "America/Los_Angeles",
+    "url": "tejas-rf5u",
+    "user_api_id": "usr-wHbCrBXikPCK59Y",
+    "visibility": "public",
+    "virtual_info": {
+     "has_access": false
+    },
+    "geo_address_info": {
+     "mode": "obfuscated",
+     "city": "Palo Alto",
+     "city_state": "Palo Alto, CA",
+     "sublocality": "Evergreen Park",
+     "country": "United States",
+     "country_code": "US",
+     "region": "California",
+     "region_short": "CA"
+    },
+    "geo_address_visibility": "guests-only",
+    "coordinate": {
+     "latitude": 37.425125808476686,
+     "longitude": -122.14676800106456
+    },
+    "waitlist_enabled": true,
+    "waitlist_status": "active"
+   },
+   "cover_image": {
+    "colors": [
+     "#100b0d",
+     "#fbfbf5",
+     "#ad8163",
+     "#e63851"
+    ],
+    "palette": {
+     "neutral": [
+      {
+       "color": "#100b0d",
+       "percentage": 59.18
+      },
+      {
+       "color": "#fbfbf5",
+       "percentage": 1.69
+      }
+     ],
+     "vibrant": [
+      {
+       "color": "#e63851",
+       "percentage": 1
+      },
+      {
+       "color": "#ad8163",
+       "percentage": 1.15
+      }
+     ]
+    }
+   },
+   "calendar": {
+    "access_level": "public",
+    "api_id": "cal-mL2jBT8o1DGayfo",
+    "avatar_url": "https://images.lumacdn.com/calendars/91/61ca87fa-abeb-4922-a4de-561efd69813b",
+    "coordinate": null,
+    "cover_image_url": "https://images.lumacdn.com/uploads/m4/45ad1d2d-f384-4c09-9591-508795dba651.png",
+    "description_short": "We are a global, vendor agnostic, OPEN TO ALL, Professional Networking Community based on strict professional standards, dedicated to Cyber Professionals.",
+    "end_date": null,
+    "event_submission_restriction": "open",
+    "google_measurement_id": null,
+    "instagram_handle": "tejascybernetwork",
+    "is_blocked": false,
+    "is_verified": false,
+    "launch_status": "launched",
+    "linkedin_handle": "/company/tejas-cyber-network",
+    "location": null,
+    "luma_plan": "plus",
+    "luma_plus_active": true,
+    "meta_pixel_id": null,
+    "name": "Tejas Cyber Network",
+    "personal_user_api_id": null,
+    "refund_policy": null,
+    "slug": "tejascybernetwork",
+    "social_image_url": "https://images.lumacdn.com/calendar-cover-images/ab/668aee9e-0e2c-4eaf-90bc-098b254aac55",
+    "start_date": null,
+    "stripe_account_id": "acct_1DqnaYJbrAw1JuXI",
+    "tax_config": null,
+    "tiktok_handle": null,
+    "tint_color": "#ED2B32",
+    "track_meta_ads_from_luma": false,
+    "twitter_handle": "tejascybernet",
+    "verified_at": "2024-06-13T01:32:42.570Z",
+    "website": "https://www.tejascybernetwork.com/",
+    "youtube_handle": null,
+    "is_personal": false,
+    "personal_user": null,
+    "timezone": null
+   },
+   "start_at": "2026-09-17T01:00:00.000Z",
+   "hosts": [
+    {
+     "api_id": "usr-wHbCrBXikPCK59Y",
+     "avatar_url": "https://images.lumacdn.com/avatars/4o/d19e93de-d0b6-41e9-9825-c630eef9e018",
+     "bio_short": "We are a global, project oriented, vendor agnostic, OPEN TO ALL, Professional Networking Community for Cyber Professionals",
+     "first_name": "Tejas",
+     "last_name": "Events",
+     "instagram_handle": "tejascybernetwork",
+     "is_verified": false,
+     "linkedin_handle": "/company/tejas-cyber-network",
+     "name": "Tejas Events",
+     "tiktok_handle": null,
+     "timezone": "America/Los_Angeles",
+     "twitter_handle": "tejascybernet",
+     "username": null,
+     "website": "https://www.tejascybernetwork.com/",
+     "youtube_handle": ""
+    },
+    {
+     "api_id": "usr-AZjesghmfEAw8J8",
+     "avatar_url": "https://cdn.lu.ma/avatars-default/avatar_28.png",
+     "bio_short": null,
+     "first_name": "Nayeem",
+     "last_name": "Islam",
+     "instagram_handle": null,
+     "is_verified": false,
+     "linkedin_handle": "/in/nayeem-islam-phd",
+     "name": "nayeem islam",
+     "tiktok_handle": null,
+     "timezone": "America/Los_Angeles",
+     "twitter_handle": null,
+     "username": null,
+     "website": null,
+     "youtube_handle": null
+    },
+    {
+     "api_id": "usr-UK1F41T7lvDv4JO",
+     "avatar_url": "https://images.lumacdn.com/avatars/c1/9aac6a87-1887-4d40-bb67-49bb9131cf74.jpg",
+     "bio_short": null,
+     "first_name": "Hani",
+     "last_name": "Azzam",
+     "instagram_handle": null,
+     "is_verified": false,
+     "linkedin_handle": "/in/hani-azzam-90b5764b",
+     "name": "Hani Azzam",
+     "tiktok_handle": null,
+     "timezone": "America/New_York",
+     "twitter_handle": null,
+     "username": null,
+     "website": null,
+     "youtube_handle": null
+    },
+    {
+     "api_id": "usr-0HUYm8QVzNE1j96",
+     "avatar_url": "https://cdn.lu.ma/avatars-default/avatar_46.png",
+     "bio_short": "",
+     "first_name": "Zaid",
+     "last_name": "Farekh",
+     "instagram_handle": null,
+     "is_verified": false,
+     "linkedin_handle": null,
+     "name": "Zaid Farekh",
+     "tiktok_handle": null,
+     "timezone": "America/Los_Angeles",
+     "twitter_handle": null,
+     "username": null,
+     "website": null,
+     "youtube_handle": null
+    }
+   ],
+   "guest_count": 0,
+   "ticket_count": 0,
+   "ticket_info": {
+    "price": null,
+    "is_free": true,
+    "max_price": null,
+    "is_sold_out": true,
+    "spots_remaining": 0,
+    "is_near_capacity": false,
+    "require_approval": true
+   },
+   "registration_availability": "waitlist",
+   "featured_guests": [],
+   "manager_info": null,
+   "guest_info": null,
+   "host_info": null,
+   "waitlist_active": true,
+   "featured_city": null,
+   "calendar_api_id": "cal-mL2jBT8o1DGayfo",
+   "is_manager": true,
+   "platform": "luma",
+   "status": "approved",
+   "submitted_by_user_api_id": "usr-wHbCrBXikPCK59Y",
+   "tags": []
+  },
+  {
+   "api_id": "calev-sdZdnDrvx85q9NF",
+   "event": {
+    "api_id": "evt-KC6CIu4f5SeCffQ",
+    "calendar_api_id": "cal-mL2jBT8o1DGayfo",
+    "cover_url": "https://images.lumacdn.com/event-covers/mo/ee298077-fd2b-4071-a164-9ef7d76155b5.jpg",
+    "end_at": "2026-09-18T20:00:00.000Z",
+    "event_type": "independent",
+    "hide_rsvp": false,
+    "location_type": "zoom",
+    "name": "Tejas Project C (Path to CXO): Dressing the Part: Power Dressing and Grooming Fundamentals for the C-Suite",
+    "one_to_one": true,
+    "recurrence_id": null,
+    "show_guest_list": false,
+    "social_image_url": "https://images.lumacdn.com/event-social/8h/1282cca0-72e2-4495-b050-e1b74e349f02.png",
+    "start_at": "2026-09-18T19:00:00.000Z",
+    "timezone": "America/Los_Angeles",
+    "url": "tejas-5nvw",
+    "user_api_id": "usr-wHbCrBXikPCK59Y",
+    "visibility": "public",
+    "virtual_info": {
+     "has_access": false
+    },
+    "geo_address_info": null,
+    "geo_address_visibility": "public",
+    "coordinate": null,
+    "waitlist_enabled": false,
+    "waitlist_status": "disabled"
+   },
+   "cover_image": {
+    "colors": [
+     "#ffffff",
+     "#bf1e2e",
+     "#be5560",
+     "#f5b5bb"
+    ],
+    "palette": {
+     "neutral": [
+      {
+       "color": "#ffffff",
+       "percentage": 87.62
+      }
+     ],
+     "vibrant": [
+      {
+       "color": "#bf1e2e",
+       "percentage": 10.17
+      }
+     ]
+    }
+   },
+   "calendar": {
+    "access_level": "public",
+    "api_id": "cal-mL2jBT8o1DGayfo",
+    "avatar_url": "https://images.lumacdn.com/calendars/91/61ca87fa-abeb-4922-a4de-561efd69813b",
+    "coordinate": null,
+    "cover_image_url": "https://images.lumacdn.com/uploads/m4/45ad1d2d-f384-4c09-9591-508795dba651.png",
+    "description_short": "We are a global, vendor agnostic, OPEN TO ALL, Professional Networking Community based on strict professional standards, dedicated to Cyber Professionals.",
+    "end_date": null,
+    "event_submission_restriction": "open",
+    "google_measurement_id": null,
+    "instagram_handle": "tejascybernetwork",
+    "is_blocked": false,
+    "is_verified": false,
+    "launch_status": "launched",
+    "linkedin_handle": "/company/tejas-cyber-network",
+    "location": null,
+    "luma_plan": "plus",
+    "luma_plus_active": true,
+    "meta_pixel_id": null,
+    "name": "Tejas Cyber Network",
+    "personal_user_api_id": null,
+    "refund_policy": null,
+    "slug": "tejascybernetwork",
+    "social_image_url": "https://images.lumacdn.com/calendar-cover-images/ab/668aee9e-0e2c-4eaf-90bc-098b254aac55",
+    "start_date": null,
+    "stripe_account_id": "acct_1DqnaYJbrAw1JuXI",
+    "tax_config": null,
+    "tiktok_handle": null,
+    "tint_color": "#ED2B32",
+    "track_meta_ads_from_luma": false,
+    "twitter_handle": "tejascybernet",
+    "verified_at": "2024-06-13T01:32:42.570Z",
+    "website": "https://www.tejascybernetwork.com/",
+    "youtube_handle": null,
+    "is_personal": false,
+    "personal_user": null,
+    "timezone": null
+   },
+   "start_at": "2026-09-18T19:00:00.000Z",
+   "hosts": [
+    {
+     "api_id": "usr-wHbCrBXikPCK59Y",
+     "avatar_url": "https://images.lumacdn.com/avatars/4o/d19e93de-d0b6-41e9-9825-c630eef9e018",
+     "bio_short": "We are a global, project oriented, vendor agnostic, OPEN TO ALL, Professional Networking Community for Cyber Professionals",
+     "first_name": "Tejas",
+     "last_name": "Events",
+     "instagram_handle": "tejascybernetwork",
+     "is_verified": false,
+     "linkedin_handle": "/company/tejas-cyber-network",
+     "name": "Tejas Events",
+     "tiktok_handle": null,
+     "timezone": "America/Los_Angeles",
+     "twitter_handle": "tejascybernet",
+     "username": null,
+     "website": "https://www.tejascybernetwork.com/",
+     "youtube_handle": ""
+    }
+   ],
+   "guest_count": 0,
+   "ticket_count": 0,
+   "ticket_info": {
+    "price": null,
+    "is_free": true,
+    "max_price": null,
+    "is_sold_out": false,
+    "spots_remaining": null,
+    "is_near_capacity": false,
+    "require_approval": false
+   },
+   "registration_availability": "open",
+   "featured_guests": [],
+   "manager_info": null,
+   "guest_info": null,
+   "host_info": null,
+   "waitlist_active": false,
+   "featured_city": null,
+   "calendar_api_id": "cal-mL2jBT8o1DGayfo",
+   "is_manager": true,
+   "platform": "luma",
+   "status": "approved",
+   "submitted_by_user_api_id": "usr-wHbCrBXikPCK59Y",
+   "tags": []
+  },
+  {
+   "api_id": "calev-DvHaAPOxEpIrjPD",
+   "event": {
+    "api_id": "evt-ShVksBel883X9nH",
+    "calendar_api_id": "cal-mL2jBT8o1DGayfo",
+    "cover_url": "https://images.lumacdn.com/event-covers/mo/ee298077-fd2b-4071-a164-9ef7d76155b5.jpg",
+    "end_at": "2026-10-25T01:00:00.000Z",
+    "event_type": "independent",
+    "hide_rsvp": false,
+    "location_type": "offline",
+    "name": "Global CISO Summit - Bay Area Edition",
+    "one_to_one": true,
+    "recurrence_id": null,
+    "show_guest_list": false,
+    "social_image_url": "https://images.lumacdn.com/event-social/rn/0b112151-92b0-410f-8573-ed34922fe927.png",
+    "start_at": "2026-10-24T15:00:00.000Z",
+    "timezone": "America/Los_Angeles",
+    "url": "gqhdvdcj",
+    "user_api_id": "usr-wHbCrBXikPCK59Y",
+    "visibility": "public",
+    "virtual_info": {
+     "has_access": false
+    },
+    "geo_address_info": {
+     "city": "Fremont",
+     "type": "google",
+     "region": "California",
+     "address": "Fremont Downtown Event Center",
+     "country": "United States",
+     "place_id": "ChIJTV79ReXBj4ARdQv85gwOsYI",
+     "localized": null,
+     "city_state": "Fremont, California",
+     "description": "",
+     "sublocality": "Central District",
+     "country_code": "US",
+     "full_address": "Fremont Downtown Event Center, 3500 Capitol Ave, Fremont, CA 94538, USA",
+     "short_address": "3500 Capitol Ave, Fremont",
+     "apple_maps_place_id": "I32D5083202A370D5",
+     "mode": "shown"
+    },
+    "geo_address_visibility": "public",
+    "coordinate": {
+     "longitude": -121.98401640000002,
+     "latitude": 37.55027
+    },
+    "waitlist_enabled": true,
+    "waitlist_status": "enabled"
+   },
+   "cover_image": {
+    "colors": [
+     "#ffffff",
+     "#bf1e2e",
+     "#be5560",
+     "#f5b5bb"
+    ],
+    "palette": {
+     "neutral": [
+      {
+       "color": "#ffffff",
+       "percentage": 87.62
+      }
+     ],
+     "vibrant": [
+      {
+       "color": "#bf1e2e",
+       "percentage": 10.17
+      }
+     ]
+    }
+   },
+   "calendar": {
+    "access_level": "public",
+    "api_id": "cal-mL2jBT8o1DGayfo",
+    "avatar_url": "https://images.lumacdn.com/calendars/91/61ca87fa-abeb-4922-a4de-561efd69813b",
+    "coordinate": null,
+    "cover_image_url": "https://images.lumacdn.com/uploads/m4/45ad1d2d-f384-4c09-9591-508795dba651.png",
+    "description_short": "We are a global, vendor agnostic, OPEN TO ALL, Professional Networking Community based on strict professional standards, dedicated to Cyber Professionals.",
+    "end_date": null,
+    "event_submission_restriction": "open",
+    "google_measurement_id": null,
+    "instagram_handle": "tejascybernetwork",
+    "is_blocked": false,
+    "is_verified": false,
+    "launch_status": "launched",
+    "linkedin_handle": "/company/tejas-cyber-network",
+    "location": null,
+    "luma_plan": "plus",
+    "luma_plus_active": true,
+    "meta_pixel_id": null,
+    "name": "Tejas Cyber Network",
+    "personal_user_api_id": null,
+    "refund_policy": null,
+    "slug": "tejascybernetwork",
+    "social_image_url": "https://images.lumacdn.com/calendar-cover-images/ab/668aee9e-0e2c-4eaf-90bc-098b254aac55",
+    "start_date": null,
+    "stripe_account_id": "acct_1DqnaYJbrAw1JuXI",
+    "tax_config": null,
+    "tiktok_handle": null,
+    "tint_color": "#ED2B32",
+    "track_meta_ads_from_luma": false,
+    "twitter_handle": "tejascybernet",
+    "verified_at": "2024-06-13T01:32:42.570Z",
+    "website": "https://www.tejascybernetwork.com/",
+    "youtube_handle": null,
+    "is_personal": false,
+    "personal_user": null,
+    "timezone": null
+   },
+   "start_at": "2026-10-24T15:00:00.000Z",
+   "hosts": [
+    {
+     "api_id": "usr-wHbCrBXikPCK59Y",
+     "avatar_url": "https://images.lumacdn.com/avatars/4o/d19e93de-d0b6-41e9-9825-c630eef9e018",
+     "bio_short": "We are a global, project oriented, vendor agnostic, OPEN TO ALL, Professional Networking Community for Cyber Professionals",
+     "first_name": "Tejas",
+     "last_name": "Events",
+     "instagram_handle": "tejascybernetwork",
+     "is_verified": false,
+     "linkedin_handle": "/company/tejas-cyber-network",
+     "name": "Tejas Events",
+     "tiktok_handle": null,
+     "timezone": "America/Los_Angeles",
+     "twitter_handle": "tejascybernet",
+     "username": null,
+     "website": "https://www.tejascybernetwork.com/",
+     "youtube_handle": ""
+    }
+   ],
+   "guest_count": 0,
+   "ticket_count": 0,
+   "ticket_info": {
+    "price": {
+     "cents": 60000,
+     "currency": "usd",
+     "is_flexible": false
+    },
+    "is_free": false,
+    "max_price": {
+     "cents": 120000,
+     "currency": "usd"
+    },
+    "is_sold_out": false,
+    "spots_remaining": 276,
+    "is_near_capacity": false,
+    "require_approval": true
+   },
+   "registration_availability": "open",
+   "featured_guests": [],
+   "manager_info": null,
+   "guest_info": null,
+   "host_info": null,
+   "waitlist_active": false,
+   "featured_city": null,
+   "calendar_api_id": "cal-mL2jBT8o1DGayfo",
+   "is_manager": true,
+   "platform": "luma",
+   "status": "approved",
+   "submitted_by_user_api_id": "usr-wHbCrBXikPCK59Y",
+   "tags": []
+  },
+  {
+   "api_id": "calev-x0xziDAJokL6VuN",
+   "event": {
+    "api_id": "evt-o4nW1yPtACg5q8l",
+    "calendar_api_id": "cal-mL2jBT8o1DGayfo",
+    "cover_url": "https://images.lumacdn.com/event-covers/mo/ee298077-fd2b-4071-a164-9ef7d76155b5.jpg",
+    "end_at": "2026-11-02T21:00:00.000Z",
+    "event_type": "independent",
+    "hide_rsvp": false,
+    "location_type": "zoom",
+    "name": "Tejas DefendAI : Global AI Security Hackathon (Sept 1st - Sept 8th)",
+    "one_to_one": true,
+    "recurrence_id": null,
+    "show_guest_list": false,
+    "social_image_url": "https://images.lumacdn.com/event-social/p6/87222826-7662-45ef-84e8-1663cbf0e6c7.png",
+    "start_at": "2026-11-02T20:00:00.000Z",
+    "timezone": "America/Los_Angeles",
+    "url": "tejas-5tht",
+    "user_api_id": "usr-wHbCrBXikPCK59Y",
+    "visibility": "public",
+    "virtual_info": {
+     "has_access": false
+    },
+    "geo_address_info": null,
+    "geo_address_visibility": "public",
+    "coordinate": null,
+    "waitlist_enabled": false,
+    "waitlist_status": "disabled"
+   },
+   "cover_image": {
+    "colors": [
+     "#ffffff",
+     "#bf1e2e",
+     "#be5560",
+     "#f5b5bb"
+    ],
+    "palette": {
+     "neutral": [
+      {
+       "color": "#ffffff",
+       "percentage": 87.62
+      }
+     ],
+     "vibrant": [
+      {
+       "color": "#bf1e2e",
+       "percentage": 10.17
+      }
+     ]
+    }
+   },
+   "calendar": {
+    "access_level": "public",
+    "api_id": "cal-mL2jBT8o1DGayfo",
+    "avatar_url": "https://images.lumacdn.com/calendars/91/61ca87fa-abeb-4922-a4de-561efd69813b",
+    "coordinate": null,
+    "cover_image_url": "https://images.lumacdn.com/uploads/m4/45ad1d2d-f384-4c09-9591-508795dba651.png",
+    "description_short": "We are a global, vendor agnostic, OPEN TO ALL, Professional Networking Community based on strict professional standards, dedicated to Cyber Professionals.",
+    "end_date": null,
+    "event_submission_restriction": "open",
+    "google_measurement_id": null,
+    "instagram_handle": "tejascybernetwork",
+    "is_blocked": false,
+    "is_verified": false,
+    "launch_status": "launched",
+    "linkedin_handle": "/company/tejas-cyber-network",
+    "location": null,
+    "luma_plan": "plus",
+    "luma_plus_active": true,
+    "meta_pixel_id": null,
+    "name": "Tejas Cyber Network",
+    "personal_user_api_id": null,
+    "refund_policy": null,
+    "slug": "tejascybernetwork",
+    "social_image_url": "https://images.lumacdn.com/calendar-cover-images/ab/668aee9e-0e2c-4eaf-90bc-098b254aac55",
+    "start_date": null,
+    "stripe_account_id": "acct_1DqnaYJbrAw1JuXI",
+    "tax_config": null,
+    "tiktok_handle": null,
+    "tint_color": "#ED2B32",
+    "track_meta_ads_from_luma": false,
+    "twitter_handle": "tejascybernet",
+    "verified_at": "2024-06-13T01:32:42.570Z",
+    "website": "https://www.tejascybernetwork.com/",
+    "youtube_handle": null,
+    "is_personal": false,
+    "personal_user": null,
+    "timezone": null
+   },
+   "start_at": "2026-11-02T20:00:00.000Z",
+   "hosts": [
+    {
+     "api_id": "usr-wHbCrBXikPCK59Y",
+     "avatar_url": "https://images.lumacdn.com/avatars/4o/d19e93de-d0b6-41e9-9825-c630eef9e018",
+     "bio_short": "We are a global, project oriented, vendor agnostic, OPEN TO ALL, Professional Networking Community for Cyber Professionals",
+     "first_name": "Tejas",
+     "last_name": "Events",
+     "instagram_handle": "tejascybernetwork",
+     "is_verified": false,
+     "linkedin_handle": "/company/tejas-cyber-network",
+     "name": "Tejas Events",
+     "tiktok_handle": null,
+     "timezone": "America/Los_Angeles",
+     "twitter_handle": "tejascybernet",
+     "username": null,
+     "website": "https://www.tejascybernetwork.com/",
+     "youtube_handle": ""
+    }
+   ],
+   "guest_count": 0,
+   "ticket_count": 0,
+   "ticket_info": {
+    "price": null,
+    "is_free": true,
+    "max_price": null,
+    "is_sold_out": false,
+    "spots_remaining": null,
+    "is_near_capacity": false,
+    "require_approval": false
+   },
+   "registration_availability": "open",
+   "featured_guests": [],
+   "manager_info": null,
+   "guest_info": null,
+   "host_info": null,
+   "waitlist_active": false,
+   "featured_city": null,
+   "calendar_api_id": "cal-mL2jBT8o1DGayfo",
+   "is_manager": true,
+   "platform": "luma",
+   "status": "approved",
+   "submitted_by_user_api_id": "usr-wHbCrBXikPCK59Y",
+   "tags": []
+  }
+ ],
+ "has_more": false
+}

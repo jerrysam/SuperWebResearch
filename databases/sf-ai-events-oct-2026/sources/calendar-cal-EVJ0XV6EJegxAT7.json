@@ -1,0 +1,2102 @@
+{
+ "entries": [
+  {
+   "api_id": "calev-0uysPFt6YgpwXEB",
+   "event": {
+    "api_id": "evt-BODB8DkHbfhMQSk",
+    "calendar_api_id": "cal-Vk3s7pmQrc2aTEG",
+    "cover_url": "https://images.lumacdn.com/uploads/qz/a3c736e1-c9f5-47b9-b475-4aa36bd2b434.png",
+    "end_at": "2026-09-24T04:30:00.000Z",
+    "event_type": "independent",
+    "hide_rsvp": false,
+    "location_type": "offline",
+    "name": "Twilio Assemble SF: The Future of Comms + AI",
+    "one_to_one": true,
+    "recurrence_id": null,
+    "show_guest_list": true,
+    "social_image_url": "https://images.lumacdn.com/event-social/71/5e98394c-6c37-4b26-8f36-e075617062f1.png",
+    "start_at": "2026-09-24T00:00:00.000Z",
+    "timezone": "America/Los_Angeles",
+    "url": "kwdnwg1g",
+    "user_api_id": "usr-xE1ELXnEujOBZ8S",
+    "visibility": "public",
+    "virtual_info": {
+     "has_access": false
+    },
+    "geo_address_info": {
+     "city": "San Francisco",
+     "type": "google",
+     "region": "California",
+     "address": "Studio By Tishman Speyer",
+     "country": "United States",
+     "place_id": "ChIJWcMpVmx_j4AR3ojXxFkJlCk",
+     "localized": {
+      "en-GB": {
+       "city": "San Francisco",
+       "region": "California",
+       "address": "Studio By Tishman Speyer",
+       "country": "United States",
+       "city_state": "San Francisco, CA",
+       "sublocality": "Mission Rock",
+       "full_address": "Studio By Tishman Speyer, 365 Toni Stone Xing, San Francisco, CA 94158, USA",
+       "region_short": "CA",
+       "short_address": "365 Toni Stone Xing, San Francisco"
+      }
+     },
+     "city_state": "San Francisco, CA",
+     "description": "",
+     "sublocality": "Mission Rock",
+     "country_code": "US",
+     "full_address": "Studio By Tishman Speyer, 365 Toni Stone Xing, San Francisco, CA 94158, USA",
+     "region_short": "CA",
+     "short_address": "365 Toni Stone Xing, San Francisco",
+     "place_coordinate": {
+      "latitude": 37.775252699999996,
+      "longitude": -122.38855050000001
+     },
+     "apple_maps_place_id": "I1A4A13C5DBB8548D",
+     "mode": "shown"
+    },
+    "geo_address_visibility": "public",
+    "coordinate": {
+     "longitude": -122.38855050000001,
+     "latitude": 37.775252699999996
+    },
+    "waitlist_enabled": true,
+    "waitlist_status": "active"
+   },
+   "cover_image": {
+    "colors": [
+     "#0b3276",
+     "#021537",
+     "#ee223a",
+     "#fbfbfc"
+    ],
+    "palette": {
+     "neutral": [
+      {
+       "color": "#021537",
+       "percentage": 9.32
+      },
+      {
+       "color": "#fbfbfc",
+       "percentage": 1.13
+      }
+     ],
+     "vibrant": [
+      {
+       "color": "#0b3276",
+       "percentage": 18.54
+      },
+      {
+       "color": "#ee223a",
+       "percentage": 5.5
+      }
+     ]
+    }
+   },
+   "calendar": {
+    "access_level": "public",
+    "api_id": "cal-Vk3s7pmQrc2aTEG",
+    "avatar_url": "https://images.lumacdn.com/calendars/iw/5dc8e958-a239-45a3-983f-356b81c73c9f.png",
+    "coordinate": {
+     "longitude": -122.41941550000001,
+     "latitude": 37.7749295
+    },
+    "cover_image_url": "https://images.lumacdn.com/uploads/ua/461d20ca-8cf4-4747-8fc2-cd764264ef47.png",
+    "description_short": "A calendar of meetups in San Francisco and the Bay Area",
+    "end_date": null,
+    "event_submission_restriction": "open",
+    "google_measurement_id": null,
+    "instagram_handle": null,
+    "is_blocked": false,
+    "is_verified": false,
+    "launch_status": "launched",
+    "linkedin_handle": null,
+    "location": {
+     "city": "San Francisco",
+     "region": "California",
+     "country": "United States",
+     "place_id": "ChIJIQBpAG2ahYAR_6128GcTUEo",
+     "timezone": "America/Los_Angeles",
+     "country_code": "US"
+    },
+    "luma_plan": "free",
+    "luma_plus_active": false,
+    "meta_pixel_id": null,
+    "name": "Twilio San Francisco",
+    "personal_user_api_id": null,
+    "refund_policy": null,
+    "slug": "twilio-sf",
+    "social_image_url": null,
+    "start_date": null,
+    "stripe_account_id": null,
+    "tax_config": null,
+    "tiktok_handle": null,
+    "tint_color": "#E1B0ED",
+    "track_meta_ads_from_luma": false,
+    "twitter_handle": null,
+    "verified_at": "2026-09-09T23:02:43.676Z",
+    "website": null,
+    "youtube_handle": null,
+    "is_personal": false,
+    "personal_user": null,
+    "timezone": "America/Los_Angeles"
+   },
+   "start_at": "2026-09-24T00:00:00.000Z",
+   "hosts": [
+    {
+     "api_id": "usr-xE1ELXnEujOBZ8S",
+     "avatar_url": "https://images.lumacdn.com/avatars/1p/22948f96-c483-4cca-9de6-53b8d7c70b2f.png",
+     "bio_short": "",
+     "first_name": "",
+     "last_name": "",
+     "instagram_handle": null,
+     "is_verified": false,
+     "linkedin_handle": "/company/twilio-inc-",
+     "name": "Twilio",
+     "tiktok_handle": null,
+     "timezone": "Europe/London",
+     "twitter_handle": "twilio",
+     "username": "twilio",
+     "website": "https://www.twilio.com/",
+     "youtube_handle": "TwilioDevs"
+    }
+   ],
+   "guest_count": 157,
+   "ticket_count": 157,
+   "ticket_info": {
+    "price": null,
+    "is_free": true,
+    "max_price": null,
+    "is_sold_out": false,
+    "spots_remaining": 143,
+    "is_near_capacity": false,
+    "require_approval": false
+   },
+   "registration_availability": "open",
+   "featured_guests": [
+    {
+     "api_id": "usr-4MgO6H8d5QqyN7O",
+     "avatar_url": "https://images.lumacdn.com/uploads/1u/32d4d8a0-58b6-4317-8776-9bb96d20b3ec.jpg",
+     "bio_short": "CEO/ Founder of OnlyBrains",
+     "first_name": "Lily",
+     "last_name": "Tinari",
+     "instagram_handle": null,
+     "is_verified": false,
+     "linkedin_handle": "/in/lily-tinari-41820924b",
+     "name": "Lily Tinari",
+     "tiktok_handle": null,
+     "timezone": "America/New_York",
+     "twitter_handle": null,
+     "username": null,
+     "website": "https://onlybrains.ai",
+     "youtube_handle": null
+    },
+    {
+     "api_id": "usr-5ZNtOxAt0e2d4LW",
+     "avatar_url": "https://images.lumacdn.com/avatars/f7/50439234-4510-4775-afe8-6695d0684861",
+     "bio_short": "Software engineer from San Francisco",
+     "first_name": "Anton",
+     "last_name": "Dziatkovskii",
+     "instagram_handle": "Tony_Stef_",
+     "is_verified": false,
+     "linkedin_handle": "/in/anton-dzyatkovskiy",
+     "name": "Tony0x.eth",
+     "tiktok_handle": null,
+     "timezone": "Europe/Berlin",
+     "twitter_handle": "Tony_Stef_",
+     "username": "TonyDzi",
+     "website": "https://x.com/Tony_Stef_",
+     "youtube_handle": null
+    },
+    {
+     "api_id": "usr-jvExMB2dfaGOdVk",
+     "avatar_url": "https://images.lumacdn.com/avatars/n4/4c1f67bb-809f-48d1-92e9-889f50a439d8.jpg",
+     "bio_short": "Forward Deployed Engineer @ Robynn AI",
+     "first_name": "Silvana",
+     "last_name": "Moiceanu",
+     "instagram_handle": null,
+     "is_verified": false,
+     "linkedin_handle": "/in/silvana-moiceanu",
+     "name": "Silvana Moiceanu",
+     "tiktok_handle": null,
+     "timezone": "America/Los_Angeles",
+     "twitter_handle": "silverpiranha",
+     "username": null,
+     "website": "https://silvanamoiceanu.github.io/",
+     "youtube_handle": null
+    },
+    {
+     "api_id": "usr-XpRD42j7KruN6Z6",
+     "avatar_url": "https://images.lumacdn.com/uploads/4d/841a7dc1-9908-4dea-a895-272b92a5e63a.jpg",
+     "bio_short": "simple affordances in complex environments",
+     "first_name": "Malachi",
+     "last_name": "Mabie",
+     "instagram_handle": "mlmabie",
+     "is_verified": false,
+     "linkedin_handle": "/in/mlmabie",
+     "name": "Malachi Mabie",
+     "tiktok_handle": null,
+     "timezone": "America/Los_Angeles",
+     "twitter_handle": "init_malachi",
+     "username": null,
+     "website": "https://malachimabie.com",
+     "youtube_handle": null
+    },
+    {
+     "api_id": "usr-kq247xhTNNVFjFP",
+     "avatar_url": "https://images.lumacdn.com/avatars/yc/545a1a05-398f-4d2d-8fb4-5a762b9bfeb0.png",
+     "bio_short": null,
+     "first_name": "Sandeep",
+     "last_name": "Brahmarouthu",
+     "instagram_handle": null,
+     "is_verified": false,
+     "linkedin_handle": "/in/sandeepbrahmarouthu",
+     "name": "Sandeep",
+     "tiktok_handle": null,
+     "timezone": "America/Los_Angeles",
+     "twitter_handle": null,
+     "username": null,
+     "website": null,
+     "youtube_handle": null
+    },
+    {
+     "api_id": "usr-TdjJCUZoCVg0HcQ",
+     "avatar_url": "https://images.lumacdn.com/uploads/yc/3d453a34-c9f2-46b9-9de9-98163a88b3a0.jpg",
+     "bio_short": "Founder, CEO of Renidy.com",
+     "first_name": "Crystal",
+     "last_name": "Bai",
+     "instagram_handle": "heyycrystal",
+     "is_verified": false,
+     "linkedin_handle": "/in/crystal-bai-699652a9",
+     "name": "Crystal Bai",
+     "tiktok_handle": null,
+     "timezone": "America/Los_Angeles",
+     "twitter_handle": "crystalbai_",
+     "username": null,
+     "website": null,
+     "youtube_handle": null
+    },
+    {
+     "api_id": "usr-d8zAbE6n3sM8w30",
+     "avatar_url": "https://images.lumacdn.com/avatars/ct/93ab9c99-9570-42b8-943e-8e570e2c8179.jpg",
+     "bio_short": "Life Long Learner.\nExcited About Something New.",
+     "first_name": "Oliver",
+     "last_name": "Gardiner",
+     "instagram_handle": "www.linkedin.com",
+     "is_verified": false,
+     "linkedin_handle": "/in/olivermgardiner",
+     "name": "Oliver Gardiner",
+     "tiktok_handle": null,
+     "timezone": "America/Los_Angeles",
+     "twitter_handle": "olivermgardiner",
+     "username": "OliverMGardiner",
+     "website": null,
+     "youtube_handle": null
+    },
+    {
+     "api_id": "usr-87DHZBGppbRwx3D",
+     "avatar_url": "https://images.lumacdn.com/avatars/8n/5cd00a83-0a2b-4260-ace6-cedaeeaf8dce",
+     "bio_short": "",
+     "first_name": "Brad",
+     "last_name": "Dressler",
+     "instagram_handle": null,
+     "is_verified": false,
+     "linkedin_handle": "/in/braddressler",
+     "name": "Brad Dressler",
+     "tiktok_handle": null,
+     "timezone": "America/Los_Angeles",
+     "twitter_handle": "techmarketingsf",
+     "username": "braddressler",
+     "website": "https://introstars.com",
+     "youtube_handle": null
+    },
+    {
+     "api_id": "usr-W5CHfw84fwNRIUN",
+     "avatar_url": "https://images.lumacdn.com/avatars/nq/a04f3bc9-a6e9-4674-855f-20b450ece526.jpg",
+     "bio_short": "builder \u26a1\ufe0f researcher",
+     "first_name": "matt",
+     "last_name": "shams",
+     "instagram_handle": "matt_lens",
+     "is_verified": false,
+     "linkedin_handle": "/in/mattshams",
+     "name": "matt",
+     "tiktok_handle": null,
+     "timezone": "America/Los_Angeles",
+     "twitter_handle": "daoboymatt",
+     "username": "matts11",
+     "website": "https://mattshams.com",
+     "youtube_handle": null
+    },
+    {
+     "api_id": "usr-ftJmtqVnofsyEEX",
+     "avatar_url": "https://images.lumacdn.com/uploads/6c/00cccbaf-7497-438b-8106-530e337e465b.jpg",
+     "bio_short": "",
+     "first_name": "Simon",
+     "last_name": "Shu",
+     "instagram_handle": "simon_shuu",
+     "is_verified": false,
+     "linkedin_handle": "/in/yuchengshu",
+     "name": "Simon Shu",
+     "tiktok_handle": null,
+     "timezone": "Australia/Sydney",
+     "twitter_handle": "simonlivva",
+     "username": null,
+     "website": null,
+     "youtube_handle": null
+    }
+   ],
+   "manager_info": null,
+   "guest_info": null,
+   "host_info": null,
+   "waitlist_active": false,
+   "featured_city": null,
+   "calendar_api_id": "cal-EVJ0XV6EJegxAT7",
+   "is_manager": false,
+   "platform": "luma",
+   "status": "approved",
+   "submitted_by_user_api_id": "usr-5S9DUTZMpZCOqwz",
+   "tags": []
+  },
+  {
+   "api_id": "calev-NrWC5LksDVjPMmD",
+   "event": {
+    "api_id": "evt-bSHlHyFbLpWkxET",
+    "calendar_api_id": "cal-EVJ0XV6EJegxAT7",
+    "cover_url": "https://images.lumacdn.com/uploads/c4/3302bfe8-ef61-4176-9611-097e0e6098d3.png",
+    "end_at": "2026-09-26T02:30:00.000Z",
+    "event_type": "independent",
+    "hide_rsvp": false,
+    "location_type": "offline",
+    "name": "Long Horizon Agents Hackathon",
+    "one_to_one": true,
+    "recurrence_id": null,
+    "show_guest_list": false,
+    "social_image_url": "https://images.lumacdn.com/event-social/f7/146abaeb-e1a8-4e24-9f2e-6b0e205315cb.png",
+    "start_at": "2026-09-25T16:30:00.000Z",
+    "timezone": "America/Los_Angeles",
+    "url": "horizonagentshack",
+    "user_api_id": "usr-5S9DUTZMpZCOqwz",
+    "visibility": "public",
+    "virtual_info": {
+     "has_access": false
+    },
+    "geo_address_info": {
+     "mode": "obfuscated",
+     "city": "San Francisco",
+     "city_state": "San Francisco, CA",
+     "sublocality": "Financial District",
+     "country": "United States",
+     "country_code": "US",
+     "region": "California",
+     "region_short": "CA"
+    },
+    "geo_address_visibility": "guests-only",
+    "coordinate": {
+     "latitude": 37.789798774682275,
+     "longitude": -122.40101172037976
+    },
+    "waitlist_enabled": true,
+    "waitlist_status": "enabled"
+   },
+   "cover_image": {
+    "colors": [
+     "#313deb",
+     "#f9f9fc"
+    ],
+    "palette": {
+     "neutral": [
+      {
+       "color": "#f9f9fc",
+       "percentage": 49.18
+      }
+     ],
+     "vibrant": [
+      {
+       "color": "#313deb",
+       "percentage": 49.43
+      }
+     ]
+    }
+   },
+   "calendar": {
+    "access_level": "public",
+    "api_id": "cal-EVJ0XV6EJegxAT7",
+    "avatar_url": "https://images.lumacdn.com/uploads/m4/37decd4d-61bf-4881-b5cc-a5dd6b98da9d.png",
+    "coordinate": null,
+    "cover_image_url": "https://images.lumacdn.com/uploads/y6/e7a790ce-6f4a-4f41-ae04-a17863574f75.jpg",
+    "description_short": "The AI community building the future of intelligence.",
+    "end_date": null,
+    "event_submission_restriction": "open",
+    "google_measurement_id": null,
+    "instagram_handle": null,
+    "is_blocked": false,
+    "is_verified": false,
+    "launch_status": "launched",
+    "linkedin_handle": "/company/tokensand",
+    "location": null,
+    "luma_plan": "plus",
+    "luma_plus_active": true,
+    "meta_pixel_id": null,
+    "name": "tokens&",
+    "personal_user_api_id": null,
+    "refund_policy": null,
+    "slug": "tokensand",
+    "social_image_url": "https://images.unsplash.com/photo-1560439514-4e9645039924?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjQyMjF8MHwxfHNlYXJjaHw0fHxuZXR3b3JraW5nfGVufDB8fHx8MTc3NDIzMTg2NHwy&ixlib=rb-4.1.0&q=80&w=1080",
+    "start_date": null,
+    "stripe_account_id": null,
+    "tax_config": null,
+    "tiktok_handle": null,
+    "tint_color": "#437ba8",
+    "track_meta_ads_from_luma": false,
+    "twitter_handle": "tokensandai",
+    "verified_at": "2025-01-26T19:51:13.969Z",
+    "website": "https://tokensand.ai/",
+    "youtube_handle": null,
+    "is_personal": false,
+    "personal_user": null,
+    "timezone": null
+   },
+   "start_at": "2026-09-25T16:30:00.000Z",
+   "hosts": [
+    {
+     "api_id": "usr-WXF92ECtDkKDR6f",
+     "avatar_url": "https://images.lumacdn.com/uploads/sv/a77e45a7-3abe-4814-a2f3-9ee218ceb6ef.png",
+     "bio_short": "",
+     "first_name": "Team",
+     "last_name": "tokens&",
+     "instagram_handle": null,
+     "is_verified": false,
+     "linkedin_handle": null,
+     "name": "tokens&",
+     "tiktok_handle": null,
+     "timezone": "Asia/Karachi",
+     "twitter_handle": "tokensandai",
+     "username": "tokensand",
+     "website": null,
+     "youtube_handle": null
+    },
+    {
+     "api_id": "usr-qSsdgMpbRnNqoVG",
+     "avatar_url": "https://images.lumacdn.com/avatars/37/fe506b5f-8778-4065-aaa0-4743f36f427e",
+     "bio_short": "",
+     "first_name": "Alessandro",
+     "last_name": "Amenta",
+     "instagram_handle": null,
+     "is_verified": false,
+     "linkedin_handle": "/in/alessandro-amenta",
+     "name": "Alessandro Amenta",
+     "tiktok_handle": null,
+     "timezone": "Europe/Amsterdam",
+     "twitter_handle": "ale_amenta",
+     "username": null,
+     "website": null,
+     "youtube_handle": ""
+    },
+    {
+     "api_id": "usr-Jk6OAeS5XqwgoR3",
+     "avatar_url": "https://images.lumacdn.com/avatars/lk/0de48fd1-dd17-4097-8426-296442ca32c9.jpg",
+     "bio_short": null,
+     "first_name": "Jacopo",
+     "last_name": "Piazza",
+     "instagram_handle": null,
+     "is_verified": false,
+     "linkedin_handle": "/in/None",
+     "name": "Jacopo Piazza",
+     "tiktok_handle": null,
+     "timezone": "Europe/Amsterdam",
+     "twitter_handle": null,
+     "username": null,
+     "website": null,
+     "youtube_handle": null
+    }
+   ],
+   "guest_count": 0,
+   "ticket_count": 0,
+   "ticket_info": {
+    "price": null,
+    "is_free": true,
+    "max_price": null,
+    "is_sold_out": false,
+    "spots_remaining": 1901,
+    "is_near_capacity": false,
+    "require_approval": true
+   },
+   "registration_availability": "open",
+   "featured_guests": [],
+   "manager_info": null,
+   "guest_info": null,
+   "host_info": null,
+   "waitlist_active": false,
+   "featured_city": null,
+   "calendar_api_id": "cal-EVJ0XV6EJegxAT7",
+   "is_manager": true,
+   "platform": "luma",
+   "status": "approved",
+   "submitted_by_user_api_id": "usr-5S9DUTZMpZCOqwz",
+   "tags": [
+    {
+     "api_id": "tag-VkTS3gOtF0WtPow",
+     "name": "AI",
+     "color": "cranberry"
+    },
+    {
+     "api_id": "tag-4LhCZSEuob542sV",
+     "name": "hackathon",
+     "color": "orange"
+    }
+   ]
+  },
+  {
+   "api_id": "calev-YJJY1NVv5xSK5Px",
+   "event": {
+    "api_id": "evt-dtAW0YAfmX4QXlg",
+    "calendar_api_id": "cal-EVJ0XV6EJegxAT7",
+    "cover_url": "https://images.lumacdn.com/uploads/zz/83f5b88b-730e-4089-a567-251727cd4da0.png",
+    "end_at": "2026-10-03T01:30:00.000Z",
+    "event_type": "independent",
+    "hide_rsvp": false,
+    "location_type": "offline",
+    "name": "Real-Time Video Agents Hack - SF",
+    "one_to_one": true,
+    "recurrence_id": null,
+    "show_guest_list": false,
+    "social_image_url": "https://images.lumacdn.com/event-social/ly/e36d682e-e33b-43d2-a1a5-f56b16c2e627.png",
+    "start_at": "2026-10-02T15:30:00.000Z",
+    "timezone": "America/Los_Angeles",
+    "url": "vastsf",
+    "user_api_id": "usr-mafWVewQqmgL7nd",
+    "visibility": "public",
+    "virtual_info": {
+     "has_access": false
+    },
+    "geo_address_info": {
+     "mode": "obfuscated",
+     "city": "San Francisco",
+     "city_state": "San Francisco, CA",
+     "sublocality": "Financial District",
+     "country": "United States",
+     "country_code": "US",
+     "region": "California",
+     "region_short": "CA"
+    },
+    "geo_address_visibility": "guests-only",
+    "coordinate": {
+     "latitude": 37.79042024754553,
+     "longitude": -122.40096301228989
+    },
+    "waitlist_enabled": false,
+    "waitlist_status": "disabled"
+   },
+   "cover_image": {
+    "colors": [
+     "#020c22",
+     "#faf7f7",
+     "#66324a",
+     "#a6445e"
+    ],
+    "palette": {
+     "neutral": [
+      {
+       "color": "#020c22",
+       "percentage": 23.14
+      },
+      {
+       "color": "#faf7f7",
+       "percentage": 10.43
+      }
+     ],
+     "vibrant": [
+      {
+       "color": "#a6445e",
+       "percentage": 7.28
+      },
+      {
+       "color": "#66324a",
+       "percentage": 9.21
+      }
+     ]
+    }
+   },
+   "calendar": {
+    "access_level": "public",
+    "api_id": "cal-EVJ0XV6EJegxAT7",
+    "avatar_url": "https://images.lumacdn.com/uploads/m4/37decd4d-61bf-4881-b5cc-a5dd6b98da9d.png",
+    "coordinate": null,
+    "cover_image_url": "https://images.lumacdn.com/uploads/y6/e7a790ce-6f4a-4f41-ae04-a17863574f75.jpg",
+    "description_short": "The AI community building the future of intelligence.",
+    "end_date": null,
+    "event_submission_restriction": "open",
+    "google_measurement_id": null,
+    "instagram_handle": null,
+    "is_blocked": false,
+    "is_verified": false,
+    "launch_status": "launched",
+    "linkedin_handle": "/company/tokensand",
+    "location": null,
+    "luma_plan": "plus",
+    "luma_plus_active": true,
+    "meta_pixel_id": null,
+    "name": "tokens&",
+    "personal_user_api_id": null,
+    "refund_policy": null,
+    "slug": "tokensand",
+    "social_image_url": "https://images.unsplash.com/photo-1560439514-4e9645039924?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjQyMjF8MHwxfHNlYXJjaHw0fHxuZXR3b3JraW5nfGVufDB8fHx8MTc3NDIzMTg2NHwy&ixlib=rb-4.1.0&q=80&w=1080",
+    "start_date": null,
+    "stripe_account_id": null,
+    "tax_config": null,
+    "tiktok_handle": null,
+    "tint_color": "#437ba8",
+    "track_meta_ads_from_luma": false,
+    "twitter_handle": "tokensandai",
+    "verified_at": "2025-01-26T19:51:13.969Z",
+    "website": "https://tokensand.ai/",
+    "youtube_handle": null,
+    "is_personal": false,
+    "personal_user": null,
+    "timezone": null
+   },
+   "start_at": "2026-10-02T15:30:00.000Z",
+   "hosts": [
+    {
+     "api_id": "usr-WXF92ECtDkKDR6f",
+     "avatar_url": "https://images.lumacdn.com/uploads/sv/a77e45a7-3abe-4814-a2f3-9ee218ceb6ef.png",
+     "bio_short": "",
+     "first_name": "Team",
+     "last_name": "tokens&",
+     "instagram_handle": null,
+     "is_verified": false,
+     "linkedin_handle": null,
+     "name": "tokens&",
+     "tiktok_handle": null,
+     "timezone": "Asia/Karachi",
+     "twitter_handle": "tokensandai",
+     "username": "tokensand",
+     "website": null,
+     "youtube_handle": null
+    },
+    {
+     "api_id": "usr-qSsdgMpbRnNqoVG",
+     "avatar_url": "https://images.lumacdn.com/avatars/37/fe506b5f-8778-4065-aaa0-4743f36f427e",
+     "bio_short": "",
+     "first_name": "Alessandro",
+     "last_name": "Amenta",
+     "instagram_handle": null,
+     "is_verified": false,
+     "linkedin_handle": "/in/alessandro-amenta",
+     "name": "Alessandro Amenta",
+     "tiktok_handle": null,
+     "timezone": "Europe/Amsterdam",
+     "twitter_handle": "ale_amenta",
+     "username": null,
+     "website": null,
+     "youtube_handle": ""
+    },
+    {
+     "api_id": "usr-q5uslE4xMsLKD2g",
+     "avatar_url": "https://images.lumacdn.com/uploads/vv/6bda8244-d74c-46eb-acf2-4b057f50a9e0.png",
+     "bio_short": null,
+     "first_name": "Syerra",
+     "last_name": "Laurusaitis",
+     "instagram_handle": null,
+     "is_verified": false,
+     "linkedin_handle": null,
+     "name": "Syerra Laurusaitis",
+     "tiktok_handle": null,
+     "timezone": "America/Los_Angeles",
+     "twitter_handle": null,
+     "username": null,
+     "website": null,
+     "youtube_handle": null
+    },
+    {
+     "api_id": "usr-Jk6OAeS5XqwgoR3",
+     "avatar_url": "https://images.lumacdn.com/avatars/lk/0de48fd1-dd17-4097-8426-296442ca32c9.jpg",
+     "bio_short": null,
+     "first_name": "Jacopo",
+     "last_name": "Piazza",
+     "instagram_handle": null,
+     "is_verified": false,
+     "linkedin_handle": "/in/None",
+     "name": "Jacopo Piazza",
+     "tiktok_handle": null,
+     "timezone": "Europe/Amsterdam",
+     "twitter_handle": null,
+     "username": null,
+     "website": null,
+     "youtube_handle": null
+    }
+   ],
+   "guest_count": 0,
+   "ticket_count": 0,
+   "ticket_info": {
+    "price": null,
+    "is_free": true,
+    "max_price": null,
+    "is_sold_out": false,
+    "spots_remaining": null,
+    "is_near_capacity": false,
+    "require_approval": true
+   },
+   "registration_availability": "open",
+   "featured_guests": [],
+   "manager_info": null,
+   "guest_info": null,
+   "host_info": null,
+   "waitlist_active": false,
+   "featured_city": {
+    "api_id": "discplace-BDj7GNbGlsF7Cka",
+    "name": "San Francisco",
+    "slug": "sf"
+   },
+   "calendar_api_id": "cal-EVJ0XV6EJegxAT7",
+   "is_manager": true,
+   "platform": "luma",
+   "status": "approved",
+   "submitted_by_user_api_id": "usr-mafWVewQqmgL7nd",
+   "tags": [
+    {
+     "api_id": "tag-VkTS3gOtF0WtPow",
+     "name": "AI",
+     "color": "cranberry"
+    },
+    {
+     "api_id": "tag-4LhCZSEuob542sV",
+     "name": "hackathon",
+     "color": "orange"
+    }
+   ]
+  },
+  {
+   "api_id": "calev-LrTHkKNloUA3so4",
+   "event": {
+    "api_id": "evt-wW84IXXyl7fZRLq",
+    "calendar_api_id": "cal-EVJ0XV6EJegxAT7",
+    "cover_url": "https://images.lumacdn.com/uploads/fr/cc1dc05f-1244-4c2c-aabb-f9cf1c02028e.png",
+    "end_at": "2026-10-09T22:30:00.000Z",
+    "event_type": "independent",
+    "hide_rsvp": false,
+    "location_type": "offline",
+    "name": "Real-Time Video Agents Hack - NYC",
+    "one_to_one": true,
+    "recurrence_id": null,
+    "show_guest_list": false,
+    "social_image_url": "https://images.lumacdn.com/event-social/bd/ca116bce-c5c5-4e90-a907-e8c2307da55e.png",
+    "start_at": "2026-10-09T12:30:00.000Z",
+    "timezone": "America/New_York",
+    "url": "vastnyc",
+    "user_api_id": "usr-mafWVewQqmgL7nd",
+    "visibility": "public",
+    "virtual_info": {
+     "has_access": false
+    },
+    "geo_address_info": {
+     "mode": "obfuscated",
+     "city": "New York",
+     "city_state": "New York, NY",
+     "sublocality": "Manhattan",
+     "country": "United States",
+     "country_code": "US",
+     "region": "New York",
+     "region_short": "NY"
+    },
+    "geo_address_visibility": "guests-only",
+    "coordinate": {
+     "latitude": 40.74318034709132,
+     "longitude": -73.99155240857117
+    },
+    "waitlist_enabled": false,
+    "waitlist_status": "disabled"
+   },
+   "cover_image": {
+    "colors": [
+     "#0d1129",
+     "#faf7f7",
+     "#2b7c70",
+     "#1acb92"
+    ],
+    "palette": {
+     "neutral": [
+      {
+       "color": "#0d1129",
+       "percentage": 25.12
+      },
+      {
+       "color": "#faf7f7",
+       "percentage": 10.45
+      }
+     ],
+     "vibrant": [
+      {
+       "color": "#2b7c70",
+       "percentage": 8.24
+      },
+      {
+       "color": "#1acb92",
+       "percentage": 2.81
+      }
+     ]
+    }
+   },
+   "calendar": {
+    "access_level": "public",
+    "api_id": "cal-EVJ0XV6EJegxAT7",
+    "avatar_url": "https://images.lumacdn.com/uploads/m4/37decd4d-61bf-4881-b5cc-a5dd6b98da9d.png",
+    "coordinate": null,
+    "cover_image_url": "https://images.lumacdn.com/uploads/y6/e7a790ce-6f4a-4f41-ae04-a17863574f75.jpg",
+    "description_short": "The AI community building the future of intelligence.",
+    "end_date": null,
+    "event_submission_restriction": "open",
+    "google_measurement_id": null,
+    "instagram_handle": null,
+    "is_blocked": false,
+    "is_verified": false,
+    "launch_status": "launched",
+    "linkedin_handle": "/company/tokensand",
+    "location": null,
+    "luma_plan": "plus",
+    "luma_plus_active": true,
+    "meta_pixel_id": null,
+    "name": "tokens&",
+    "personal_user_api_id": null,
+    "refund_policy": null,
+    "slug": "tokensand",
+    "social_image_url": "https://images.unsplash.com/photo-1560439514-4e9645039924?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjQyMjF8MHwxfHNlYXJjaHw0fHxuZXR3b3JraW5nfGVufDB8fHx8MTc3NDIzMTg2NHwy&ixlib=rb-4.1.0&q=80&w=1080",
+    "start_date": null,
+    "stripe_account_id": null,
+    "tax_config": null,
+    "tiktok_handle": null,
+    "tint_color": "#437ba8",
+    "track_meta_ads_from_luma": false,
+    "twitter_handle": "tokensandai",
+    "verified_at": "2025-01-26T19:51:13.969Z",
+    "website": "https://tokensand.ai/",
+    "youtube_handle": null,
+    "is_personal": false,
+    "personal_user": null,
+    "timezone": null
+   },
+   "start_at": "2026-10-09T12:30:00.000Z",
+   "hosts": [
+    {
+     "api_id": "usr-WXF92ECtDkKDR6f",
+     "avatar_url": "https://images.lumacdn.com/uploads/sv/a77e45a7-3abe-4814-a2f3-9ee218ceb6ef.png",
+     "bio_short": "",
+     "first_name": "Team",
+     "last_name": "tokens&",
+     "instagram_handle": null,
+     "is_verified": false,
+     "linkedin_handle": null,
+     "name": "tokens&",
+     "tiktok_handle": null,
+     "timezone": "Asia/Karachi",
+     "twitter_handle": "tokensandai",
+     "username": "tokensand",
+     "website": null,
+     "youtube_handle": null
+    },
+    {
+     "api_id": "usr-qSsdgMpbRnNqoVG",
+     "avatar_url": "https://images.lumacdn.com/avatars/37/fe506b5f-8778-4065-aaa0-4743f36f427e",
+     "bio_short": "",
+     "first_name": "Alessandro",
+     "last_name": "Amenta",
+     "instagram_handle": null,
+     "is_verified": false,
+     "linkedin_handle": "/in/alessandro-amenta",
+     "name": "Alessandro Amenta",
+     "tiktok_handle": null,
+     "timezone": "Europe/Amsterdam",
+     "twitter_handle": "ale_amenta",
+     "username": null,
+     "website": null,
+     "youtube_handle": ""
+    },
+    {
+     "api_id": "usr-q5uslE4xMsLKD2g",
+     "avatar_url": "https://images.lumacdn.com/uploads/vv/6bda8244-d74c-46eb-acf2-4b057f50a9e0.png",
+     "bio_short": null,
+     "first_name": "Syerra",
+     "last_name": "Laurusaitis",
+     "instagram_handle": null,
+     "is_verified": false,
+     "linkedin_handle": null,
+     "name": "Syerra Laurusaitis",
+     "tiktok_handle": null,
+     "timezone": "America/Los_Angeles",
+     "twitter_handle": null,
+     "username": null,
+     "website": null,
+     "youtube_handle": null
+    },
+    {
+     "api_id": "usr-9kxrr6plDxM41e6",
+     "avatar_url": "https://images.lumacdn.com/avatars/xp/4c4c26f4-bdba-4128-be26-0a99f800cfc9",
+     "bio_short": "",
+     "first_name": "Somya",
+     "last_name": "Gupta",
+     "instagram_handle": "somya_nyc",
+     "is_verified": false,
+     "linkedin_handle": "/in/somya-gupta-sg",
+     "name": "Somya Gupta",
+     "tiktok_handle": null,
+     "timezone": "America/New_York",
+     "twitter_handle": "somgupnyc",
+     "username": null,
+     "website": null,
+     "youtube_handle": ""
+    },
+    {
+     "api_id": "usr-Jk6OAeS5XqwgoR3",
+     "avatar_url": "https://images.lumacdn.com/avatars/lk/0de48fd1-dd17-4097-8426-296442ca32c9.jpg",
+     "bio_short": null,
+     "first_name": "Jacopo",
+     "last_name": "Piazza",
+     "instagram_handle": null,
+     "is_verified": false,
+     "linkedin_handle": "/in/None",
+     "name": "Jacopo Piazza",
+     "tiktok_handle": null,
+     "timezone": "Europe/Amsterdam",
+     "twitter_handle": null,
+     "username": null,
+     "website": null,
+     "youtube_handle": null
+    }
+   ],
+   "guest_count": 0,
+   "ticket_count": 0,
+   "ticket_info": {
+    "price": null,
+    "is_free": true,
+    "max_price": null,
+    "is_sold_out": false,
+    "spots_remaining": null,
+    "is_near_capacity": false,
+    "require_approval": true
+   },
+   "registration_availability": "open",
+   "featured_guests": [],
+   "manager_info": null,
+   "guest_info": null,
+   "host_info": null,
+   "waitlist_active": false,
+   "featured_city": {
+    "api_id": "discplace-Izx1rQVSh8njYpP",
+    "name": "New York",
+    "slug": "nyc"
+   },
+   "calendar_api_id": "cal-EVJ0XV6EJegxAT7",
+   "is_manager": true,
+   "platform": "luma",
+   "status": "approved",
+   "submitted_by_user_api_id": "usr-mafWVewQqmgL7nd",
+   "tags": [
+    {
+     "api_id": "tag-VkTS3gOtF0WtPow",
+     "name": "AI",
+     "color": "cranberry"
+    },
+    {
+     "api_id": "tag-4LhCZSEuob542sV",
+     "name": "hackathon",
+     "color": "orange"
+    }
+   ]
+  },
+  {
+   "api_id": "calev-DT0AHdnViufY4aH",
+   "event": {
+    "api_id": "evt-See5iBAKCG1tMZE",
+    "calendar_api_id": "cal-EVJ0XV6EJegxAT7",
+    "cover_url": "https://images.lumacdn.com/uploads/ui/2d2ae9b2-12e7-4236-b7c8-bbabcf3e1cb0.png",
+    "end_at": "2026-10-10T02:30:00.000Z",
+    "event_type": "independent",
+    "hide_rsvp": false,
+    "location_type": "offline",
+    "name": "Cyberdefense Hackathon",
+    "one_to_one": true,
+    "recurrence_id": null,
+    "show_guest_list": false,
+    "social_image_url": "https://images.lumacdn.com/event-social/w7/ef57610c-a6b3-47e2-89c1-3b66933814be.png",
+    "start_at": "2026-10-09T16:30:00.000Z",
+    "timezone": "America/Los_Angeles",
+    "url": "cyberhack",
+    "user_api_id": "usr-5S9DUTZMpZCOqwz",
+    "visibility": "public",
+    "virtual_info": {
+     "has_access": false
+    },
+    "geo_address_info": {
+     "mode": "obfuscated",
+     "city": "San Francisco",
+     "city_state": "San Francisco, CA",
+     "sublocality": "Financial District",
+     "country": "United States",
+     "country_code": "US",
+     "region": "California",
+     "region_short": "CA"
+    },
+    "geo_address_visibility": "guests-only",
+    "coordinate": {
+     "latitude": 37.7901442968133,
+     "longitude": -122.39648132733484
+    },
+    "waitlist_enabled": true,
+    "waitlist_status": "enabled"
+   },
+   "cover_image": {
+    "colors": [
+     "#212426",
+     "#283371",
+     "#fcfcfc",
+     "#527c5b"
+    ],
+    "palette": {
+     "neutral": [
+      {
+       "color": "#212426",
+       "percentage": 30.15
+      },
+      {
+       "color": "#fcfcfc",
+       "percentage": 4.91
+      }
+     ],
+     "vibrant": [
+      {
+       "color": "#283371",
+       "percentage": 19.18
+      },
+      {
+       "color": "#527c5b",
+       "percentage": 2.44
+      }
+     ]
+    }
+   },
+   "calendar": {
+    "access_level": "public",
+    "api_id": "cal-EVJ0XV6EJegxAT7",
+    "avatar_url": "https://images.lumacdn.com/uploads/m4/37decd4d-61bf-4881-b5cc-a5dd6b98da9d.png",
+    "coordinate": null,
+    "cover_image_url": "https://images.lumacdn.com/uploads/y6/e7a790ce-6f4a-4f41-ae04-a17863574f75.jpg",
+    "description_short": "The AI community building the future of intelligence.",
+    "end_date": null,
+    "event_submission_restriction": "open",
+    "google_measurement_id": null,
+    "instagram_handle": null,
+    "is_blocked": false,
+    "is_verified": false,
+    "launch_status": "launched",
+    "linkedin_handle": "/company/tokensand",
+    "location": null,
+    "luma_plan": "plus",
+    "luma_plus_active": true,
+    "meta_pixel_id": null,
+    "name": "tokens&",
+    "personal_user_api_id": null,
+    "refund_policy": null,
+    "slug": "tokensand",
+    "social_image_url": "https://images.unsplash.com/photo-1560439514-4e9645039924?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjQyMjF8MHwxfHNlYXJjaHw0fHxuZXR3b3JraW5nfGVufDB8fHx8MTc3NDIzMTg2NHwy&ixlib=rb-4.1.0&q=80&w=1080",
+    "start_date": null,
+    "stripe_account_id": null,
+    "tax_config": null,
+    "tiktok_handle": null,
+    "tint_color": "#437ba8",
+    "track_meta_ads_from_luma": false,
+    "twitter_handle": "tokensandai",
+    "verified_at": "2025-01-26T19:51:13.969Z",
+    "website": "https://tokensand.ai/",
+    "youtube_handle": null,
+    "is_personal": false,
+    "personal_user": null,
+    "timezone": null
+   },
+   "start_at": "2026-10-09T16:30:00.000Z",
+   "hosts": [
+    {
+     "api_id": "usr-WXF92ECtDkKDR6f",
+     "avatar_url": "https://images.lumacdn.com/uploads/sv/a77e45a7-3abe-4814-a2f3-9ee218ceb6ef.png",
+     "bio_short": "",
+     "first_name": "Team",
+     "last_name": "tokens&",
+     "instagram_handle": null,
+     "is_verified": false,
+     "linkedin_handle": null,
+     "name": "tokens&",
+     "tiktok_handle": null,
+     "timezone": "Asia/Karachi",
+     "twitter_handle": "tokensandai",
+     "username": "tokensand",
+     "website": null,
+     "youtube_handle": null
+    },
+    {
+     "api_id": "usr-qSsdgMpbRnNqoVG",
+     "avatar_url": "https://images.lumacdn.com/avatars/37/fe506b5f-8778-4065-aaa0-4743f36f427e",
+     "bio_short": "",
+     "first_name": "Alessandro",
+     "last_name": "Amenta",
+     "instagram_handle": null,
+     "is_verified": false,
+     "linkedin_handle": "/in/alessandro-amenta",
+     "name": "Alessandro Amenta",
+     "tiktok_handle": null,
+     "timezone": "Europe/Amsterdam",
+     "twitter_handle": "ale_amenta",
+     "username": null,
+     "website": null,
+     "youtube_handle": ""
+    },
+    {
+     "api_id": "usr-Jk6OAeS5XqwgoR3",
+     "avatar_url": "https://images.lumacdn.com/avatars/lk/0de48fd1-dd17-4097-8426-296442ca32c9.jpg",
+     "bio_short": null,
+     "first_name": "Jacopo",
+     "last_name": "Piazza",
+     "instagram_handle": null,
+     "is_verified": false,
+     "linkedin_handle": "/in/None",
+     "name": "Jacopo Piazza",
+     "tiktok_handle": null,
+     "timezone": "Europe/Amsterdam",
+     "twitter_handle": null,
+     "username": null,
+     "website": null,
+     "youtube_handle": null
+    }
+   ],
+   "guest_count": 0,
+   "ticket_count": 0,
+   "ticket_info": {
+    "price": null,
+    "is_free": true,
+    "max_price": null,
+    "is_sold_out": false,
+    "spots_remaining": 1985,
+    "is_near_capacity": false,
+    "require_approval": true
+   },
+   "registration_availability": "open",
+   "featured_guests": [],
+   "manager_info": null,
+   "guest_info": null,
+   "host_info": null,
+   "waitlist_active": false,
+   "featured_city": null,
+   "calendar_api_id": "cal-EVJ0XV6EJegxAT7",
+   "is_manager": true,
+   "platform": "luma",
+   "status": "approved",
+   "submitted_by_user_api_id": "usr-5S9DUTZMpZCOqwz",
+   "tags": [
+    {
+     "api_id": "tag-VkTS3gOtF0WtPow",
+     "name": "AI",
+     "color": "cranberry"
+    },
+    {
+     "api_id": "tag-FvxeCE7nGW9N9bA",
+     "name": "cyber defense",
+     "color": "green"
+    },
+    {
+     "api_id": "tag-YD2vnxwtkCjIHmq",
+     "name": "cyber security",
+     "color": "purple"
+    },
+    {
+     "api_id": "tag-4LhCZSEuob542sV",
+     "name": "hackathon",
+     "color": "orange"
+    }
+   ]
+  },
+  {
+   "api_id": "calev-U2d0NObVazhMLKP",
+   "event": {
+    "api_id": "evt-eQRrCdOat8fzde5",
+    "calendar_api_id": "cal-EVJ0XV6EJegxAT7",
+    "cover_url": "https://images.lumacdn.com/uploads/v8/a4b6484f-8bb6-4782-a87f-08be837d84a6.png",
+    "end_at": "2026-10-11T03:00:00.000Z",
+    "event_type": "independent",
+    "hide_rsvp": false,
+    "location_type": "offline",
+    "name": "Production Agent Lab - Workshop",
+    "one_to_one": true,
+    "recurrence_id": null,
+    "show_guest_list": false,
+    "social_image_url": "https://images.lumacdn.com/event-social/ek/aa57610a-91bb-4bd6-83bc-e035ed6629b6.png",
+    "start_at": "2026-10-10T17:00:00.000Z",
+    "timezone": "America/Los_Angeles",
+    "url": "oct10lab",
+    "user_api_id": "usr-5S9DUTZMpZCOqwz",
+    "visibility": "public",
+    "virtual_info": {
+     "has_access": false
+    },
+    "geo_address_info": {
+     "mode": "obfuscated",
+     "city": "San Francisco",
+     "city_state": "San Francisco, CA",
+     "sublocality": "Mission District",
+     "country": "United States",
+     "country_code": "US",
+     "region": "California",
+     "region_short": "CA"
+    },
+    "geo_address_visibility": "guests-only",
+    "coordinate": {
+     "latitude": 37.768828650272326,
+     "longitude": -122.41278365160694
+    },
+    "waitlist_enabled": true,
+    "waitlist_status": "enabled"
+   },
+   "cover_image": {
+    "colors": [
+     "#4d4d4d",
+     "#768007",
+     "#fefefe"
+    ],
+    "palette": {
+     "neutral": [
+      {
+       "color": "#fefefe",
+       "percentage": 4.53
+      },
+      {
+       "color": "#4d4d4d",
+       "percentage": 14.89
+      }
+     ],
+     "vibrant": [
+      {
+       "color": "#768007",
+       "percentage": 11.06
+      }
+     ]
+    }
+   },
+   "calendar": {
+    "access_level": "public",
+    "api_id": "cal-EVJ0XV6EJegxAT7",
+    "avatar_url": "https://images.lumacdn.com/uploads/m4/37decd4d-61bf-4881-b5cc-a5dd6b98da9d.png",
+    "coordinate": null,
+    "cover_image_url": "https://images.lumacdn.com/uploads/y6/e7a790ce-6f4a-4f41-ae04-a17863574f75.jpg",
+    "description_short": "The AI community building the future of intelligence.",
+    "end_date": null,
+    "event_submission_restriction": "open",
+    "google_measurement_id": null,
+    "instagram_handle": null,
+    "is_blocked": false,
+    "is_verified": false,
+    "launch_status": "launched",
+    "linkedin_handle": "/company/tokensand",
+    "location": null,
+    "luma_plan": "plus",
+    "luma_plus_active": true,
+    "meta_pixel_id": null,
+    "name": "tokens&",
+    "personal_user_api_id": null,
+    "refund_policy": null,
+    "slug": "tokensand",
+    "social_image_url": "https://images.unsplash.com/photo-1560439514-4e9645039924?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjQyMjF8MHwxfHNlYXJjaHw0fHxuZXR3b3JraW5nfGVufDB8fHx8MTc3NDIzMTg2NHwy&ixlib=rb-4.1.0&q=80&w=1080",
+    "start_date": null,
+    "stripe_account_id": null,
+    "tax_config": null,
+    "tiktok_handle": null,
+    "tint_color": "#437ba8",
+    "track_meta_ads_from_luma": false,
+    "twitter_handle": "tokensandai",
+    "verified_at": "2025-01-26T19:51:13.969Z",
+    "website": "https://tokensand.ai/",
+    "youtube_handle": null,
+    "is_personal": false,
+    "personal_user": null,
+    "timezone": null
+   },
+   "start_at": "2026-10-10T17:00:00.000Z",
+   "hosts": [
+    {
+     "api_id": "usr-WXF92ECtDkKDR6f",
+     "avatar_url": "https://images.lumacdn.com/uploads/sv/a77e45a7-3abe-4814-a2f3-9ee218ceb6ef.png",
+     "bio_short": "",
+     "first_name": "Team",
+     "last_name": "tokens&",
+     "instagram_handle": null,
+     "is_verified": false,
+     "linkedin_handle": null,
+     "name": "tokens&",
+     "tiktok_handle": null,
+     "timezone": "Asia/Karachi",
+     "twitter_handle": "tokensandai",
+     "username": "tokensand",
+     "website": null,
+     "youtube_handle": null
+    },
+    {
+     "api_id": "usr-qSsdgMpbRnNqoVG",
+     "avatar_url": "https://images.lumacdn.com/avatars/37/fe506b5f-8778-4065-aaa0-4743f36f427e",
+     "bio_short": "",
+     "first_name": "Alessandro",
+     "last_name": "Amenta",
+     "instagram_handle": null,
+     "is_verified": false,
+     "linkedin_handle": "/in/alessandro-amenta",
+     "name": "Alessandro Amenta",
+     "tiktok_handle": null,
+     "timezone": "Europe/Amsterdam",
+     "twitter_handle": "ale_amenta",
+     "username": null,
+     "website": null,
+     "youtube_handle": ""
+    },
+    {
+     "api_id": "usr-Jk6OAeS5XqwgoR3",
+     "avatar_url": "https://images.lumacdn.com/avatars/lk/0de48fd1-dd17-4097-8426-296442ca32c9.jpg",
+     "bio_short": null,
+     "first_name": "Jacopo",
+     "last_name": "Piazza",
+     "instagram_handle": null,
+     "is_verified": false,
+     "linkedin_handle": "/in/None",
+     "name": "Jacopo Piazza",
+     "tiktok_handle": null,
+     "timezone": "Europe/Amsterdam",
+     "twitter_handle": null,
+     "username": null,
+     "website": null,
+     "youtube_handle": null
+    }
+   ],
+   "guest_count": 0,
+   "ticket_count": 0,
+   "ticket_info": {
+    "price": null,
+    "is_free": true,
+    "max_price": null,
+    "is_sold_out": false,
+    "spots_remaining": 1999,
+    "is_near_capacity": false,
+    "require_approval": true
+   },
+   "registration_availability": "open",
+   "featured_guests": [],
+   "manager_info": null,
+   "guest_info": null,
+   "host_info": null,
+   "waitlist_active": false,
+   "featured_city": null,
+   "calendar_api_id": "cal-EVJ0XV6EJegxAT7",
+   "is_manager": true,
+   "platform": "luma",
+   "status": "approved",
+   "submitted_by_user_api_id": "usr-5S9DUTZMpZCOqwz",
+   "tags": [
+    {
+     "api_id": "tag-VkTS3gOtF0WtPow",
+     "name": "AI",
+     "color": "cranberry"
+    },
+    {
+     "api_id": "tag-1N4lt5lJ9lpZPxV",
+     "name": "workshop",
+     "color": "yellow"
+    }
+   ]
+  },
+  {
+   "api_id": "calev-GSXTUHLecCx1NvG",
+   "event": {
+    "api_id": "evt-UAz5c2wZbnJODQc",
+    "calendar_api_id": "cal-EVJ0XV6EJegxAT7",
+    "cover_url": "https://images.lumacdn.com/uploads/o8/389e9f54-e4e3-4cd9-9b3d-53ab5a95f972.png",
+    "end_at": "2026-10-17T17:30:00.000Z",
+    "event_type": "independent",
+    "hide_rsvp": false,
+    "location_type": "offline",
+    "name": "Real-Time Video Agents Hack - LDN",
+    "one_to_one": true,
+    "recurrence_id": null,
+    "show_guest_list": false,
+    "social_image_url": "https://images.lumacdn.com/event-social/pd/7e4560d2-9061-4e3e-a775-308f7c72c0c6.png",
+    "start_at": "2026-10-17T07:30:00.000Z",
+    "timezone": "Europe/London",
+    "url": "vastlondon",
+    "user_api_id": "usr-mafWVewQqmgL7nd",
+    "visibility": "public",
+    "virtual_info": {
+     "has_access": false
+    },
+    "geo_address_info": {
+     "mode": "obfuscated",
+     "city": "London",
+     "city_state": "London, United Kingdom",
+     "sublocality": null,
+     "country": "United Kingdom",
+     "country_code": "GB",
+     "region": "England",
+     "region_short": "England"
+    },
+    "geo_address_visibility": "guests-only",
+    "coordinate": {
+     "latitude": 51.51410078704211,
+     "longitude": -0.22466530798084708
+    },
+    "waitlist_enabled": false,
+    "waitlist_status": "disabled"
+   },
+   "cover_image": {
+    "colors": [
+     "#010426",
+     "#faf7f7",
+     "#846a43"
+    ],
+    "palette": {
+     "neutral": [
+      {
+       "color": "#010426",
+       "percentage": 24.75
+      },
+      {
+       "color": "#faf7f7",
+       "percentage": 10.49
+      }
+     ],
+     "vibrant": [
+      {
+       "color": "#846a43",
+       "percentage": 8.83
+      }
+     ]
+    }
+   },
+   "calendar": {
+    "access_level": "public",
+    "api_id": "cal-EVJ0XV6EJegxAT7",
+    "avatar_url": "https://images.lumacdn.com/uploads/m4/37decd4d-61bf-4881-b5cc-a5dd6b98da9d.png",
+    "coordinate": null,
+    "cover_image_url": "https://images.lumacdn.com/uploads/y6/e7a790ce-6f4a-4f41-ae04-a17863574f75.jpg",
+    "description_short": "The AI community building the future of intelligence.",
+    "end_date": null,
+    "event_submission_restriction": "open",
+    "google_measurement_id": null,
+    "instagram_handle": null,
+    "is_blocked": false,
+    "is_verified": false,
+    "launch_status": "launched",
+    "linkedin_handle": "/company/tokensand",
+    "location": null,
+    "luma_plan": "plus",
+    "luma_plus_active": true,
+    "meta_pixel_id": null,
+    "name": "tokens&",
+    "personal_user_api_id": null,
+    "refund_policy": null,
+    "slug": "tokensand",
+    "social_image_url": "https://images.unsplash.com/photo-1560439514-4e9645039924?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjQyMjF8MHwxfHNlYXJjaHw0fHxuZXR3b3JraW5nfGVufDB8fHx8MTc3NDIzMTg2NHwy&ixlib=rb-4.1.0&q=80&w=1080",
+    "start_date": null,
+    "stripe_account_id": null,
+    "tax_config": null,
+    "tiktok_handle": null,
+    "tint_color": "#437ba8",
+    "track_meta_ads_from_luma": false,
+    "twitter_handle": "tokensandai",
+    "verified_at": "2025-01-26T19:51:13.969Z",
+    "website": "https://tokensand.ai/",
+    "youtube_handle": null,
+    "is_personal": false,
+    "personal_user": null,
+    "timezone": null
+   },
+   "start_at": "2026-10-17T07:30:00.000Z",
+   "hosts": [
+    {
+     "api_id": "usr-WXF92ECtDkKDR6f",
+     "avatar_url": "https://images.lumacdn.com/uploads/sv/a77e45a7-3abe-4814-a2f3-9ee218ceb6ef.png",
+     "bio_short": "",
+     "first_name": "Team",
+     "last_name": "tokens&",
+     "instagram_handle": null,
+     "is_verified": false,
+     "linkedin_handle": null,
+     "name": "tokens&",
+     "tiktok_handle": null,
+     "timezone": "Asia/Karachi",
+     "twitter_handle": "tokensandai",
+     "username": "tokensand",
+     "website": null,
+     "youtube_handle": null
+    },
+    {
+     "api_id": "usr-qSsdgMpbRnNqoVG",
+     "avatar_url": "https://images.lumacdn.com/avatars/37/fe506b5f-8778-4065-aaa0-4743f36f427e",
+     "bio_short": "",
+     "first_name": "Alessandro",
+     "last_name": "Amenta",
+     "instagram_handle": null,
+     "is_verified": false,
+     "linkedin_handle": "/in/alessandro-amenta",
+     "name": "Alessandro Amenta",
+     "tiktok_handle": null,
+     "timezone": "Europe/Amsterdam",
+     "twitter_handle": "ale_amenta",
+     "username": null,
+     "website": null,
+     "youtube_handle": ""
+    },
+    {
+     "api_id": "usr-q5uslE4xMsLKD2g",
+     "avatar_url": "https://images.lumacdn.com/uploads/vv/6bda8244-d74c-46eb-acf2-4b057f50a9e0.png",
+     "bio_short": null,
+     "first_name": "Syerra",
+     "last_name": "Laurusaitis",
+     "instagram_handle": null,
+     "is_verified": false,
+     "linkedin_handle": null,
+     "name": "Syerra Laurusaitis",
+     "tiktok_handle": null,
+     "timezone": "America/Los_Angeles",
+     "twitter_handle": null,
+     "username": null,
+     "website": null,
+     "youtube_handle": null
+    },
+    {
+     "api_id": "usr-Jk6OAeS5XqwgoR3",
+     "avatar_url": "https://images.lumacdn.com/avatars/lk/0de48fd1-dd17-4097-8426-296442ca32c9.jpg",
+     "bio_short": null,
+     "first_name": "Jacopo",
+     "last_name": "Piazza",
+     "instagram_handle": null,
+     "is_verified": false,
+     "linkedin_handle": "/in/None",
+     "name": "Jacopo Piazza",
+     "tiktok_handle": null,
+     "timezone": "Europe/Amsterdam",
+     "twitter_handle": null,
+     "username": null,
+     "website": null,
+     "youtube_handle": null
+    }
+   ],
+   "guest_count": 0,
+   "ticket_count": 0,
+   "ticket_info": {
+    "price": null,
+    "is_free": true,
+    "max_price": null,
+    "is_sold_out": false,
+    "spots_remaining": null,
+    "is_near_capacity": false,
+    "require_approval": true
+   },
+   "registration_availability": "open",
+   "featured_guests": [],
+   "manager_info": null,
+   "guest_info": null,
+   "host_info": null,
+   "waitlist_active": false,
+   "featured_city": {
+    "api_id": "discplace-QCcNk3HXowOR97j",
+    "name": "London",
+    "slug": "london"
+   },
+   "calendar_api_id": "cal-EVJ0XV6EJegxAT7",
+   "is_manager": true,
+   "platform": "luma",
+   "status": "approved",
+   "submitted_by_user_api_id": "usr-mafWVewQqmgL7nd",
+   "tags": [
+    {
+     "api_id": "tag-VkTS3gOtF0WtPow",
+     "name": "AI",
+     "color": "cranberry"
+    },
+    {
+     "api_id": "tag-4LhCZSEuob542sV",
+     "name": "hackathon",
+     "color": "orange"
+    }
+   ]
+  },
+  {
+   "api_id": "calev-M3aD6KHNWbmJlmg",
+   "event": {
+    "api_id": "evt-Ahso3uzQXnRDvAJ",
+    "calendar_api_id": "cal-hoJOad2gnCAn32t",
+    "cover_url": "https://images.lumacdn.com/uploads/qz/a3c736e1-c9f5-47b9-b475-4aa36bd2b434.png",
+    "end_at": "2026-11-03T21:30:00.000Z",
+    "event_type": "independent",
+    "hide_rsvp": false,
+    "location_type": "offline",
+    "name": "Twilio Assemble London: The Future of Comms + AI",
+    "one_to_one": true,
+    "recurrence_id": null,
+    "show_guest_list": false,
+    "social_image_url": "https://images.lumacdn.com/event-social/l1/b390de9c-1421-494a-bcf1-ccfdd6ac92e3.png",
+    "start_at": "2026-11-03T17:00:00.000Z",
+    "timezone": "Europe/London",
+    "url": "7z0fyqec",
+    "user_api_id": "usr-xE1ELXnEujOBZ8S",
+    "visibility": "public",
+    "virtual_info": {
+     "has_access": false
+    },
+    "geo_address_info": {
+     "city": "London",
+     "type": "google",
+     "region": "England",
+     "address": "CodeNode",
+     "country": "United Kingdom",
+     "place_id": "ChIJ-7KraqwcdkgRux199uKDspE",
+     "localized": {
+      "en-GB": {
+       "city": "London",
+       "region": "England",
+       "address": "CodeNode",
+       "country": "United Kingdom",
+       "city_state": "London, United Kingdom",
+       "sublocality": null,
+       "full_address": "CodeNode, 10 South Pl, London EC2M 7EB, UK",
+       "region_short": "England",
+       "short_address": "Finsbury Circus House, 10 South Pl, London"
+      }
+     },
+     "city_state": "London, United Kingdom",
+     "description": "",
+     "sublocality": null,
+     "country_code": "GB",
+     "full_address": "CodeNode, 10 South Pl, London EC2M 7EB, UK",
+     "region_short": "England",
+     "short_address": "Finsbury Circus House, 10 South Pl, London",
+     "place_coordinate": {
+      "latitude": 51.5186539,
+      "longitude": -0.0862411
+     },
+     "apple_maps_place_id": "I1C1CF406EB801634",
+     "mode": "shown"
+    },
+    "geo_address_visibility": "public",
+    "coordinate": {
+     "longitude": -0.0862411,
+     "latitude": 51.5186539
+    },
+    "waitlist_enabled": true,
+    "waitlist_status": "active"
+   },
+   "cover_image": {
+    "colors": [
+     "#0b3276",
+     "#021537",
+     "#ee223a",
+     "#fbfbfc"
+    ],
+    "palette": {
+     "neutral": [
+      {
+       "color": "#021537",
+       "percentage": 9.32
+      },
+      {
+       "color": "#fbfbfc",
+       "percentage": 1.13
+      }
+     ],
+     "vibrant": [
+      {
+       "color": "#0b3276",
+       "percentage": 18.54
+      },
+      {
+       "color": "#ee223a",
+       "percentage": 5.5
+      }
+     ]
+    }
+   },
+   "calendar": {
+    "access_level": "public",
+    "api_id": "cal-hoJOad2gnCAn32t",
+    "avatar_url": "https://images.lumacdn.com/uploads/g4/5efcf3ad-2440-483e-9f5f-b8f150067586.png",
+    "coordinate": {
+     "longitude": -0.12758619999999998,
+     "latitude": 51.5072178
+    },
+    "cover_image_url": null,
+    "description_short": "",
+    "end_date": null,
+    "event_submission_restriction": "open",
+    "google_measurement_id": null,
+    "instagram_handle": null,
+    "is_blocked": false,
+    "is_verified": false,
+    "launch_status": "launched",
+    "linkedin_handle": null,
+    "location": {
+     "city": "London",
+     "region": "England",
+     "country": "United Kingdom",
+     "place_id": "ChIJdd4hrwug2EcRmSrV3Vo6llI",
+     "timezone": "Europe/London",
+     "localized": {
+      "en-GB": {
+       "city": "London",
+       "region": "England",
+       "country": "United Kingdom"
+      }
+     },
+     "country_code": "GB"
+    },
+    "luma_plan": "free",
+    "luma_plus_active": false,
+    "meta_pixel_id": null,
+    "name": "Twilio UK",
+    "personal_user_api_id": null,
+    "refund_policy": null,
+    "slug": "twilio-uk",
+    "social_image_url": null,
+    "start_date": null,
+    "stripe_account_id": null,
+    "tax_config": null,
+    "tiktok_handle": null,
+    "tint_color": "#f0223a",
+    "track_meta_ads_from_luma": false,
+    "twitter_handle": null,
+    "verified_at": "2026-08-20T12:49:25.718Z",
+    "website": null,
+    "youtube_handle": null,
+    "is_personal": false,
+    "personal_user": null,
+    "timezone": "Europe/London"
+   },
+   "start_at": "2026-11-03T17:00:00.000Z",
+   "hosts": [
+    {
+     "api_id": "usr-xE1ELXnEujOBZ8S",
+     "avatar_url": "https://images.lumacdn.com/avatars/1p/22948f96-c483-4cca-9de6-53b8d7c70b2f.png",
+     "bio_short": "",
+     "first_name": "",
+     "last_name": "",
+     "instagram_handle": null,
+     "is_verified": false,
+     "linkedin_handle": "/company/twilio-inc-",
+     "name": "Twilio",
+     "tiktok_handle": null,
+     "timezone": "Europe/London",
+     "twitter_handle": "twilio",
+     "username": "twilio",
+     "website": "https://www.twilio.com/",
+     "youtube_handle": "TwilioDevs"
+    }
+   ],
+   "guest_count": 0,
+   "ticket_count": 0,
+   "ticket_info": {
+    "price": null,
+    "is_free": true,
+    "max_price": null,
+    "is_sold_out": false,
+    "spots_remaining": 163,
+    "is_near_capacity": false,
+    "require_approval": false
+   },
+   "registration_availability": "open",
+   "featured_guests": [],
+   "manager_info": null,
+   "guest_info": null,
+   "host_info": null,
+   "waitlist_active": false,
+   "featured_city": null,
+   "calendar_api_id": "cal-EVJ0XV6EJegxAT7",
+   "is_manager": false,
+   "platform": "luma",
+   "status": "approved",
+   "submitted_by_user_api_id": "usr-5S9DUTZMpZCOqwz",
+   "tags": []
+  },
+  {
+   "api_id": "calev-2qEBq1dKLqqFDuV",
+   "event": {
+    "api_id": "evt-JejlDQOelMWKRoc",
+    "calendar_api_id": "cal-yI653LOcFPPO749",
+    "cover_url": "https://images.lumacdn.com/uploads/qz/a3c736e1-c9f5-47b9-b475-4aa36bd2b434.png",
+    "end_at": "2026-12-09T02:30:00.000Z",
+    "event_type": "independent",
+    "hide_rsvp": false,
+    "location_type": "offline",
+    "name": "Twilio Assemble NYC: The Future of Comms + AI",
+    "one_to_one": true,
+    "recurrence_id": null,
+    "show_guest_list": true,
+    "social_image_url": "https://images.lumacdn.com/event-social/tq/3dc1aa17-e3e6-4df4-9d28-1d2454031eb5.png",
+    "start_at": "2026-12-08T22:00:00.000Z",
+    "timezone": "America/New_York",
+    "url": "xrgbe8p6",
+    "user_api_id": "usr-xE1ELXnEujOBZ8S",
+    "visibility": "public",
+    "virtual_info": {
+     "has_access": false
+    },
+    "geo_address_info": {
+     "city": "New York",
+     "type": "google",
+     "region": "New York",
+     "address": "New York",
+     "country": "United States",
+     "place_id": "ChIJOwg_06VPwokRYv534QaPC8g",
+     "localized": null,
+     "city_state": "New York, NY",
+     "description": "",
+     "sublocality": null,
+     "country_code": "US",
+     "full_address": "New York, NY, USA",
+     "region_short": "NY",
+     "short_address": "New York",
+     "place_coordinate": {
+      "latitude": 40.7127753,
+      "longitude": -74.0059728
+     },
+     "apple_maps_place_id": null,
+     "mode": "shown"
+    },
+    "geo_address_visibility": "public",
+    "coordinate": {
+     "longitude": -74.0059728,
+     "latitude": 40.7127753
+    },
+    "waitlist_enabled": true,
+    "waitlist_status": "active"
+   },
+   "cover_image": {
+    "colors": [
+     "#0b3276",
+     "#021537",
+     "#ee223a",
+     "#fbfbfc"
+    ],
+    "palette": {
+     "neutral": [
+      {
+       "color": "#021537",
+       "percentage": 9.32
+      },
+      {
+       "color": "#fbfbfc",
+       "percentage": 1.13
+      }
+     ],
+     "vibrant": [
+      {
+       "color": "#0b3276",
+       "percentage": 18.54
+      },
+      {
+       "color": "#ee223a",
+       "percentage": 5.5
+      }
+     ]
+    }
+   },
+   "calendar": {
+    "access_level": "public",
+    "api_id": "cal-yI653LOcFPPO749",
+    "avatar_url": "https://images.lumacdn.com/calendars/u8/dde8a17b-8d16-4ca4-b289-26458eb7efc5.png",
+    "coordinate": {
+     "longitude": -74.0059728,
+     "latitude": 40.7127753
+    },
+    "cover_image_url": null,
+    "description_short": "A calendar of Twilio meetups in NYC and the surrounding area",
+    "end_date": null,
+    "event_submission_restriction": "open",
+    "google_measurement_id": null,
+    "instagram_handle": null,
+    "is_blocked": false,
+    "is_verified": false,
+    "launch_status": "launched",
+    "linkedin_handle": null,
+    "location": {
+     "city": "New York",
+     "region": null,
+     "country": "United States",
+     "place_id": "ChIJOwg_06VPwokRYv534QaPC8g",
+     "timezone": "America/New_York",
+     "country_code": "US"
+    },
+    "luma_plan": "free",
+    "luma_plus_active": false,
+    "meta_pixel_id": null,
+    "name": "Twilio NYC",
+    "personal_user_api_id": null,
+    "refund_policy": null,
+    "slug": "twilio-nyc",
+    "social_image_url": null,
+    "start_date": null,
+    "stripe_account_id": null,
+    "tax_config": null,
+    "tiktok_handle": null,
+    "tint_color": "#146AEB",
+    "track_meta_ads_from_luma": false,
+    "twitter_handle": null,
+    "verified_at": "2026-09-07T13:14:57.178Z",
+    "website": null,
+    "youtube_handle": null,
+    "is_personal": false,
+    "personal_user": null,
+    "timezone": "America/New_York"
+   },
+   "start_at": "2026-12-08T22:00:00.000Z",
+   "hosts": [
+    {
+     "api_id": "usr-xE1ELXnEujOBZ8S",
+     "avatar_url": "https://images.lumacdn.com/avatars/1p/22948f96-c483-4cca-9de6-53b8d7c70b2f.png",
+     "bio_short": "",
+     "first_name": "",
+     "last_name": "",
+     "instagram_handle": null,
+     "is_verified": false,
+     "linkedin_handle": "/company/twilio-inc-",
+     "name": "Twilio",
+     "tiktok_handle": null,
+     "timezone": "Europe/London",
+     "twitter_handle": "twilio",
+     "username": "twilio",
+     "website": "https://www.twilio.com/",
+     "youtube_handle": "TwilioDevs"
+    }
+   ],
+   "guest_count": 6,
+   "ticket_count": 6,
+   "ticket_info": {
+    "price": null,
+    "is_free": true,
+    "max_price": null,
+    "is_sold_out": false,
+    "spots_remaining": 294,
+    "is_near_capacity": false,
+    "require_approval": false
+   },
+   "registration_availability": "open",
+   "featured_guests": [
+    {
+     "api_id": "usr-GCJIhtSlH9BkA4M",
+     "avatar_url": "https://images.lumacdn.com/uploads/pk/dffbe757-eadf-4c6d-b4bf-81c276ab7589.jpg",
+     "bio_short": "-NY based\n-Software engineer\n-Anime\n- Video games\n\n-",
+     "first_name": "Cameron",
+     "last_name": "Crawley",
+     "instagram_handle": null,
+     "is_verified": false,
+     "linkedin_handle": "/in/cameron-crawley",
+     "name": "Cameron Crawley",
+     "tiktok_handle": null,
+     "timezone": "America/New_York",
+     "twitter_handle": null,
+     "username": null,
+     "website": null,
+     "youtube_handle": null
+    },
+    {
+     "api_id": "usr-uxCcRW2gyAKjJ3O",
+     "avatar_url": "https://cdn.lu.ma/avatars-default/avatar_16.png",
+     "bio_short": "",
+     "first_name": "Abdullah",
+     "last_name": "Jandali",
+     "instagram_handle": null,
+     "is_verified": false,
+     "linkedin_handle": "/in/aaljandali",
+     "name": "Abdullah Jandali",
+     "tiktok_handle": null,
+     "timezone": "America/Chicago",
+     "twitter_handle": null,
+     "username": null,
+     "website": null,
+     "youtube_handle": null
+    },
+    {
+     "api_id": "usr-0FHHENCR3EBUD9V",
+     "avatar_url": "https://cdn.lu.ma/avatars-default/avatar_14.png",
+     "bio_short": "",
+     "first_name": "Engred",
+     "last_name": "Vanegas",
+     "instagram_handle": null,
+     "is_verified": false,
+     "linkedin_handle": "/in/engredv",
+     "name": "Engred Michelle Vanegas",
+     "tiktok_handle": null,
+     "timezone": "America/New_York",
+     "twitter_handle": "ByEngred",
+     "username": "engred",
+     "website": null,
+     "youtube_handle": null
+    },
+    {
+     "api_id": "usr-swT2F5mES7uaPwp",
+     "avatar_url": "https://cdn.lu.ma/avatars-default/avatar_39.png",
+     "bio_short": "",
+     "first_name": "Anastasiya",
+     "last_name": "Chabotska",
+     "instagram_handle": null,
+     "is_verified": false,
+     "linkedin_handle": "/in/anastasiya-chabotska",
+     "name": "Anastasiya Chabotska",
+     "tiktok_handle": null,
+     "timezone": "America/New_York",
+     "twitter_handle": null,
+     "username": null,
+     "website": null,
+     "youtube_handle": null
+    },
+    {
+     "api_id": "usr-CBy3Fgloi8Jjrzb",
+     "avatar_url": "https://cdn.lu.ma/avatars-default/avatar_31.png",
+     "bio_short": "Product Builder",
+     "first_name": "Ashwin",
+     "last_name": "CS",
+     "instagram_handle": null,
+     "is_verified": false,
+     "linkedin_handle": "/in/ashwin-charaparambil",
+     "name": "Ashwin Charaprambil",
+     "tiktok_handle": null,
+     "timezone": "America/New_York",
+     "twitter_handle": null,
+     "username": null,
+     "website": null,
+     "youtube_handle": null
+    },
+    {
+     "api_id": "usr-xdhfr4OknyrvmaC",
+     "avatar_url": "https://cdn.lu.ma/avatars-default/avatar_45.png",
+     "bio_short": "",
+     "first_name": "Devika",
+     "last_name": "V",
+     "instagram_handle": null,
+     "is_verified": false,
+     "linkedin_handle": "/in/devikavishnu",
+     "name": "Devika Vishnu",
+     "tiktok_handle": null,
+     "timezone": "America/New_York",
+     "twitter_handle": null,
+     "username": null,
+     "website": null,
+     "youtube_handle": null
+    }
+   ],
+   "manager_info": null,
+   "guest_info": null,
+   "host_info": null,
+   "waitlist_active": false,
+   "featured_city": null,
+   "calendar_api_id": "cal-EVJ0XV6EJegxAT7",
+   "is_manager": false,
+   "platform": "luma",
+   "status": "approved",
+   "submitted_by_user_api_id": "usr-5S9DUTZMpZCOqwz",
+   "tags": []
+  }
+ ],
+ "has_more": false
+}

@@ -1,0 +1,193 @@
+{
+ "entries": [
+  {
+   "api_id": "calev-rTy6wPPjVvOcI4e",
+   "event": {
+    "api_id": "evt-sfNMDYVG3HFDOKK",
+    "calendar_api_id": "cal-sa3qxwubSMBwKYL",
+    "cover_url": "https://images.lumacdn.com/uploads/t9/22747f10-c139-438d-b310-420cb8a18658.jpg",
+    "end_at": "2026-09-19T02:00:00.000Z",
+    "event_type": "independent",
+    "hide_rsvp": false,
+    "location_type": "offline",
+    "name": "Gemini Meetup",
+    "one_to_one": true,
+    "recurrence_id": null,
+    "show_guest_list": false,
+    "social_image_url": "https://images.lumacdn.com/event-social/52/e8634b83-f838-4ca7-907c-a5b1a8a18fa8.png",
+    "start_at": "2026-09-19T00:00:00.000Z",
+    "timezone": "America/Los_Angeles",
+    "url": "geminimeetup",
+    "user_api_id": "usr-RPY3EQXqXuBRfD5",
+    "visibility": "public",
+    "virtual_info": {
+     "has_access": false
+    },
+    "geo_address_info": {
+     "mode": "obfuscated",
+     "city": "Mountain View",
+     "city_state": "Mountain View, CA",
+     "sublocality": null,
+     "country": "United States",
+     "country_code": "US",
+     "region": "California",
+     "region_short": "CA"
+    },
+    "geo_address_visibility": "guests-only",
+    "coordinate": {
+     "latitude": 37.419608299909854,
+     "longitude": -122.07846036035926
+    },
+    "waitlist_enabled": true,
+    "waitlist_status": "enabled"
+   },
+   "cover_image": {
+    "colors": [
+     "#16140f",
+     "#c58b55",
+     "#2f6f9b",
+     "#c4b2a6"
+    ],
+    "palette": {
+     "neutral": [
+      {
+       "color": "#16140f",
+       "percentage": 23.29
+      },
+      {
+       "color": "#c4b2a6",
+       "percentage": 2.88
+      }
+     ],
+     "vibrant": [
+      {
+       "color": "#c58b55",
+       "percentage": 12.69
+      },
+      {
+       "color": "#2f6f9b",
+       "percentage": 3.52
+      }
+     ]
+    }
+   },
+   "calendar": {
+    "access_level": "public",
+    "api_id": "cal-sa3qxwubSMBwKYL",
+    "avatar_url": "https://images.lumacdn.com/calendars/i6/fa5d2a14-22d9-4954-9085-ec276b05f26a",
+    "coordinate": null,
+    "cover_image_url": "https://images.lumacdn.com/calendar-cover-images/qo/09e17725-be44-4571-a921-763bf690b8dd",
+    "description_short": "https://2025.geminimeetup.ai",
+    "end_date": null,
+    "event_submission_restriction": "open",
+    "google_measurement_id": null,
+    "instagram_handle": null,
+    "is_blocked": false,
+    "is_verified": false,
+    "launch_status": "launched",
+    "linkedin_handle": null,
+    "location": null,
+    "luma_plan": "plus",
+    "luma_plus_active": true,
+    "meta_pixel_id": null,
+    "name": "Gemini Meetup",
+    "personal_user_api_id": null,
+    "refund_policy": null,
+    "slug": "gemini",
+    "social_image_url": "https://images.lumacdn.com/calendar-cover-images/f7/476c82e3-2dd0-4e07-b59f-0c8c20e4e0ff",
+    "start_date": null,
+    "stripe_account_id": null,
+    "tax_config": null,
+    "tiktok_handle": null,
+    "tint_color": "#C0DDF9",
+    "track_meta_ads_from_luma": false,
+    "twitter_handle": null,
+    "verified_at": "2024-02-16T06:23:11.657Z",
+    "website": "https://geminimeetup.ai",
+    "youtube_handle": null,
+    "is_personal": false,
+    "personal_user": null,
+    "timezone": null
+   },
+   "start_at": "2026-09-19T00:00:00.000Z",
+   "hosts": [
+    {
+     "api_id": "usr-HG7zkzP0Qk7yIGG",
+     "avatar_url": "https://images.lumacdn.com/avatars/3q/3cf45e08-c22c-48ef-8b44-6599e4128293",
+     "bio_short": "",
+     "first_name": "Peter",
+     "last_name": "Danenberg",
+     "instagram_handle": null,
+     "is_verified": false,
+     "linkedin_handle": "/in/peterdanenberg",
+     "name": "Peter Danenberg",
+     "tiktok_handle": null,
+     "timezone": "America/Los_Angeles",
+     "twitter_handle": null,
+     "username": null,
+     "website": null,
+     "youtube_handle": ""
+    },
+    {
+     "api_id": "usr-CKV90JUm1TBRKWk",
+     "avatar_url": "https://images.lumacdn.com/avatars/oa/f86e8251-3ecb-49c5-9b22-e4e919d92b61",
+     "bio_short": "",
+     "first_name": "Justin",
+     "last_name": "Woo",
+     "instagram_handle": null,
+     "is_verified": false,
+     "linkedin_handle": "/in/justinzw",
+     "name": "Justin Woo",
+     "tiktok_handle": null,
+     "timezone": "America/Los_Angeles",
+     "twitter_handle": "jzwoo",
+     "username": null,
+     "website": null,
+     "youtube_handle": null
+    },
+    {
+     "api_id": "usr-RPY3EQXqXuBRfD5",
+     "avatar_url": "https://images.lumacdn.com/avatars/2s/99e8cf93-2445-48cd-8a51-8489bc25b6a2.jpg",
+     "bio_short": "",
+     "first_name": "Jay",
+     "last_name": "Yao",
+     "instagram_handle": "jayzinho1",
+     "is_verified": false,
+     "linkedin_handle": "/in/jayyao",
+     "name": "Jay Yao",
+     "tiktok_handle": null,
+     "timezone": "America/Los_Angeles",
+     "twitter_handle": "jayyao10",
+     "username": null,
+     "website": null,
+     "youtube_handle": ""
+    }
+   ],
+   "guest_count": 0,
+   "ticket_count": 0,
+   "ticket_info": {
+    "price": null,
+    "is_free": true,
+    "max_price": null,
+    "is_sold_out": false,
+    "spots_remaining": null,
+    "is_near_capacity": false,
+    "require_approval": false
+   },
+   "registration_availability": "open",
+   "featured_guests": [],
+   "manager_info": null,
+   "guest_info": null,
+   "host_info": null,
+   "waitlist_active": false,
+   "featured_city": null,
+   "calendar_api_id": "cal-sa3qxwubSMBwKYL",
+   "is_manager": true,
+   "platform": "luma",
+   "status": "approved",
+   "submitted_by_user_api_id": "usr-RPY3EQXqXuBRfD5",
+   "tags": []
+  }
+ ],
+ "has_more": false
+}

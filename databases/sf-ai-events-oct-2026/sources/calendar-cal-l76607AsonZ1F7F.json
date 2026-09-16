@@ -1,0 +1,1279 @@
+{
+ "entries": [
+  {
+   "api_id": "calev-0c8Ej01qcmDTaU8",
+   "event": {
+    "api_id": "evt-yDtOCCt32qvV5EE",
+    "calendar_api_id": "cal-l76607AsonZ1F7F",
+    "cover_url": "https://images.lumacdn.com/uploads/wn/254f908e-95c7-4a43-b024-3f4fe4ecd437.png",
+    "end_at": "2026-09-18T03:30:00.000Z",
+    "event_type": "independent",
+    "hide_rsvp": false,
+    "location_type": "offline",
+    "name": "How to deploy a multi-model architecture",
+    "one_to_one": true,
+    "recurrence_id": null,
+    "show_guest_list": true,
+    "social_image_url": "https://images.lumacdn.com/event-social/5b/475d18db-520b-40c0-b355-46f443157acb.png",
+    "start_at": "2026-09-18T01:00:00.000Z",
+    "timezone": "America/Los_Angeles",
+    "url": "baseten-f66n",
+    "user_api_id": "usr-iBCpPkp6HaXWAKv",
+    "visibility": "public",
+    "virtual_info": {
+     "has_access": false
+    },
+    "geo_address_info": {
+     "city": "San Francisco",
+     "type": "google",
+     "region": "California",
+     "address": "150 Pacific Ave",
+     "country": "United States",
+     "place_id": "ChIJd_TfzV-AhYARwDpN54b3P88",
+     "localized": null,
+     "city_state": "San Francisco, CA",
+     "description": "",
+     "sublocality": "Northern Waterfront",
+     "country_code": "US",
+     "full_address": "150 Pacific Ave, San Francisco, CA 94111, USA",
+     "region_short": "CA",
+     "short_address": "150 Pacific Ave, San Francisco",
+     "place_coordinate": {
+      "latitude": 37.798127799999996,
+      "longitude": -122.39893980000001
+     },
+     "apple_maps_place_id": null,
+     "mode": "shown"
+    },
+    "geo_address_visibility": "public",
+    "coordinate": {
+     "longitude": -122.39893980000001,
+     "latitude": 37.798127799999996
+    },
+    "waitlist_enabled": true,
+    "waitlist_status": "enabled"
+   },
+   "cover_image": {
+    "colors": [
+     "#eae8e3",
+     "#069e6d",
+     "#12110f",
+     "#bd805e"
+    ],
+    "palette": {
+     "neutral": [
+      {
+       "color": "#12110f",
+       "percentage": 10.04
+      },
+      {
+       "color": "#eae8e3",
+       "percentage": 52.67
+      }
+     ],
+     "vibrant": [
+      {
+       "color": "#069e6d",
+       "percentage": 12.91
+      },
+      {
+       "color": "#bd805e",
+       "percentage": 2.1
+      },
+      {
+       "color": "#747f36",
+       "percentage": 0.7
+      },
+      {
+       "color": "#27384e",
+       "percentage": 2.43
+      }
+     ]
+    }
+   },
+   "calendar": {
+    "access_level": "public",
+    "api_id": "cal-l76607AsonZ1F7F",
+    "avatar_url": "https://images.lumacdn.com/calendars/2g/43329522-6272-4f42-af71-5f4e2c7d113a.png",
+    "coordinate": null,
+    "cover_image_url": "https://images.lumacdn.com/calendar-cover-images/1m/e4190e11-99c7-431c-a5fb-82f9d2176199.png",
+    "description_short": "",
+    "end_date": null,
+    "event_submission_restriction": "open",
+    "google_measurement_id": null,
+    "instagram_handle": null,
+    "is_blocked": false,
+    "is_verified": false,
+    "launch_status": "launched",
+    "linkedin_handle": "/company/baseten",
+    "location": null,
+    "luma_plan": "plus",
+    "luma_plus_active": true,
+    "meta_pixel_id": null,
+    "name": "Baseten Events",
+    "personal_user_api_id": null,
+    "refund_policy": null,
+    "slug": "baseten",
+    "social_image_url": null,
+    "start_date": null,
+    "stripe_account_id": null,
+    "tax_config": null,
+    "tiktok_handle": null,
+    "tint_color": "#3CBD2C",
+    "track_meta_ads_from_luma": false,
+    "twitter_handle": "baseten",
+    "verified_at": "2023-08-03T18:53:51.492Z",
+    "website": null,
+    "youtube_handle": "baseten",
+    "is_personal": false,
+    "personal_user": null,
+    "timezone": null
+   },
+   "start_at": "2026-09-18T01:00:00.000Z",
+   "hosts": [
+    {
+     "api_id": "usr-BdJ45u7riLyMdAW",
+     "avatar_url": "https://images.lumacdn.com/avatars/7i/c3f7d0ae-8d4e-451e-9820-67a850988579.png",
+     "bio_short": "",
+     "first_name": "Jordana",
+     "last_name": "Stein",
+     "instagram_handle": null,
+     "is_verified": false,
+     "linkedin_handle": "/company/baseten",
+     "name": "Baseten",
+     "tiktok_handle": null,
+     "timezone": "America/Los_Angeles",
+     "twitter_handle": "basetenco",
+     "username": null,
+     "website": "https://baseten.com",
+     "youtube_handle": null
+    }
+   ],
+   "guest_count": 188,
+   "ticket_count": 188,
+   "ticket_info": {
+    "price": null,
+    "is_free": true,
+    "max_price": null,
+    "is_sold_out": false,
+    "spots_remaining": 137,
+    "is_near_capacity": false,
+    "require_approval": true
+   },
+   "registration_availability": "open",
+   "featured_guests": [
+    {
+     "api_id": "usr-3KQ66ytzdxPkkZa",
+     "avatar_url": "https://images.lumacdn.com/avatars/nx/7829197e-427f-4571-8370-4e7795e78363.jpg",
+     "bio_short": "Software engineer @ Virta Health",
+     "first_name": "Kate",
+     "last_name": "Dorrer",
+     "instagram_handle": null,
+     "is_verified": false,
+     "linkedin_handle": "/in/katedorrer",
+     "name": "Kate Dorrer",
+     "tiktok_handle": null,
+     "timezone": "America/Los_Angeles",
+     "twitter_handle": null,
+     "username": null,
+     "website": null,
+     "youtube_handle": null
+    },
+    {
+     "api_id": "usr-pr6oXYVxhliVE35",
+     "avatar_url": "https://images.lumacdn.com/avatars/7o/88806409-7e2a-42d8-8c68-fb17e8e00131",
+     "bio_short": "https://github.com/will-wright-eng",
+     "first_name": "Will",
+     "last_name": "Wright",
+     "instagram_handle": null,
+     "is_verified": false,
+     "linkedin_handle": "/in/willwrighteng",
+     "name": "Will Wright",
+     "tiktok_handle": null,
+     "timezone": "America/Los_Angeles",
+     "twitter_handle": "willwrighteng",
+     "username": null,
+     "website": "https://cyberepistemics.com/",
+     "youtube_handle": ""
+    },
+    {
+     "api_id": "usr-7e3smmpA7GV29dJ",
+     "avatar_url": "https://images.lumacdn.com/avatars/ja/795aaf52-fde0-4a87-a38e-7e5bdac4e2d6.jpg",
+     "bio_short": "Building creativity & community.",
+     "first_name": "Srujani",
+     "last_name": "Kamineni",
+     "instagram_handle": "srujani.fyi",
+     "is_verified": false,
+     "linkedin_handle": "/in/srujani-kamineni",
+     "name": "Srujani Kamineni",
+     "tiktok_handle": null,
+     "timezone": "America/Los_Angeles",
+     "twitter_handle": null,
+     "username": null,
+     "website": null,
+     "youtube_handle": null
+    },
+    {
+     "api_id": "usr-ge8MRJ8UdZpe6no",
+     "avatar_url": "https://images.lumacdn.com/avatars/ig/663c3ce0-92fe-463a-9500-e846e0e600a5",
+     "bio_short": "",
+     "first_name": "Alex",
+     "last_name": "Voronovich",
+     "instagram_handle": "aleq305",
+     "is_verified": false,
+     "linkedin_handle": "/in/avoronovich",
+     "name": "Alex Voronovich",
+     "tiktok_handle": null,
+     "timezone": "America/Los_Angeles",
+     "twitter_handle": "aleq305",
+     "username": null,
+     "website": null,
+     "youtube_handle": ""
+    },
+    {
+     "api_id": "usr-ECjWNMLzdSHALtP",
+     "avatar_url": "https://images.lumacdn.com/avatars/so/001bbae3-86ba-4c87-9f9e-12fe24629f8e.jpg",
+     "bio_short": null,
+     "first_name": "P",
+     "last_name": "Savva",
+     "instagram_handle": null,
+     "is_verified": false,
+     "linkedin_handle": "/in/pavelsavva (CURRENTLY HIBERNATED)",
+     "name": "Pavel Savva",
+     "tiktok_handle": null,
+     "timezone": "America/Los_Angeles",
+     "twitter_handle": null,
+     "username": "pavelsavva",
+     "website": null,
+     "youtube_handle": ""
+    },
+    {
+     "api_id": "usr-vsCUbleXw4BaJzP",
+     "avatar_url": "https://images.lumacdn.com/uploads/5a/958c651f-8174-4ac3-940c-ba9ecc9ea515.png",
+     "bio_short": "",
+     "first_name": "Tyler",
+     "last_name": "Edwards",
+     "instagram_handle": null,
+     "is_verified": false,
+     "linkedin_handle": "/in/tyler-edwards-b393a5352",
+     "name": "Tyler Edwards",
+     "tiktok_handle": null,
+     "timezone": "America/Los_Angeles",
+     "twitter_handle": "TylerEdwas",
+     "username": null,
+     "website": "https://www.overmindlab.ai/",
+     "youtube_handle": null
+    },
+    {
+     "api_id": "usr-i0JhJH5ruOG23Ms",
+     "avatar_url": "https://images.lumacdn.com/avatars/1i/11fa9fed-0e76-49c5-be75-4695788f3e3c.jpg",
+     "bio_short": "engineer | ex-asana | gimlet labs | berkeley eecs",
+     "first_name": "Kaiwen",
+     "last_name": "Zhou",
+     "instagram_handle": "kaiwenzhou_",
+     "is_verified": false,
+     "linkedin_handle": "/in/kaiwenzhou",
+     "name": "Kaiwen Zhou",
+     "tiktok_handle": null,
+     "timezone": "America/Los_Angeles",
+     "twitter_handle": "ssvankai",
+     "username": null,
+     "website": null,
+     "youtube_handle": ""
+    },
+    {
+     "api_id": "usr-3XZZMNyS6L9usEA",
+     "avatar_url": "https://images.lumacdn.com/avatars/to/65c20af7-75f3-4227-bea0-4327d28b9f22.jpg",
+     "bio_short": "Founder- Seed Stage Deep Tech | I also run a hacker house in Seattle",
+     "first_name": "Shawn",
+     "last_name": "Yang",
+     "instagram_handle": null,
+     "is_verified": false,
+     "linkedin_handle": "/in/shawnzjyang",
+     "name": "Shawn Yang",
+     "tiktok_handle": null,
+     "timezone": "America/Los_Angeles",
+     "twitter_handle": null,
+     "username": "shawnyang",
+     "website": null,
+     "youtube_handle": null
+    },
+    {
+     "api_id": "usr-0x09iAeELSwSxsV",
+     "avatar_url": "https://images.lumacdn.com/avatars/72/4b0680d9-d297-4e14-94f8-c35616e1e8ab.jpg",
+     "bio_short": "",
+     "first_name": "Casey",
+     "last_name": "Manos",
+     "instagram_handle": "caseymanos",
+     "is_verified": false,
+     "linkedin_handle": "/in/casey-manos",
+     "name": "Casey Manos",
+     "tiktok_handle": null,
+     "timezone": "America/Los_Angeles",
+     "twitter_handle": "caseymanos",
+     "username": null,
+     "website": null,
+     "youtube_handle": null
+    },
+    {
+     "api_id": "usr-wnGs5v85HrjPUZU",
+     "avatar_url": "https://images.lumacdn.com/avatars/zo/4c5b6189-a9dc-4cd3-82d7-eb3f64301531.jpg",
+     "bio_short": "",
+     "first_name": "Viv",
+     "last_name": "Saini",
+     "instagram_handle": null,
+     "is_verified": false,
+     "linkedin_handle": "/in/vsaini001",
+     "name": "Viv Saini",
+     "tiktok_handle": null,
+     "timezone": "America/New_York",
+     "twitter_handle": "viv_sa",
+     "username": null,
+     "website": null,
+     "youtube_handle": null
+    }
+   ],
+   "manager_info": null,
+   "guest_info": null,
+   "host_info": null,
+   "waitlist_active": false,
+   "featured_city": {
+    "api_id": "discplace-BDj7GNbGlsF7Cka",
+    "name": "San Francisco",
+    "slug": "sf"
+   },
+   "calendar_api_id": "cal-l76607AsonZ1F7F",
+   "is_manager": true,
+   "platform": "luma",
+   "status": "approved",
+   "submitted_by_user_api_id": "usr-iBCpPkp6HaXWAKv",
+   "tags": []
+  },
+  {
+   "api_id": "calev-ILkHZiRgb26J1Sp",
+   "event": {
+    "api_id": "evt-3qZ4kqYdR4lIMyj",
+    "calendar_api_id": "cal-l76607AsonZ1F7F",
+    "cover_url": "https://images.lumacdn.com/uploads/u1/260f6c07-8b35-45c5-b0b9-655f1cdeb76f.png",
+    "end_at": "2026-09-25T03:00:00.000Z",
+    "event_type": "independent",
+    "hide_rsvp": false,
+    "location_type": "offline",
+    "name": "Building active-active, multi-cloud systems",
+    "one_to_one": true,
+    "recurrence_id": null,
+    "show_guest_list": true,
+    "social_image_url": "https://images.lumacdn.com/event-social/82/e100bf0d-cb3d-475c-ac02-ef9837ad1d62.png",
+    "start_at": "2026-09-25T01:00:00.000Z",
+    "timezone": "America/Los_Angeles",
+    "url": "rgj99uu9",
+    "user_api_id": "usr-BdJ45u7riLyMdAW",
+    "visibility": "public",
+    "virtual_info": {
+     "has_access": false
+    },
+    "geo_address_info": {
+     "city": "San Francisco",
+     "type": "google",
+     "region": "California",
+     "address": "560 Davis St suite 250",
+     "country": "United States",
+     "place_id": "EjQ1NjAgRGF2aXMgU3Qgc3VpdGUgMjUwLCBTYW4gRnJhbmNpc2NvLCBDQSA5NDExMSwgVVNBIiUaIwoWChQKEgnTEO6BYICFgBHnU7NAnfzKERIJc3VpdGUgMjUw",
+     "localized": null,
+     "city_state": "San Francisco, CA",
+     "description": "",
+     "sublocality": "Northern Waterfront",
+     "country_code": "US",
+     "full_address": "560 Davis St suite 250, San Francisco, CA 94111, USA",
+     "region_short": "CA",
+     "short_address": "560 Davis St suite 250, San Francisco",
+     "place_coordinate": {
+      "latitude": 37.7977255,
+      "longitude": -122.3982202
+     },
+     "apple_maps_place_id": null,
+     "mode": "shown"
+    },
+    "geo_address_visibility": "public",
+    "coordinate": {
+     "longitude": -122.3982202,
+     "latitude": 37.7977255
+    },
+    "waitlist_enabled": true,
+    "waitlist_status": "enabled"
+   },
+   "cover_image": {
+    "colors": [
+     "#f1f7ef",
+     "#ffa9fd",
+     "#524440",
+     "#da9c82"
+    ],
+    "palette": {
+     "neutral": [
+      {
+       "color": "#524440",
+       "percentage": 8.82
+      },
+      {
+       "color": "#f1f7ef",
+       "percentage": 42.46
+      }
+     ],
+     "vibrant": [
+      {
+       "color": "#ffa9fd",
+       "percentage": 26.72
+      },
+      {
+       "color": "#da9c82",
+       "percentage": 2.08
+      }
+     ]
+    }
+   },
+   "calendar": {
+    "access_level": "public",
+    "api_id": "cal-l76607AsonZ1F7F",
+    "avatar_url": "https://images.lumacdn.com/calendars/2g/43329522-6272-4f42-af71-5f4e2c7d113a.png",
+    "coordinate": null,
+    "cover_image_url": "https://images.lumacdn.com/calendar-cover-images/1m/e4190e11-99c7-431c-a5fb-82f9d2176199.png",
+    "description_short": "",
+    "end_date": null,
+    "event_submission_restriction": "open",
+    "google_measurement_id": null,
+    "instagram_handle": null,
+    "is_blocked": false,
+    "is_verified": false,
+    "launch_status": "launched",
+    "linkedin_handle": "/company/baseten",
+    "location": null,
+    "luma_plan": "plus",
+    "luma_plus_active": true,
+    "meta_pixel_id": null,
+    "name": "Baseten Events",
+    "personal_user_api_id": null,
+    "refund_policy": null,
+    "slug": "baseten",
+    "social_image_url": null,
+    "start_date": null,
+    "stripe_account_id": null,
+    "tax_config": null,
+    "tiktok_handle": null,
+    "tint_color": "#3CBD2C",
+    "track_meta_ads_from_luma": false,
+    "twitter_handle": "baseten",
+    "verified_at": "2023-08-03T18:53:51.492Z",
+    "website": null,
+    "youtube_handle": "baseten",
+    "is_personal": false,
+    "personal_user": null,
+    "timezone": null
+   },
+   "start_at": "2026-09-25T01:00:00.000Z",
+   "hosts": [
+    {
+     "api_id": "usr-BdJ45u7riLyMdAW",
+     "avatar_url": "https://images.lumacdn.com/avatars/7i/c3f7d0ae-8d4e-451e-9820-67a850988579.png",
+     "bio_short": "",
+     "first_name": "Jordana",
+     "last_name": "Stein",
+     "instagram_handle": null,
+     "is_verified": false,
+     "linkedin_handle": "/company/baseten",
+     "name": "Baseten",
+     "tiktok_handle": null,
+     "timezone": "America/Los_Angeles",
+     "twitter_handle": "basetenco",
+     "username": null,
+     "website": "https://baseten.com",
+     "youtube_handle": null
+    }
+   ],
+   "guest_count": 8,
+   "ticket_count": 8,
+   "ticket_info": {
+    "price": null,
+    "is_free": true,
+    "max_price": null,
+    "is_sold_out": false,
+    "spots_remaining": 312,
+    "is_near_capacity": false,
+    "require_approval": true
+   },
+   "registration_availability": "open",
+   "featured_guests": [
+    {
+     "api_id": "usr-CEVqmxHJIoOQXvH",
+     "avatar_url": "https://images.lumacdn.com/avatars/bz/dfd96ddd-575a-4a48-ba09-7b3481b46220.jpg",
+     "bio_short": "",
+     "first_name": "Akshay",
+     "last_name": "Kayastha",
+     "instagram_handle": null,
+     "is_verified": false,
+     "linkedin_handle": "/in/akshaylb",
+     "name": "Akshay Kayastha",
+     "tiktok_handle": null,
+     "timezone": "America/Los_Angeles",
+     "twitter_handle": null,
+     "username": null,
+     "website": "https://trytenet.ai",
+     "youtube_handle": null
+    },
+    {
+     "api_id": "usr-ftJmtqVnofsyEEX",
+     "avatar_url": "https://images.lumacdn.com/uploads/6c/00cccbaf-7497-438b-8106-530e337e465b.jpg",
+     "bio_short": "",
+     "first_name": "Simon",
+     "last_name": "Shu",
+     "instagram_handle": "simon_shuu",
+     "is_verified": false,
+     "linkedin_handle": "/in/yuchengshu",
+     "name": "Simon Shu",
+     "tiktok_handle": null,
+     "timezone": "Australia/Sydney",
+     "twitter_handle": "simonlivva",
+     "username": null,
+     "website": null,
+     "youtube_handle": null
+    },
+    {
+     "api_id": "usr-6dlWGpSHZXmYWJw",
+     "avatar_url": "https://images.lumacdn.com/avatars/m6/1415a8f7-daa7-43bb-902f-ee5c76e8dd8a.jpg",
+     "bio_short": "Heyy I\u2019m Tony, ex-SWE intern at Microsoft, currently interning at Tesla and incoming Nvidia. Just wanna genuinely meet people and share!",
+     "first_name": "Tony",
+     "last_name": "Nguyen",
+     "instagram_handle": "t_n1706",
+     "is_verified": false,
+     "linkedin_handle": "/in/tony-buildd",
+     "name": "Tony Nguyen",
+     "tiktok_handle": null,
+     "timezone": "America/Los_Angeles",
+     "twitter_handle": "tonybuildd",
+     "username": null,
+     "website": null,
+     "youtube_handle": null
+    },
+    {
+     "api_id": "usr-NRsmpNczwU901SJ",
+     "avatar_url": "https://cdn.lu.ma/avatars-default/avatar_17.png",
+     "bio_short": "",
+     "first_name": "Aneesh",
+     "last_name": "Karanam",
+     "instagram_handle": null,
+     "is_verified": false,
+     "linkedin_handle": "/in/aneesh-karanam",
+     "name": "Aneesh Karanam",
+     "tiktok_handle": null,
+     "timezone": "America/Los_Angeles",
+     "twitter_handle": null,
+     "username": null,
+     "website": null,
+     "youtube_handle": null
+    },
+    {
+     "api_id": "usr-xz6NsmJzsFeh2E4",
+     "avatar_url": "https://cdn.lu.ma/avatars-default/avatar_15.png",
+     "bio_short": "",
+     "first_name": "Prameela Konduru",
+     "last_name": "Sai",
+     "instagram_handle": null,
+     "is_verified": false,
+     "linkedin_handle": "/in/prameela-konduru",
+     "name": "Sai Prameela Konduru",
+     "tiktok_handle": null,
+     "timezone": "America/Los_Angeles",
+     "twitter_handle": "missed_edgecase",
+     "username": null,
+     "website": null,
+     "youtube_handle": null
+    },
+    {
+     "api_id": "usr-CXcghMjJ1qew5PG",
+     "avatar_url": "https://cdn.lu.ma/avatars-default/avatar_39.png",
+     "bio_short": null,
+     "first_name": "Danial",
+     "last_name": "Khan",
+     "instagram_handle": null,
+     "is_verified": false,
+     "linkedin_handle": null,
+     "name": "MR DANIAL KHAN",
+     "tiktok_handle": null,
+     "timezone": "Europe/London",
+     "twitter_handle": null,
+     "username": null,
+     "website": null,
+     "youtube_handle": null
+    },
+    {
+     "api_id": "usr-8KHcHGH7ZFfsvWX",
+     "avatar_url": "https://cdn.lu.ma/avatars-default/avatar_33.png",
+     "bio_short": null,
+     "first_name": "Shahed",
+     "last_name": "Mazumder",
+     "instagram_handle": null,
+     "is_verified": false,
+     "linkedin_handle": "/in/mazumdershahed",
+     "name": "Shahed Mazumder",
+     "tiktok_handle": null,
+     "timezone": "America/Los_Angeles",
+     "twitter_handle": null,
+     "username": null,
+     "website": null,
+     "youtube_handle": null
+    },
+    {
+     "api_id": "usr-3h0fhGmVESSLIqg",
+     "avatar_url": "https://cdn.lu.ma/avatars-default/avatar_23.png",
+     "bio_short": "",
+     "first_name": "Ayush",
+     "last_name": "Kumar",
+     "instagram_handle": null,
+     "is_verified": false,
+     "linkedin_handle": "/in/ayush-kumar-0611",
+     "name": "Ayush Kumar",
+     "tiktok_handle": null,
+     "timezone": "America/Los_Angeles",
+     "twitter_handle": "ayus_h",
+     "username": null,
+     "website": null,
+     "youtube_handle": null
+    }
+   ],
+   "manager_info": null,
+   "guest_info": null,
+   "host_info": null,
+   "waitlist_active": false,
+   "featured_city": null,
+   "calendar_api_id": "cal-l76607AsonZ1F7F",
+   "is_manager": true,
+   "platform": "luma",
+   "status": "approved",
+   "submitted_by_user_api_id": "usr-BdJ45u7riLyMdAW",
+   "tags": []
+  },
+  {
+   "api_id": "calev-NZNveefUAUVE242",
+   "event": {
+    "api_id": "evt-fbXDcwz01gSiIbn",
+    "calendar_api_id": "cal-l76607AsonZ1F7F",
+    "cover_url": "https://images.lumacdn.com/uploads/z5/bd7eb849-80fb-4c8a-9ad3-9e33763bac3a.png",
+    "end_at": "2026-10-01T03:00:00.000Z",
+    "event_type": "independent",
+    "hide_rsvp": false,
+    "location_type": "offline",
+    "name": "Cache Me Outside: A Rooftop Party at the AI Conference",
+    "one_to_one": true,
+    "recurrence_id": null,
+    "show_guest_list": false,
+    "social_image_url": "https://images.lumacdn.com/event-social/v8/1df2502b-131e-43bb-890f-2c691c6e3c82.png",
+    "start_at": "2026-10-01T00:00:00.000Z",
+    "timezone": "America/Los_Angeles",
+    "url": "wesjv6eq",
+    "user_api_id": "usr-BdJ45u7riLyMdAW",
+    "visibility": "public",
+    "virtual_info": {
+     "has_access": false
+    },
+    "geo_address_info": {
+     "city": "San Francisco",
+     "type": "google",
+     "region": "California",
+     "address": "KAIY\u014c Rooftop",
+     "country": "United States",
+     "place_id": "ChIJAS1jCN5_j4AR_KeMCaeunWw",
+     "localized": null,
+     "city_state": "San Francisco, CA",
+     "description": "",
+     "sublocality": "China Basin",
+     "country_code": "US",
+     "full_address": "KAIY\u014c Rooftop, 701 3rd St 12th Floor, San Francisco, CA 94107, USA",
+     "region_short": "CA",
+     "short_address": "701 3rd St 12th Floor, San Francisco",
+     "place_coordinate": {
+      "latitude": 37.778855899999996,
+      "longitude": -122.39241349999999
+     },
+     "apple_maps_place_id": "I5C6B3D360B45B56B",
+     "mode": "shown"
+    },
+    "geo_address_visibility": "public",
+    "coordinate": {
+     "longitude": -122.39241349999999,
+     "latitude": 37.778855899999996
+    },
+    "waitlist_enabled": true,
+    "waitlist_status": "enabled"
+   },
+   "cover_image": {
+    "colors": [
+     "#060604",
+     "#1ee784",
+     "#f1f1f0",
+     "#865d17"
+    ],
+    "palette": {
+     "neutral": [
+      {
+       "color": "#060604",
+       "percentage": 41.89
+      },
+      {
+       "color": "#f1f1f0",
+       "percentage": 9.65
+      }
+     ],
+     "vibrant": [
+      {
+       "color": "#1ee784",
+       "percentage": 10.02
+      },
+      {
+       "color": "#865d17",
+       "percentage": 2.13
+      }
+     ]
+    }
+   },
+   "calendar": {
+    "access_level": "public",
+    "api_id": "cal-l76607AsonZ1F7F",
+    "avatar_url": "https://images.lumacdn.com/calendars/2g/43329522-6272-4f42-af71-5f4e2c7d113a.png",
+    "coordinate": null,
+    "cover_image_url": "https://images.lumacdn.com/calendar-cover-images/1m/e4190e11-99c7-431c-a5fb-82f9d2176199.png",
+    "description_short": "",
+    "end_date": null,
+    "event_submission_restriction": "open",
+    "google_measurement_id": null,
+    "instagram_handle": null,
+    "is_blocked": false,
+    "is_verified": false,
+    "launch_status": "launched",
+    "linkedin_handle": "/company/baseten",
+    "location": null,
+    "luma_plan": "plus",
+    "luma_plus_active": true,
+    "meta_pixel_id": null,
+    "name": "Baseten Events",
+    "personal_user_api_id": null,
+    "refund_policy": null,
+    "slug": "baseten",
+    "social_image_url": null,
+    "start_date": null,
+    "stripe_account_id": null,
+    "tax_config": null,
+    "tiktok_handle": null,
+    "tint_color": "#3CBD2C",
+    "track_meta_ads_from_luma": false,
+    "twitter_handle": "baseten",
+    "verified_at": "2023-08-03T18:53:51.492Z",
+    "website": null,
+    "youtube_handle": "baseten",
+    "is_personal": false,
+    "personal_user": null,
+    "timezone": null
+   },
+   "start_at": "2026-10-01T00:00:00.000Z",
+   "hosts": [
+    {
+     "api_id": "usr-BdJ45u7riLyMdAW",
+     "avatar_url": "https://images.lumacdn.com/avatars/7i/c3f7d0ae-8d4e-451e-9820-67a850988579.png",
+     "bio_short": "",
+     "first_name": "Jordana",
+     "last_name": "Stein",
+     "instagram_handle": null,
+     "is_verified": false,
+     "linkedin_handle": "/company/baseten",
+     "name": "Baseten",
+     "tiktok_handle": null,
+     "timezone": "America/Los_Angeles",
+     "twitter_handle": "basetenco",
+     "username": null,
+     "website": "https://baseten.com",
+     "youtube_handle": null
+    },
+    {
+     "api_id": "usr-YAH2fPrqSGoEfv5",
+     "avatar_url": "https://images.lumacdn.com/avatars/n0/f1138cbb-c6f2-43b1-b2f0-c48af7131757.png",
+     "bio_short": "",
+     "first_name": "LangChain",
+     "last_name": "Events",
+     "instagram_handle": null,
+     "is_verified": false,
+     "linkedin_handle": "/in/kelly-brayton",
+     "name": "LangChain Events",
+     "tiktok_handle": null,
+     "timezone": "America/Chicago",
+     "twitter_handle": null,
+     "username": null,
+     "website": null,
+     "youtube_handle": ""
+    }
+   ],
+   "guest_count": 0,
+   "ticket_count": 0,
+   "ticket_info": {
+    "price": null,
+    "is_free": true,
+    "max_price": null,
+    "is_sold_out": false,
+    "spots_remaining": 532,
+    "is_near_capacity": false,
+    "require_approval": true
+   },
+   "registration_availability": "open",
+   "featured_guests": [],
+   "manager_info": null,
+   "guest_info": null,
+   "host_info": null,
+   "waitlist_active": false,
+   "featured_city": null,
+   "calendar_api_id": "cal-l76607AsonZ1F7F",
+   "is_manager": true,
+   "platform": "luma",
+   "status": "approved",
+   "submitted_by_user_api_id": "usr-BdJ45u7riLyMdAW",
+   "tags": []
+  },
+  {
+   "api_id": "calev-sJiZPNMlANvwErs",
+   "event": {
+    "api_id": "evt-bEK43N99EDzpCwL",
+    "calendar_api_id": "cal-l76607AsonZ1F7F",
+    "cover_url": "https://images.lumacdn.com/uploads/b2/788559ac-ee18-493f-9804-6cf9b4a4ee43.png",
+    "end_at": "2026-10-01T03:30:00.000Z",
+    "event_type": "independent",
+    "hide_rsvp": false,
+    "location_type": "offline",
+    "name": "Spiros Xanthos (Founder and CEO, Resolve AI) in conversation with Corinne Marie Riley (Partner, Greylock)",
+    "one_to_one": true,
+    "recurrence_id": null,
+    "show_guest_list": true,
+    "social_image_url": "https://images.lumacdn.com/event-social/e9/7b6ad611-07d4-4754-871b-76e69817a206.png",
+    "start_at": "2026-10-01T01:00:00.000Z",
+    "timezone": "America/Los_Angeles",
+    "url": "baseten-8li0",
+    "user_api_id": "usr-iBCpPkp6HaXWAKv",
+    "visibility": "public",
+    "virtual_info": {
+     "has_access": false
+    },
+    "geo_address_info": {
+     "city": "San Francisco",
+     "type": "google",
+     "region": "California",
+     "address": "150 Pacific Ave",
+     "country": "United States",
+     "place_id": "ChIJd_TfzV-AhYARwDpN54b3P88",
+     "localized": null,
+     "city_state": "San Francisco, CA",
+     "description": "",
+     "sublocality": "Northern Waterfront",
+     "country_code": "US",
+     "full_address": "150 Pacific Ave, San Francisco, CA 94111, USA",
+     "region_short": "CA",
+     "short_address": "150 Pacific Ave, San Francisco",
+     "place_coordinate": {
+      "latitude": 37.798127799999996,
+      "longitude": -122.39893980000001
+     },
+     "apple_maps_place_id": null,
+     "mode": "shown"
+    },
+    "geo_address_visibility": "public",
+    "coordinate": {
+     "longitude": -122.39893980000001,
+     "latitude": 37.798127799999996
+    },
+    "waitlist_enabled": true,
+    "waitlist_status": "enabled"
+   },
+   "cover_image": {
+    "colors": [
+     "#e1eadd",
+     "#22212a",
+     "#fea8fc",
+     "#d4ee02"
+    ],
+    "palette": {
+     "neutral": [
+      {
+       "color": "#22212a",
+       "percentage": 12.47
+      },
+      {
+       "color": "#e1eadd",
+       "percentage": 59.43
+      }
+     ],
+     "vibrant": [
+      {
+       "color": "#fea8fc",
+       "percentage": 5.26
+      },
+      {
+       "color": "#d4ee02",
+       "percentage": 0.07
+      },
+      {
+       "color": "#934f41",
+       "percentage": 2.62
+      }
+     ]
+    }
+   },
+   "calendar": {
+    "access_level": "public",
+    "api_id": "cal-l76607AsonZ1F7F",
+    "avatar_url": "https://images.lumacdn.com/calendars/2g/43329522-6272-4f42-af71-5f4e2c7d113a.png",
+    "coordinate": null,
+    "cover_image_url": "https://images.lumacdn.com/calendar-cover-images/1m/e4190e11-99c7-431c-a5fb-82f9d2176199.png",
+    "description_short": "",
+    "end_date": null,
+    "event_submission_restriction": "open",
+    "google_measurement_id": null,
+    "instagram_handle": null,
+    "is_blocked": false,
+    "is_verified": false,
+    "launch_status": "launched",
+    "linkedin_handle": "/company/baseten",
+    "location": null,
+    "luma_plan": "plus",
+    "luma_plus_active": true,
+    "meta_pixel_id": null,
+    "name": "Baseten Events",
+    "personal_user_api_id": null,
+    "refund_policy": null,
+    "slug": "baseten",
+    "social_image_url": null,
+    "start_date": null,
+    "stripe_account_id": null,
+    "tax_config": null,
+    "tiktok_handle": null,
+    "tint_color": "#3CBD2C",
+    "track_meta_ads_from_luma": false,
+    "twitter_handle": "baseten",
+    "verified_at": "2023-08-03T18:53:51.492Z",
+    "website": null,
+    "youtube_handle": "baseten",
+    "is_personal": false,
+    "personal_user": null,
+    "timezone": null
+   },
+   "start_at": "2026-10-01T01:00:00.000Z",
+   "hosts": [
+    {
+     "api_id": "usr-BdJ45u7riLyMdAW",
+     "avatar_url": "https://images.lumacdn.com/avatars/7i/c3f7d0ae-8d4e-451e-9820-67a850988579.png",
+     "bio_short": "",
+     "first_name": "Jordana",
+     "last_name": "Stein",
+     "instagram_handle": null,
+     "is_verified": false,
+     "linkedin_handle": "/company/baseten",
+     "name": "Baseten",
+     "tiktok_handle": null,
+     "timezone": "America/Los_Angeles",
+     "twitter_handle": "basetenco",
+     "username": null,
+     "website": "https://baseten.com",
+     "youtube_handle": null
+    }
+   ],
+   "guest_count": 7,
+   "ticket_count": 7,
+   "ticket_info": {
+    "price": null,
+    "is_free": true,
+    "max_price": null,
+    "is_sold_out": false,
+    "spots_remaining": 318,
+    "is_near_capacity": false,
+    "require_approval": true
+   },
+   "registration_availability": "open",
+   "featured_guests": [
+    {
+     "api_id": "usr-eEsUYC3IGKT2AZS",
+     "avatar_url": "https://images.lumacdn.com/avatars/ea/92ee26c7-8c8f-430a-8886-35b1e5bdbc06.jpg",
+     "bio_short": "",
+     "first_name": "Philip",
+     "last_name": "Kiely",
+     "instagram_handle": null,
+     "is_verified": false,
+     "linkedin_handle": "/in/philipkiely",
+     "name": "Philip Kiely",
+     "tiktok_handle": null,
+     "timezone": "America/Los_Angeles",
+     "twitter_handle": "philip_kiely",
+     "username": "philipkiely",
+     "website": "https://philipkiely.com",
+     "youtube_handle": ""
+    },
+    {
+     "api_id": "usr-BdJ45u7riLyMdAW",
+     "avatar_url": "https://images.lumacdn.com/avatars/7i/c3f7d0ae-8d4e-451e-9820-67a850988579.png",
+     "bio_short": "",
+     "first_name": "Jordana",
+     "last_name": "Stein",
+     "instagram_handle": null,
+     "is_verified": false,
+     "linkedin_handle": "/company/baseten",
+     "name": "Baseten",
+     "tiktok_handle": null,
+     "timezone": "America/Los_Angeles",
+     "twitter_handle": "basetenco",
+     "username": null,
+     "website": "https://baseten.com",
+     "youtube_handle": null
+    },
+    {
+     "api_id": "usr-ACUOhEaCFcqz4c6",
+     "avatar_url": "https://cdn.lu.ma/avatars-default/avatar_12.png",
+     "bio_short": "Founder, Stealth \ud83d\ude0e",
+     "first_name": "Mario",
+     "last_name": "Delgado",
+     "instagram_handle": null,
+     "is_verified": false,
+     "linkedin_handle": "/in/mariocde",
+     "name": "Mario Elysian",
+     "tiktok_handle": null,
+     "timezone": "America/Los_Angeles",
+     "twitter_handle": "Mariodelgado",
+     "username": null,
+     "website": null,
+     "youtube_handle": null
+    },
+    {
+     "api_id": "usr-ESxdgkYQR5Kx0cK",
+     "avatar_url": "https://cdn.lu.ma/avatars-default/avatar_38.png",
+     "bio_short": "",
+     "first_name": "John",
+     "last_name": "Jung",
+     "instagram_handle": null,
+     "is_verified": false,
+     "linkedin_handle": "/in/johnjjung",
+     "name": "John Jung",
+     "tiktok_handle": null,
+     "timezone": "America/New_York",
+     "twitter_handle": "johnjjung",
+     "username": null,
+     "website": null,
+     "youtube_handle": null
+    },
+    {
+     "api_id": "usr-8y5HCHZ51lCJ9aq",
+     "avatar_url": "https://cdn.lu.ma/avatars-default/avatar_23.png",
+     "bio_short": "",
+     "first_name": "Devin",
+     "last_name": "Fuller",
+     "instagram_handle": null,
+     "is_verified": false,
+     "linkedin_handle": "/in/test",
+     "name": "Devin Fuller",
+     "tiktok_handle": null,
+     "timezone": "America/Los_Angeles",
+     "twitter_handle": null,
+     "username": null,
+     "website": null,
+     "youtube_handle": null
+    }
+   ],
+   "manager_info": null,
+   "guest_info": null,
+   "host_info": null,
+   "waitlist_active": false,
+   "featured_city": null,
+   "calendar_api_id": "cal-l76607AsonZ1F7F",
+   "is_manager": true,
+   "platform": "luma",
+   "status": "approved",
+   "submitted_by_user_api_id": "usr-iBCpPkp6HaXWAKv",
+   "tags": []
+  },
+  {
+   "api_id": "calev-QoHaqoKHwsKqbOa",
+   "event": {
+    "api_id": "evt-uhJL2EIBL7ibPNE",
+    "calendar_api_id": "cal-l76607AsonZ1F7F",
+    "cover_url": "https://images.lumacdn.com/uploads/nh/01a98ab8-5ecf-4fe2-a667-b68ff6c6cec8.png",
+    "end_at": "2026-11-19T02:00:00.000Z",
+    "event_type": "independent",
+    "hide_rsvp": false,
+    "location_type": "offline",
+    "name": "Eng leaders dinner with Farhan, Head of Eng, Shopify and Baseten",
+    "one_to_one": true,
+    "recurrence_id": null,
+    "show_guest_list": true,
+    "social_image_url": "https://images.lumacdn.com/event-social/1o/c5ea23fa-d7ce-459c-92e2-ded51aebf3d5.png",
+    "start_at": "2026-11-18T23:30:00.000Z",
+    "timezone": "America/Toronto",
+    "url": "baseten-vfd7",
+    "user_api_id": "usr-BdJ45u7riLyMdAW",
+    "visibility": "public",
+    "virtual_info": {
+     "has_access": false
+    },
+    "geo_address_info": {
+     "city": "Toronto",
+     "type": "google",
+     "region": "Ontario",
+     "address": "Toronto",
+     "country": "Canada",
+     "place_id": "ChIJpTvG15DL1IkRd8S0KlBVNTI",
+     "localized": null,
+     "city_state": "Toronto, ON",
+     "description": "",
+     "sublocality": null,
+     "country_code": "CA",
+     "full_address": "Toronto, ON, Canada",
+     "region_short": "ON",
+     "short_address": "Toronto",
+     "place_coordinate": {
+      "latitude": 43.6548253,
+      "longitude": -79.388447
+     },
+     "apple_maps_place_id": null,
+     "mode": "shown"
+    },
+    "geo_address_visibility": "public",
+    "coordinate": {
+     "longitude": -79.388447,
+     "latitude": 43.6548253
+    },
+    "waitlist_enabled": false,
+    "waitlist_status": "disabled"
+   },
+   "cover_image": {
+    "colors": [
+     "#f1f6ef",
+     "#19e76e",
+     "#010101",
+     "#96c049"
+    ],
+    "palette": {
+     "neutral": [
+      {
+       "color": "#010101",
+       "percentage": 6.96
+      },
+      {
+       "color": "#f1f6ef",
+       "percentage": 65.01
+      }
+     ],
+     "vibrant": [
+      {
+       "color": "#19e76e",
+       "percentage": 27.17
+      },
+      {
+       "color": "#96c049",
+       "percentage": 0.08
+      }
+     ]
+    }
+   },
+   "calendar": {
+    "access_level": "public",
+    "api_id": "cal-l76607AsonZ1F7F",
+    "avatar_url": "https://images.lumacdn.com/calendars/2g/43329522-6272-4f42-af71-5f4e2c7d113a.png",
+    "coordinate": null,
+    "cover_image_url": "https://images.lumacdn.com/calendar-cover-images/1m/e4190e11-99c7-431c-a5fb-82f9d2176199.png",
+    "description_short": "",
+    "end_date": null,
+    "event_submission_restriction": "open",
+    "google_measurement_id": null,
+    "instagram_handle": null,
+    "is_blocked": false,
+    "is_verified": false,
+    "launch_status": "launched",
+    "linkedin_handle": "/company/baseten",
+    "location": null,
+    "luma_plan": "plus",
+    "luma_plus_active": true,
+    "meta_pixel_id": null,
+    "name": "Baseten Events",
+    "personal_user_api_id": null,
+    "refund_policy": null,
+    "slug": "baseten",
+    "social_image_url": null,
+    "start_date": null,
+    "stripe_account_id": null,
+    "tax_config": null,
+    "tiktok_handle": null,
+    "tint_color": "#3CBD2C",
+    "track_meta_ads_from_luma": false,
+    "twitter_handle": "baseten",
+    "verified_at": "2023-08-03T18:53:51.492Z",
+    "website": null,
+    "youtube_handle": "baseten",
+    "is_personal": false,
+    "personal_user": null,
+    "timezone": null
+   },
+   "start_at": "2026-11-18T23:30:00.000Z",
+   "hosts": [
+    {
+     "api_id": "usr-BdJ45u7riLyMdAW",
+     "avatar_url": "https://images.lumacdn.com/avatars/7i/c3f7d0ae-8d4e-451e-9820-67a850988579.png",
+     "bio_short": "",
+     "first_name": "Jordana",
+     "last_name": "Stein",
+     "instagram_handle": null,
+     "is_verified": false,
+     "linkedin_handle": "/company/baseten",
+     "name": "Baseten",
+     "tiktok_handle": null,
+     "timezone": "America/Los_Angeles",
+     "twitter_handle": "basetenco",
+     "username": null,
+     "website": "https://baseten.com",
+     "youtube_handle": null
+    },
+    {
+     "api_id": "usr-KmuuIfll7kOF2z1",
+     "avatar_url": "https://cdn.lu.ma/avatars-default/avatar_37.png",
+     "bio_short": "",
+     "first_name": "Sarah",
+     "last_name": "Zugelder",
+     "instagram_handle": null,
+     "is_verified": false,
+     "linkedin_handle": null,
+     "name": "Sarah Zugelder",
+     "tiktok_handle": null,
+     "timezone": "America/New_York",
+     "twitter_handle": null,
+     "username": null,
+     "website": null,
+     "youtube_handle": null
+    }
+   ],
+   "guest_count": 0,
+   "ticket_count": 0,
+   "ticket_info": {
+    "price": null,
+    "is_free": true,
+    "max_price": null,
+    "is_sold_out": false,
+    "spots_remaining": null,
+    "is_near_capacity": false,
+    "require_approval": true
+   },
+   "registration_availability": "open",
+   "featured_guests": [],
+   "manager_info": null,
+   "guest_info": null,
+   "host_info": null,
+   "waitlist_active": false,
+   "featured_city": null,
+   "calendar_api_id": "cal-l76607AsonZ1F7F",
+   "is_manager": true,
+   "platform": "luma",
+   "status": "approved",
+   "submitted_by_user_api_id": "usr-BdJ45u7riLyMdAW",
+   "tags": []
+  }
+ ],
+ "has_more": false
+}

@@ -1,0 +1,2039 @@
+{
+ "entries": [
+  {
+   "api_id": "calev-Zi5HEKqnQ9we3Wq",
+   "event": {
+    "api_id": "evt-A1I9w7kTgTbv6Gg",
+    "calendar_api_id": "cal-bCU1DaydlGSsazG",
+    "cover_url": "https://images.lumacdn.com/uploads/5v/e2d4bd40-df2f-4dee-94d3-1b4e17545dad.png",
+    "end_at": "2026-09-17T03:30:00.000Z",
+    "event_type": "independent",
+    "hide_rsvp": false,
+    "location_type": "offline",
+    "name": "Founder Dinner",
+    "one_to_one": true,
+    "recurrence_id": null,
+    "show_guest_list": false,
+    "social_image_url": "https://images.lumacdn.com/event-social/kc/85418ab7-c91f-4be3-bd4a-18f5f181f58f.png",
+    "start_at": "2026-09-17T01:30:00.000Z",
+    "timezone": "America/Los_Angeles",
+    "url": "ciolirkj",
+    "user_api_id": "usr-n5ujy3DJpkeNTUS",
+    "visibility": "public",
+    "virtual_info": {
+     "has_access": false
+    },
+    "geo_address_info": {
+     "mode": "obfuscated",
+     "city": "San Francisco",
+     "city_state": "San Francisco, CA",
+     "sublocality": "Union Street",
+     "country": "United States",
+     "country_code": "US",
+     "region": "California",
+     "region_short": "CA"
+    },
+    "geo_address_visibility": "guests-only",
+    "coordinate": {
+     "latitude": 37.797265289707994,
+     "longitude": -122.42524322372626
+    },
+    "waitlist_enabled": true,
+    "waitlist_status": "active"
+   },
+   "cover_image": {
+    "colors": [
+     "#141414"
+    ],
+    "palette": {
+     "neutral": [
+      {
+       "color": "#141414",
+       "percentage": 20.27
+      },
+      {
+       "color": "#1b1b1b",
+       "percentage": 13.13
+      },
+      {
+       "color": "#0b0b0b",
+       "percentage": 13.06
+      }
+     ],
+     "vibrant": []
+    }
+   },
+   "calendar": {
+    "access_level": "public",
+    "api_id": "cal-bCU1DaydlGSsazG",
+    "avatar_url": "https://images.lumacdn.com/calendars/0l/0594dad1-774d-4989-a603-87361364741d.png",
+    "coordinate": {
+     "longitude": -74.005973,
+     "latitude": 40.712775
+    },
+    "cover_image_url": "https://images.lumacdn.com/calendar-cover-images/qm/759a06c5-ac52-48cb-b7bf-a3d2139f040b.png",
+    "description_short": "The trusted circle of extraordinary builders",
+    "end_date": null,
+    "event_submission_restriction": "open",
+    "google_measurement_id": null,
+    "instagram_handle": "brderless",
+    "is_blocked": false,
+    "is_verified": false,
+    "launch_status": "launched",
+    "linkedin_handle": "/company/brderless",
+    "location": {
+     "city": "New York",
+     "region": null,
+     "country": "United States",
+     "place_id": "ChIJOwg_06VPwokRYv534QaPC8g",
+     "timezone": "America/New_York",
+     "country_code": "US"
+    },
+    "luma_plan": "plus",
+    "luma_plus_active": true,
+    "meta_pixel_id": null,
+    "name": "Brderless",
+    "personal_user_api_id": null,
+    "refund_policy": null,
+    "slug": "brderless",
+    "social_image_url": null,
+    "start_date": null,
+    "stripe_account_id": "acct_1Qk4pABB0QRfCv8J",
+    "tax_config": null,
+    "tiktok_handle": null,
+    "tint_color": "#131517",
+    "track_meta_ads_from_luma": false,
+    "twitter_handle": "joinbrderless",
+    "verified_at": "2025-03-10T19:26:40.481Z",
+    "website": "https://www.brderless.com/",
+    "youtube_handle": null,
+    "is_personal": false,
+    "personal_user": null,
+    "timezone": "America/New_York"
+   },
+   "start_at": "2026-09-17T01:30:00.000Z",
+   "hosts": [
+    {
+     "api_id": "usr-n5ujy3DJpkeNTUS",
+     "avatar_url": "https://images.lumacdn.com/avatars/t7/c1c8df97-f579-4f2f-be9c-7d9d042e23d6",
+     "bio_short": "",
+     "first_name": "Amy",
+     "last_name": "Quan",
+     "instagram_handle": "amylquan",
+     "is_verified": false,
+     "linkedin_handle": "/in/amylquan",
+     "name": "Amy Quan",
+     "tiktok_handle": null,
+     "timezone": "America/New_York",
+     "twitter_handle": "amylquan",
+     "username": "itsamyquan",
+     "website": null,
+     "youtube_handle": ""
+    },
+    {
+     "api_id": "usr-ZLOb8QVGaTn2ZcC",
+     "avatar_url": "https://images.lumacdn.com/avatars/18/b6af805e-9fa3-47e7-ab82-de93edd0e65d.png",
+     "bio_short": "",
+     "first_name": "",
+     "last_name": "",
+     "instagram_handle": "brderless",
+     "is_verified": false,
+     "linkedin_handle": "/company/brderless",
+     "name": "Brderless",
+     "tiktok_handle": null,
+     "timezone": "America/Los_Angeles",
+     "twitter_handle": "joinbrderless",
+     "username": "brderless",
+     "website": "https://www.brderless.com",
+     "youtube_handle": ""
+    }
+   ],
+   "guest_count": 0,
+   "ticket_count": 0,
+   "ticket_info": {
+    "price": null,
+    "is_free": true,
+    "max_price": null,
+    "is_sold_out": true,
+    "spots_remaining": 0,
+    "is_near_capacity": false,
+    "require_approval": true
+   },
+   "registration_availability": "waitlist",
+   "featured_guests": [],
+   "manager_info": null,
+   "guest_info": null,
+   "host_info": null,
+   "waitlist_active": true,
+   "featured_city": null,
+   "calendar_api_id": "cal-bCU1DaydlGSsazG",
+   "is_manager": true,
+   "platform": "luma",
+   "status": "approved",
+   "submitted_by_user_api_id": "usr-n5ujy3DJpkeNTUS",
+   "tags": []
+  },
+  {
+   "api_id": "calev-59ZQZXnd7AYKWex",
+   "event": {
+    "api_id": "evt-LnLiUiEUr9dB1y7",
+    "calendar_api_id": "cal-bCU1DaydlGSsazG",
+    "cover_url": "https://images.lumacdn.com/uploads/pp/b6b77c32-f2ef-4dfd-bdea-e31931bf948b.png",
+    "end_at": "2026-09-18T23:00:00.000Z",
+    "event_type": "independent",
+    "hide_rsvp": false,
+    "location_type": "offline",
+    "name": "Founder Yacht Lunch",
+    "one_to_one": true,
+    "recurrence_id": null,
+    "show_guest_list": false,
+    "social_image_url": "https://images.lumacdn.com/event-social/z8/135a58cb-fd7c-4383-86cd-b7d447f5ab7e.png",
+    "start_at": "2026-09-18T19:30:00.000Z",
+    "timezone": "America/Los_Angeles",
+    "url": "agbo8zmt",
+    "user_api_id": "usr-n5ujy3DJpkeNTUS",
+    "visibility": "public",
+    "virtual_info": {
+     "has_access": false
+    },
+    "geo_address_info": {
+     "mode": "obfuscated",
+     "city": "San Francisco",
+     "city_state": "San Francisco, CA",
+     "sublocality": "South Beach",
+     "country": "United States",
+     "country_code": "US",
+     "region": "California",
+     "region_short": "CA"
+    },
+    "geo_address_visibility": "guests-only",
+    "coordinate": {
+     "latitude": 37.77871991758536,
+     "longitude": -122.3852246559201
+    },
+    "waitlist_enabled": true,
+    "waitlist_status": "active"
+   },
+   "cover_image": {
+    "colors": [
+     "#1a1a1a"
+    ],
+    "palette": {
+     "neutral": [
+      {
+       "color": "#141414",
+       "percentage": 17.88
+      },
+      {
+       "color": "#1b1b1b",
+       "percentage": 14.87
+      },
+      {
+       "color": "#222222",
+       "percentage": 13.64
+      }
+     ],
+     "vibrant": []
+    }
+   },
+   "calendar": {
+    "access_level": "public",
+    "api_id": "cal-bCU1DaydlGSsazG",
+    "avatar_url": "https://images.lumacdn.com/calendars/0l/0594dad1-774d-4989-a603-87361364741d.png",
+    "coordinate": {
+     "longitude": -74.005973,
+     "latitude": 40.712775
+    },
+    "cover_image_url": "https://images.lumacdn.com/calendar-cover-images/qm/759a06c5-ac52-48cb-b7bf-a3d2139f040b.png",
+    "description_short": "The trusted circle of extraordinary builders",
+    "end_date": null,
+    "event_submission_restriction": "open",
+    "google_measurement_id": null,
+    "instagram_handle": "brderless",
+    "is_blocked": false,
+    "is_verified": false,
+    "launch_status": "launched",
+    "linkedin_handle": "/company/brderless",
+    "location": {
+     "city": "New York",
+     "region": null,
+     "country": "United States",
+     "place_id": "ChIJOwg_06VPwokRYv534QaPC8g",
+     "timezone": "America/New_York",
+     "country_code": "US"
+    },
+    "luma_plan": "plus",
+    "luma_plus_active": true,
+    "meta_pixel_id": null,
+    "name": "Brderless",
+    "personal_user_api_id": null,
+    "refund_policy": null,
+    "slug": "brderless",
+    "social_image_url": null,
+    "start_date": null,
+    "stripe_account_id": "acct_1Qk4pABB0QRfCv8J",
+    "tax_config": null,
+    "tiktok_handle": null,
+    "tint_color": "#131517",
+    "track_meta_ads_from_luma": false,
+    "twitter_handle": "joinbrderless",
+    "verified_at": "2025-03-10T19:26:40.481Z",
+    "website": "https://www.brderless.com/",
+    "youtube_handle": null,
+    "is_personal": false,
+    "personal_user": null,
+    "timezone": "America/New_York"
+   },
+   "start_at": "2026-09-18T19:30:00.000Z",
+   "hosts": [
+    {
+     "api_id": "usr-n5ujy3DJpkeNTUS",
+     "avatar_url": "https://images.lumacdn.com/avatars/t7/c1c8df97-f579-4f2f-be9c-7d9d042e23d6",
+     "bio_short": "",
+     "first_name": "Amy",
+     "last_name": "Quan",
+     "instagram_handle": "amylquan",
+     "is_verified": false,
+     "linkedin_handle": "/in/amylquan",
+     "name": "Amy Quan",
+     "tiktok_handle": null,
+     "timezone": "America/New_York",
+     "twitter_handle": "amylquan",
+     "username": "itsamyquan",
+     "website": null,
+     "youtube_handle": ""
+    },
+    {
+     "api_id": "usr-ZLOb8QVGaTn2ZcC",
+     "avatar_url": "https://images.lumacdn.com/avatars/18/b6af805e-9fa3-47e7-ab82-de93edd0e65d.png",
+     "bio_short": "",
+     "first_name": "",
+     "last_name": "",
+     "instagram_handle": "brderless",
+     "is_verified": false,
+     "linkedin_handle": "/company/brderless",
+     "name": "Brderless",
+     "tiktok_handle": null,
+     "timezone": "America/Los_Angeles",
+     "twitter_handle": "joinbrderless",
+     "username": "brderless",
+     "website": "https://www.brderless.com",
+     "youtube_handle": ""
+    },
+    {
+     "api_id": "usr-GeQtrH0AV35nLwN",
+     "avatar_url": "https://cdn.lu.ma/avatars-default/avatar_45.png",
+     "bio_short": null,
+     "first_name": "Tanuj",
+     "last_name": "Mittal",
+     "instagram_handle": null,
+     "is_verified": false,
+     "linkedin_handle": "/in/sunkenhands",
+     "name": "Tanuj Mittal",
+     "tiktok_handle": null,
+     "timezone": "Asia/Kolkata",
+     "twitter_handle": null,
+     "username": null,
+     "website": null,
+     "youtube_handle": null
+    },
+    {
+     "api_id": "usr-hGBsBrmYDUg0utz",
+     "avatar_url": "https://images.lumacdn.com/avatars/hr/c405d1aa-d2a8-4fd8-a17f-5b6cab833518.jpg",
+     "bio_short": "Startups @ Chargebee",
+     "first_name": "Baargav",
+     "last_name": "Duggirala",
+     "instagram_handle": "baar.so.high",
+     "is_verified": false,
+     "linkedin_handle": "/in/baargav",
+     "name": "Baargav Duggirala",
+     "tiktok_handle": null,
+     "timezone": "America/Los_Angeles",
+     "twitter_handle": "baarsohigh",
+     "username": null,
+     "website": null,
+     "youtube_handle": null
+    },
+    {
+     "api_id": "usr-yu6PPyOf2jTfq29",
+     "avatar_url": "https://images.lumacdn.com/avatars/9l/ffb92a08-c38b-4940-8eb7-5d7d37802a68.png",
+     "bio_short": "Chief Growth Officer @ Xtrace",
+     "first_name": "Austin",
+     "last_name": "Cai",
+     "instagram_handle": null,
+     "is_verified": false,
+     "linkedin_handle": "/in/austin-cai",
+     "name": "Austin Cai",
+     "tiktok_handle": null,
+     "timezone": "America/Los_Angeles",
+     "twitter_handle": "fromaustinc",
+     "username": "austinc",
+     "website": "https://xtrace.ai",
+     "youtube_handle": null
+    }
+   ],
+   "guest_count": 0,
+   "ticket_count": 0,
+   "ticket_info": {
+    "price": null,
+    "is_free": true,
+    "max_price": null,
+    "is_sold_out": true,
+    "spots_remaining": 0,
+    "is_near_capacity": false,
+    "require_approval": true
+   },
+   "registration_availability": "waitlist",
+   "featured_guests": [],
+   "manager_info": null,
+   "guest_info": null,
+   "host_info": null,
+   "waitlist_active": true,
+   "featured_city": null,
+   "calendar_api_id": "cal-bCU1DaydlGSsazG",
+   "is_manager": true,
+   "platform": "luma",
+   "status": "approved",
+   "submitted_by_user_api_id": "usr-n5ujy3DJpkeNTUS",
+   "tags": []
+  },
+  {
+   "api_id": "calev-0KMjTOdmAEzCVkC",
+   "event": {
+    "api_id": "evt-vqJ1KW7kXERTmuD",
+    "calendar_api_id": "cal-bCU1DaydlGSsazG",
+    "cover_url": "https://images.lumacdn.com/uploads/h9/ed99917f-5829-4f2f-85c9-a4f66a07fa14.png",
+    "end_at": "2026-09-25T00:30:00.000Z",
+    "event_type": "independent",
+    "hide_rsvp": false,
+    "location_type": "offline",
+    "name": "Founder Dinner",
+    "one_to_one": true,
+    "recurrence_id": null,
+    "show_guest_list": false,
+    "social_image_url": "https://images.lumacdn.com/event-social/r1/65fd763b-f2a1-4b9c-b017-bdc4ffabc07f.png",
+    "start_at": "2026-09-24T22:30:00.000Z",
+    "timezone": "America/New_York",
+    "url": "qiakei0k",
+    "user_api_id": "usr-n5ujy3DJpkeNTUS",
+    "visibility": "public",
+    "virtual_info": {
+     "has_access": false
+    },
+    "geo_address_info": {
+     "mode": "obfuscated",
+     "city": "New York",
+     "city_state": "New York, NY",
+     "sublocality": "West Village",
+     "country": "United States",
+     "country_code": "US",
+     "region": "New York",
+     "region_short": "NY"
+    },
+    "geo_address_visibility": "guests-only",
+    "coordinate": {
+     "latitude": 40.73348508626177,
+     "longitude": -74.00448597299864
+    },
+    "waitlist_enabled": true,
+    "waitlist_status": "active"
+   },
+   "cover_image": {
+    "colors": [
+     "#151515"
+    ],
+    "palette": {
+     "neutral": [
+      {
+       "color": "#1b1b1b",
+       "percentage": 19.32
+      },
+      {
+       "color": "#131313",
+       "percentage": 15.56
+      },
+      {
+       "color": "#0b0b0b",
+       "percentage": 13
+      }
+     ],
+     "vibrant": []
+    }
+   },
+   "calendar": {
+    "access_level": "public",
+    "api_id": "cal-bCU1DaydlGSsazG",
+    "avatar_url": "https://images.lumacdn.com/calendars/0l/0594dad1-774d-4989-a603-87361364741d.png",
+    "coordinate": {
+     "longitude": -74.005973,
+     "latitude": 40.712775
+    },
+    "cover_image_url": "https://images.lumacdn.com/calendar-cover-images/qm/759a06c5-ac52-48cb-b7bf-a3d2139f040b.png",
+    "description_short": "The trusted circle of extraordinary builders",
+    "end_date": null,
+    "event_submission_restriction": "open",
+    "google_measurement_id": null,
+    "instagram_handle": "brderless",
+    "is_blocked": false,
+    "is_verified": false,
+    "launch_status": "launched",
+    "linkedin_handle": "/company/brderless",
+    "location": {
+     "city": "New York",
+     "region": null,
+     "country": "United States",
+     "place_id": "ChIJOwg_06VPwokRYv534QaPC8g",
+     "timezone": "America/New_York",
+     "country_code": "US"
+    },
+    "luma_plan": "plus",
+    "luma_plus_active": true,
+    "meta_pixel_id": null,
+    "name": "Brderless",
+    "personal_user_api_id": null,
+    "refund_policy": null,
+    "slug": "brderless",
+    "social_image_url": null,
+    "start_date": null,
+    "stripe_account_id": "acct_1Qk4pABB0QRfCv8J",
+    "tax_config": null,
+    "tiktok_handle": null,
+    "tint_color": "#131517",
+    "track_meta_ads_from_luma": false,
+    "twitter_handle": "joinbrderless",
+    "verified_at": "2025-03-10T19:26:40.481Z",
+    "website": "https://www.brderless.com/",
+    "youtube_handle": null,
+    "is_personal": false,
+    "personal_user": null,
+    "timezone": "America/New_York"
+   },
+   "start_at": "2026-09-24T22:30:00.000Z",
+   "hosts": [
+    {
+     "api_id": "usr-n5ujy3DJpkeNTUS",
+     "avatar_url": "https://images.lumacdn.com/avatars/t7/c1c8df97-f579-4f2f-be9c-7d9d042e23d6",
+     "bio_short": "",
+     "first_name": "Amy",
+     "last_name": "Quan",
+     "instagram_handle": "amylquan",
+     "is_verified": false,
+     "linkedin_handle": "/in/amylquan",
+     "name": "Amy Quan",
+     "tiktok_handle": null,
+     "timezone": "America/New_York",
+     "twitter_handle": "amylquan",
+     "username": "itsamyquan",
+     "website": null,
+     "youtube_handle": ""
+    },
+    {
+     "api_id": "usr-ZLOb8QVGaTn2ZcC",
+     "avatar_url": "https://images.lumacdn.com/avatars/18/b6af805e-9fa3-47e7-ab82-de93edd0e65d.png",
+     "bio_short": "",
+     "first_name": "",
+     "last_name": "",
+     "instagram_handle": "brderless",
+     "is_verified": false,
+     "linkedin_handle": "/company/brderless",
+     "name": "Brderless",
+     "tiktok_handle": null,
+     "timezone": "America/Los_Angeles",
+     "twitter_handle": "joinbrderless",
+     "username": "brderless",
+     "website": "https://www.brderless.com",
+     "youtube_handle": ""
+    },
+    {
+     "api_id": "usr-jpeVtRWzfavbhEB",
+     "avatar_url": "https://images.lumacdn.com/uploads/sx/b63d6b2c-5d8e-421a-9b75-2c17c3f2abca.png",
+     "bio_short": "General Legal is the AI-native law firm for fast-growing companies. Elite attorneys, AI-native speed, and flat-fee pricing.",
+     "first_name": "",
+     "last_name": "",
+     "instagram_handle": "general.legal",
+     "is_verified": false,
+     "linkedin_handle": "/company/general-legal",
+     "name": "General Legal",
+     "tiktok_handle": null,
+     "timezone": "America/Los_Angeles",
+     "twitter_handle": "gen_legal_inc",
+     "username": "generallegal",
+     "website": "https://general.legal",
+     "youtube_handle": "general-legal"
+    }
+   ],
+   "guest_count": 0,
+   "ticket_count": 0,
+   "ticket_info": {
+    "price": null,
+    "is_free": true,
+    "max_price": null,
+    "is_sold_out": false,
+    "spots_remaining": 3,
+    "is_near_capacity": true,
+    "require_approval": true
+   },
+   "registration_availability": "open",
+   "featured_guests": [],
+   "manager_info": null,
+   "guest_info": null,
+   "host_info": null,
+   "waitlist_active": false,
+   "featured_city": null,
+   "calendar_api_id": "cal-bCU1DaydlGSsazG",
+   "is_manager": true,
+   "platform": "luma",
+   "status": "approved",
+   "submitted_by_user_api_id": "usr-n5ujy3DJpkeNTUS",
+   "tags": []
+  },
+  {
+   "api_id": "calev-Wjg7w7L5GxjEfez",
+   "event": {
+    "api_id": "evt-iSGREuWoObHDaLE",
+    "calendar_api_id": "cal-bCU1DaydlGSsazG",
+    "cover_url": "https://images.lumacdn.com/uploads/l7/ed35220b-a97d-4c17-aedd-be8364ad4c11.png",
+    "end_at": "2026-10-04T23:00:00.000Z",
+    "event_type": "independent",
+    "hide_rsvp": false,
+    "location_type": "offline",
+    "name": "Brderless Buildathon: AI Agents",
+    "one_to_one": true,
+    "recurrence_id": null,
+    "show_guest_list": false,
+    "social_image_url": "https://images.lumacdn.com/event-social/5c/a3f20c65-bf11-4348-bf65-64e38b7f02ee.png",
+    "start_at": "2026-10-04T14:00:00.000Z",
+    "timezone": "America/New_York",
+    "url": "buildathonnyc",
+    "user_api_id": "usr-n5ujy3DJpkeNTUS",
+    "visibility": "public",
+    "virtual_info": {
+     "has_access": false
+    },
+    "geo_address_info": {
+     "mode": "obfuscated",
+     "city": "Brooklyn",
+     "city_state": "Brooklyn, NY",
+     "sublocality": "Williamsburg",
+     "country": "United States",
+     "country_code": "US",
+     "region": "New York",
+     "region_short": "NY"
+    },
+    "geo_address_visibility": "guests-only",
+    "coordinate": {
+     "latitude": 40.71635064599024,
+     "longitude": -73.94468290405247
+    },
+    "waitlist_enabled": false,
+    "waitlist_status": "disabled"
+   },
+   "cover_image": {
+    "colors": [
+     "#0b0c0e",
+     "#ffffff",
+     "#4e412b",
+     "#131337"
+    ],
+    "palette": {
+     "neutral": [
+      {
+       "color": "#0b0c0e",
+       "percentage": 87.97
+      },
+      {
+       "color": "#ffffff",
+       "percentage": 3.37
+      }
+     ],
+     "vibrant": [
+      {
+       "color": "#131337",
+       "percentage": 0.37
+      },
+      {
+       "color": "#4e412b",
+       "percentage": 1
+      }
+     ]
+    }
+   },
+   "calendar": {
+    "access_level": "public",
+    "api_id": "cal-bCU1DaydlGSsazG",
+    "avatar_url": "https://images.lumacdn.com/calendars/0l/0594dad1-774d-4989-a603-87361364741d.png",
+    "coordinate": {
+     "longitude": -74.005973,
+     "latitude": 40.712775
+    },
+    "cover_image_url": "https://images.lumacdn.com/calendar-cover-images/qm/759a06c5-ac52-48cb-b7bf-a3d2139f040b.png",
+    "description_short": "The trusted circle of extraordinary builders",
+    "end_date": null,
+    "event_submission_restriction": "open",
+    "google_measurement_id": null,
+    "instagram_handle": "brderless",
+    "is_blocked": false,
+    "is_verified": false,
+    "launch_status": "launched",
+    "linkedin_handle": "/company/brderless",
+    "location": {
+     "city": "New York",
+     "region": null,
+     "country": "United States",
+     "place_id": "ChIJOwg_06VPwokRYv534QaPC8g",
+     "timezone": "America/New_York",
+     "country_code": "US"
+    },
+    "luma_plan": "plus",
+    "luma_plus_active": true,
+    "meta_pixel_id": null,
+    "name": "Brderless",
+    "personal_user_api_id": null,
+    "refund_policy": null,
+    "slug": "brderless",
+    "social_image_url": null,
+    "start_date": null,
+    "stripe_account_id": "acct_1Qk4pABB0QRfCv8J",
+    "tax_config": null,
+    "tiktok_handle": null,
+    "tint_color": "#131517",
+    "track_meta_ads_from_luma": false,
+    "twitter_handle": "joinbrderless",
+    "verified_at": "2025-03-10T19:26:40.481Z",
+    "website": "https://www.brderless.com/",
+    "youtube_handle": null,
+    "is_personal": false,
+    "personal_user": null,
+    "timezone": "America/New_York"
+   },
+   "start_at": "2026-10-04T14:00:00.000Z",
+   "hosts": [
+    {
+     "api_id": "usr-n5ujy3DJpkeNTUS",
+     "avatar_url": "https://images.lumacdn.com/avatars/t7/c1c8df97-f579-4f2f-be9c-7d9d042e23d6",
+     "bio_short": "",
+     "first_name": "Amy",
+     "last_name": "Quan",
+     "instagram_handle": "amylquan",
+     "is_verified": false,
+     "linkedin_handle": "/in/amylquan",
+     "name": "Amy Quan",
+     "tiktok_handle": null,
+     "timezone": "America/New_York",
+     "twitter_handle": "amylquan",
+     "username": "itsamyquan",
+     "website": null,
+     "youtube_handle": ""
+    },
+    {
+     "api_id": "usr-ZLOb8QVGaTn2ZcC",
+     "avatar_url": "https://images.lumacdn.com/avatars/18/b6af805e-9fa3-47e7-ab82-de93edd0e65d.png",
+     "bio_short": "",
+     "first_name": "",
+     "last_name": "",
+     "instagram_handle": "brderless",
+     "is_verified": false,
+     "linkedin_handle": "/company/brderless",
+     "name": "Brderless",
+     "tiktok_handle": null,
+     "timezone": "America/Los_Angeles",
+     "twitter_handle": "joinbrderless",
+     "username": "brderless",
+     "website": "https://www.brderless.com",
+     "youtube_handle": ""
+    },
+    {
+     "api_id": "usr-eGOHWjRQ2O39POL",
+     "avatar_url": "https://images.lumacdn.com/uploads/16/a9dbf3fd-774f-4690-b2f1-4686bdad6415.png",
+     "bio_short": "-> Running Bond AI - 130k AI operators and founders across SF, NY, SEA, and Europe bondcommunity.ai\n-> Writing @ aitidbits.ai\n-> ex-Stripe",
+     "first_name": "Sahar",
+     "last_name": "Mor (Bond AI)",
+     "instagram_handle": null,
+     "is_verified": false,
+     "linkedin_handle": "/in/sahar-mor",
+     "name": "Sahar Mor (Bond AI)",
+     "tiktok_handle": null,
+     "timezone": "America/Los_Angeles",
+     "twitter_handle": "theaievangelist",
+     "username": "saharmor",
+     "website": "http://bondcommunity.ai/",
+     "youtube_handle": null
+    }
+   ],
+   "guest_count": 0,
+   "ticket_count": 0,
+   "ticket_info": {
+    "price": null,
+    "is_free": true,
+    "max_price": null,
+    "is_sold_out": false,
+    "spots_remaining": null,
+    "is_near_capacity": false,
+    "require_approval": true
+   },
+   "registration_availability": "open",
+   "featured_guests": [],
+   "manager_info": null,
+   "guest_info": null,
+   "host_info": null,
+   "waitlist_active": false,
+   "featured_city": null,
+   "calendar_api_id": "cal-bCU1DaydlGSsazG",
+   "is_manager": true,
+   "platform": "luma",
+   "status": "approved",
+   "submitted_by_user_api_id": "usr-n5ujy3DJpkeNTUS",
+   "tags": []
+  },
+  {
+   "api_id": "calev-cGJxm8xTQeBdp2d",
+   "event": {
+    "api_id": "evt-6U1M58yOqpXbyJV",
+    "calendar_api_id": "cal-bCU1DaydlGSsazG",
+    "cover_url": "https://images.lumacdn.com/uploads/xv/b8b5e1b2-97c6-4289-9ef6-66e8ac069e68.png",
+    "end_at": "2026-10-07T00:30:00.000Z",
+    "event_type": "independent",
+    "hide_rsvp": false,
+    "location_type": "offline",
+    "name": "AI-Enabled Services Founder Dinner",
+    "one_to_one": true,
+    "recurrence_id": null,
+    "show_guest_list": false,
+    "social_image_url": "https://images.lumacdn.com/event-social/jt/866f21a6-c5b1-42a8-9352-d80e62693f5a.png",
+    "start_at": "2026-10-06T22:30:00.000Z",
+    "timezone": "America/New_York",
+    "url": "0hllo4g1",
+    "user_api_id": "usr-n5ujy3DJpkeNTUS",
+    "visibility": "public",
+    "virtual_info": {
+     "has_access": false
+    },
+    "geo_address_info": {
+     "mode": "obfuscated",
+     "city": "New York",
+     "city_state": "New York, NY",
+     "sublocality": "West Village",
+     "country": "United States",
+     "country_code": "US",
+     "region": "New York",
+     "region_short": "NY"
+    },
+    "geo_address_visibility": "guests-only",
+    "coordinate": {
+     "latitude": 40.73336980877563,
+     "longitude": -74.0004223867965
+    },
+    "waitlist_enabled": true,
+    "waitlist_status": "active"
+   },
+   "cover_image": {
+    "colors": [
+     "#141414"
+    ],
+    "palette": {
+     "neutral": [
+      {
+       "color": "#141414",
+       "percentage": 18.07
+      },
+      {
+       "color": "#1b1b1b",
+       "percentage": 15.25
+      },
+      {
+       "color": "#0b0b0b",
+       "percentage": 13.11
+      }
+     ],
+     "vibrant": []
+    }
+   },
+   "calendar": {
+    "access_level": "public",
+    "api_id": "cal-bCU1DaydlGSsazG",
+    "avatar_url": "https://images.lumacdn.com/calendars/0l/0594dad1-774d-4989-a603-87361364741d.png",
+    "coordinate": {
+     "longitude": -74.005973,
+     "latitude": 40.712775
+    },
+    "cover_image_url": "https://images.lumacdn.com/calendar-cover-images/qm/759a06c5-ac52-48cb-b7bf-a3d2139f040b.png",
+    "description_short": "The trusted circle of extraordinary builders",
+    "end_date": null,
+    "event_submission_restriction": "open",
+    "google_measurement_id": null,
+    "instagram_handle": "brderless",
+    "is_blocked": false,
+    "is_verified": false,
+    "launch_status": "launched",
+    "linkedin_handle": "/company/brderless",
+    "location": {
+     "city": "New York",
+     "region": null,
+     "country": "United States",
+     "place_id": "ChIJOwg_06VPwokRYv534QaPC8g",
+     "timezone": "America/New_York",
+     "country_code": "US"
+    },
+    "luma_plan": "plus",
+    "luma_plus_active": true,
+    "meta_pixel_id": null,
+    "name": "Brderless",
+    "personal_user_api_id": null,
+    "refund_policy": null,
+    "slug": "brderless",
+    "social_image_url": null,
+    "start_date": null,
+    "stripe_account_id": "acct_1Qk4pABB0QRfCv8J",
+    "tax_config": null,
+    "tiktok_handle": null,
+    "tint_color": "#131517",
+    "track_meta_ads_from_luma": false,
+    "twitter_handle": "joinbrderless",
+    "verified_at": "2025-03-10T19:26:40.481Z",
+    "website": "https://www.brderless.com/",
+    "youtube_handle": null,
+    "is_personal": false,
+    "personal_user": null,
+    "timezone": "America/New_York"
+   },
+   "start_at": "2026-10-06T22:30:00.000Z",
+   "hosts": [
+    {
+     "api_id": "usr-n5ujy3DJpkeNTUS",
+     "avatar_url": "https://images.lumacdn.com/avatars/t7/c1c8df97-f579-4f2f-be9c-7d9d042e23d6",
+     "bio_short": "",
+     "first_name": "Amy",
+     "last_name": "Quan",
+     "instagram_handle": "amylquan",
+     "is_verified": false,
+     "linkedin_handle": "/in/amylquan",
+     "name": "Amy Quan",
+     "tiktok_handle": null,
+     "timezone": "America/New_York",
+     "twitter_handle": "amylquan",
+     "username": "itsamyquan",
+     "website": null,
+     "youtube_handle": ""
+    },
+    {
+     "api_id": "usr-ZLOb8QVGaTn2ZcC",
+     "avatar_url": "https://images.lumacdn.com/avatars/18/b6af805e-9fa3-47e7-ab82-de93edd0e65d.png",
+     "bio_short": "",
+     "first_name": "",
+     "last_name": "",
+     "instagram_handle": "brderless",
+     "is_verified": false,
+     "linkedin_handle": "/company/brderless",
+     "name": "Brderless",
+     "tiktok_handle": null,
+     "timezone": "America/Los_Angeles",
+     "twitter_handle": "joinbrderless",
+     "username": "brderless",
+     "website": "https://www.brderless.com",
+     "youtube_handle": ""
+    }
+   ],
+   "guest_count": 0,
+   "ticket_count": 0,
+   "ticket_info": {
+    "price": null,
+    "is_free": true,
+    "max_price": null,
+    "is_sold_out": false,
+    "spots_remaining": 15,
+    "is_near_capacity": false,
+    "require_approval": true
+   },
+   "registration_availability": "open",
+   "featured_guests": [],
+   "manager_info": null,
+   "guest_info": null,
+   "host_info": null,
+   "waitlist_active": false,
+   "featured_city": null,
+   "calendar_api_id": "cal-bCU1DaydlGSsazG",
+   "is_manager": true,
+   "platform": "luma",
+   "status": "approved",
+   "submitted_by_user_api_id": "usr-n5ujy3DJpkeNTUS",
+   "tags": []
+  },
+  {
+   "api_id": "calev-BVFnCFZlcPaAOd7",
+   "event": {
+    "api_id": "evt-6u39tOVM9hnXSy5",
+    "calendar_api_id": "cal-bCU1DaydlGSsazG",
+    "cover_url": "https://images.lumacdn.com/uploads/hn/acf15a6c-6f82-4e67-b1f7-c3c5d11f618c.png",
+    "end_at": "2026-10-16T00:30:00.000Z",
+    "event_type": "independent",
+    "hide_rsvp": false,
+    "location_type": "offline",
+    "name": "Founder Dinner",
+    "one_to_one": true,
+    "recurrence_id": null,
+    "show_guest_list": false,
+    "social_image_url": "https://images.lumacdn.com/event-social/a1/527be273-1519-4a52-9fb8-f27fa106288f.png",
+    "start_at": "2026-10-15T22:30:00.000Z",
+    "timezone": "America/New_York",
+    "url": "ospdre5t",
+    "user_api_id": "usr-n5ujy3DJpkeNTUS",
+    "visibility": "public",
+    "virtual_info": {
+     "has_access": false
+    },
+    "geo_address_info": {
+     "mode": "obfuscated",
+     "city": "New York",
+     "city_state": "New York, NY",
+     "sublocality": "West Village",
+     "country": "United States",
+     "country_code": "US",
+     "region": "New York",
+     "region_short": "NY"
+    },
+    "geo_address_visibility": "guests-only",
+    "coordinate": {
+     "latitude": 40.73280492975682,
+     "longitude": -74.00483925886037
+    },
+    "waitlist_enabled": true,
+    "waitlist_status": "active"
+   },
+   "cover_image": {
+    "colors": [
+     "#1d1d1d"
+    ],
+    "palette": {
+     "neutral": [
+      {
+       "color": "#1b1b1b",
+       "percentage": 19.53
+      },
+      {
+       "color": "#131313",
+       "percentage": 17.53
+      },
+      {
+       "color": "#2c2c2c",
+       "percentage": 14.01
+      }
+     ],
+     "vibrant": []
+    }
+   },
+   "calendar": {
+    "access_level": "public",
+    "api_id": "cal-bCU1DaydlGSsazG",
+    "avatar_url": "https://images.lumacdn.com/calendars/0l/0594dad1-774d-4989-a603-87361364741d.png",
+    "coordinate": {
+     "longitude": -74.005973,
+     "latitude": 40.712775
+    },
+    "cover_image_url": "https://images.lumacdn.com/calendar-cover-images/qm/759a06c5-ac52-48cb-b7bf-a3d2139f040b.png",
+    "description_short": "The trusted circle of extraordinary builders",
+    "end_date": null,
+    "event_submission_restriction": "open",
+    "google_measurement_id": null,
+    "instagram_handle": "brderless",
+    "is_blocked": false,
+    "is_verified": false,
+    "launch_status": "launched",
+    "linkedin_handle": "/company/brderless",
+    "location": {
+     "city": "New York",
+     "region": null,
+     "country": "United States",
+     "place_id": "ChIJOwg_06VPwokRYv534QaPC8g",
+     "timezone": "America/New_York",
+     "country_code": "US"
+    },
+    "luma_plan": "plus",
+    "luma_plus_active": true,
+    "meta_pixel_id": null,
+    "name": "Brderless",
+    "personal_user_api_id": null,
+    "refund_policy": null,
+    "slug": "brderless",
+    "social_image_url": null,
+    "start_date": null,
+    "stripe_account_id": "acct_1Qk4pABB0QRfCv8J",
+    "tax_config": null,
+    "tiktok_handle": null,
+    "tint_color": "#131517",
+    "track_meta_ads_from_luma": false,
+    "twitter_handle": "joinbrderless",
+    "verified_at": "2025-03-10T19:26:40.481Z",
+    "website": "https://www.brderless.com/",
+    "youtube_handle": null,
+    "is_personal": false,
+    "personal_user": null,
+    "timezone": "America/New_York"
+   },
+   "start_at": "2026-10-15T22:30:00.000Z",
+   "hosts": [
+    {
+     "api_id": "usr-n5ujy3DJpkeNTUS",
+     "avatar_url": "https://images.lumacdn.com/avatars/t7/c1c8df97-f579-4f2f-be9c-7d9d042e23d6",
+     "bio_short": "",
+     "first_name": "Amy",
+     "last_name": "Quan",
+     "instagram_handle": "amylquan",
+     "is_verified": false,
+     "linkedin_handle": "/in/amylquan",
+     "name": "Amy Quan",
+     "tiktok_handle": null,
+     "timezone": "America/New_York",
+     "twitter_handle": "amylquan",
+     "username": "itsamyquan",
+     "website": null,
+     "youtube_handle": ""
+    },
+    {
+     "api_id": "usr-ZLOb8QVGaTn2ZcC",
+     "avatar_url": "https://images.lumacdn.com/avatars/18/b6af805e-9fa3-47e7-ab82-de93edd0e65d.png",
+     "bio_short": "",
+     "first_name": "",
+     "last_name": "",
+     "instagram_handle": "brderless",
+     "is_verified": false,
+     "linkedin_handle": "/company/brderless",
+     "name": "Brderless",
+     "tiktok_handle": null,
+     "timezone": "America/Los_Angeles",
+     "twitter_handle": "joinbrderless",
+     "username": "brderless",
+     "website": "https://www.brderless.com",
+     "youtube_handle": ""
+    },
+    {
+     "api_id": "usr-pJYSJc1xSXWmYMf",
+     "avatar_url": "https://images.lumacdn.com/uploads/22/02d8eab3-d783-42f2-89fa-04ab393af477.png",
+     "bio_short": null,
+     "first_name": "Molly",
+     "last_name": "Hillman",
+     "instagram_handle": null,
+     "is_verified": false,
+     "linkedin_handle": "/in/molly-hillman-b2319817a",
+     "name": "Molly Hillman",
+     "tiktok_handle": null,
+     "timezone": "America/New_York",
+     "twitter_handle": "mollyconcord",
+     "username": null,
+     "website": null,
+     "youtube_handle": null
+    }
+   ],
+   "guest_count": 0,
+   "ticket_count": 0,
+   "ticket_info": {
+    "price": null,
+    "is_free": true,
+    "max_price": null,
+    "is_sold_out": false,
+    "spots_remaining": 17,
+    "is_near_capacity": false,
+    "require_approval": true
+   },
+   "registration_availability": "open",
+   "featured_guests": [],
+   "manager_info": null,
+   "guest_info": null,
+   "host_info": null,
+   "waitlist_active": false,
+   "featured_city": null,
+   "calendar_api_id": "cal-bCU1DaydlGSsazG",
+   "is_manager": true,
+   "platform": "luma",
+   "status": "approved",
+   "submitted_by_user_api_id": "usr-n5ujy3DJpkeNTUS",
+   "tags": []
+  },
+  {
+   "api_id": "calev-JQnFNZssK7BQKwE",
+   "event": {
+    "api_id": "evt-868l9LNbm1J3HsX",
+    "calendar_api_id": "cal-bCU1DaydlGSsazG",
+    "cover_url": "https://images.lumacdn.com/uploads/1g/2f2d8cc6-5da5-4b99-9efe-69525c2ee300.png",
+    "end_at": "2026-10-22T03:30:00.000Z",
+    "event_type": "independent",
+    "hide_rsvp": false,
+    "location_type": "offline",
+    "name": "Founder Dinner",
+    "one_to_one": true,
+    "recurrence_id": null,
+    "show_guest_list": false,
+    "social_image_url": "https://images.lumacdn.com/event-social/8g/1ce458fa-d731-4f62-a422-f8a6b514427f.png",
+    "start_at": "2026-10-22T01:30:00.000Z",
+    "timezone": "America/Los_Angeles",
+    "url": "t8cnat9w",
+    "user_api_id": "usr-n5ujy3DJpkeNTUS",
+    "visibility": "public",
+    "virtual_info": {
+     "has_access": false
+    },
+    "geo_address_info": {
+     "mode": "obfuscated",
+     "city": "Los Angeles",
+     "city_state": "Los Angeles, CA",
+     "sublocality": null,
+     "country": "United States",
+     "country_code": "US",
+     "region": "California",
+     "region_short": "CA"
+    },
+    "geo_address_visibility": "guests-only",
+    "coordinate": {
+     "latitude": 34.05648059994164,
+     "longitude": -118.24373264265121
+    },
+    "waitlist_enabled": true,
+    "waitlist_status": "active"
+   },
+   "cover_image": {
+    "colors": [
+     "#1d1d1d",
+     "#e2e2e2"
+    ],
+    "palette": {
+     "neutral": [
+      {
+       "color": "#1b1b1b",
+       "percentage": 19.45
+      },
+      {
+       "color": "#131313",
+       "percentage": 15.7
+      },
+      {
+       "color": "#2b2b2b",
+       "percentage": 14.31
+      },
+      {
+       "color": "#e2e2e2",
+       "percentage": 2.09
+      }
+     ],
+     "vibrant": []
+    }
+   },
+   "calendar": {
+    "access_level": "public",
+    "api_id": "cal-bCU1DaydlGSsazG",
+    "avatar_url": "https://images.lumacdn.com/calendars/0l/0594dad1-774d-4989-a603-87361364741d.png",
+    "coordinate": {
+     "longitude": -74.005973,
+     "latitude": 40.712775
+    },
+    "cover_image_url": "https://images.lumacdn.com/calendar-cover-images/qm/759a06c5-ac52-48cb-b7bf-a3d2139f040b.png",
+    "description_short": "The trusted circle of extraordinary builders",
+    "end_date": null,
+    "event_submission_restriction": "open",
+    "google_measurement_id": null,
+    "instagram_handle": "brderless",
+    "is_blocked": false,
+    "is_verified": false,
+    "launch_status": "launched",
+    "linkedin_handle": "/company/brderless",
+    "location": {
+     "city": "New York",
+     "region": null,
+     "country": "United States",
+     "place_id": "ChIJOwg_06VPwokRYv534QaPC8g",
+     "timezone": "America/New_York",
+     "country_code": "US"
+    },
+    "luma_plan": "plus",
+    "luma_plus_active": true,
+    "meta_pixel_id": null,
+    "name": "Brderless",
+    "personal_user_api_id": null,
+    "refund_policy": null,
+    "slug": "brderless",
+    "social_image_url": null,
+    "start_date": null,
+    "stripe_account_id": "acct_1Qk4pABB0QRfCv8J",
+    "tax_config": null,
+    "tiktok_handle": null,
+    "tint_color": "#131517",
+    "track_meta_ads_from_luma": false,
+    "twitter_handle": "joinbrderless",
+    "verified_at": "2025-03-10T19:26:40.481Z",
+    "website": "https://www.brderless.com/",
+    "youtube_handle": null,
+    "is_personal": false,
+    "personal_user": null,
+    "timezone": "America/New_York"
+   },
+   "start_at": "2026-10-22T01:30:00.000Z",
+   "hosts": [
+    {
+     "api_id": "usr-n5ujy3DJpkeNTUS",
+     "avatar_url": "https://images.lumacdn.com/avatars/t7/c1c8df97-f579-4f2f-be9c-7d9d042e23d6",
+     "bio_short": "",
+     "first_name": "Amy",
+     "last_name": "Quan",
+     "instagram_handle": "amylquan",
+     "is_verified": false,
+     "linkedin_handle": "/in/amylquan",
+     "name": "Amy Quan",
+     "tiktok_handle": null,
+     "timezone": "America/New_York",
+     "twitter_handle": "amylquan",
+     "username": "itsamyquan",
+     "website": null,
+     "youtube_handle": ""
+    },
+    {
+     "api_id": "usr-ZLOb8QVGaTn2ZcC",
+     "avatar_url": "https://images.lumacdn.com/avatars/18/b6af805e-9fa3-47e7-ab82-de93edd0e65d.png",
+     "bio_short": "",
+     "first_name": "",
+     "last_name": "",
+     "instagram_handle": "brderless",
+     "is_verified": false,
+     "linkedin_handle": "/company/brderless",
+     "name": "Brderless",
+     "tiktok_handle": null,
+     "timezone": "America/Los_Angeles",
+     "twitter_handle": "joinbrderless",
+     "username": "brderless",
+     "website": "https://www.brderless.com",
+     "youtube_handle": ""
+    }
+   ],
+   "guest_count": 0,
+   "ticket_count": 0,
+   "ticket_info": {
+    "price": null,
+    "is_free": true,
+    "max_price": null,
+    "is_sold_out": false,
+    "spots_remaining": 18,
+    "is_near_capacity": false,
+    "require_approval": true
+   },
+   "registration_availability": "open",
+   "featured_guests": [],
+   "manager_info": null,
+   "guest_info": null,
+   "host_info": null,
+   "waitlist_active": false,
+   "featured_city": null,
+   "calendar_api_id": "cal-bCU1DaydlGSsazG",
+   "is_manager": true,
+   "platform": "luma",
+   "status": "approved",
+   "submitted_by_user_api_id": "usr-n5ujy3DJpkeNTUS",
+   "tags": []
+  },
+  {
+   "api_id": "calev-XABIb08jAExRF6K",
+   "event": {
+    "api_id": "evt-m5vPcClAePC3c5N",
+    "calendar_api_id": "cal-bCU1DaydlGSsazG",
+    "cover_url": "https://images.lumacdn.com/uploads/1g/2f2d8cc6-5da5-4b99-9efe-69525c2ee300.png",
+    "end_at": "2026-10-23T03:30:00.000Z",
+    "event_type": "independent",
+    "hide_rsvp": false,
+    "location_type": "offline",
+    "name": "Founder Dinner",
+    "one_to_one": true,
+    "recurrence_id": null,
+    "show_guest_list": false,
+    "social_image_url": "https://images.lumacdn.com/event-social/a0/1baac71f-a667-46e3-b0ba-b4dbe36c13e6.png",
+    "start_at": "2026-10-23T01:30:00.000Z",
+    "timezone": "America/Los_Angeles",
+    "url": "vupz834k",
+    "user_api_id": "usr-n5ujy3DJpkeNTUS",
+    "visibility": "public",
+    "virtual_info": {
+     "has_access": false
+    },
+    "geo_address_info": {
+     "mode": "obfuscated",
+     "city": "San Francisco",
+     "city_state": "San Francisco, CA",
+     "sublocality": "Union Street",
+     "country": "United States",
+     "country_code": "US",
+     "region": "California",
+     "region_short": "CA"
+    },
+    "geo_address_visibility": "guests-only",
+    "coordinate": {
+     "latitude": 37.79917383784909,
+     "longitude": -122.42666687614725
+    },
+    "waitlist_enabled": true,
+    "waitlist_status": "active"
+   },
+   "cover_image": {
+    "colors": [
+     "#1d1d1d",
+     "#e2e2e2"
+    ],
+    "palette": {
+     "neutral": [
+      {
+       "color": "#1b1b1b",
+       "percentage": 19.45
+      },
+      {
+       "color": "#131313",
+       "percentage": 15.7
+      },
+      {
+       "color": "#2b2b2b",
+       "percentage": 14.31
+      },
+      {
+       "color": "#e2e2e2",
+       "percentage": 2.09
+      }
+     ],
+     "vibrant": []
+    }
+   },
+   "calendar": {
+    "access_level": "public",
+    "api_id": "cal-bCU1DaydlGSsazG",
+    "avatar_url": "https://images.lumacdn.com/calendars/0l/0594dad1-774d-4989-a603-87361364741d.png",
+    "coordinate": {
+     "longitude": -74.005973,
+     "latitude": 40.712775
+    },
+    "cover_image_url": "https://images.lumacdn.com/calendar-cover-images/qm/759a06c5-ac52-48cb-b7bf-a3d2139f040b.png",
+    "description_short": "The trusted circle of extraordinary builders",
+    "end_date": null,
+    "event_submission_restriction": "open",
+    "google_measurement_id": null,
+    "instagram_handle": "brderless",
+    "is_blocked": false,
+    "is_verified": false,
+    "launch_status": "launched",
+    "linkedin_handle": "/company/brderless",
+    "location": {
+     "city": "New York",
+     "region": null,
+     "country": "United States",
+     "place_id": "ChIJOwg_06VPwokRYv534QaPC8g",
+     "timezone": "America/New_York",
+     "country_code": "US"
+    },
+    "luma_plan": "plus",
+    "luma_plus_active": true,
+    "meta_pixel_id": null,
+    "name": "Brderless",
+    "personal_user_api_id": null,
+    "refund_policy": null,
+    "slug": "brderless",
+    "social_image_url": null,
+    "start_date": null,
+    "stripe_account_id": "acct_1Qk4pABB0QRfCv8J",
+    "tax_config": null,
+    "tiktok_handle": null,
+    "tint_color": "#131517",
+    "track_meta_ads_from_luma": false,
+    "twitter_handle": "joinbrderless",
+    "verified_at": "2025-03-10T19:26:40.481Z",
+    "website": "https://www.brderless.com/",
+    "youtube_handle": null,
+    "is_personal": false,
+    "personal_user": null,
+    "timezone": "America/New_York"
+   },
+   "start_at": "2026-10-23T01:30:00.000Z",
+   "hosts": [
+    {
+     "api_id": "usr-n5ujy3DJpkeNTUS",
+     "avatar_url": "https://images.lumacdn.com/avatars/t7/c1c8df97-f579-4f2f-be9c-7d9d042e23d6",
+     "bio_short": "",
+     "first_name": "Amy",
+     "last_name": "Quan",
+     "instagram_handle": "amylquan",
+     "is_verified": false,
+     "linkedin_handle": "/in/amylquan",
+     "name": "Amy Quan",
+     "tiktok_handle": null,
+     "timezone": "America/New_York",
+     "twitter_handle": "amylquan",
+     "username": "itsamyquan",
+     "website": null,
+     "youtube_handle": ""
+    },
+    {
+     "api_id": "usr-ZLOb8QVGaTn2ZcC",
+     "avatar_url": "https://images.lumacdn.com/avatars/18/b6af805e-9fa3-47e7-ab82-de93edd0e65d.png",
+     "bio_short": "",
+     "first_name": "",
+     "last_name": "",
+     "instagram_handle": "brderless",
+     "is_verified": false,
+     "linkedin_handle": "/company/brderless",
+     "name": "Brderless",
+     "tiktok_handle": null,
+     "timezone": "America/Los_Angeles",
+     "twitter_handle": "joinbrderless",
+     "username": "brderless",
+     "website": "https://www.brderless.com",
+     "youtube_handle": ""
+    }
+   ],
+   "guest_count": 0,
+   "ticket_count": 0,
+   "ticket_info": {
+    "price": null,
+    "is_free": true,
+    "max_price": null,
+    "is_sold_out": false,
+    "spots_remaining": 17,
+    "is_near_capacity": false,
+    "require_approval": true
+   },
+   "registration_availability": "open",
+   "featured_guests": [],
+   "manager_info": null,
+   "guest_info": null,
+   "host_info": null,
+   "waitlist_active": false,
+   "featured_city": null,
+   "calendar_api_id": "cal-bCU1DaydlGSsazG",
+   "is_manager": true,
+   "platform": "luma",
+   "status": "approved",
+   "submitted_by_user_api_id": "usr-n5ujy3DJpkeNTUS",
+   "tags": []
+  },
+  {
+   "api_id": "calev-Ve7pxpIrGLJ1v3x",
+   "event": {
+    "api_id": "evt-aP7Gr5r0uUIBWtT",
+    "calendar_api_id": "cal-bCU1DaydlGSsazG",
+    "cover_url": "https://images.lumacdn.com/uploads/8d/ac7f04bd-a6d0-45f3-992e-0422cd48b7cd.png",
+    "end_at": "2026-10-28T00:30:00.000Z",
+    "event_type": "independent",
+    "hide_rsvp": false,
+    "location_type": "offline",
+    "name": "Founder Dinner",
+    "one_to_one": true,
+    "recurrence_id": null,
+    "show_guest_list": false,
+    "social_image_url": "https://images.lumacdn.com/event-social/pm/fd0999a8-89d8-4cbb-90cd-0871837584a2.png",
+    "start_at": "2026-10-27T22:30:00.000Z",
+    "timezone": "America/New_York",
+    "url": "3k8qz0yq",
+    "user_api_id": "usr-n5ujy3DJpkeNTUS",
+    "visibility": "public",
+    "virtual_info": {
+     "has_access": false
+    },
+    "geo_address_info": {
+     "mode": "obfuscated",
+     "city": "Boston",
+     "city_state": "Boston, MA",
+     "sublocality": null,
+     "country": "United States",
+     "country_code": "US",
+     "region": "Massachusetts",
+     "region_short": "MA"
+    },
+    "geo_address_visibility": "guests-only",
+    "coordinate": {
+     "latitude": 42.35320340386221,
+     "longitude": -71.05636609011157
+    },
+    "waitlist_enabled": true,
+    "waitlist_status": "active"
+   },
+   "cover_image": {
+    "colors": [
+     "#141414",
+     "#c0c0c0"
+    ],
+    "palette": {
+     "neutral": [
+      {
+       "color": "#141414",
+       "percentage": 17.43
+      },
+      {
+       "color": "#1b1b1b",
+       "percentage": 15.55
+      },
+      {
+       "color": "#0d0d0d",
+       "percentage": 13.8
+      },
+      {
+       "color": "#c0c0c0",
+       "percentage": 2.89
+      }
+     ],
+     "vibrant": []
+    }
+   },
+   "calendar": {
+    "access_level": "public",
+    "api_id": "cal-bCU1DaydlGSsazG",
+    "avatar_url": "https://images.lumacdn.com/calendars/0l/0594dad1-774d-4989-a603-87361364741d.png",
+    "coordinate": {
+     "longitude": -74.005973,
+     "latitude": 40.712775
+    },
+    "cover_image_url": "https://images.lumacdn.com/calendar-cover-images/qm/759a06c5-ac52-48cb-b7bf-a3d2139f040b.png",
+    "description_short": "The trusted circle of extraordinary builders",
+    "end_date": null,
+    "event_submission_restriction": "open",
+    "google_measurement_id": null,
+    "instagram_handle": "brderless",
+    "is_blocked": false,
+    "is_verified": false,
+    "launch_status": "launched",
+    "linkedin_handle": "/company/brderless",
+    "location": {
+     "city": "New York",
+     "region": null,
+     "country": "United States",
+     "place_id": "ChIJOwg_06VPwokRYv534QaPC8g",
+     "timezone": "America/New_York",
+     "country_code": "US"
+    },
+    "luma_plan": "plus",
+    "luma_plus_active": true,
+    "meta_pixel_id": null,
+    "name": "Brderless",
+    "personal_user_api_id": null,
+    "refund_policy": null,
+    "slug": "brderless",
+    "social_image_url": null,
+    "start_date": null,
+    "stripe_account_id": "acct_1Qk4pABB0QRfCv8J",
+    "tax_config": null,
+    "tiktok_handle": null,
+    "tint_color": "#131517",
+    "track_meta_ads_from_luma": false,
+    "twitter_handle": "joinbrderless",
+    "verified_at": "2025-03-10T19:26:40.481Z",
+    "website": "https://www.brderless.com/",
+    "youtube_handle": null,
+    "is_personal": false,
+    "personal_user": null,
+    "timezone": "America/New_York"
+   },
+   "start_at": "2026-10-27T22:30:00.000Z",
+   "hosts": [
+    {
+     "api_id": "usr-n5ujy3DJpkeNTUS",
+     "avatar_url": "https://images.lumacdn.com/avatars/t7/c1c8df97-f579-4f2f-be9c-7d9d042e23d6",
+     "bio_short": "",
+     "first_name": "Amy",
+     "last_name": "Quan",
+     "instagram_handle": "amylquan",
+     "is_verified": false,
+     "linkedin_handle": "/in/amylquan",
+     "name": "Amy Quan",
+     "tiktok_handle": null,
+     "timezone": "America/New_York",
+     "twitter_handle": "amylquan",
+     "username": "itsamyquan",
+     "website": null,
+     "youtube_handle": ""
+    },
+    {
+     "api_id": "usr-ZLOb8QVGaTn2ZcC",
+     "avatar_url": "https://images.lumacdn.com/avatars/18/b6af805e-9fa3-47e7-ab82-de93edd0e65d.png",
+     "bio_short": "",
+     "first_name": "",
+     "last_name": "",
+     "instagram_handle": "brderless",
+     "is_verified": false,
+     "linkedin_handle": "/company/brderless",
+     "name": "Brderless",
+     "tiktok_handle": null,
+     "timezone": "America/Los_Angeles",
+     "twitter_handle": "joinbrderless",
+     "username": "brderless",
+     "website": "https://www.brderless.com",
+     "youtube_handle": ""
+    }
+   ],
+   "guest_count": 0,
+   "ticket_count": 0,
+   "ticket_info": {
+    "price": null,
+    "is_free": true,
+    "max_price": null,
+    "is_sold_out": false,
+    "spots_remaining": 18,
+    "is_near_capacity": false,
+    "require_approval": true
+   },
+   "registration_availability": "open",
+   "featured_guests": [],
+   "manager_info": null,
+   "guest_info": null,
+   "host_info": null,
+   "waitlist_active": false,
+   "featured_city": null,
+   "calendar_api_id": "cal-bCU1DaydlGSsazG",
+   "is_manager": true,
+   "platform": "luma",
+   "status": "approved",
+   "submitted_by_user_api_id": "usr-n5ujy3DJpkeNTUS",
+   "tags": []
+  },
+  {
+   "api_id": "calev-cNQKL8HRLeFwEwM",
+   "event": {
+    "api_id": "evt-tTHdY4ofsKMe8PB",
+    "calendar_api_id": "cal-bCU1DaydlGSsazG",
+    "cover_url": "https://images.lumacdn.com/uploads/6n/348c14e9-c4e1-4d9c-9049-59a0b0edba2d.png",
+    "end_at": "2026-10-30T15:00:00.000Z",
+    "event_type": "independent",
+    "hide_rsvp": false,
+    "location_type": "offline",
+    "name": "Founder Breakfast",
+    "one_to_one": true,
+    "recurrence_id": null,
+    "show_guest_list": false,
+    "social_image_url": "https://images.lumacdn.com/event-social/lq/16c16a17-789e-4128-a694-fd66d14ef669.png",
+    "start_at": "2026-10-30T13:00:00.000Z",
+    "timezone": "America/New_York",
+    "url": "rj5jt99c",
+    "user_api_id": "usr-n5ujy3DJpkeNTUS",
+    "visibility": "public",
+    "virtual_info": {
+     "has_access": false
+    },
+    "geo_address_info": {
+     "mode": "obfuscated",
+     "city": "New York",
+     "city_state": "New York, NY",
+     "sublocality": "NoHo",
+     "country": "United States",
+     "country_code": "US",
+     "region": "New York",
+     "region_short": "NY"
+    },
+    "geo_address_visibility": "guests-only",
+    "coordinate": {
+     "latitude": 40.72831377645744,
+     "longitude": -73.99586662257587
+    },
+    "waitlist_enabled": true,
+    "waitlist_status": "active"
+   },
+   "cover_image": {
+    "colors": [
+     "#f6f6f6",
+     "#4f4f4f",
+     "#303030"
+    ],
+    "palette": {
+     "neutral": [
+      {
+       "color": "#f6f6f6",
+       "percentage": 35.67
+      },
+      {
+       "color": "#555555",
+       "percentage": 11.6
+      },
+      {
+       "color": "#484848",
+       "percentage": 10.8
+      },
+      {
+       "color": "#303030",
+       "percentage": 8.77
+      }
+     ],
+     "vibrant": []
+    }
+   },
+   "calendar": {
+    "access_level": "public",
+    "api_id": "cal-bCU1DaydlGSsazG",
+    "avatar_url": "https://images.lumacdn.com/calendars/0l/0594dad1-774d-4989-a603-87361364741d.png",
+    "coordinate": {
+     "longitude": -74.005973,
+     "latitude": 40.712775
+    },
+    "cover_image_url": "https://images.lumacdn.com/calendar-cover-images/qm/759a06c5-ac52-48cb-b7bf-a3d2139f040b.png",
+    "description_short": "The trusted circle of extraordinary builders",
+    "end_date": null,
+    "event_submission_restriction": "open",
+    "google_measurement_id": null,
+    "instagram_handle": "brderless",
+    "is_blocked": false,
+    "is_verified": false,
+    "launch_status": "launched",
+    "linkedin_handle": "/company/brderless",
+    "location": {
+     "city": "New York",
+     "region": null,
+     "country": "United States",
+     "place_id": "ChIJOwg_06VPwokRYv534QaPC8g",
+     "timezone": "America/New_York",
+     "country_code": "US"
+    },
+    "luma_plan": "plus",
+    "luma_plus_active": true,
+    "meta_pixel_id": null,
+    "name": "Brderless",
+    "personal_user_api_id": null,
+    "refund_policy": null,
+    "slug": "brderless",
+    "social_image_url": null,
+    "start_date": null,
+    "stripe_account_id": "acct_1Qk4pABB0QRfCv8J",
+    "tax_config": null,
+    "tiktok_handle": null,
+    "tint_color": "#131517",
+    "track_meta_ads_from_luma": false,
+    "twitter_handle": "joinbrderless",
+    "verified_at": "2025-03-10T19:26:40.481Z",
+    "website": "https://www.brderless.com/",
+    "youtube_handle": null,
+    "is_personal": false,
+    "personal_user": null,
+    "timezone": "America/New_York"
+   },
+   "start_at": "2026-10-30T13:00:00.000Z",
+   "hosts": [
+    {
+     "api_id": "usr-n5ujy3DJpkeNTUS",
+     "avatar_url": "https://images.lumacdn.com/avatars/t7/c1c8df97-f579-4f2f-be9c-7d9d042e23d6",
+     "bio_short": "",
+     "first_name": "Amy",
+     "last_name": "Quan",
+     "instagram_handle": "amylquan",
+     "is_verified": false,
+     "linkedin_handle": "/in/amylquan",
+     "name": "Amy Quan",
+     "tiktok_handle": null,
+     "timezone": "America/New_York",
+     "twitter_handle": "amylquan",
+     "username": "itsamyquan",
+     "website": null,
+     "youtube_handle": ""
+    },
+    {
+     "api_id": "usr-ZLOb8QVGaTn2ZcC",
+     "avatar_url": "https://images.lumacdn.com/avatars/18/b6af805e-9fa3-47e7-ab82-de93edd0e65d.png",
+     "bio_short": "",
+     "first_name": "",
+     "last_name": "",
+     "instagram_handle": "brderless",
+     "is_verified": false,
+     "linkedin_handle": "/company/brderless",
+     "name": "Brderless",
+     "tiktok_handle": null,
+     "timezone": "America/Los_Angeles",
+     "twitter_handle": "joinbrderless",
+     "username": "brderless",
+     "website": "https://www.brderless.com",
+     "youtube_handle": ""
+    }
+   ],
+   "guest_count": 0,
+   "ticket_count": 0,
+   "ticket_info": {
+    "price": null,
+    "is_free": true,
+    "max_price": null,
+    "is_sold_out": false,
+    "spots_remaining": 20,
+    "is_near_capacity": false,
+    "require_approval": true
+   },
+   "registration_availability": "open",
+   "featured_guests": [],
+   "manager_info": null,
+   "guest_info": null,
+   "host_info": null,
+   "waitlist_active": false,
+   "featured_city": null,
+   "calendar_api_id": "cal-bCU1DaydlGSsazG",
+   "is_manager": true,
+   "platform": "luma",
+   "status": "approved",
+   "submitted_by_user_api_id": "usr-n5ujy3DJpkeNTUS",
+   "tags": []
+  },
+  {
+   "api_id": "calev-7LnYF9FQbbuiRuS",
+   "event": {
+    "api_id": "evt-1xVD9aT1H7jLPxH",
+    "calendar_api_id": "cal-bCU1DaydlGSsazG",
+    "cover_url": "https://images.lumacdn.com/uploads/st/473b09dd-ff17-4b1a-a018-2ae7c9924edf.png",
+    "end_at": "2026-11-19T04:30:00.000Z",
+    "event_type": "independent",
+    "hide_rsvp": false,
+    "location_type": "offline",
+    "name": "Founder Dinner",
+    "one_to_one": true,
+    "recurrence_id": null,
+    "show_guest_list": false,
+    "social_image_url": "https://images.lumacdn.com/event-social/7c/e42ccf2f-2e88-402b-8d6d-0ba2622a48b4.png",
+    "start_at": "2026-11-19T02:30:00.000Z",
+    "timezone": "America/Los_Angeles",
+    "url": "p7cplh9c",
+    "user_api_id": "usr-n5ujy3DJpkeNTUS",
+    "visibility": "public",
+    "virtual_info": {
+     "has_access": false
+    },
+    "geo_address_info": {
+     "mode": "obfuscated",
+     "city": "San Francisco",
+     "city_state": "San Francisco, CA",
+     "sublocality": null,
+     "country": "United States",
+     "country_code": "US",
+     "region": "California",
+     "region_short": "CA"
+    },
+    "geo_address_visibility": "guests-only",
+    "coordinate": {
+     "latitude": 37.77617941138145,
+     "longitude": -122.41828195813807
+    },
+    "waitlist_enabled": true,
+    "waitlist_status": "active"
+   },
+   "cover_image": {
+    "colors": [
+     "#141414"
+    ],
+    "palette": {
+     "neutral": [
+      {
+       "color": "#141414",
+       "percentage": 18.03
+      },
+      {
+       "color": "#1b1b1b",
+       "percentage": 15.5
+      },
+      {
+       "color": "#0b0b0b",
+       "percentage": 13.1
+      }
+     ],
+     "vibrant": []
+    }
+   },
+   "calendar": {
+    "access_level": "public",
+    "api_id": "cal-bCU1DaydlGSsazG",
+    "avatar_url": "https://images.lumacdn.com/calendars/0l/0594dad1-774d-4989-a603-87361364741d.png",
+    "coordinate": {
+     "longitude": -74.005973,
+     "latitude": 40.712775
+    },
+    "cover_image_url": "https://images.lumacdn.com/calendar-cover-images/qm/759a06c5-ac52-48cb-b7bf-a3d2139f040b.png",
+    "description_short": "The trusted circle of extraordinary builders",
+    "end_date": null,
+    "event_submission_restriction": "open",
+    "google_measurement_id": null,
+    "instagram_handle": "brderless",
+    "is_blocked": false,
+    "is_verified": false,
+    "launch_status": "launched",
+    "linkedin_handle": "/company/brderless",
+    "location": {
+     "city": "New York",
+     "region": null,
+     "country": "United States",
+     "place_id": "ChIJOwg_06VPwokRYv534QaPC8g",
+     "timezone": "America/New_York",
+     "country_code": "US"
+    },
+    "luma_plan": "plus",
+    "luma_plus_active": true,
+    "meta_pixel_id": null,
+    "name": "Brderless",
+    "personal_user_api_id": null,
+    "refund_policy": null,
+    "slug": "brderless",
+    "social_image_url": null,
+    "start_date": null,
+    "stripe_account_id": "acct_1Qk4pABB0QRfCv8J",
+    "tax_config": null,
+    "tiktok_handle": null,
+    "tint_color": "#131517",
+    "track_meta_ads_from_luma": false,
+    "twitter_handle": "joinbrderless",
+    "verified_at": "2025-03-10T19:26:40.481Z",
+    "website": "https://www.brderless.com/",
+    "youtube_handle": null,
+    "is_personal": false,
+    "personal_user": null,
+    "timezone": "America/New_York"
+   },
+   "start_at": "2026-11-19T02:30:00.000Z",
+   "hosts": [
+    {
+     "api_id": "usr-n5ujy3DJpkeNTUS",
+     "avatar_url": "https://images.lumacdn.com/avatars/t7/c1c8df97-f579-4f2f-be9c-7d9d042e23d6",
+     "bio_short": "",
+     "first_name": "Amy",
+     "last_name": "Quan",
+     "instagram_handle": "amylquan",
+     "is_verified": false,
+     "linkedin_handle": "/in/amylquan",
+     "name": "Amy Quan",
+     "tiktok_handle": null,
+     "timezone": "America/New_York",
+     "twitter_handle": "amylquan",
+     "username": "itsamyquan",
+     "website": null,
+     "youtube_handle": ""
+    },
+    {
+     "api_id": "usr-ZLOb8QVGaTn2ZcC",
+     "avatar_url": "https://images.lumacdn.com/avatars/18/b6af805e-9fa3-47e7-ab82-de93edd0e65d.png",
+     "bio_short": "",
+     "first_name": "",
+     "last_name": "",
+     "instagram_handle": "brderless",
+     "is_verified": false,
+     "linkedin_handle": "/company/brderless",
+     "name": "Brderless",
+     "tiktok_handle": null,
+     "timezone": "America/Los_Angeles",
+     "twitter_handle": "joinbrderless",
+     "username": "brderless",
+     "website": "https://www.brderless.com",
+     "youtube_handle": ""
+    }
+   ],
+   "guest_count": 0,
+   "ticket_count": 0,
+   "ticket_info": {
+    "price": null,
+    "is_free": true,
+    "max_price": null,
+    "is_sold_out": false,
+    "spots_remaining": 15,
+    "is_near_capacity": false,
+    "require_approval": true
+   },
+   "registration_availability": "open",
+   "featured_guests": [],
+   "manager_info": null,
+   "guest_info": null,
+   "host_info": null,
+   "waitlist_active": false,
+   "featured_city": null,
+   "calendar_api_id": "cal-bCU1DaydlGSsazG",
+   "is_manager": true,
+   "platform": "luma",
+   "status": "approved",
+   "submitted_by_user_api_id": "usr-n5ujy3DJpkeNTUS",
+   "tags": []
+  }
+ ],
+ "has_more": false
+}

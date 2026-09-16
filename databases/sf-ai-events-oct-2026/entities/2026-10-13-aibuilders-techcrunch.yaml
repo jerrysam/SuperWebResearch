@@ -1,0 +1,24 @@
+_meta:
+  last_researched: '2026-09-16'
+  sources:
+  - publisher: Luma (api.lu.ma)
+    url: https://luma.com/aibuilders_techcrunch
+    retrieved: '2026-09-16'
+name: AI Builder's Night
+url: https://luma.com/aibuilders_techcrunch
+platform: luma
+start_date: '2026-10-13'
+start_time: '18:00'
+city: San Francisco
+host_calendar: Modal
+hosts: Unknown
+companies_involved:
+- modal
+- together ai
+relevance_category: key_ai_company
+priority: must_go
+registration_status: waitlist_or_approval
+in_trip_window: true
+description_snippet: Unknown
+note: Modal's AI Builder's Night during TechCrunch Disrupt, with Together AI involvement - two key infra
+  companies in one room.

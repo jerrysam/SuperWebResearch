@@ -1,0 +1,30 @@
+_meta:
+  last_researched: '2026-09-16'
+  sources:
+  - publisher: Luma (api.lu.ma)
+    url: https://luma.com/copilo-y6wx
+    retrieved: '2026-09-16'
+name: 'Ship it & Sip it: Software Factories Night'
+url: https://luma.com/copilo-y6wx
+platform: luma
+start_date: '2026-10-05'
+start_time: '18:00'
+city: San Francisco
+host_calendar: CopilotKit
+hosts:
+- Sofía Sánchez-Zárate
+- Uli Barkai
+- Sienna Cole
+- Laura Dang
+- Ella Schlaghecke
+- Erika Lee
+companies_involved: []
+relevance_category: general_ai
+priority: optional
+registration_status: open
+in_trip_window: true
+description_snippet: 'The way software gets built is changing shape. For the last few years, AI helped
+  you write code faster. Now a new category is emerging: Software Factories. Systems where AI agents don''t
+  just assist a developer, they run the full pipeline: spec, build, test, review, ship, and iterate, often
+  with mult'
+note: CopilotKit agentic-dev-tooling night; vibecoding-adjacent.

@@ -1,0 +1,195 @@
+{
+ "entries": [
+  {
+   "api_id": "calev-lHbqPgF1HEmd5pG",
+   "event": {
+    "api_id": "evt-TKfMuWvddMVDvCt",
+    "calendar_api_id": "cal-2XmHdcHQB4sWeKC",
+    "cover_url": "https://images.lumacdn.com/uploads/y3/9cc08525-fa36-43db-ab6f-dc74b518b55e.png",
+    "end_at": "2026-11-11T20:00:00.000Z",
+    "event_type": "independent",
+    "hide_rsvp": false,
+    "location_type": "offline",
+    "name": "AI Engineering Leaders Dinner/Networking/Talks",
+    "one_to_one": true,
+    "recurrence_id": null,
+    "show_guest_list": false,
+    "social_image_url": "https://images.lumacdn.com/event-social/1e/c58b7571-bf2a-4e46-9c9d-5d91a44d4f89.png",
+    "start_at": "2026-11-11T17:00:00.000Z",
+    "timezone": "Europe/Madrid",
+    "url": "mpkdvduw",
+    "user_api_id": "usr-3fTNRlOcmyjiHY3",
+    "visibility": "public",
+    "virtual_info": {
+     "has_access": false
+    },
+    "geo_address_info": {
+     "city": "Madrid",
+     "type": "google",
+     "region": "Comunidad de Madrid",
+     "address": "Calle de Lagasca, 88",
+     "country": "Spain",
+     "place_id": "EjRDYWxsZSBkZSBMYWdhc2NhLCA4OCwgU2FsYW1hbmNhLCAyODAwMSBNYWRyaWQsIFNwYWluIjASLgoUChIJTdPSy5UoQg0RNcvDbGpozGgQWCoUChIJO8fwzJUoQg0R7hPc_KjENtQ",
+     "localized": {
+      "es": {
+       "city": "Madrid",
+       "region": "Comunidad de Madrid",
+       "address": "Calle de Lagasca, 88",
+       "country": "Espa\u00f1a",
+       "city_state": "Madrid, Espa\u00f1a",
+       "sublocality": "Salamanca",
+       "full_address": "Calle de Lagasca, 88, Salamanca, 28001 Madrid, Espa\u00f1a",
+       "region_short": "MD",
+       "short_address": "Calle de Lagasca, 88, Madrid"
+      }
+     },
+     "city_state": "Madrid, Spain",
+     "description": "Playtomic Office",
+     "sublocality": "Salamanca",
+     "country_code": "ES",
+     "full_address": "Calle de Lagasca, 88, Salamanca, 28001 Madrid, Spain",
+     "region_short": "MD",
+     "short_address": "Calle de Lagasca, 88, Madrid",
+     "place_coordinate": {
+      "latitude": 40.429899,
+      "longitude": -3.6847109999999996
+     },
+     "apple_maps_place_id": null,
+     "mode": "shown"
+    },
+    "geo_address_visibility": "public",
+    "coordinate": {
+     "longitude": -3.6847109999999996,
+     "latitude": 40.429899
+    },
+    "waitlist_enabled": false,
+    "waitlist_status": "disabled"
+   },
+   "cover_image": {
+    "colors": [
+     "#f9e0c7",
+     "#2f2a22",
+     "#bd8f76"
+    ],
+    "palette": {
+     "neutral": [
+      {
+       "color": "#2f2a22",
+       "percentage": 6.87
+      }
+     ],
+     "vibrant": [
+      {
+       "color": "#f9e0c7",
+       "percentage": 25.1
+      },
+      {
+       "color": "#bd8f76",
+       "percentage": 2.9
+      }
+     ]
+    }
+   },
+   "calendar": {
+    "access_level": "public",
+    "api_id": "cal-2XmHdcHQB4sWeKC",
+    "avatar_url": "https://images.lumacdn.com/uploads/1x/5934deba-7f9f-4464-9c04-7bb883f2268c.png",
+    "coordinate": null,
+    "cover_image_url": "https://images.lumacdn.com/uploads/21/fb7fc3f8-da47-4f72-ad51-40b56a91ebfe.png",
+    "description_short": "Casual gatherings for CTOs and engineering leaders to connect, share ideas, and unwind over drinks and good food.\n\n\u200bNo sales, no pitches, just meaningful conversations and peer networking.",
+    "end_date": null,
+    "event_submission_restriction": "open",
+    "google_measurement_id": null,
+    "instagram_handle": null,
+    "is_blocked": false,
+    "is_verified": false,
+    "launch_status": "launched",
+    "linkedin_handle": null,
+    "location": null,
+    "luma_plan": "free",
+    "luma_plus_active": false,
+    "meta_pixel_id": null,
+    "name": "CTO Circle",
+    "personal_user_api_id": null,
+    "refund_policy": null,
+    "slug": "cto-circle",
+    "social_image_url": "https://images.lumacdn.com/uploads/qb/86176df7-a821-45d4-ad85-b222c48b382a.png",
+    "start_date": null,
+    "stripe_account_id": null,
+    "tax_config": null,
+    "tiktok_handle": null,
+    "tint_color": "#131517",
+    "track_meta_ads_from_luma": false,
+    "twitter_handle": null,
+    "verified_at": "2025-08-29T14:29:00.766Z",
+    "website": "https://joinctocircle.com",
+    "youtube_handle": null,
+    "is_personal": false,
+    "personal_user": null,
+    "timezone": null
+   },
+   "start_at": "2026-11-11T17:00:00.000Z",
+   "hosts": [
+    {
+     "api_id": "usr-3fTNRlOcmyjiHY3",
+     "avatar_url": "https://images.lumacdn.com/avatars/d1/7c17e643-af55-4a82-a578-25427d26fee7.png",
+     "bio_short": "Cofounder at Pullpo.io",
+     "first_name": "Marco",
+     "last_name": "Pati\u00f1o",
+     "instagram_handle": null,
+     "is_verified": false,
+     "linkedin_handle": "/in/marco-pati\u00f1o-l\u00f3pez-00a269132",
+     "name": "Marco Pati\u00f1o",
+     "tiktok_handle": null,
+     "timezone": "America/Los_Angeles",
+     "twitter_handle": "marcopatino_dev",
+     "username": "marcopatino_dev",
+     "website": "http://pullpo.io",
+     "youtube_handle": ""
+    },
+    {
+     "api_id": "usr-hlVmAwBIKCVwGNB",
+     "avatar_url": "https://cdn.lu.ma/avatars-default/avatar_21.png",
+     "bio_short": null,
+     "first_name": "\u00d3scar",
+     "last_name": "Vicente P\u00e9rez",
+     "instagram_handle": null,
+     "is_verified": false,
+     "linkedin_handle": "/in/oscarvicenteperez",
+     "name": "\u00d3scar Vicente P\u00e9rez",
+     "tiktok_handle": null,
+     "timezone": "Europe/Madrid",
+     "twitter_handle": null,
+     "username": null,
+     "website": null,
+     "youtube_handle": null
+    }
+   ],
+   "guest_count": 0,
+   "ticket_count": 0,
+   "ticket_info": {
+    "price": null,
+    "is_free": true,
+    "max_price": null,
+    "is_sold_out": false,
+    "spots_remaining": null,
+    "is_near_capacity": false,
+    "require_approval": true
+   },
+   "registration_availability": "open",
+   "featured_guests": [],
+   "manager_info": null,
+   "guest_info": null,
+   "host_info": null,
+   "waitlist_active": false,
+   "featured_city": null,
+   "calendar_api_id": "cal-2XmHdcHQB4sWeKC",
+   "is_manager": true,
+   "platform": "luma",
+   "status": "approved",
+   "submitted_by_user_api_id": "usr-3fTNRlOcmyjiHY3",
+   "tags": []
+  }
+ ],
+ "has_more": false
+}

@@ -1,0 +1,28 @@
+_meta:
+  last_researched: '2026-09-16'
+  sources:
+  - publisher: a16z Tech Week
+    url: https://www.tech-week.com/
+    retrieved: '2026-09-16'
+  - publisher: Luma
+    url: https://luma.com/sftw
+    retrieved: '2026-09-16'
+name: SF Tech Week 2026 (a16z) - umbrella
+url: https://www.tech-week.com/
+platform: other
+start_date: '2026-10-05'
+start_time: Unknown
+end_date: '2026-10-11'
+city: San Francisco
+host_calendar: a16z Tech Week
+hosts:
+- a16z
+companies_involved: []
+relevance_category: mega_conference
+priority: must_go
+registration_status: open
+in_trip_window: true
+description_snippet: Decentralized city-wide festival, hundreds of independently hosted events Oct 5-11.
+  Official Luma calendar (luma.com/sftw) is live with ~48 events and growing weekly.
+note: Anchor week 1 of the trip around this. Re-check luma.com/sftw and tech-week.com weekly - most events
+  publish in the final 3 weeks.

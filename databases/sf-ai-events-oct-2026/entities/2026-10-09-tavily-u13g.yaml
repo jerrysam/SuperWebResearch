@@ -1,0 +1,30 @@
+_meta:
+  last_researched: '2026-09-16'
+  sources:
+  - publisher: Luma (api.lu.ma)
+    url: https://luma.com/tavily-u13g
+    retrieved: '2026-09-16'
+name: Builders & Brews SF
+url: https://luma.com/tavily-u13g
+platform: luma
+start_date: '2026-10-09'
+start_time: '16:00'
+city: San Francisco
+host_calendar: Builders & Brews
+hosts:
+- Tavily Events
+- Xaviera Ho
+- Replit Events
+- Merge
+companies_involved:
+- nvidia
+- replit
+relevance_category: target_customer
+priority: must_go
+registration_status: waitlist_or_approval
+in_trip_window: true
+description_snippet: 'Builders & Brews: Hack Edition ☕️💻Please sign up via Partiful: https://partiful.com/e/heEtALThEWBJmPXFGm7aBuilders
+  & Brews, our flagship builder community event series, is getting a hands-on build-day twist and going
+  global.Nebius and Tavily are taking a special tour to 20 cities worldwide, bringing'
+note: 'Builders & Brews: Hack Edition - co-hosted by Replit Events (with Tavily, Nebius, Merge). Direct
+  Replit contact in a small-room hack format.'

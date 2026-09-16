@@ -1,0 +1,1707 @@
+{
+ "entries": [
+  {
+   "api_id": "calev-Y2UcSUhGqcBy4rG",
+   "event": {
+    "api_id": "evt-XJpD1yXMa0gotoC",
+    "calendar_api_id": "cal-mc9ZW5C3TzHDv6L",
+    "cover_url": "https://images.lumacdn.com/event-covers/mq/b7a9e5d5-cbd9-4546-a668-972d498d2186",
+    "end_at": "2026-09-16T20:00:00.000Z",
+    "event_type": "independent",
+    "hide_rsvp": false,
+    "location_type": "zoom",
+    "name": "LLM Paper Club - paper tba",
+    "one_to_one": true,
+    "recurrence_id": null,
+    "show_guest_list": true,
+    "social_image_url": "https://images.lumacdn.com/event-social/2x/991e6c64-ca4e-4d3f-a30f-e8005e4318d7.png",
+    "start_at": "2026-09-16T19:00:00.000Z",
+    "timezone": "America/Los_Angeles",
+    "url": "r4cwggxq",
+    "user_api_id": "usr-yN8fRz2QPqKr9Us",
+    "visibility": "public",
+    "virtual_info": {
+     "has_access": false
+    },
+    "geo_address_info": null,
+    "geo_address_visibility": "public",
+    "coordinate": null,
+    "waitlist_enabled": false,
+    "waitlist_status": "disabled"
+   },
+   "cover_image": {
+    "colors": [
+     "#407cc6",
+     "#faf5e7",
+     "#04152d",
+     "#3b557e"
+    ],
+    "palette": {
+     "neutral": [
+      {
+       "color": "#fcf8e9",
+       "percentage": 27.31
+      },
+      {
+       "color": "#7d8389",
+       "percentage": 1.27
+      }
+     ],
+     "vibrant": [
+      {
+       "color": "#417dc6",
+       "percentage": 41.14
+      }
+     ]
+    }
+   },
+   "calendar": {
+    "access_level": "public",
+    "api_id": "cal-mc9ZW5C3TzHDv6L",
+    "avatar_url": "https://images.lumacdn.com/calendars/hv/13b873fa-e5c4-4fe5-b0b8-ee42697ec241",
+    "coordinate": null,
+    "cover_image_url": null,
+    "description_short": "Latent.Space events. youtu.be/@LatentSpaceTV. PLEASE CLICK THE RSS LOGO ABOVE CALENDAR ON THE RIGHT TO ADD TO YOUR CAL. \"Add iCal Subscription\" on hover.\n\nThat will notify you of new events!",
+    "end_date": null,
+    "event_submission_restriction": "open",
+    "google_measurement_id": null,
+    "instagram_handle": null,
+    "is_blocked": false,
+    "is_verified": false,
+    "launch_status": "launched",
+    "linkedin_handle": null,
+    "location": null,
+    "luma_plan": "plus",
+    "luma_plus_active": true,
+    "meta_pixel_id": null,
+    "name": "Latent.Space (Paper Club, AI in Action, Meetups & Confs)",
+    "personal_user_api_id": null,
+    "refund_policy": {
+     "type": "doc",
+     "content": [
+      {
+       "type": "paragraph",
+       "content": [
+        {
+         "text": "No refunds, but transferable tickets",
+         "type": "text"
+        }
+       ]
+      }
+     ]
+    },
+    "slug": "ls",
+    "social_image_url": "https://images.lumacdn.com/calendar-cover-images/sq/febf5e5f-463d-402f-867f-9a425c42c0ff",
+    "start_date": null,
+    "stripe_account_id": "acct_1B3pNWKWe8hdGUWL",
+    "tax_config": null,
+    "tiktok_handle": null,
+    "tint_color": "#325ffa",
+    "track_meta_ads_from_luma": false,
+    "twitter_handle": "latentspacepod",
+    "verified_at": "2024-01-10T22:59:33.583Z",
+    "website": "https://www.latent.space/about#\u00a7components",
+    "youtube_handle": null,
+    "is_personal": false,
+    "personal_user": null,
+    "timezone": null
+   },
+   "start_at": "2026-09-16T19:00:00.000Z",
+   "hosts": [
+    {
+     "api_id": "usr-yN8fRz2QPqKr9Us",
+     "avatar_url": "https://cdn.lu.ma/avatars/zh/e510b946-9519-4d1a-a399-a78d42f98670",
+     "bio_short": "learning in public",
+     "first_name": "Shawn",
+     "last_name": "Wang",
+     "instagram_handle": "twitter.com",
+     "is_verified": false,
+     "linkedin_handle": "/in/shawnswyxwang",
+     "name": "swyx",
+     "tiktok_handle": null,
+     "timezone": "America/Los_Angeles",
+     "twitter_handle": "swyx",
+     "username": "swyx",
+     "website": "https://learninpublic.org/",
+     "youtube_handle": "swyxTV"
+    }
+   ],
+   "guest_count": 7,
+   "ticket_count": 7,
+   "ticket_info": {
+    "price": null,
+    "is_free": true,
+    "max_price": null,
+    "is_sold_out": false,
+    "spots_remaining": null,
+    "is_near_capacity": false,
+    "require_approval": false
+   },
+   "registration_availability": "open",
+   "featured_guests": [
+    {
+     "api_id": "usr-BofFFyeGbK2vXzd",
+     "avatar_url": "https://images.lumacdn.com/uploads/hf/292021b1-2a20-44c6-ac8b-8e8eeef096f5.jpg",
+     "bio_short": "AI & Marketing Automation Specialist",
+     "first_name": "Vince Gerald",
+     "last_name": "Salvame",
+     "instagram_handle": "beansgerald",
+     "is_verified": false,
+     "linkedin_handle": "/in/vince-gerald-salvame-b1251518b",
+     "name": "Vince Gerald Salvame",
+     "tiktok_handle": null,
+     "timezone": "Asia/Manila",
+     "twitter_handle": null,
+     "username": "builtwithvince",
+     "website": "https://www.builtwithvince.com",
+     "youtube_handle": null
+    },
+    {
+     "api_id": "usr-viGvwEkPqUPzVFy",
+     "avatar_url": "https://images.lumacdn.com/avatars/1p/512980fe-8576-4f89-8d3a-658f8ca653d2.jpg",
+     "bio_short": "ML Researcher: neuroAI, AI safety, Interpretability",
+     "first_name": "Sruthi",
+     "last_name": "Kuriakose",
+     "instagram_handle": null,
+     "is_verified": false,
+     "linkedin_handle": "/in/sruthikuriakose",
+     "name": "Sruthi Kuriakose",
+     "tiktok_handle": null,
+     "timezone": "Europe/London",
+     "twitter_handle": "Sruthi_s_k",
+     "username": null,
+     "website": null,
+     "youtube_handle": null
+    },
+    {
+     "api_id": "usr-kRvbSJEwmV5HzO6",
+     "avatar_url": "https://images.lumacdn.com/avatars/eb/e8a5ad21-8c47-43f0-9eb0-3b2f04600c49.jpg",
+     "bio_short": "Founder askmanu.co",
+     "first_name": "Andrei",
+     "last_name": "Onel",
+     "instagram_handle": null,
+     "is_verified": false,
+     "linkedin_handle": "/in/andreionel",
+     "name": "Andrei",
+     "tiktok_handle": null,
+     "timezone": "Europe/Dublin",
+     "twitter_handle": "andreionel",
+     "username": "askandrei",
+     "website": null,
+     "youtube_handle": ""
+    },
+    {
+     "api_id": "usr-tZuunrim4VVM6Tn",
+     "avatar_url": "https://cdn.lu.ma/avatars-default/avatar_15.png",
+     "bio_short": null,
+     "first_name": "Anne Ishani",
+     "last_name": "Fernando",
+     "instagram_handle": null,
+     "is_verified": false,
+     "linkedin_handle": null,
+     "name": "Anne Fernando",
+     "tiktok_handle": null,
+     "timezone": "America/Los_Angeles",
+     "twitter_handle": null,
+     "username": null,
+     "website": null,
+     "youtube_handle": null
+    },
+    {
+     "api_id": "usr-xhmTwRfxgqYIN6V",
+     "avatar_url": "https://cdn.lu.ma/avatars-default/avatar_18.png",
+     "bio_short": null,
+     "first_name": "Vishvesh",
+     "last_name": "Bhat",
+     "instagram_handle": null,
+     "is_verified": false,
+     "linkedin_handle": "/in/vishveshbhat",
+     "name": "Vishvesh Bhat",
+     "tiktok_handle": null,
+     "timezone": "America/Los_Angeles",
+     "twitter_handle": null,
+     "username": null,
+     "website": null,
+     "youtube_handle": null
+    },
+    {
+     "api_id": "usr-sRhGDZvBE3o2WI8",
+     "avatar_url": "https://cdn.lu.ma/avatars-default/avatar_23.png",
+     "bio_short": "",
+     "first_name": "Shakeel",
+     "last_name": "Ahmed",
+     "instagram_handle": "shak33l",
+     "is_verified": false,
+     "linkedin_handle": "/in/shakeel-ahmed-dt",
+     "name": "Shakeel Ahmed",
+     "tiktok_handle": null,
+     "timezone": "Pacific/Auckland",
+     "twitter_handle": null,
+     "username": "Shakeel_DT",
+     "website": null,
+     "youtube_handle": null
+    },
+    {
+     "api_id": "usr-rzbv4BFFTPa6ROb",
+     "avatar_url": "https://cdn.lu.ma/avatars-default/avatar_4.png",
+     "bio_short": null,
+     "first_name": "Shubham",
+     "last_name": "Jain",
+     "instagram_handle": null,
+     "is_verified": false,
+     "linkedin_handle": "/in/shubham-jain-b1356962",
+     "name": "Shubham Jain",
+     "tiktok_handle": null,
+     "timezone": "Europe/London",
+     "twitter_handle": null,
+     "username": null,
+     "website": null,
+     "youtube_handle": null
+    }
+   ],
+   "manager_info": null,
+   "guest_info": null,
+   "host_info": null,
+   "waitlist_active": false,
+   "featured_city": null,
+   "calendar_api_id": "cal-mc9ZW5C3TzHDv6L",
+   "is_manager": true,
+   "platform": "luma",
+   "status": "approved",
+   "submitted_by_user_api_id": "usr-yN8fRz2QPqKr9Us",
+   "tags": []
+  },
+  {
+   "api_id": "calev-M6EBfkqhYv5OGTC",
+   "event": {
+    "api_id": "evt-FStjrl7V7ras70m",
+    "calendar_api_id": "cal-mc9ZW5C3TzHDv6L",
+    "cover_url": "https://images.lumacdn.com/event-covers/mq/b7a9e5d5-cbd9-4546-a668-972d498d2186",
+    "end_at": "2026-09-23T20:00:00.000Z",
+    "event_type": "independent",
+    "hide_rsvp": false,
+    "location_type": "zoom",
+    "name": "LLM Paper Club - paper tba",
+    "one_to_one": true,
+    "recurrence_id": null,
+    "show_guest_list": true,
+    "social_image_url": "https://images.lumacdn.com/event-social/ta/86d35975-dd98-4a77-86b6-07e8e11631fb.png",
+    "start_at": "2026-09-23T19:00:00.000Z",
+    "timezone": "America/Los_Angeles",
+    "url": "ybexe9jf",
+    "user_api_id": "usr-yN8fRz2QPqKr9Us",
+    "visibility": "public",
+    "virtual_info": {
+     "has_access": false
+    },
+    "geo_address_info": null,
+    "geo_address_visibility": "public",
+    "coordinate": null,
+    "waitlist_enabled": false,
+    "waitlist_status": "disabled"
+   },
+   "cover_image": {
+    "colors": [
+     "#407cc6",
+     "#faf5e7",
+     "#04152d",
+     "#3b557e"
+    ],
+    "palette": {
+     "neutral": [
+      {
+       "color": "#fcf8e9",
+       "percentage": 27.31
+      },
+      {
+       "color": "#7d8389",
+       "percentage": 1.27
+      }
+     ],
+     "vibrant": [
+      {
+       "color": "#417dc6",
+       "percentage": 41.14
+      }
+     ]
+    }
+   },
+   "calendar": {
+    "access_level": "public",
+    "api_id": "cal-mc9ZW5C3TzHDv6L",
+    "avatar_url": "https://images.lumacdn.com/calendars/hv/13b873fa-e5c4-4fe5-b0b8-ee42697ec241",
+    "coordinate": null,
+    "cover_image_url": null,
+    "description_short": "Latent.Space events. youtu.be/@LatentSpaceTV. PLEASE CLICK THE RSS LOGO ABOVE CALENDAR ON THE RIGHT TO ADD TO YOUR CAL. \"Add iCal Subscription\" on hover.\n\nThat will notify you of new events!",
+    "end_date": null,
+    "event_submission_restriction": "open",
+    "google_measurement_id": null,
+    "instagram_handle": null,
+    "is_blocked": false,
+    "is_verified": false,
+    "launch_status": "launched",
+    "linkedin_handle": null,
+    "location": null,
+    "luma_plan": "plus",
+    "luma_plus_active": true,
+    "meta_pixel_id": null,
+    "name": "Latent.Space (Paper Club, AI in Action, Meetups & Confs)",
+    "personal_user_api_id": null,
+    "refund_policy": {
+     "type": "doc",
+     "content": [
+      {
+       "type": "paragraph",
+       "content": [
+        {
+         "text": "No refunds, but transferable tickets",
+         "type": "text"
+        }
+       ]
+      }
+     ]
+    },
+    "slug": "ls",
+    "social_image_url": "https://images.lumacdn.com/calendar-cover-images/sq/febf5e5f-463d-402f-867f-9a425c42c0ff",
+    "start_date": null,
+    "stripe_account_id": "acct_1B3pNWKWe8hdGUWL",
+    "tax_config": null,
+    "tiktok_handle": null,
+    "tint_color": "#325ffa",
+    "track_meta_ads_from_luma": false,
+    "twitter_handle": "latentspacepod",
+    "verified_at": "2024-01-10T22:59:33.583Z",
+    "website": "https://www.latent.space/about#\u00a7components",
+    "youtube_handle": null,
+    "is_personal": false,
+    "personal_user": null,
+    "timezone": null
+   },
+   "start_at": "2026-09-23T19:00:00.000Z",
+   "hosts": [
+    {
+     "api_id": "usr-yN8fRz2QPqKr9Us",
+     "avatar_url": "https://cdn.lu.ma/avatars/zh/e510b946-9519-4d1a-a399-a78d42f98670",
+     "bio_short": "learning in public",
+     "first_name": "Shawn",
+     "last_name": "Wang",
+     "instagram_handle": "twitter.com",
+     "is_verified": false,
+     "linkedin_handle": "/in/shawnswyxwang",
+     "name": "swyx",
+     "tiktok_handle": null,
+     "timezone": "America/Los_Angeles",
+     "twitter_handle": "swyx",
+     "username": "swyx",
+     "website": "https://learninpublic.org/",
+     "youtube_handle": "swyxTV"
+    }
+   ],
+   "guest_count": 1,
+   "ticket_count": 1,
+   "ticket_info": {
+    "price": null,
+    "is_free": true,
+    "max_price": null,
+    "is_sold_out": false,
+    "spots_remaining": null,
+    "is_near_capacity": false,
+    "require_approval": false
+   },
+   "registration_availability": "open",
+   "featured_guests": [
+    {
+     "api_id": "usr-viGvwEkPqUPzVFy",
+     "avatar_url": "https://images.lumacdn.com/avatars/1p/512980fe-8576-4f89-8d3a-658f8ca653d2.jpg",
+     "bio_short": "ML Researcher: neuroAI, AI safety, Interpretability",
+     "first_name": "Sruthi",
+     "last_name": "Kuriakose",
+     "instagram_handle": null,
+     "is_verified": false,
+     "linkedin_handle": "/in/sruthikuriakose",
+     "name": "Sruthi Kuriakose",
+     "tiktok_handle": null,
+     "timezone": "Europe/London",
+     "twitter_handle": "Sruthi_s_k",
+     "username": null,
+     "website": null,
+     "youtube_handle": null
+    }
+   ],
+   "manager_info": null,
+   "guest_info": null,
+   "host_info": null,
+   "waitlist_active": false,
+   "featured_city": null,
+   "calendar_api_id": "cal-mc9ZW5C3TzHDv6L",
+   "is_manager": true,
+   "platform": "luma",
+   "status": "approved",
+   "submitted_by_user_api_id": "usr-yN8fRz2QPqKr9Us",
+   "tags": []
+  },
+  {
+   "api_id": "calev-DnDtFB1mEqPeCcb",
+   "event": {
+    "api_id": "evt-oPYaREdVH8HLdho",
+    "calendar_api_id": "cal-mc9ZW5C3TzHDv6L",
+    "cover_url": "https://images.lumacdn.com/event-covers/mq/b7a9e5d5-cbd9-4546-a668-972d498d2186",
+    "end_at": "2026-09-30T20:00:00.000Z",
+    "event_type": "independent",
+    "hide_rsvp": false,
+    "location_type": "zoom",
+    "name": "LLM Paper Club - paper tba",
+    "one_to_one": true,
+    "recurrence_id": null,
+    "show_guest_list": true,
+    "social_image_url": "https://images.lumacdn.com/event-social/ff/12408e3b-6a99-4020-baff-78252cc47505.png",
+    "start_at": "2026-09-30T19:00:00.000Z",
+    "timezone": "America/Los_Angeles",
+    "url": "7vq5eqgx",
+    "user_api_id": "usr-yN8fRz2QPqKr9Us",
+    "visibility": "public",
+    "virtual_info": {
+     "has_access": false
+    },
+    "geo_address_info": null,
+    "geo_address_visibility": "public",
+    "coordinate": null,
+    "waitlist_enabled": false,
+    "waitlist_status": "disabled"
+   },
+   "cover_image": {
+    "colors": [
+     "#407cc6",
+     "#faf5e7",
+     "#04152d",
+     "#3b557e"
+    ],
+    "palette": {
+     "neutral": [
+      {
+       "color": "#fcf8e9",
+       "percentage": 27.31
+      },
+      {
+       "color": "#7d8389",
+       "percentage": 1.27
+      }
+     ],
+     "vibrant": [
+      {
+       "color": "#417dc6",
+       "percentage": 41.14
+      }
+     ]
+    }
+   },
+   "calendar": {
+    "access_level": "public",
+    "api_id": "cal-mc9ZW5C3TzHDv6L",
+    "avatar_url": "https://images.lumacdn.com/calendars/hv/13b873fa-e5c4-4fe5-b0b8-ee42697ec241",
+    "coordinate": null,
+    "cover_image_url": null,
+    "description_short": "Latent.Space events. youtu.be/@LatentSpaceTV. PLEASE CLICK THE RSS LOGO ABOVE CALENDAR ON THE RIGHT TO ADD TO YOUR CAL. \"Add iCal Subscription\" on hover.\n\nThat will notify you of new events!",
+    "end_date": null,
+    "event_submission_restriction": "open",
+    "google_measurement_id": null,
+    "instagram_handle": null,
+    "is_blocked": false,
+    "is_verified": false,
+    "launch_status": "launched",
+    "linkedin_handle": null,
+    "location": null,
+    "luma_plan": "plus",
+    "luma_plus_active": true,
+    "meta_pixel_id": null,
+    "name": "Latent.Space (Paper Club, AI in Action, Meetups & Confs)",
+    "personal_user_api_id": null,
+    "refund_policy": {
+     "type": "doc",
+     "content": [
+      {
+       "type": "paragraph",
+       "content": [
+        {
+         "text": "No refunds, but transferable tickets",
+         "type": "text"
+        }
+       ]
+      }
+     ]
+    },
+    "slug": "ls",
+    "social_image_url": "https://images.lumacdn.com/calendar-cover-images/sq/febf5e5f-463d-402f-867f-9a425c42c0ff",
+    "start_date": null,
+    "stripe_account_id": "acct_1B3pNWKWe8hdGUWL",
+    "tax_config": null,
+    "tiktok_handle": null,
+    "tint_color": "#325ffa",
+    "track_meta_ads_from_luma": false,
+    "twitter_handle": "latentspacepod",
+    "verified_at": "2024-01-10T22:59:33.583Z",
+    "website": "https://www.latent.space/about#\u00a7components",
+    "youtube_handle": null,
+    "is_personal": false,
+    "personal_user": null,
+    "timezone": null
+   },
+   "start_at": "2026-09-30T19:00:00.000Z",
+   "hosts": [
+    {
+     "api_id": "usr-yN8fRz2QPqKr9Us",
+     "avatar_url": "https://cdn.lu.ma/avatars/zh/e510b946-9519-4d1a-a399-a78d42f98670",
+     "bio_short": "learning in public",
+     "first_name": "Shawn",
+     "last_name": "Wang",
+     "instagram_handle": "twitter.com",
+     "is_verified": false,
+     "linkedin_handle": "/in/shawnswyxwang",
+     "name": "swyx",
+     "tiktok_handle": null,
+     "timezone": "America/Los_Angeles",
+     "twitter_handle": "swyx",
+     "username": "swyx",
+     "website": "https://learninpublic.org/",
+     "youtube_handle": "swyxTV"
+    }
+   ],
+   "guest_count": 1,
+   "ticket_count": 1,
+   "ticket_info": {
+    "price": null,
+    "is_free": true,
+    "max_price": null,
+    "is_sold_out": false,
+    "spots_remaining": null,
+    "is_near_capacity": false,
+    "require_approval": false
+   },
+   "registration_availability": "open",
+   "featured_guests": [
+    {
+     "api_id": "usr-viGvwEkPqUPzVFy",
+     "avatar_url": "https://images.lumacdn.com/avatars/1p/512980fe-8576-4f89-8d3a-658f8ca653d2.jpg",
+     "bio_short": "ML Researcher: neuroAI, AI safety, Interpretability",
+     "first_name": "Sruthi",
+     "last_name": "Kuriakose",
+     "instagram_handle": null,
+     "is_verified": false,
+     "linkedin_handle": "/in/sruthikuriakose",
+     "name": "Sruthi Kuriakose",
+     "tiktok_handle": null,
+     "timezone": "Europe/London",
+     "twitter_handle": "Sruthi_s_k",
+     "username": null,
+     "website": null,
+     "youtube_handle": null
+    }
+   ],
+   "manager_info": null,
+   "guest_info": null,
+   "host_info": null,
+   "waitlist_active": false,
+   "featured_city": null,
+   "calendar_api_id": "cal-mc9ZW5C3TzHDv6L",
+   "is_manager": true,
+   "platform": "luma",
+   "status": "approved",
+   "submitted_by_user_api_id": "usr-yN8fRz2QPqKr9Us",
+   "tags": []
+  },
+  {
+   "api_id": "calev-BQOHfTlIHbrwR1I",
+   "event": {
+    "api_id": "evt-gHlgZGfDG4BxE4j",
+    "calendar_api_id": "cal-mc9ZW5C3TzHDv6L",
+    "cover_url": "https://images.lumacdn.com/event-covers/mq/b7a9e5d5-cbd9-4546-a668-972d498d2186",
+    "end_at": "2026-10-07T20:00:00.000Z",
+    "event_type": "independent",
+    "hide_rsvp": false,
+    "location_type": "zoom",
+    "name": "LLM Paper Club - paper tba",
+    "one_to_one": true,
+    "recurrence_id": null,
+    "show_guest_list": true,
+    "social_image_url": "https://images.lumacdn.com/event-social/gr/27e19908-7d20-495d-8f4c-43977bf27522.png",
+    "start_at": "2026-10-07T19:00:00.000Z",
+    "timezone": "America/Los_Angeles",
+    "url": "bgrmd42f",
+    "user_api_id": "usr-yN8fRz2QPqKr9Us",
+    "visibility": "public",
+    "virtual_info": {
+     "has_access": false
+    },
+    "geo_address_info": null,
+    "geo_address_visibility": "public",
+    "coordinate": null,
+    "waitlist_enabled": false,
+    "waitlist_status": "disabled"
+   },
+   "cover_image": {
+    "colors": [
+     "#407cc6",
+     "#faf5e7",
+     "#04152d",
+     "#3b557e"
+    ],
+    "palette": {
+     "neutral": [
+      {
+       "color": "#fcf8e9",
+       "percentage": 27.31
+      },
+      {
+       "color": "#7d8389",
+       "percentage": 1.27
+      }
+     ],
+     "vibrant": [
+      {
+       "color": "#417dc6",
+       "percentage": 41.14
+      }
+     ]
+    }
+   },
+   "calendar": {
+    "access_level": "public",
+    "api_id": "cal-mc9ZW5C3TzHDv6L",
+    "avatar_url": "https://images.lumacdn.com/calendars/hv/13b873fa-e5c4-4fe5-b0b8-ee42697ec241",
+    "coordinate": null,
+    "cover_image_url": null,
+    "description_short": "Latent.Space events. youtu.be/@LatentSpaceTV. PLEASE CLICK THE RSS LOGO ABOVE CALENDAR ON THE RIGHT TO ADD TO YOUR CAL. \"Add iCal Subscription\" on hover.\n\nThat will notify you of new events!",
+    "end_date": null,
+    "event_submission_restriction": "open",
+    "google_measurement_id": null,
+    "instagram_handle": null,
+    "is_blocked": false,
+    "is_verified": false,
+    "launch_status": "launched",
+    "linkedin_handle": null,
+    "location": null,
+    "luma_plan": "plus",
+    "luma_plus_active": true,
+    "meta_pixel_id": null,
+    "name": "Latent.Space (Paper Club, AI in Action, Meetups & Confs)",
+    "personal_user_api_id": null,
+    "refund_policy": {
+     "type": "doc",
+     "content": [
+      {
+       "type": "paragraph",
+       "content": [
+        {
+         "text": "No refunds, but transferable tickets",
+         "type": "text"
+        }
+       ]
+      }
+     ]
+    },
+    "slug": "ls",
+    "social_image_url": "https://images.lumacdn.com/calendar-cover-images/sq/febf5e5f-463d-402f-867f-9a425c42c0ff",
+    "start_date": null,
+    "stripe_account_id": "acct_1B3pNWKWe8hdGUWL",
+    "tax_config": null,
+    "tiktok_handle": null,
+    "tint_color": "#325ffa",
+    "track_meta_ads_from_luma": false,
+    "twitter_handle": "latentspacepod",
+    "verified_at": "2024-01-10T22:59:33.583Z",
+    "website": "https://www.latent.space/about#\u00a7components",
+    "youtube_handle": null,
+    "is_personal": false,
+    "personal_user": null,
+    "timezone": null
+   },
+   "start_at": "2026-10-07T19:00:00.000Z",
+   "hosts": [
+    {
+     "api_id": "usr-yN8fRz2QPqKr9Us",
+     "avatar_url": "https://cdn.lu.ma/avatars/zh/e510b946-9519-4d1a-a399-a78d42f98670",
+     "bio_short": "learning in public",
+     "first_name": "Shawn",
+     "last_name": "Wang",
+     "instagram_handle": "twitter.com",
+     "is_verified": false,
+     "linkedin_handle": "/in/shawnswyxwang",
+     "name": "swyx",
+     "tiktok_handle": null,
+     "timezone": "America/Los_Angeles",
+     "twitter_handle": "swyx",
+     "username": "swyx",
+     "website": "https://learninpublic.org/",
+     "youtube_handle": "swyxTV"
+    }
+   ],
+   "guest_count": 1,
+   "ticket_count": 1,
+   "ticket_info": {
+    "price": null,
+    "is_free": true,
+    "max_price": null,
+    "is_sold_out": false,
+    "spots_remaining": null,
+    "is_near_capacity": false,
+    "require_approval": false
+   },
+   "registration_availability": "open",
+   "featured_guests": [
+    {
+     "api_id": "usr-viGvwEkPqUPzVFy",
+     "avatar_url": "https://images.lumacdn.com/avatars/1p/512980fe-8576-4f89-8d3a-658f8ca653d2.jpg",
+     "bio_short": "ML Researcher: neuroAI, AI safety, Interpretability",
+     "first_name": "Sruthi",
+     "last_name": "Kuriakose",
+     "instagram_handle": null,
+     "is_verified": false,
+     "linkedin_handle": "/in/sruthikuriakose",
+     "name": "Sruthi Kuriakose",
+     "tiktok_handle": null,
+     "timezone": "Europe/London",
+     "twitter_handle": "Sruthi_s_k",
+     "username": null,
+     "website": null,
+     "youtube_handle": null
+    }
+   ],
+   "manager_info": null,
+   "guest_info": null,
+   "host_info": null,
+   "waitlist_active": false,
+   "featured_city": null,
+   "calendar_api_id": "cal-mc9ZW5C3TzHDv6L",
+   "is_manager": true,
+   "platform": "luma",
+   "status": "approved",
+   "submitted_by_user_api_id": "usr-yN8fRz2QPqKr9Us",
+   "tags": []
+  },
+  {
+   "api_id": "calev-R16vptHap8khjca",
+   "event": {
+    "api_id": "evt-AW1K15YcB8SJrEW",
+    "calendar_api_id": "cal-mc9ZW5C3TzHDv6L",
+    "cover_url": "https://images.lumacdn.com/event-covers/mq/b7a9e5d5-cbd9-4546-a668-972d498d2186",
+    "end_at": "2026-10-14T20:00:00.000Z",
+    "event_type": "independent",
+    "hide_rsvp": false,
+    "location_type": "zoom",
+    "name": "LLM Paper Club - paper tba",
+    "one_to_one": true,
+    "recurrence_id": null,
+    "show_guest_list": true,
+    "social_image_url": "https://images.lumacdn.com/event-social/o1/2779b699-5c47-47e5-bbc2-2476c42a7e93.png",
+    "start_at": "2026-10-14T19:00:00.000Z",
+    "timezone": "America/Los_Angeles",
+    "url": "k8u3voz2",
+    "user_api_id": "usr-yN8fRz2QPqKr9Us",
+    "visibility": "public",
+    "virtual_info": {
+     "has_access": false
+    },
+    "geo_address_info": null,
+    "geo_address_visibility": "public",
+    "coordinate": null,
+    "waitlist_enabled": false,
+    "waitlist_status": "disabled"
+   },
+   "cover_image": {
+    "colors": [
+     "#407cc6",
+     "#faf5e7",
+     "#04152d",
+     "#3b557e"
+    ],
+    "palette": {
+     "neutral": [
+      {
+       "color": "#fcf8e9",
+       "percentage": 27.31
+      },
+      {
+       "color": "#7d8389",
+       "percentage": 1.27
+      }
+     ],
+     "vibrant": [
+      {
+       "color": "#417dc6",
+       "percentage": 41.14
+      }
+     ]
+    }
+   },
+   "calendar": {
+    "access_level": "public",
+    "api_id": "cal-mc9ZW5C3TzHDv6L",
+    "avatar_url": "https://images.lumacdn.com/calendars/hv/13b873fa-e5c4-4fe5-b0b8-ee42697ec241",
+    "coordinate": null,
+    "cover_image_url": null,
+    "description_short": "Latent.Space events. youtu.be/@LatentSpaceTV. PLEASE CLICK THE RSS LOGO ABOVE CALENDAR ON THE RIGHT TO ADD TO YOUR CAL. \"Add iCal Subscription\" on hover.\n\nThat will notify you of new events!",
+    "end_date": null,
+    "event_submission_restriction": "open",
+    "google_measurement_id": null,
+    "instagram_handle": null,
+    "is_blocked": false,
+    "is_verified": false,
+    "launch_status": "launched",
+    "linkedin_handle": null,
+    "location": null,
+    "luma_plan": "plus",
+    "luma_plus_active": true,
+    "meta_pixel_id": null,
+    "name": "Latent.Space (Paper Club, AI in Action, Meetups & Confs)",
+    "personal_user_api_id": null,
+    "refund_policy": {
+     "type": "doc",
+     "content": [
+      {
+       "type": "paragraph",
+       "content": [
+        {
+         "text": "No refunds, but transferable tickets",
+         "type": "text"
+        }
+       ]
+      }
+     ]
+    },
+    "slug": "ls",
+    "social_image_url": "https://images.lumacdn.com/calendar-cover-images/sq/febf5e5f-463d-402f-867f-9a425c42c0ff",
+    "start_date": null,
+    "stripe_account_id": "acct_1B3pNWKWe8hdGUWL",
+    "tax_config": null,
+    "tiktok_handle": null,
+    "tint_color": "#325ffa",
+    "track_meta_ads_from_luma": false,
+    "twitter_handle": "latentspacepod",
+    "verified_at": "2024-01-10T22:59:33.583Z",
+    "website": "https://www.latent.space/about#\u00a7components",
+    "youtube_handle": null,
+    "is_personal": false,
+    "personal_user": null,
+    "timezone": null
+   },
+   "start_at": "2026-10-14T19:00:00.000Z",
+   "hosts": [
+    {
+     "api_id": "usr-yN8fRz2QPqKr9Us",
+     "avatar_url": "https://cdn.lu.ma/avatars/zh/e510b946-9519-4d1a-a399-a78d42f98670",
+     "bio_short": "learning in public",
+     "first_name": "Shawn",
+     "last_name": "Wang",
+     "instagram_handle": "twitter.com",
+     "is_verified": false,
+     "linkedin_handle": "/in/shawnswyxwang",
+     "name": "swyx",
+     "tiktok_handle": null,
+     "timezone": "America/Los_Angeles",
+     "twitter_handle": "swyx",
+     "username": "swyx",
+     "website": "https://learninpublic.org/",
+     "youtube_handle": "swyxTV"
+    }
+   ],
+   "guest_count": 1,
+   "ticket_count": 1,
+   "ticket_info": {
+    "price": null,
+    "is_free": true,
+    "max_price": null,
+    "is_sold_out": false,
+    "spots_remaining": null,
+    "is_near_capacity": false,
+    "require_approval": false
+   },
+   "registration_availability": "open",
+   "featured_guests": [
+    {
+     "api_id": "usr-viGvwEkPqUPzVFy",
+     "avatar_url": "https://images.lumacdn.com/avatars/1p/512980fe-8576-4f89-8d3a-658f8ca653d2.jpg",
+     "bio_short": "ML Researcher: neuroAI, AI safety, Interpretability",
+     "first_name": "Sruthi",
+     "last_name": "Kuriakose",
+     "instagram_handle": null,
+     "is_verified": false,
+     "linkedin_handle": "/in/sruthikuriakose",
+     "name": "Sruthi Kuriakose",
+     "tiktok_handle": null,
+     "timezone": "Europe/London",
+     "twitter_handle": "Sruthi_s_k",
+     "username": null,
+     "website": null,
+     "youtube_handle": null
+    }
+   ],
+   "manager_info": null,
+   "guest_info": null,
+   "host_info": null,
+   "waitlist_active": false,
+   "featured_city": null,
+   "calendar_api_id": "cal-mc9ZW5C3TzHDv6L",
+   "is_manager": true,
+   "platform": "luma",
+   "status": "approved",
+   "submitted_by_user_api_id": "usr-yN8fRz2QPqKr9Us",
+   "tags": []
+  },
+  {
+   "api_id": "calev-98RBBf6qbE3V5wB",
+   "event": {
+    "api_id": "evt-ZGGZ2VHK1vWNtIr",
+    "calendar_api_id": "cal-mc9ZW5C3TzHDv6L",
+    "cover_url": "https://images.lumacdn.com/event-covers/mq/b7a9e5d5-cbd9-4546-a668-972d498d2186",
+    "end_at": "2026-10-21T20:00:00.000Z",
+    "event_type": "independent",
+    "hide_rsvp": false,
+    "location_type": "zoom",
+    "name": "LLM Paper Club - paper tba",
+    "one_to_one": true,
+    "recurrence_id": null,
+    "show_guest_list": true,
+    "social_image_url": "https://images.lumacdn.com/event-social/7s/c43e7d5a-413c-4c65-bf2b-e8c3e62fdf0a.png",
+    "start_at": "2026-10-21T19:00:00.000Z",
+    "timezone": "America/Los_Angeles",
+    "url": "ci2kl9m0",
+    "user_api_id": "usr-yN8fRz2QPqKr9Us",
+    "visibility": "public",
+    "virtual_info": {
+     "has_access": false
+    },
+    "geo_address_info": null,
+    "geo_address_visibility": "public",
+    "coordinate": null,
+    "waitlist_enabled": false,
+    "waitlist_status": "disabled"
+   },
+   "cover_image": {
+    "colors": [
+     "#407cc6",
+     "#faf5e7",
+     "#04152d",
+     "#3b557e"
+    ],
+    "palette": {
+     "neutral": [
+      {
+       "color": "#fcf8e9",
+       "percentage": 27.31
+      },
+      {
+       "color": "#7d8389",
+       "percentage": 1.27
+      }
+     ],
+     "vibrant": [
+      {
+       "color": "#417dc6",
+       "percentage": 41.14
+      }
+     ]
+    }
+   },
+   "calendar": {
+    "access_level": "public",
+    "api_id": "cal-mc9ZW5C3TzHDv6L",
+    "avatar_url": "https://images.lumacdn.com/calendars/hv/13b873fa-e5c4-4fe5-b0b8-ee42697ec241",
+    "coordinate": null,
+    "cover_image_url": null,
+    "description_short": "Latent.Space events. youtu.be/@LatentSpaceTV. PLEASE CLICK THE RSS LOGO ABOVE CALENDAR ON THE RIGHT TO ADD TO YOUR CAL. \"Add iCal Subscription\" on hover.\n\nThat will notify you of new events!",
+    "end_date": null,
+    "event_submission_restriction": "open",
+    "google_measurement_id": null,
+    "instagram_handle": null,
+    "is_blocked": false,
+    "is_verified": false,
+    "launch_status": "launched",
+    "linkedin_handle": null,
+    "location": null,
+    "luma_plan": "plus",
+    "luma_plus_active": true,
+    "meta_pixel_id": null,
+    "name": "Latent.Space (Paper Club, AI in Action, Meetups & Confs)",
+    "personal_user_api_id": null,
+    "refund_policy": {
+     "type": "doc",
+     "content": [
+      {
+       "type": "paragraph",
+       "content": [
+        {
+         "text": "No refunds, but transferable tickets",
+         "type": "text"
+        }
+       ]
+      }
+     ]
+    },
+    "slug": "ls",
+    "social_image_url": "https://images.lumacdn.com/calendar-cover-images/sq/febf5e5f-463d-402f-867f-9a425c42c0ff",
+    "start_date": null,
+    "stripe_account_id": "acct_1B3pNWKWe8hdGUWL",
+    "tax_config": null,
+    "tiktok_handle": null,
+    "tint_color": "#325ffa",
+    "track_meta_ads_from_luma": false,
+    "twitter_handle": "latentspacepod",
+    "verified_at": "2024-01-10T22:59:33.583Z",
+    "website": "https://www.latent.space/about#\u00a7components",
+    "youtube_handle": null,
+    "is_personal": false,
+    "personal_user": null,
+    "timezone": null
+   },
+   "start_at": "2026-10-21T19:00:00.000Z",
+   "hosts": [
+    {
+     "api_id": "usr-yN8fRz2QPqKr9Us",
+     "avatar_url": "https://cdn.lu.ma/avatars/zh/e510b946-9519-4d1a-a399-a78d42f98670",
+     "bio_short": "learning in public",
+     "first_name": "Shawn",
+     "last_name": "Wang",
+     "instagram_handle": "twitter.com",
+     "is_verified": false,
+     "linkedin_handle": "/in/shawnswyxwang",
+     "name": "swyx",
+     "tiktok_handle": null,
+     "timezone": "America/Los_Angeles",
+     "twitter_handle": "swyx",
+     "username": "swyx",
+     "website": "https://learninpublic.org/",
+     "youtube_handle": "swyxTV"
+    }
+   ],
+   "guest_count": 0,
+   "ticket_count": 0,
+   "ticket_info": {
+    "price": null,
+    "is_free": true,
+    "max_price": null,
+    "is_sold_out": false,
+    "spots_remaining": null,
+    "is_near_capacity": false,
+    "require_approval": false
+   },
+   "registration_availability": "open",
+   "featured_guests": [],
+   "manager_info": null,
+   "guest_info": null,
+   "host_info": null,
+   "waitlist_active": false,
+   "featured_city": null,
+   "calendar_api_id": "cal-mc9ZW5C3TzHDv6L",
+   "is_manager": true,
+   "platform": "luma",
+   "status": "approved",
+   "submitted_by_user_api_id": "usr-yN8fRz2QPqKr9Us",
+   "tags": []
+  },
+  {
+   "api_id": "calev-OA8QFEhUyCUhGHU",
+   "event": {
+    "api_id": "evt-mfzCbc9pEZX3vG8",
+    "calendar_api_id": "cal-mc9ZW5C3TzHDv6L",
+    "cover_url": "https://images.lumacdn.com/event-covers/mq/b7a9e5d5-cbd9-4546-a668-972d498d2186",
+    "end_at": "2026-10-28T20:00:00.000Z",
+    "event_type": "independent",
+    "hide_rsvp": false,
+    "location_type": "zoom",
+    "name": "LLM Paper Club - paper tba",
+    "one_to_one": true,
+    "recurrence_id": null,
+    "show_guest_list": true,
+    "social_image_url": "https://images.lumacdn.com/event-social/2m/15a25989-d5d8-46c7-b11d-f49f0213f2cd.png",
+    "start_at": "2026-10-28T19:00:00.000Z",
+    "timezone": "America/Los_Angeles",
+    "url": "jxe5l3ts",
+    "user_api_id": "usr-yN8fRz2QPqKr9Us",
+    "visibility": "public",
+    "virtual_info": {
+     "has_access": false
+    },
+    "geo_address_info": null,
+    "geo_address_visibility": "public",
+    "coordinate": null,
+    "waitlist_enabled": false,
+    "waitlist_status": "disabled"
+   },
+   "cover_image": {
+    "colors": [
+     "#407cc6",
+     "#faf5e7",
+     "#04152d",
+     "#3b557e"
+    ],
+    "palette": {
+     "neutral": [
+      {
+       "color": "#fcf8e9",
+       "percentage": 27.31
+      },
+      {
+       "color": "#7d8389",
+       "percentage": 1.27
+      }
+     ],
+     "vibrant": [
+      {
+       "color": "#417dc6",
+       "percentage": 41.14
+      }
+     ]
+    }
+   },
+   "calendar": {
+    "access_level": "public",
+    "api_id": "cal-mc9ZW5C3TzHDv6L",
+    "avatar_url": "https://images.lumacdn.com/calendars/hv/13b873fa-e5c4-4fe5-b0b8-ee42697ec241",
+    "coordinate": null,
+    "cover_image_url": null,
+    "description_short": "Latent.Space events. youtu.be/@LatentSpaceTV. PLEASE CLICK THE RSS LOGO ABOVE CALENDAR ON THE RIGHT TO ADD TO YOUR CAL. \"Add iCal Subscription\" on hover.\n\nThat will notify you of new events!",
+    "end_date": null,
+    "event_submission_restriction": "open",
+    "google_measurement_id": null,
+    "instagram_handle": null,
+    "is_blocked": false,
+    "is_verified": false,
+    "launch_status": "launched",
+    "linkedin_handle": null,
+    "location": null,
+    "luma_plan": "plus",
+    "luma_plus_active": true,
+    "meta_pixel_id": null,
+    "name": "Latent.Space (Paper Club, AI in Action, Meetups & Confs)",
+    "personal_user_api_id": null,
+    "refund_policy": {
+     "type": "doc",
+     "content": [
+      {
+       "type": "paragraph",
+       "content": [
+        {
+         "text": "No refunds, but transferable tickets",
+         "type": "text"
+        }
+       ]
+      }
+     ]
+    },
+    "slug": "ls",
+    "social_image_url": "https://images.lumacdn.com/calendar-cover-images/sq/febf5e5f-463d-402f-867f-9a425c42c0ff",
+    "start_date": null,
+    "stripe_account_id": "acct_1B3pNWKWe8hdGUWL",
+    "tax_config": null,
+    "tiktok_handle": null,
+    "tint_color": "#325ffa",
+    "track_meta_ads_from_luma": false,
+    "twitter_handle": "latentspacepod",
+    "verified_at": "2024-01-10T22:59:33.583Z",
+    "website": "https://www.latent.space/about#\u00a7components",
+    "youtube_handle": null,
+    "is_personal": false,
+    "personal_user": null,
+    "timezone": null
+   },
+   "start_at": "2026-10-28T19:00:00.000Z",
+   "hosts": [
+    {
+     "api_id": "usr-yN8fRz2QPqKr9Us",
+     "avatar_url": "https://cdn.lu.ma/avatars/zh/e510b946-9519-4d1a-a399-a78d42f98670",
+     "bio_short": "learning in public",
+     "first_name": "Shawn",
+     "last_name": "Wang",
+     "instagram_handle": "twitter.com",
+     "is_verified": false,
+     "linkedin_handle": "/in/shawnswyxwang",
+     "name": "swyx",
+     "tiktok_handle": null,
+     "timezone": "America/Los_Angeles",
+     "twitter_handle": "swyx",
+     "username": "swyx",
+     "website": "https://learninpublic.org/",
+     "youtube_handle": "swyxTV"
+    }
+   ],
+   "guest_count": 0,
+   "ticket_count": 0,
+   "ticket_info": {
+    "price": null,
+    "is_free": true,
+    "max_price": null,
+    "is_sold_out": false,
+    "spots_remaining": null,
+    "is_near_capacity": false,
+    "require_approval": false
+   },
+   "registration_availability": "open",
+   "featured_guests": [],
+   "manager_info": null,
+   "guest_info": null,
+   "host_info": null,
+   "waitlist_active": false,
+   "featured_city": null,
+   "calendar_api_id": "cal-mc9ZW5C3TzHDv6L",
+   "is_manager": true,
+   "platform": "luma",
+   "status": "approved",
+   "submitted_by_user_api_id": "usr-yN8fRz2QPqKr9Us",
+   "tags": []
+  },
+  {
+   "api_id": "calev-yS2lrs1bE8M1gHE",
+   "event": {
+    "api_id": "evt-b5bf1CMZEGpykgB",
+    "calendar_api_id": "cal-mc9ZW5C3TzHDv6L",
+    "cover_url": "https://images.lumacdn.com/event-covers/mq/b7a9e5d5-cbd9-4546-a668-972d498d2186",
+    "end_at": "2026-11-04T21:00:00.000Z",
+    "event_type": "independent",
+    "hide_rsvp": false,
+    "location_type": "zoom",
+    "name": "LLM Paper Club - paper tba",
+    "one_to_one": true,
+    "recurrence_id": null,
+    "show_guest_list": true,
+    "social_image_url": "https://images.lumacdn.com/event-social/dh/7b94f85f-ac26-4cdf-b03c-974033c28e68.png",
+    "start_at": "2026-11-04T20:00:00.000Z",
+    "timezone": "America/Los_Angeles",
+    "url": "fdgz2nt9",
+    "user_api_id": "usr-yN8fRz2QPqKr9Us",
+    "visibility": "public",
+    "virtual_info": {
+     "has_access": false
+    },
+    "geo_address_info": null,
+    "geo_address_visibility": "public",
+    "coordinate": null,
+    "waitlist_enabled": false,
+    "waitlist_status": "disabled"
+   },
+   "cover_image": {
+    "colors": [
+     "#407cc6",
+     "#faf5e7",
+     "#04152d",
+     "#3b557e"
+    ],
+    "palette": {
+     "neutral": [
+      {
+       "color": "#fcf8e9",
+       "percentage": 27.31
+      },
+      {
+       "color": "#7d8389",
+       "percentage": 1.27
+      }
+     ],
+     "vibrant": [
+      {
+       "color": "#417dc6",
+       "percentage": 41.14
+      }
+     ]
+    }
+   },
+   "calendar": {
+    "access_level": "public",
+    "api_id": "cal-mc9ZW5C3TzHDv6L",
+    "avatar_url": "https://images.lumacdn.com/calendars/hv/13b873fa-e5c4-4fe5-b0b8-ee42697ec241",
+    "coordinate": null,
+    "cover_image_url": null,
+    "description_short": "Latent.Space events. youtu.be/@LatentSpaceTV. PLEASE CLICK THE RSS LOGO ABOVE CALENDAR ON THE RIGHT TO ADD TO YOUR CAL. \"Add iCal Subscription\" on hover.\n\nThat will notify you of new events!",
+    "end_date": null,
+    "event_submission_restriction": "open",
+    "google_measurement_id": null,
+    "instagram_handle": null,
+    "is_blocked": false,
+    "is_verified": false,
+    "launch_status": "launched",
+    "linkedin_handle": null,
+    "location": null,
+    "luma_plan": "plus",
+    "luma_plus_active": true,
+    "meta_pixel_id": null,
+    "name": "Latent.Space (Paper Club, AI in Action, Meetups & Confs)",
+    "personal_user_api_id": null,
+    "refund_policy": {
+     "type": "doc",
+     "content": [
+      {
+       "type": "paragraph",
+       "content": [
+        {
+         "text": "No refunds, but transferable tickets",
+         "type": "text"
+        }
+       ]
+      }
+     ]
+    },
+    "slug": "ls",
+    "social_image_url": "https://images.lumacdn.com/calendar-cover-images/sq/febf5e5f-463d-402f-867f-9a425c42c0ff",
+    "start_date": null,
+    "stripe_account_id": "acct_1B3pNWKWe8hdGUWL",
+    "tax_config": null,
+    "tiktok_handle": null,
+    "tint_color": "#325ffa",
+    "track_meta_ads_from_luma": false,
+    "twitter_handle": "latentspacepod",
+    "verified_at": "2024-01-10T22:59:33.583Z",
+    "website": "https://www.latent.space/about#\u00a7components",
+    "youtube_handle": null,
+    "is_personal": false,
+    "personal_user": null,
+    "timezone": null
+   },
+   "start_at": "2026-11-04T20:00:00.000Z",
+   "hosts": [
+    {
+     "api_id": "usr-yN8fRz2QPqKr9Us",
+     "avatar_url": "https://cdn.lu.ma/avatars/zh/e510b946-9519-4d1a-a399-a78d42f98670",
+     "bio_short": "learning in public",
+     "first_name": "Shawn",
+     "last_name": "Wang",
+     "instagram_handle": "twitter.com",
+     "is_verified": false,
+     "linkedin_handle": "/in/shawnswyxwang",
+     "name": "swyx",
+     "tiktok_handle": null,
+     "timezone": "America/Los_Angeles",
+     "twitter_handle": "swyx",
+     "username": "swyx",
+     "website": "https://learninpublic.org/",
+     "youtube_handle": "swyxTV"
+    }
+   ],
+   "guest_count": 0,
+   "ticket_count": 0,
+   "ticket_info": {
+    "price": null,
+    "is_free": true,
+    "max_price": null,
+    "is_sold_out": false,
+    "spots_remaining": null,
+    "is_near_capacity": false,
+    "require_approval": false
+   },
+   "registration_availability": "open",
+   "featured_guests": [],
+   "manager_info": null,
+   "guest_info": null,
+   "host_info": null,
+   "waitlist_active": false,
+   "featured_city": null,
+   "calendar_api_id": "cal-mc9ZW5C3TzHDv6L",
+   "is_manager": true,
+   "platform": "luma",
+   "status": "approved",
+   "submitted_by_user_api_id": "usr-yN8fRz2QPqKr9Us",
+   "tags": []
+  },
+  {
+   "api_id": "calev-kB7GKRxUxtFaATW",
+   "event": {
+    "api_id": "evt-ms8AwtTFWL2DfRP",
+    "calendar_api_id": "cal-mc9ZW5C3TzHDv6L",
+    "cover_url": "https://images.lumacdn.com/event-covers/mq/b7a9e5d5-cbd9-4546-a668-972d498d2186",
+    "end_at": "2026-11-11T21:00:00.000Z",
+    "event_type": "independent",
+    "hide_rsvp": false,
+    "location_type": "zoom",
+    "name": "LLM Paper Club - paper tba",
+    "one_to_one": true,
+    "recurrence_id": null,
+    "show_guest_list": true,
+    "social_image_url": "https://images.lumacdn.com/event-social/u0/f2dc2b81-ddb4-4580-a971-65798d6ca8d0.png",
+    "start_at": "2026-11-11T20:00:00.000Z",
+    "timezone": "America/Los_Angeles",
+    "url": "b88ciiix",
+    "user_api_id": "usr-yN8fRz2QPqKr9Us",
+    "visibility": "public",
+    "virtual_info": {
+     "has_access": false
+    },
+    "geo_address_info": null,
+    "geo_address_visibility": "public",
+    "coordinate": null,
+    "waitlist_enabled": false,
+    "waitlist_status": "disabled"
+   },
+   "cover_image": {
+    "colors": [
+     "#407cc6",
+     "#faf5e7",
+     "#04152d",
+     "#3b557e"
+    ],
+    "palette": {
+     "neutral": [
+      {
+       "color": "#fcf8e9",
+       "percentage": 27.31
+      },
+      {
+       "color": "#7d8389",
+       "percentage": 1.27
+      }
+     ],
+     "vibrant": [
+      {
+       "color": "#417dc6",
+       "percentage": 41.14
+      }
+     ]
+    }
+   },
+   "calendar": {
+    "access_level": "public",
+    "api_id": "cal-mc9ZW5C3TzHDv6L",
+    "avatar_url": "https://images.lumacdn.com/calendars/hv/13b873fa-e5c4-4fe5-b0b8-ee42697ec241",
+    "coordinate": null,
+    "cover_image_url": null,
+    "description_short": "Latent.Space events. youtu.be/@LatentSpaceTV. PLEASE CLICK THE RSS LOGO ABOVE CALENDAR ON THE RIGHT TO ADD TO YOUR CAL. \"Add iCal Subscription\" on hover.\n\nThat will notify you of new events!",
+    "end_date": null,
+    "event_submission_restriction": "open",
+    "google_measurement_id": null,
+    "instagram_handle": null,
+    "is_blocked": false,
+    "is_verified": false,
+    "launch_status": "launched",
+    "linkedin_handle": null,
+    "location": null,
+    "luma_plan": "plus",
+    "luma_plus_active": true,
+    "meta_pixel_id": null,
+    "name": "Latent.Space (Paper Club, AI in Action, Meetups & Confs)",
+    "personal_user_api_id": null,
+    "refund_policy": {
+     "type": "doc",
+     "content": [
+      {
+       "type": "paragraph",
+       "content": [
+        {
+         "text": "No refunds, but transferable tickets",
+         "type": "text"
+        }
+       ]
+      }
+     ]
+    },
+    "slug": "ls",
+    "social_image_url": "https://images.lumacdn.com/calendar-cover-images/sq/febf5e5f-463d-402f-867f-9a425c42c0ff",
+    "start_date": null,
+    "stripe_account_id": "acct_1B3pNWKWe8hdGUWL",
+    "tax_config": null,
+    "tiktok_handle": null,
+    "tint_color": "#325ffa",
+    "track_meta_ads_from_luma": false,
+    "twitter_handle": "latentspacepod",
+    "verified_at": "2024-01-10T22:59:33.583Z",
+    "website": "https://www.latent.space/about#\u00a7components",
+    "youtube_handle": null,
+    "is_personal": false,
+    "personal_user": null,
+    "timezone": null
+   },
+   "start_at": "2026-11-11T20:00:00.000Z",
+   "hosts": [
+    {
+     "api_id": "usr-yN8fRz2QPqKr9Us",
+     "avatar_url": "https://cdn.lu.ma/avatars/zh/e510b946-9519-4d1a-a399-a78d42f98670",
+     "bio_short": "learning in public",
+     "first_name": "Shawn",
+     "last_name": "Wang",
+     "instagram_handle": "twitter.com",
+     "is_verified": false,
+     "linkedin_handle": "/in/shawnswyxwang",
+     "name": "swyx",
+     "tiktok_handle": null,
+     "timezone": "America/Los_Angeles",
+     "twitter_handle": "swyx",
+     "username": "swyx",
+     "website": "https://learninpublic.org/",
+     "youtube_handle": "swyxTV"
+    }
+   ],
+   "guest_count": 0,
+   "ticket_count": 0,
+   "ticket_info": {
+    "price": null,
+    "is_free": true,
+    "max_price": null,
+    "is_sold_out": false,
+    "spots_remaining": null,
+    "is_near_capacity": false,
+    "require_approval": false
+   },
+   "registration_availability": "open",
+   "featured_guests": [],
+   "manager_info": null,
+   "guest_info": null,
+   "host_info": null,
+   "waitlist_active": false,
+   "featured_city": null,
+   "calendar_api_id": "cal-mc9ZW5C3TzHDv6L",
+   "is_manager": true,
+   "platform": "luma",
+   "status": "approved",
+   "submitted_by_user_api_id": "usr-yN8fRz2QPqKr9Us",
+   "tags": []
+  },
+  {
+   "api_id": "calev-Tsop1bBxvTzXeQN",
+   "event": {
+    "api_id": "evt-pmV6vo4BygFRARy",
+    "calendar_api_id": "cal-mc9ZW5C3TzHDv6L",
+    "cover_url": "https://images.lumacdn.com/event-covers/mq/b7a9e5d5-cbd9-4546-a668-972d498d2186",
+    "end_at": "2026-11-18T21:00:00.000Z",
+    "event_type": "independent",
+    "hide_rsvp": false,
+    "location_type": "zoom",
+    "name": "LLM Paper Club - paper tba",
+    "one_to_one": true,
+    "recurrence_id": null,
+    "show_guest_list": true,
+    "social_image_url": "https://images.lumacdn.com/event-social/7c/556d5b79-5fdf-4505-8c1b-212c5fafbeb8.png",
+    "start_at": "2026-11-18T20:00:00.000Z",
+    "timezone": "America/Los_Angeles",
+    "url": "c6oxwddn",
+    "user_api_id": "usr-yN8fRz2QPqKr9Us",
+    "visibility": "public",
+    "virtual_info": {
+     "has_access": false
+    },
+    "geo_address_info": null,
+    "geo_address_visibility": "public",
+    "coordinate": null,
+    "waitlist_enabled": false,
+    "waitlist_status": "disabled"
+   },
+   "cover_image": {
+    "colors": [
+     "#407cc6",
+     "#faf5e7",
+     "#04152d",
+     "#3b557e"
+    ],
+    "palette": {
+     "neutral": [
+      {
+       "color": "#fcf8e9",
+       "percentage": 27.31
+      },
+      {
+       "color": "#7d8389",
+       "percentage": 1.27
+      }
+     ],
+     "vibrant": [
+      {
+       "color": "#417dc6",
+       "percentage": 41.14
+      }
+     ]
+    }
+   },
+   "calendar": {
+    "access_level": "public",
+    "api_id": "cal-mc9ZW5C3TzHDv6L",
+    "avatar_url": "https://images.lumacdn.com/calendars/hv/13b873fa-e5c4-4fe5-b0b8-ee42697ec241",
+    "coordinate": null,
+    "cover_image_url": null,
+    "description_short": "Latent.Space events. youtu.be/@LatentSpaceTV. PLEASE CLICK THE RSS LOGO ABOVE CALENDAR ON THE RIGHT TO ADD TO YOUR CAL. \"Add iCal Subscription\" on hover.\n\nThat will notify you of new events!",
+    "end_date": null,
+    "event_submission_restriction": "open",
+    "google_measurement_id": null,
+    "instagram_handle": null,
+    "is_blocked": false,
+    "is_verified": false,
+    "launch_status": "launched",
+    "linkedin_handle": null,
+    "location": null,
+    "luma_plan": "plus",
+    "luma_plus_active": true,
+    "meta_pixel_id": null,
+    "name": "Latent.Space (Paper Club, AI in Action, Meetups & Confs)",
+    "personal_user_api_id": null,
+    "refund_policy": {
+     "type": "doc",
+     "content": [
+      {
+       "type": "paragraph",
+       "content": [
+        {
+         "text": "No refunds, but transferable tickets",
+         "type": "text"
+        }
+       ]
+      }
+     ]
+    },
+    "slug": "ls",
+    "social_image_url": "https://images.lumacdn.com/calendar-cover-images/sq/febf5e5f-463d-402f-867f-9a425c42c0ff",
+    "start_date": null,
+    "stripe_account_id": "acct_1B3pNWKWe8hdGUWL",
+    "tax_config": null,
+    "tiktok_handle": null,
+    "tint_color": "#325ffa",
+    "track_meta_ads_from_luma": false,
+    "twitter_handle": "latentspacepod",
+    "verified_at": "2024-01-10T22:59:33.583Z",
+    "website": "https://www.latent.space/about#\u00a7components",
+    "youtube_handle": null,
+    "is_personal": false,
+    "personal_user": null,
+    "timezone": null
+   },
+   "start_at": "2026-11-18T20:00:00.000Z",
+   "hosts": [
+    {
+     "api_id": "usr-yN8fRz2QPqKr9Us",
+     "avatar_url": "https://cdn.lu.ma/avatars/zh/e510b946-9519-4d1a-a399-a78d42f98670",
+     "bio_short": "learning in public",
+     "first_name": "Shawn",
+     "last_name": "Wang",
+     "instagram_handle": "twitter.com",
+     "is_verified": false,
+     "linkedin_handle": "/in/shawnswyxwang",
+     "name": "swyx",
+     "tiktok_handle": null,
+     "timezone": "America/Los_Angeles",
+     "twitter_handle": "swyx",
+     "username": "swyx",
+     "website": "https://learninpublic.org/",
+     "youtube_handle": "swyxTV"
+    }
+   ],
+   "guest_count": 0,
+   "ticket_count": 0,
+   "ticket_info": {
+    "price": null,
+    "is_free": true,
+    "max_price": null,
+    "is_sold_out": false,
+    "spots_remaining": null,
+    "is_near_capacity": false,
+    "require_approval": false
+   },
+   "registration_availability": "open",
+   "featured_guests": [],
+   "manager_info": null,
+   "guest_info": null,
+   "host_info": null,
+   "waitlist_active": false,
+   "featured_city": null,
+   "calendar_api_id": "cal-mc9ZW5C3TzHDv6L",
+   "is_manager": true,
+   "platform": "luma",
+   "status": "approved",
+   "submitted_by_user_api_id": "usr-yN8fRz2QPqKr9Us",
+   "tags": []
+  }
+ ],
+ "has_more": false
+}

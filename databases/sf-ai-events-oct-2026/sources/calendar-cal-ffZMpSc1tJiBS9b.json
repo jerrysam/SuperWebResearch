@@ -1,0 +1,2460 @@
+{
+ "entries": [
+  {
+   "api_id": "calev-I3ezwxmJUzuKQW3",
+   "event": {
+    "api_id": "evt-UczB3DYfpVfMqzN",
+    "calendar_api_id": "cal-ffZMpSc1tJiBS9b",
+    "cover_url": "https://images.lumacdn.com/uploads/98/4b3d592e-6006-4a47-b2c1-a2b42171a04a.png",
+    "end_at": "2026-09-17T03:30:00.000Z",
+    "event_type": "independent",
+    "hide_rsvp": false,
+    "location_type": "offline",
+    "name": "Bay Area Frontier Research Club #23 | Founders Edition: The Knowledge Supply Chain (dinner + paper discussion @ AGI House SF)",
+    "one_to_one": true,
+    "recurrence_id": null,
+    "show_guest_list": false,
+    "social_image_url": "https://images.lumacdn.com/event-social/fw/fbb65317-007e-4a66-b052-c993f0805bda.png",
+    "start_at": "2026-09-17T00:30:00.000Z",
+    "timezone": "America/Los_Angeles",
+    "url": "wgvn22n1",
+    "user_api_id": "usr-0ix9RtyRPcnnf1B",
+    "visibility": "public",
+    "virtual_info": {
+     "has_access": false
+    },
+    "geo_address_info": {
+     "mode": "obfuscated",
+     "city": "San Francisco",
+     "city_state": "San Francisco, CA",
+     "sublocality": "Clarendon Heights",
+     "country": "United States",
+     "country_code": "US",
+     "region": "California",
+     "region_short": "CA"
+    },
+    "geo_address_visibility": "guests-only",
+    "coordinate": {
+     "latitude": 37.75630506102257,
+     "longitude": -122.44954962106854
+    },
+    "waitlist_enabled": true,
+    "waitlist_status": "active"
+   },
+   "cover_image": {
+    "colors": [
+     "#0e0909",
+     "#eabe1f",
+     "#e5e0d8",
+     "#023fc4"
+    ],
+    "palette": {
+     "neutral": [
+      {
+       "color": "#0e0909",
+       "percentage": 35.54
+      },
+      {
+       "color": "#e5e0d8",
+       "percentage": 9.46
+      }
+     ],
+     "vibrant": [
+      {
+       "color": "#023fc4",
+       "percentage": 7.43
+      },
+      {
+       "color": "#f73f0b",
+       "percentage": 2.34
+      },
+      {
+       "color": "#eabe1f",
+       "percentage": 9.92
+      },
+      {
+       "color": "#e44e86",
+       "percentage": 3.92
+      }
+     ]
+    }
+   },
+   "calendar": {
+    "access_level": "public",
+    "api_id": "cal-ffZMpSc1tJiBS9b",
+    "avatar_url": "https://images.lumacdn.com/calendars/ts/a1c72eda-1af4-4323-8ad5-3c8121fb282c.jpg",
+    "coordinate": {
+     "longitude": -122.41941550000001,
+     "latitude": 37.7749295
+    },
+    "cover_image_url": "https://images.unsplash.com/photo-1652909490195-a069fd4499e1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjQyMjF8MHwxfHNlYXJjaHwxfHxyb2NrZXQlMjBibGFjayUyMHdoaXRlfGVufDB8fHx8MTc2OTUyMTcwNHwy&ixlib=rb-4.1.0&q=80&w=1080",
+    "description_short": "The Frontier Syndicate is a community of frontier tech researchers, builders, executives and investors. SF-based and globally networked, we convene high-signal rooms at the frontier.",
+    "end_date": null,
+    "event_submission_restriction": "open",
+    "google_measurement_id": null,
+    "instagram_handle": "frontiersyndicate",
+    "is_blocked": false,
+    "is_verified": false,
+    "launch_status": "launched",
+    "linkedin_handle": null,
+    "location": {
+     "city": "San Francisco",
+     "region": "California",
+     "country": "United States",
+     "place_id": "ChIJIQBpAG2ahYAR_6128GcTUEo",
+     "timezone": "America/Los_Angeles",
+     "country_code": "US"
+    },
+    "luma_plan": "plus",
+    "luma_plus_active": true,
+    "meta_pixel_id": null,
+    "name": "The Frontier Syndicate",
+    "personal_user_api_id": null,
+    "refund_policy": null,
+    "slug": "frontiersyndicate",
+    "social_image_url": null,
+    "start_date": null,
+    "stripe_account_id": "acct_1Tq0hkBQHTXUgbJm",
+    "tax_config": null,
+    "tiktok_handle": null,
+    "tint_color": "#146AEB",
+    "track_meta_ads_from_luma": false,
+    "twitter_handle": null,
+    "verified_at": "2026-01-16T00:35:49.474Z",
+    "website": "https://www.frontiersyndicate.vc",
+    "youtube_handle": null,
+    "is_personal": false,
+    "personal_user": null,
+    "timezone": "America/Los_Angeles"
+   },
+   "start_at": "2026-09-17T00:30:00.000Z",
+   "hosts": [
+    {
+     "api_id": "usr-0ix9RtyRPcnnf1B",
+     "avatar_url": "https://images.lumacdn.com/uploads/gh/16603e9f-d0b9-4ccf-be61-1de228cff82e.png",
+     "bio_short": "",
+     "first_name": "Kristopher",
+     "last_name": "Floyd",
+     "instagram_handle": "k_j_floyd",
+     "is_verified": false,
+     "linkedin_handle": "/in/kjfloyd",
+     "name": "Kristopher Floyd",
+     "tiktok_handle": null,
+     "timezone": "America/Los_Angeles",
+     "twitter_handle": "k_j_floyd",
+     "username": null,
+     "website": null,
+     "youtube_handle": null
+    },
+    {
+     "api_id": "usr-Mz7WkXttq41vkGS",
+     "avatar_url": "https://images.lumacdn.com/avatars/x6/65746ed2-5571-4ad5-995b-7d14d220d826.png",
+     "bio_short": "",
+     "first_name": "Julius",
+     "last_name": "Ritter",
+     "instagram_handle": "jlsritter",
+     "is_verified": false,
+     "linkedin_handle": "/in/juliusritter",
+     "name": "Julius Ritter",
+     "tiktok_handle": null,
+     "timezone": "America/Chicago",
+     "twitter_handle": "JuliusYRitter",
+     "username": "juliusritter",
+     "website": null,
+     "youtube_handle": ""
+    }
+   ],
+   "guest_count": 0,
+   "ticket_count": 0,
+   "ticket_info": {
+    "price": null,
+    "is_free": true,
+    "max_price": null,
+    "is_sold_out": false,
+    "spots_remaining": 86,
+    "is_near_capacity": false,
+    "require_approval": true
+   },
+   "registration_availability": "open",
+   "featured_guests": [],
+   "manager_info": null,
+   "guest_info": null,
+   "host_info": null,
+   "waitlist_active": false,
+   "featured_city": {
+    "api_id": "discplace-BDj7GNbGlsF7Cka",
+    "name": "San Francisco",
+    "slug": "sf"
+   },
+   "calendar_api_id": "cal-ffZMpSc1tJiBS9b",
+   "is_manager": true,
+   "platform": "luma",
+   "status": "approved",
+   "submitted_by_user_api_id": "usr-0ix9RtyRPcnnf1B",
+   "tags": []
+  },
+  {
+   "api_id": "calev-54PwC18iYQuqqgB",
+   "event": {
+    "api_id": "evt-MCPwQ6LWe1z77sX",
+    "calendar_api_id": "cal-QeHmEXmggVBEYsD",
+    "cover_url": "https://images.lumacdn.com/uploads/n1/6dd1801f-a4f2-4298-8e7a-213fa140b460.png",
+    "end_at": "2026-09-17T21:00:00.000Z",
+    "event_type": "independent",
+    "hide_rsvp": false,
+    "location_type": "offline",
+    "name": "Pizza & Pitch",
+    "one_to_one": true,
+    "recurrence_id": null,
+    "show_guest_list": true,
+    "social_image_url": "https://images.lumacdn.com/event-social/jz/3489081b-1836-4e29-a9c4-bd04311909e2.png",
+    "start_at": "2026-09-17T20:00:00.000Z",
+    "timezone": "America/Los_Angeles",
+    "url": "g48bdku8",
+    "user_api_id": "usr-xLTO1rTNRkmvW1J",
+    "visibility": "public",
+    "virtual_info": {
+     "has_access": false
+    },
+    "geo_address_info": {
+     "mode": "obfuscated",
+     "city": "San Francisco",
+     "city_state": "San Francisco, CA",
+     "sublocality": "Central Waterfront",
+     "country": "United States",
+     "country_code": "US",
+     "region": "California",
+     "region_short": "CA"
+    },
+    "geo_address_visibility": "guests-only",
+    "coordinate": {
+     "latitude": 37.757832490791856,
+     "longitude": -122.38570678629823
+    },
+    "waitlist_enabled": false,
+    "waitlist_status": "disabled"
+   },
+   "cover_image": {
+    "colors": [
+     "#faf8f6",
+     "#0f1110"
+    ],
+    "palette": {
+     "neutral": [
+      {
+       "color": "#faf8f6",
+       "percentage": 74.25
+      },
+      {
+       "color": "#faf9f7",
+       "percentage": 12.15
+      },
+      {
+       "color": "#f7f6f4",
+       "percentage": 4.88
+      },
+      {
+       "color": "#0f1110",
+       "percentage": 3.25
+      }
+     ],
+     "vibrant": []
+    }
+   },
+   "calendar": {
+    "access_level": "public",
+    "api_id": "cal-QeHmEXmggVBEYsD",
+    "avatar_url": "https://images.lumacdn.com/calendars/ay/292fdb38-d9b8-4da3-ab76-2d6657ab9c5b.png",
+    "coordinate": {
+     "longitude": -122.41941550000001,
+     "latitude": 37.7749295
+    },
+    "cover_image_url": "https://images.lumacdn.com/calendar-cover-images/gf/bc4721eb-2ba3-48fe-8666-d2ac7502b5fb.png",
+    "description_short": "AI Investor at Inception",
+    "end_date": null,
+    "event_submission_restriction": "open",
+    "google_measurement_id": null,
+    "instagram_handle": "arrayventures",
+    "is_blocked": false,
+    "is_verified": false,
+    "launch_status": "launched",
+    "linkedin_handle": "/company/array-ventures",
+    "location": {
+     "city": "San Francisco",
+     "region": "California",
+     "country": "United States",
+     "place_id": "ChIJIQBpAG2ahYAR_6128GcTUEo",
+     "timezone": "America/Los_Angeles",
+     "country_code": "US"
+    },
+    "luma_plan": "free",
+    "luma_plus_active": false,
+    "meta_pixel_id": null,
+    "name": "Array Ventures",
+    "personal_user_api_id": null,
+    "refund_policy": null,
+    "slug": "arrayvc",
+    "social_image_url": null,
+    "start_date": null,
+    "stripe_account_id": null,
+    "tax_config": null,
+    "tiktok_handle": null,
+    "tint_color": "#131517",
+    "track_meta_ads_from_luma": false,
+    "twitter_handle": "atShruti",
+    "verified_at": "2026-09-02T17:56:14.802Z",
+    "website": "https://www.array.vc/",
+    "youtube_handle": null,
+    "is_personal": false,
+    "personal_user": null,
+    "timezone": "America/Los_Angeles"
+   },
+   "start_at": "2026-09-17T20:00:00.000Z",
+   "hosts": [
+    {
+     "api_id": "usr-xLTO1rTNRkmvW1J",
+     "avatar_url": "https://cdn.lu.ma/avatars-default/avatar_30.png",
+     "bio_short": "",
+     "first_name": "Parth",
+     "last_name": "Modi",
+     "instagram_handle": null,
+     "is_verified": false,
+     "linkedin_handle": "/in/parthmodi152",
+     "name": "Parth Modi",
+     "tiktok_handle": null,
+     "timezone": "America/Los_Angeles",
+     "twitter_handle": "parthmodi152",
+     "username": null,
+     "website": null,
+     "youtube_handle": null
+    },
+    {
+     "api_id": "usr-qwxdAEo2W5cxW6q",
+     "avatar_url": "https://images.lumacdn.com/uploads/yf/34483aa2-4fbc-4376-90f0-0f091a39c727.jpg",
+     "bio_short": "Shruti Gandhi is founder Array Ventures an early stage AI VC fund. As a builder she has invested in over 100 companies in their first rounds",
+     "first_name": "Shruti",
+     "last_name": "Gandhi",
+     "instagram_handle": "arrayventures",
+     "is_verified": false,
+     "linkedin_handle": "/in/shrutigandhi",
+     "name": "Shruti Gandhi",
+     "tiktok_handle": null,
+     "timezone": "America/Los_Angeles",
+     "twitter_handle": "atShruti",
+     "username": "shrutivc",
+     "website": "https://array.vc",
+     "youtube_handle": null
+    }
+   ],
+   "guest_count": 15,
+   "ticket_count": 15,
+   "ticket_info": {
+    "price": null,
+    "is_free": true,
+    "max_price": null,
+    "is_sold_out": false,
+    "spots_remaining": null,
+    "is_near_capacity": false,
+    "require_approval": true
+   },
+   "registration_availability": "open",
+   "featured_guests": [
+    {
+     "api_id": "usr-RNZgs1tfnhcwkOP",
+     "avatar_url": "https://images.lumacdn.com/uploads/mk/24de8cd1-b5b8-4abf-8a6e-89ac199dc785.jpg",
+     "bio_short": "Building The First Live Company Engineering Brain - CentralAgent.ai",
+     "first_name": "Nasser",
+     "last_name": "Allabwani",
+     "instagram_handle": null,
+     "is_verified": false,
+     "linkedin_handle": "/in/abdulnaser-allabwani",
+     "name": "Nasser",
+     "tiktok_handle": null,
+     "timezone": "America/Los_Angeles",
+     "twitter_handle": "abdulnaserlab",
+     "username": null,
+     "website": null,
+     "youtube_handle": null
+    },
+    {
+     "api_id": "usr-iGcWiuYj3eBDupG",
+     "avatar_url": "https://images.lumacdn.com/avatars/ap/9ea56ae5-99b6-4bdc-a151-f1f0492d789e.jpg",
+     "bio_short": "Founder of Kentron - AI Security Platform",
+     "first_name": "Satish",
+     "last_name": "Nagpal",
+     "instagram_handle": null,
+     "is_verified": false,
+     "linkedin_handle": "/in/sanagpal",
+     "name": "Satish Nagpal",
+     "tiktok_handle": null,
+     "timezone": "America/Los_Angeles",
+     "twitter_handle": "sanagpal",
+     "username": null,
+     "website": null,
+     "youtube_handle": ""
+    },
+    {
+     "api_id": "usr-yM6PtXuLbDRV1ig",
+     "avatar_url": "https://images.lumacdn.com/uploads/6g/f2bf60e7-6149-4282-b386-3d59ec448527.png",
+     "bio_short": "Founder | Builder",
+     "first_name": "Saket",
+     "last_name": "Toshniwal",
+     "instagram_handle": "saket",
+     "is_verified": false,
+     "linkedin_handle": "/in/sakettoshniwal",
+     "name": "Saket Toshniwal",
+     "tiktok_handle": null,
+     "timezone": "America/New_York",
+     "twitter_handle": "Sakettoshniwal",
+     "username": "sakett",
+     "website": null,
+     "youtube_handle": null
+    },
+    {
+     "api_id": "usr-xT7EBiP3gQKb9MP",
+     "avatar_url": "https://images.lumacdn.com/avatars/xs/30b18d0e-e793-499f-b794-10a7c81a6144.jpg",
+     "bio_short": "",
+     "first_name": "Joel",
+     "last_name": "Timana",
+     "instagram_handle": null,
+     "is_verified": false,
+     "linkedin_handle": "/in/joel-timana",
+     "name": "Joel Timana",
+     "tiktok_handle": null,
+     "timezone": "America/Los_Angeles",
+     "twitter_handle": "joevidev",
+     "username": "joeltimana_",
+     "website": null,
+     "youtube_handle": ""
+    },
+    {
+     "api_id": "usr-ZZ9D67Lv4Bcf1iT",
+     "avatar_url": "https://images.lumacdn.com/uploads/qd/423faafb-b34d-45c2-9fef-763d8bf1327a.jpg",
+     "bio_short": "",
+     "first_name": "Christian",
+     "last_name": "Munoz",
+     "instagram_handle": null,
+     "is_verified": false,
+     "linkedin_handle": "/in/christianmunoz-sf",
+     "name": "Christian Munoz",
+     "tiktok_handle": null,
+     "timezone": "America/Los_Angeles",
+     "twitter_handle": "timelesstaco",
+     "username": "timelesstaco",
+     "website": null,
+     "youtube_handle": null
+    },
+    {
+     "api_id": "usr-eXyVRfiGFBksVOj",
+     "avatar_url": "https://images.lumacdn.com/avatars/p8/68e00577-443b-4ff3-a0ef-cabb16d02ba1.jpg",
+     "bio_short": "Berkeley / SF",
+     "first_name": "Suyash",
+     "last_name": "Lakhmani",
+     "instagram_handle": "suyash.sl",
+     "is_verified": false,
+     "linkedin_handle": "/in/suyashlakhmani",
+     "name": "Suyash Lakhmani",
+     "tiktok_handle": null,
+     "timezone": "America/Los_Angeles",
+     "twitter_handle": null,
+     "username": "suyash_lakhmani",
+     "website": null,
+     "youtube_handle": ""
+    },
+    {
+     "api_id": "usr-Ew5GxeEAPm9kz0M",
+     "avatar_url": "https://images.lumacdn.com/uploads/fc/edae9d58-0b2a-4787-8cf2-c2b7bada9cb0.jpg",
+     "bio_short": "I am the Co-founder of PipesHub. I have a decade of experience in engineering and product. Previously worked at Amazon and Goldman Sachs",
+     "first_name": "shekhar",
+     "last_name": "kadyan",
+     "instagram_handle": null,
+     "is_verified": false,
+     "linkedin_handle": "/in/shekharkadyan",
+     "name": "shekhar kadyan",
+     "tiktok_handle": null,
+     "timezone": "America/Los_Angeles",
+     "twitter_handle": "shekharkadyan",
+     "username": "shekharkadyan",
+     "website": null,
+     "youtube_handle": null
+    },
+    {
+     "api_id": "usr-RltUL7U3w5o5HDP",
+     "avatar_url": "https://images.lumacdn.com/uploads/o8/7ccce404-e9ac-4ee5-9c91-0a0882fdac5b.png",
+     "bio_short": "",
+     "first_name": "Alex",
+     "last_name": "Los",
+     "instagram_handle": null,
+     "is_verified": false,
+     "linkedin_handle": "/in/aleksandra-los-1423615b",
+     "name": "Aleksandra Los",
+     "tiktok_handle": null,
+     "timezone": "Europe/Warsaw",
+     "twitter_handle": "AleksLos2",
+     "username": null,
+     "website": null,
+     "youtube_handle": null
+    },
+    {
+     "api_id": "usr-xTfakYt2NkWJAJx",
+     "avatar_url": "https://cdn.lu.ma/avatars-default/avatar_47.png",
+     "bio_short": null,
+     "first_name": "Krishna",
+     "last_name": "Katragadda",
+     "instagram_handle": null,
+     "is_verified": false,
+     "linkedin_handle": "/in/8630749",
+     "name": "Krishna Katragadda",
+     "tiktok_handle": null,
+     "timezone": "America/Los_Angeles",
+     "twitter_handle": null,
+     "username": null,
+     "website": null,
+     "youtube_handle": null
+    },
+    {
+     "api_id": "usr-SCVFU5xdaG3hsNR",
+     "avatar_url": "https://cdn.lu.ma/avatars-default/avatar_13.png",
+     "bio_short": null,
+     "first_name": "Vivek",
+     "last_name": "Reddy Goli",
+     "instagram_handle": null,
+     "is_verified": false,
+     "linkedin_handle": "/in/vivekreddygoli",
+     "name": "Vivek Reddy Goli",
+     "tiktok_handle": null,
+     "timezone": "America/Los_Angeles",
+     "twitter_handle": null,
+     "username": null,
+     "website": null,
+     "youtube_handle": null
+    }
+   ],
+   "manager_info": null,
+   "guest_info": null,
+   "host_info": null,
+   "waitlist_active": false,
+   "featured_city": null,
+   "calendar_api_id": "cal-ffZMpSc1tJiBS9b",
+   "is_manager": false,
+   "platform": "luma",
+   "status": "approved",
+   "submitted_by_user_api_id": "usr-0ix9RtyRPcnnf1B",
+   "tags": []
+  },
+  {
+   "api_id": "calev-rQCeiCUXsVLnlYX",
+   "event": {
+    "api_id": "evt-ISuCnG3t6qdovu1",
+    "calendar_api_id": "cal-ffZMpSc1tJiBS9b",
+    "cover_url": "https://images.lumacdn.com/uploads/34/9cba9411-b938-4450-afd3-dec9962a3890.png",
+    "end_at": "2026-09-21T17:00:00.000Z",
+    "event_type": "independent",
+    "hide_rsvp": false,
+    "location_type": "offline",
+    "name": "Frontier Research Club | Hamburg Launch (dinner + paper discussion @ Google Hamburg)",
+    "one_to_one": true,
+    "recurrence_id": null,
+    "show_guest_list": false,
+    "social_image_url": "https://images.lumacdn.com/event-social/f2/6ee01d21-4fa7-4bf2-82c0-fa1a04300ce4.png",
+    "start_at": "2026-09-21T12:30:00.000Z",
+    "timezone": "Europe/Berlin",
+    "url": "xdkmnvh9",
+    "user_api_id": "usr-0ix9RtyRPcnnf1B",
+    "visibility": "public",
+    "virtual_info": {
+     "has_access": false
+    },
+    "geo_address_info": {
+     "mode": "obfuscated",
+     "city": "Hamburg",
+     "city_state": "Hamburg, Germany",
+     "sublocality": "Hamburg city center",
+     "country": "Germany",
+     "country_code": "DE",
+     "region": "Hamburg",
+     "region_short": "HH"
+    },
+    "geo_address_visibility": "guests-only",
+    "coordinate": {
+     "latitude": 53.55221631008615,
+     "longitude": 9.984668306219055
+    },
+    "waitlist_enabled": true,
+    "waitlist_status": "active"
+   },
+   "cover_image": {
+    "colors": [
+     "#0f0a0d",
+     "#f4c21a",
+     "#123ea5",
+     "#ece2d5"
+    ],
+    "palette": {
+     "neutral": [
+      {
+       "color": "#0f0a0d",
+       "percentage": 26.27
+      },
+      {
+       "color": "#ece2d5",
+       "percentage": 8.06
+      }
+     ],
+     "vibrant": [
+      {
+       "color": "#d9156a",
+       "percentage": 7.28
+      },
+      {
+       "color": "#f4c21a",
+       "percentage": 11.43
+      },
+      {
+       "color": "#123ea5",
+       "percentage": 10.36
+      },
+      {
+       "color": "#b75625",
+       "percentage": 5.37
+      }
+     ]
+    }
+   },
+   "calendar": {
+    "access_level": "public",
+    "api_id": "cal-ffZMpSc1tJiBS9b",
+    "avatar_url": "https://images.lumacdn.com/calendars/ts/a1c72eda-1af4-4323-8ad5-3c8121fb282c.jpg",
+    "coordinate": {
+     "longitude": -122.41941550000001,
+     "latitude": 37.7749295
+    },
+    "cover_image_url": "https://images.unsplash.com/photo-1652909490195-a069fd4499e1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjQyMjF8MHwxfHNlYXJjaHwxfHxyb2NrZXQlMjBibGFjayUyMHdoaXRlfGVufDB8fHx8MTc2OTUyMTcwNHwy&ixlib=rb-4.1.0&q=80&w=1080",
+    "description_short": "The Frontier Syndicate is a community of frontier tech researchers, builders, executives and investors. SF-based and globally networked, we convene high-signal rooms at the frontier.",
+    "end_date": null,
+    "event_submission_restriction": "open",
+    "google_measurement_id": null,
+    "instagram_handle": "frontiersyndicate",
+    "is_blocked": false,
+    "is_verified": false,
+    "launch_status": "launched",
+    "linkedin_handle": null,
+    "location": {
+     "city": "San Francisco",
+     "region": "California",
+     "country": "United States",
+     "place_id": "ChIJIQBpAG2ahYAR_6128GcTUEo",
+     "timezone": "America/Los_Angeles",
+     "country_code": "US"
+    },
+    "luma_plan": "plus",
+    "luma_plus_active": true,
+    "meta_pixel_id": null,
+    "name": "The Frontier Syndicate",
+    "personal_user_api_id": null,
+    "refund_policy": null,
+    "slug": "frontiersyndicate",
+    "social_image_url": null,
+    "start_date": null,
+    "stripe_account_id": "acct_1Tq0hkBQHTXUgbJm",
+    "tax_config": null,
+    "tiktok_handle": null,
+    "tint_color": "#146AEB",
+    "track_meta_ads_from_luma": false,
+    "twitter_handle": null,
+    "verified_at": "2026-01-16T00:35:49.474Z",
+    "website": "https://www.frontiersyndicate.vc",
+    "youtube_handle": null,
+    "is_personal": false,
+    "personal_user": null,
+    "timezone": "America/Los_Angeles"
+   },
+   "start_at": "2026-09-21T12:30:00.000Z",
+   "hosts": [
+    {
+     "api_id": "usr-BvS4JhKXmSguaLk",
+     "avatar_url": "https://cdn.lu.ma/avatars-default/avatar_31.png",
+     "bio_short": null,
+     "first_name": "Alex",
+     "last_name": "Schroeder",
+     "instagram_handle": null,
+     "is_verified": false,
+     "linkedin_handle": null,
+     "name": "Alexander Schr\u00f6der",
+     "tiktok_handle": null,
+     "timezone": "Europe/Berlin",
+     "twitter_handle": null,
+     "username": null,
+     "website": null,
+     "youtube_handle": null
+    },
+    {
+     "api_id": "usr-0ix9RtyRPcnnf1B",
+     "avatar_url": "https://images.lumacdn.com/uploads/gh/16603e9f-d0b9-4ccf-be61-1de228cff82e.png",
+     "bio_short": "",
+     "first_name": "Kristopher",
+     "last_name": "Floyd",
+     "instagram_handle": "k_j_floyd",
+     "is_verified": false,
+     "linkedin_handle": "/in/kjfloyd",
+     "name": "Kristopher Floyd",
+     "tiktok_handle": null,
+     "timezone": "America/Los_Angeles",
+     "twitter_handle": "k_j_floyd",
+     "username": null,
+     "website": null,
+     "youtube_handle": null
+    }
+   ],
+   "guest_count": 0,
+   "ticket_count": 0,
+   "ticket_info": {
+    "price": null,
+    "is_free": true,
+    "max_price": null,
+    "is_sold_out": false,
+    "spots_remaining": 233,
+    "is_near_capacity": false,
+    "require_approval": true
+   },
+   "registration_availability": "open",
+   "featured_guests": [],
+   "manager_info": null,
+   "guest_info": null,
+   "host_info": null,
+   "waitlist_active": false,
+   "featured_city": null,
+   "calendar_api_id": "cal-ffZMpSc1tJiBS9b",
+   "is_manager": true,
+   "platform": "luma",
+   "status": "approved",
+   "submitted_by_user_api_id": "usr-0ix9RtyRPcnnf1B",
+   "tags": []
+  },
+  {
+   "api_id": "calev-aOYEQqe5O3SGBD9",
+   "event": {
+    "api_id": "evt-tkjkenbXcrViOWn",
+    "calendar_api_id": "cal-mdEwCbO9zZBtrtm",
+    "cover_url": "https://images.lumacdn.com/uploads/dr/bc257aae-03c9-4be8-b684-2c46922d7bc7.png",
+    "end_at": "2026-09-23T04:30:00.000Z",
+    "event_type": "independent",
+    "hide_rsvp": false,
+    "location_type": "offline",
+    "name": "ML Suds & Science",
+    "one_to_one": true,
+    "recurrence_id": null,
+    "show_guest_list": false,
+    "social_image_url": "https://images.lumacdn.com/event-social/s3/4587d146-db2d-42d3-9e10-b212da59463b.png",
+    "start_at": "2026-09-23T02:00:00.000Z",
+    "timezone": "America/Los_Angeles",
+    "url": "yen3sv4z",
+    "user_api_id": "usr-0h2PXoCQlJDaISs",
+    "visibility": "public",
+    "virtual_info": {
+     "has_access": false
+    },
+    "geo_address_info": {
+     "mode": "obfuscated",
+     "city": "San Francisco",
+     "city_state": "San Francisco, CA",
+     "sublocality": "Mission District",
+     "country": "United States",
+     "country_code": "US",
+     "region": "California",
+     "region_short": "CA"
+    },
+    "geo_address_visibility": "guests-only",
+    "coordinate": {
+     "latitude": 37.765916620827895,
+     "longitude": -122.418485852822
+    },
+    "waitlist_enabled": true,
+    "waitlist_status": "active"
+   },
+   "cover_image": {
+    "colors": [
+     "#f2f2f0",
+     "#1f1f1e",
+     "#d751d0"
+    ],
+    "palette": {
+     "neutral": [
+      {
+       "color": "#1f1f1e",
+       "percentage": 5.35
+      },
+      {
+       "color": "#f2f2f0",
+       "percentage": 59.74
+      }
+     ],
+     "vibrant": [
+      {
+       "color": "#d751d0",
+       "percentage": 0.86
+      }
+     ]
+    }
+   },
+   "calendar": {
+    "access_level": "public",
+    "api_id": "cal-mdEwCbO9zZBtrtm",
+    "avatar_url": "https://images.lumacdn.com/uploads/in/391b5e81-bb51-483c-a3a4-af59eb7c9004.png",
+    "coordinate": {
+     "longitude": -122.41941550000001,
+     "latitude": 37.7749295
+    },
+    "cover_image_url": "https://images.lumacdn.com/uploads/wl/d646f5a1-00a5-41fe-9f42-ba38168f1bc5.png",
+    "description_short": "",
+    "end_date": null,
+    "event_submission_restriction": "open",
+    "google_measurement_id": null,
+    "instagram_handle": null,
+    "is_blocked": false,
+    "is_verified": false,
+    "launch_status": "launched",
+    "linkedin_handle": "/in/81807035",
+    "location": {
+     "city": "San Francisco",
+     "region": "California",
+     "country": "United States",
+     "place_id": "ChIJIQBpAG2ahYAR_6128GcTUEo",
+     "timezone": "America/Los_Angeles",
+     "country_code": "US"
+    },
+    "luma_plan": "plus",
+    "luma_plus_active": true,
+    "meta_pixel_id": null,
+    "name": "Pebblebed Events",
+    "personal_user_api_id": null,
+    "refund_policy": null,
+    "slug": "pebblebedevents",
+    "social_image_url": null,
+    "start_date": null,
+    "stripe_account_id": null,
+    "tax_config": null,
+    "tiktok_handle": null,
+    "tint_color": "#ffffff",
+    "track_meta_ads_from_luma": false,
+    "twitter_handle": "pebble_bed",
+    "verified_at": "2026-02-02T23:04:20.141Z",
+    "website": "https://pebblebed.com",
+    "youtube_handle": null,
+    "is_personal": false,
+    "personal_user": null,
+    "timezone": "America/Los_Angeles"
+   },
+   "start_at": "2026-09-23T02:00:00.000Z",
+   "hosts": [
+    {
+     "api_id": "usr-0h2PXoCQlJDaISs",
+     "avatar_url": "https://images.lumacdn.com/avatars/n4/0df1664b-9d2b-4490-93b5-aae0498c640d.png",
+     "bio_short": "",
+     "first_name": "Nicole",
+     "last_name": "Levin",
+     "instagram_handle": null,
+     "is_verified": false,
+     "linkedin_handle": "/in/nicole-levinn",
+     "name": "Nicole Levin",
+     "tiktok_handle": null,
+     "timezone": "America/Los_Angeles",
+     "twitter_handle": "nicilevv",
+     "username": null,
+     "website": null,
+     "youtube_handle": ""
+    }
+   ],
+   "guest_count": 0,
+   "ticket_count": 0,
+   "ticket_info": {
+    "price": null,
+    "is_free": true,
+    "max_price": null,
+    "is_sold_out": false,
+    "spots_remaining": 23,
+    "is_near_capacity": false,
+    "require_approval": true
+   },
+   "registration_availability": "open",
+   "featured_guests": [],
+   "manager_info": null,
+   "guest_info": null,
+   "host_info": null,
+   "waitlist_active": false,
+   "featured_city": null,
+   "calendar_api_id": "cal-ffZMpSc1tJiBS9b",
+   "is_manager": false,
+   "platform": "luma",
+   "status": "approved",
+   "submitted_by_user_api_id": "usr-0ix9RtyRPcnnf1B",
+   "tags": []
+  },
+  {
+   "api_id": "calev-qwedvsVRmUbcWex",
+   "event": {
+    "api_id": "evt-i1imnyDscupoaE5",
+    "calendar_api_id": "cal-ffZMpSc1tJiBS9b",
+    "cover_url": "https://images.lumacdn.com/uploads/23/341d56d3-26b0-4373-a3d3-388ca4f9d717.png",
+    "end_at": "2026-09-24T03:30:00.000Z",
+    "event_type": "independent",
+    "hide_rsvp": false,
+    "location_type": "offline",
+    "name": "Bay Area Frontier Research Club #24 | The Inference Stack (dinner + paper discussion @ SignalFire)",
+    "one_to_one": true,
+    "recurrence_id": null,
+    "show_guest_list": false,
+    "social_image_url": "https://images.lumacdn.com/event-social/zq/f24248f6-3c15-4b6f-9fe7-91c21a979821.png",
+    "start_at": "2026-09-24T00:30:00.000Z",
+    "timezone": "America/Los_Angeles",
+    "url": "t9nkbwx8",
+    "user_api_id": "usr-0ix9RtyRPcnnf1B",
+    "visibility": "public",
+    "virtual_info": {
+     "has_access": false
+    },
+    "geo_address_info": {
+     "mode": "obfuscated",
+     "city": "San Francisco",
+     "city_state": "San Francisco, CA",
+     "sublocality": "South Beach",
+     "country": "United States",
+     "country_code": "US",
+     "region": "California",
+     "region_short": "CA"
+    },
+    "geo_address_visibility": "guests-only",
+    "coordinate": {
+     "latitude": 37.783138596862386,
+     "longitude": -122.39587751027871
+    },
+    "waitlist_enabled": true,
+    "waitlist_status": "active"
+   },
+   "cover_image": {
+    "colors": [
+     "#070b0e",
+     "#e8e8e8",
+     "#226fb1"
+    ],
+    "palette": {
+     "neutral": [
+      {
+       "color": "#070b0e",
+       "percentage": 34.74
+      },
+      {
+       "color": "#e8e8e8",
+       "percentage": 2.95
+      }
+     ],
+     "vibrant": [
+      {
+       "color": "#226fb1",
+       "percentage": 0.62
+      }
+     ]
+    }
+   },
+   "calendar": {
+    "access_level": "public",
+    "api_id": "cal-ffZMpSc1tJiBS9b",
+    "avatar_url": "https://images.lumacdn.com/calendars/ts/a1c72eda-1af4-4323-8ad5-3c8121fb282c.jpg",
+    "coordinate": {
+     "longitude": -122.41941550000001,
+     "latitude": 37.7749295
+    },
+    "cover_image_url": "https://images.unsplash.com/photo-1652909490195-a069fd4499e1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjQyMjF8MHwxfHNlYXJjaHwxfHxyb2NrZXQlMjBibGFjayUyMHdoaXRlfGVufDB8fHx8MTc2OTUyMTcwNHwy&ixlib=rb-4.1.0&q=80&w=1080",
+    "description_short": "The Frontier Syndicate is a community of frontier tech researchers, builders, executives and investors. SF-based and globally networked, we convene high-signal rooms at the frontier.",
+    "end_date": null,
+    "event_submission_restriction": "open",
+    "google_measurement_id": null,
+    "instagram_handle": "frontiersyndicate",
+    "is_blocked": false,
+    "is_verified": false,
+    "launch_status": "launched",
+    "linkedin_handle": null,
+    "location": {
+     "city": "San Francisco",
+     "region": "California",
+     "country": "United States",
+     "place_id": "ChIJIQBpAG2ahYAR_6128GcTUEo",
+     "timezone": "America/Los_Angeles",
+     "country_code": "US"
+    },
+    "luma_plan": "plus",
+    "luma_plus_active": true,
+    "meta_pixel_id": null,
+    "name": "The Frontier Syndicate",
+    "personal_user_api_id": null,
+    "refund_policy": null,
+    "slug": "frontiersyndicate",
+    "social_image_url": null,
+    "start_date": null,
+    "stripe_account_id": "acct_1Tq0hkBQHTXUgbJm",
+    "tax_config": null,
+    "tiktok_handle": null,
+    "tint_color": "#146AEB",
+    "track_meta_ads_from_luma": false,
+    "twitter_handle": null,
+    "verified_at": "2026-01-16T00:35:49.474Z",
+    "website": "https://www.frontiersyndicate.vc",
+    "youtube_handle": null,
+    "is_personal": false,
+    "personal_user": null,
+    "timezone": "America/Los_Angeles"
+   },
+   "start_at": "2026-09-24T00:30:00.000Z",
+   "hosts": [
+    {
+     "api_id": "usr-0ix9RtyRPcnnf1B",
+     "avatar_url": "https://images.lumacdn.com/uploads/gh/16603e9f-d0b9-4ccf-be61-1de228cff82e.png",
+     "bio_short": "",
+     "first_name": "Kristopher",
+     "last_name": "Floyd",
+     "instagram_handle": "k_j_floyd",
+     "is_verified": false,
+     "linkedin_handle": "/in/kjfloyd",
+     "name": "Kristopher Floyd",
+     "tiktok_handle": null,
+     "timezone": "America/Los_Angeles",
+     "twitter_handle": "k_j_floyd",
+     "username": null,
+     "website": null,
+     "youtube_handle": null
+    },
+    {
+     "api_id": "usr-GXNLywKLjb0ifEh",
+     "avatar_url": "https://images.lumacdn.com/avatars/75/a2a13b46-1775-431c-ad46-dace0ddff781",
+     "bio_short": null,
+     "first_name": "Mitchell",
+     "last_name": "Yee",
+     "instagram_handle": null,
+     "is_verified": false,
+     "linkedin_handle": "/in/mitchjyee",
+     "name": "Mitchell Yee",
+     "tiktok_handle": null,
+     "timezone": "America/Los_Angeles",
+     "twitter_handle": null,
+     "username": null,
+     "website": null,
+     "youtube_handle": null
+    },
+    {
+     "api_id": "usr-i4xQs1nOEo3RkO2",
+     "avatar_url": "https://images.lumacdn.com/avatars/52/c2c50f84-6407-4940-bea5-dc59ad60f7dd.jpg",
+     "bio_short": null,
+     "first_name": "Mimi",
+     "last_name": "Do",
+     "instagram_handle": "thatmimido",
+     "is_verified": false,
+     "linkedin_handle": "/in/mimi-do",
+     "name": "Mimi Do",
+     "tiktok_handle": "yummmimi",
+     "timezone": "America/Los_Angeles",
+     "twitter_handle": null,
+     "username": "thatmimido",
+     "website": null,
+     "youtube_handle": ""
+    }
+   ],
+   "guest_count": 0,
+   "ticket_count": 0,
+   "ticket_info": {
+    "price": null,
+    "is_free": true,
+    "max_price": null,
+    "is_sold_out": false,
+    "spots_remaining": 147,
+    "is_near_capacity": false,
+    "require_approval": true
+   },
+   "registration_availability": "open",
+   "featured_guests": [],
+   "manager_info": null,
+   "guest_info": null,
+   "host_info": null,
+   "waitlist_active": false,
+   "featured_city": null,
+   "calendar_api_id": "cal-ffZMpSc1tJiBS9b",
+   "is_manager": true,
+   "platform": "luma",
+   "status": "approved",
+   "submitted_by_user_api_id": "usr-0ix9RtyRPcnnf1B",
+   "tags": []
+  },
+  {
+   "api_id": "calev-uy6zpDfSw7RGIJ3",
+   "event": {
+    "api_id": "evt-1YNmegCG2jlp3DO",
+    "calendar_api_id": "cal-ffZMpSc1tJiBS9b",
+    "cover_url": "https://images.lumacdn.com/uploads/j1/eaf07348-307c-4bdb-80da-870e29f0619d.jpg",
+    "end_at": "2026-10-08T03:30:00.000Z",
+    "event_type": "independent",
+    "hide_rsvp": false,
+    "location_type": "offline",
+    "name": "Bay Area Frontier Research Club #26 | Agents in Production: The Data Layer \u2014 SF Tech Week (dinner + paper discussion @ Pebblebed)",
+    "one_to_one": true,
+    "recurrence_id": null,
+    "show_guest_list": false,
+    "social_image_url": "https://images.lumacdn.com/event-social/p0/e676ca17-9fa7-4b98-b180-aaf0e47ed08f.png",
+    "start_at": "2026-10-08T00:30:00.000Z",
+    "timezone": "America/Los_Angeles",
+    "url": "82gz0ggu",
+    "user_api_id": "usr-0ix9RtyRPcnnf1B",
+    "visibility": "public",
+    "virtual_info": {
+     "has_access": false
+    },
+    "geo_address_info": {
+     "mode": "obfuscated",
+     "city": "San Francisco",
+     "city_state": "San Francisco, CA",
+     "sublocality": "Mission District",
+     "country": "United States",
+     "country_code": "US",
+     "region": "California",
+     "region_short": "CA"
+    },
+    "geo_address_visibility": "guests-only",
+    "coordinate": {
+     "latitude": 37.76455491823438,
+     "longitude": -122.41548909086646
+    },
+    "waitlist_enabled": true,
+    "waitlist_status": "active"
+   },
+   "cover_image": {
+    "colors": [
+     "#030509",
+     "#153452",
+     "#c3fafa",
+     "#f9f8f7"
+    ],
+    "palette": {
+     "neutral": [
+      {
+       "color": "#030509",
+       "percentage": 40.47
+      },
+      {
+       "color": "#f9f8f7",
+       "percentage": 4.7
+      }
+     ],
+     "vibrant": [
+      {
+       "color": "#153452",
+       "percentage": 9.68
+      },
+      {
+       "color": "#c3fafa",
+       "percentage": 4.76
+      }
+     ]
+    }
+   },
+   "calendar": {
+    "access_level": "public",
+    "api_id": "cal-ffZMpSc1tJiBS9b",
+    "avatar_url": "https://images.lumacdn.com/calendars/ts/a1c72eda-1af4-4323-8ad5-3c8121fb282c.jpg",
+    "coordinate": {
+     "longitude": -122.41941550000001,
+     "latitude": 37.7749295
+    },
+    "cover_image_url": "https://images.unsplash.com/photo-1652909490195-a069fd4499e1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjQyMjF8MHwxfHNlYXJjaHwxfHxyb2NrZXQlMjBibGFjayUyMHdoaXRlfGVufDB8fHx8MTc2OTUyMTcwNHwy&ixlib=rb-4.1.0&q=80&w=1080",
+    "description_short": "The Frontier Syndicate is a community of frontier tech researchers, builders, executives and investors. SF-based and globally networked, we convene high-signal rooms at the frontier.",
+    "end_date": null,
+    "event_submission_restriction": "open",
+    "google_measurement_id": null,
+    "instagram_handle": "frontiersyndicate",
+    "is_blocked": false,
+    "is_verified": false,
+    "launch_status": "launched",
+    "linkedin_handle": null,
+    "location": {
+     "city": "San Francisco",
+     "region": "California",
+     "country": "United States",
+     "place_id": "ChIJIQBpAG2ahYAR_6128GcTUEo",
+     "timezone": "America/Los_Angeles",
+     "country_code": "US"
+    },
+    "luma_plan": "plus",
+    "luma_plus_active": true,
+    "meta_pixel_id": null,
+    "name": "The Frontier Syndicate",
+    "personal_user_api_id": null,
+    "refund_policy": null,
+    "slug": "frontiersyndicate",
+    "social_image_url": null,
+    "start_date": null,
+    "stripe_account_id": "acct_1Tq0hkBQHTXUgbJm",
+    "tax_config": null,
+    "tiktok_handle": null,
+    "tint_color": "#146AEB",
+    "track_meta_ads_from_luma": false,
+    "twitter_handle": null,
+    "verified_at": "2026-01-16T00:35:49.474Z",
+    "website": "https://www.frontiersyndicate.vc",
+    "youtube_handle": null,
+    "is_personal": false,
+    "personal_user": null,
+    "timezone": "America/Los_Angeles"
+   },
+   "start_at": "2026-10-08T00:30:00.000Z",
+   "hosts": [
+    {
+     "api_id": "usr-0ix9RtyRPcnnf1B",
+     "avatar_url": "https://images.lumacdn.com/uploads/gh/16603e9f-d0b9-4ccf-be61-1de228cff82e.png",
+     "bio_short": "",
+     "first_name": "Kristopher",
+     "last_name": "Floyd",
+     "instagram_handle": "k_j_floyd",
+     "is_verified": false,
+     "linkedin_handle": "/in/kjfloyd",
+     "name": "Kristopher Floyd",
+     "tiktok_handle": null,
+     "timezone": "America/Los_Angeles",
+     "twitter_handle": "k_j_floyd",
+     "username": null,
+     "website": null,
+     "youtube_handle": null
+    },
+    {
+     "api_id": "usr-4AihvIhAXoEkhU7",
+     "avatar_url": "https://images.lumacdn.com/avatars/zk/a476a362-0375-40ab-878a-548a9001dc6f.jpg",
+     "bio_short": "Founder of Constructive",
+     "first_name": "Dan",
+     "last_name": "Lynch",
+     "instagram_handle": "pyramation",
+     "is_verified": false,
+     "linkedin_handle": "/in/dan-p-lynch",
+     "name": "Dan Lynch",
+     "tiktok_handle": null,
+     "timezone": "America/Los_Angeles",
+     "twitter_handle": "danlynch",
+     "username": "danlynch",
+     "website": "https://constructive.io",
+     "youtube_handle": null
+    },
+    {
+     "api_id": "usr-0h2PXoCQlJDaISs",
+     "avatar_url": "https://images.lumacdn.com/avatars/n4/0df1664b-9d2b-4490-93b5-aae0498c640d.png",
+     "bio_short": "",
+     "first_name": "Nicole",
+     "last_name": "Levin",
+     "instagram_handle": null,
+     "is_verified": false,
+     "linkedin_handle": "/in/nicole-levinn",
+     "name": "Nicole Levin",
+     "tiktok_handle": null,
+     "timezone": "America/Los_Angeles",
+     "twitter_handle": "nicilevv",
+     "username": null,
+     "website": null,
+     "youtube_handle": ""
+    }
+   ],
+   "guest_count": 0,
+   "ticket_count": 0,
+   "ticket_info": {
+    "price": null,
+    "is_free": true,
+    "max_price": null,
+    "is_sold_out": false,
+    "spots_remaining": 172,
+    "is_near_capacity": false,
+    "require_approval": true
+   },
+   "registration_availability": "open",
+   "featured_guests": [],
+   "manager_info": null,
+   "guest_info": null,
+   "host_info": null,
+   "waitlist_active": false,
+   "featured_city": null,
+   "calendar_api_id": "cal-ffZMpSc1tJiBS9b",
+   "is_manager": true,
+   "platform": "luma",
+   "status": "approved",
+   "submitted_by_user_api_id": "usr-0ix9RtyRPcnnf1B",
+   "tags": []
+  },
+  {
+   "api_id": "calev-JVTHAJDcedotRlu",
+   "event": {
+    "api_id": "evt-SgAtjixg8uLa8zU",
+    "calendar_api_id": "cal-p0VFQxPV3x9sMvP",
+    "cover_url": "https://images.lumacdn.com/uploads/kk/cd6039d6-026c-442b-a53e-d502238e795c.png",
+    "end_at": "2026-10-10T00:00:00.000Z",
+    "event_type": "independent",
+    "hide_rsvp": false,
+    "location_type": "offline",
+    "name": "NatSec + Space Innovation Summit | Fleet Week \u00d7 SF Tech Week",
+    "one_to_one": true,
+    "recurrence_id": null,
+    "show_guest_list": true,
+    "social_image_url": "https://images.lumacdn.com/event-social/z4/db8b943d-bb47-4e3a-b8fd-cd48b3b4e5a6.png",
+    "start_at": "2026-10-08T16:00:00.000Z",
+    "timezone": "America/Los_Angeles",
+    "url": "nssis",
+    "user_api_id": "usr-0ix9RtyRPcnnf1B",
+    "visibility": "public",
+    "virtual_info": {
+     "has_access": false
+    },
+    "geo_address_info": {
+     "city": "San Francisco",
+     "type": "google",
+     "region": "California",
+     "address": "Klamath (Historic Ship)",
+     "country": "United States",
+     "place_id": "ChIJkaG65O6BhYARFeFoNY9ZRiM",
+     "localized": null,
+     "city_state": "San Francisco, CA",
+     "description": "",
+     "sublocality": "Northern Waterfront",
+     "country_code": "US",
+     "full_address": "Klamath (Historic Ship), Pier 9, San Francisco, CA 94111, USA",
+     "region_short": "CA",
+     "short_address": "Pier 9, San Francisco",
+     "place_coordinate": {
+      "latitude": 37.8000361,
+      "longitude": -122.39758849999998
+     },
+     "apple_maps_place_id": null,
+     "mode": "shown"
+    },
+    "geo_address_visibility": "public",
+    "coordinate": {
+     "longitude": -122.39758849999998,
+     "latitude": 37.8000361
+    },
+    "waitlist_enabled": true,
+    "waitlist_status": "enabled"
+   },
+   "cover_image": {
+    "colors": [
+     "#021024",
+     "#efefef",
+     "#eed4bb"
+    ],
+    "palette": {
+     "neutral": [
+      {
+       "color": "#021024",
+       "percentage": 39.83
+      },
+      {
+       "color": "#efefef",
+       "percentage": 5.97
+      }
+     ],
+     "vibrant": [
+      {
+       "color": "#eed4bb",
+       "percentage": 3.46
+      }
+     ]
+    }
+   },
+   "calendar": {
+    "access_level": "public",
+    "api_id": "cal-p0VFQxPV3x9sMvP",
+    "avatar_url": "https://images.lumacdn.com/calendars/7i/3f9c15c3-fdfa-4fe7-b9a2-d3e23d3f928d",
+    "coordinate": null,
+    "cover_image_url": "https://images.lumacdn.com/calendar-cover-images/np/9ea42955-3102-4aaf-b5a6-64b4b1a3b2e6",
+    "description_short": "",
+    "end_date": null,
+    "event_submission_restriction": "open",
+    "google_measurement_id": null,
+    "instagram_handle": null,
+    "is_blocked": false,
+    "is_verified": false,
+    "launch_status": "launched",
+    "linkedin_handle": "/company/vetsintech",
+    "location": null,
+    "luma_plan": "plus",
+    "luma_plus_active": true,
+    "meta_pixel_id": null,
+    "name": "VetsinTech",
+    "personal_user_api_id": null,
+    "refund_policy": null,
+    "slug": "vetsintech",
+    "social_image_url": "https://images.lumacdn.com/calendar-cover-images/gw/abbeb7a9-4994-4c92-862e-bd3c0c4705ac",
+    "start_date": null,
+    "stripe_account_id": "acct_19jecIJpJzniWKHl",
+    "tax_config": null,
+    "tiktok_handle": null,
+    "tint_color": "#DFDFE2",
+    "track_meta_ads_from_luma": false,
+    "twitter_handle": null,
+    "verified_at": "2024-11-15T02:26:49.317Z",
+    "website": null,
+    "youtube_handle": null,
+    "is_personal": false,
+    "personal_user": null,
+    "timezone": null
+   },
+   "start_at": "2026-10-08T16:00:00.000Z",
+   "hosts": [
+    {
+     "api_id": "usr-04hrFH1BSlmcngW",
+     "avatar_url": "https://images.lumacdn.com/avatars/iq/50b7b560-b2ab-4c70-af88-222f0687f007",
+     "bio_short": null,
+     "first_name": null,
+     "last_name": null,
+     "instagram_handle": null,
+     "is_verified": false,
+     "linkedin_handle": "/in/muoto",
+     "name": "VetsinTech",
+     "tiktok_handle": null,
+     "timezone": "America/Chicago",
+     "twitter_handle": null,
+     "username": "vetsintech",
+     "website": null,
+     "youtube_handle": ""
+    },
+    {
+     "api_id": "usr-0ix9RtyRPcnnf1B",
+     "avatar_url": "https://images.lumacdn.com/uploads/gh/16603e9f-d0b9-4ccf-be61-1de228cff82e.png",
+     "bio_short": "",
+     "first_name": "Kristopher",
+     "last_name": "Floyd",
+     "instagram_handle": "k_j_floyd",
+     "is_verified": false,
+     "linkedin_handle": "/in/kjfloyd",
+     "name": "Kristopher Floyd",
+     "tiktok_handle": null,
+     "timezone": "America/Los_Angeles",
+     "twitter_handle": "k_j_floyd",
+     "username": null,
+     "website": null,
+     "youtube_handle": null
+    },
+    {
+     "api_id": "usr-D3pdQ6MTbRRBmkO",
+     "avatar_url": "https://cdn.lu.ma/avatars-default/avatar_2.png",
+     "bio_short": "Founder/CEO of VetsinTech - supporting veterans into tech careers and entrepreneurship",
+     "first_name": "Katherine",
+     "last_name": "Webster",
+     "instagram_handle": null,
+     "is_verified": false,
+     "linkedin_handle": "/in/katherinewebster",
+     "name": "Katherine Webster",
+     "tiktok_handle": null,
+     "timezone": "America/Los_Angeles",
+     "twitter_handle": null,
+     "username": "KatherineVIT",
+     "website": null,
+     "youtube_handle": ""
+    }
+   ],
+   "guest_count": 0,
+   "ticket_count": 0,
+   "ticket_info": {
+    "price": {
+     "cents": 9900,
+     "currency": "usd",
+     "is_flexible": false
+    },
+    "is_free": false,
+    "max_price": {
+     "cents": 150000,
+     "currency": "usd"
+    },
+    "is_sold_out": false,
+    "spots_remaining": 300,
+    "is_near_capacity": false,
+    "require_approval": true
+   },
+   "registration_availability": "open",
+   "featured_guests": [],
+   "manager_info": null,
+   "guest_info": null,
+   "host_info": null,
+   "waitlist_active": false,
+   "featured_city": null,
+   "calendar_api_id": "cal-ffZMpSc1tJiBS9b",
+   "is_manager": false,
+   "platform": "luma",
+   "status": "approved",
+   "submitted_by_user_api_id": "usr-0ix9RtyRPcnnf1B",
+   "tags": []
+  },
+  {
+   "api_id": "calev-QZegSfFX7KqrlyJ",
+   "event": {
+    "api_id": "evt-VMd5nQt9FGodKjX",
+    "calendar_api_id": "cal-ffZMpSc1tJiBS9b",
+    "cover_url": "https://images.lumacdn.com/uploads/eq/e87b245d-bf11-441f-b0ee-b687358d844c.png",
+    "end_at": "2026-10-15T03:30:00.000Z",
+    "event_type": "independent",
+    "hide_rsvp": false,
+    "location_type": "offline",
+    "name": "Bay Area Frontier Research Club #27 | Embodied AI (dinner + paper discussion @ Mission Robotics)",
+    "one_to_one": true,
+    "recurrence_id": null,
+    "show_guest_list": false,
+    "social_image_url": "https://images.lumacdn.com/event-social/ch/3d0fd52c-5579-4407-a18b-d50eb460f3e9.png",
+    "start_at": "2026-10-15T00:30:00.000Z",
+    "timezone": "America/Los_Angeles",
+    "url": "sxoqc4og",
+    "user_api_id": "usr-0ix9RtyRPcnnf1B",
+    "visibility": "public",
+    "virtual_info": {
+     "has_access": false
+    },
+    "geo_address_info": {
+     "mode": "obfuscated",
+     "city": "San Francisco",
+     "city_state": "San Francisco, CA",
+     "sublocality": "Mission District",
+     "country": "United States",
+     "country_code": "US",
+     "region": "California",
+     "region_short": "CA"
+    },
+    "geo_address_visibility": "guests-only",
+    "coordinate": {
+     "latitude": 37.76101052005167,
+     "longitude": -122.41438208062243
+    },
+    "waitlist_enabled": true,
+    "waitlist_status": "active"
+   },
+   "cover_image": {
+    "colors": [
+     "#fcf9f4",
+     "#353230",
+     "#223e79",
+     "#3ad99f"
+    ],
+    "palette": {
+     "neutral": [
+      {
+       "color": "#353230",
+       "percentage": 7
+      },
+      {
+       "color": "#fcf9f4",
+       "percentage": 33
+      }
+     ],
+     "vibrant": [
+      {
+       "color": "#223e79",
+       "percentage": 1.12
+      },
+      {
+       "color": "#3ad99f",
+       "percentage": 0.13
+      }
+     ]
+    }
+   },
+   "calendar": {
+    "access_level": "public",
+    "api_id": "cal-ffZMpSc1tJiBS9b",
+    "avatar_url": "https://images.lumacdn.com/calendars/ts/a1c72eda-1af4-4323-8ad5-3c8121fb282c.jpg",
+    "coordinate": {
+     "longitude": -122.41941550000001,
+     "latitude": 37.7749295
+    },
+    "cover_image_url": "https://images.unsplash.com/photo-1652909490195-a069fd4499e1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjQyMjF8MHwxfHNlYXJjaHwxfHxyb2NrZXQlMjBibGFjayUyMHdoaXRlfGVufDB8fHx8MTc2OTUyMTcwNHwy&ixlib=rb-4.1.0&q=80&w=1080",
+    "description_short": "The Frontier Syndicate is a community of frontier tech researchers, builders, executives and investors. SF-based and globally networked, we convene high-signal rooms at the frontier.",
+    "end_date": null,
+    "event_submission_restriction": "open",
+    "google_measurement_id": null,
+    "instagram_handle": "frontiersyndicate",
+    "is_blocked": false,
+    "is_verified": false,
+    "launch_status": "launched",
+    "linkedin_handle": null,
+    "location": {
+     "city": "San Francisco",
+     "region": "California",
+     "country": "United States",
+     "place_id": "ChIJIQBpAG2ahYAR_6128GcTUEo",
+     "timezone": "America/Los_Angeles",
+     "country_code": "US"
+    },
+    "luma_plan": "plus",
+    "luma_plus_active": true,
+    "meta_pixel_id": null,
+    "name": "The Frontier Syndicate",
+    "personal_user_api_id": null,
+    "refund_policy": null,
+    "slug": "frontiersyndicate",
+    "social_image_url": null,
+    "start_date": null,
+    "stripe_account_id": "acct_1Tq0hkBQHTXUgbJm",
+    "tax_config": null,
+    "tiktok_handle": null,
+    "tint_color": "#146AEB",
+    "track_meta_ads_from_luma": false,
+    "twitter_handle": null,
+    "verified_at": "2026-01-16T00:35:49.474Z",
+    "website": "https://www.frontiersyndicate.vc",
+    "youtube_handle": null,
+    "is_personal": false,
+    "personal_user": null,
+    "timezone": "America/Los_Angeles"
+   },
+   "start_at": "2026-10-15T00:30:00.000Z",
+   "hosts": [
+    {
+     "api_id": "usr-0ix9RtyRPcnnf1B",
+     "avatar_url": "https://images.lumacdn.com/uploads/gh/16603e9f-d0b9-4ccf-be61-1de228cff82e.png",
+     "bio_short": "",
+     "first_name": "Kristopher",
+     "last_name": "Floyd",
+     "instagram_handle": "k_j_floyd",
+     "is_verified": false,
+     "linkedin_handle": "/in/kjfloyd",
+     "name": "Kristopher Floyd",
+     "tiktok_handle": null,
+     "timezone": "America/Los_Angeles",
+     "twitter_handle": "k_j_floyd",
+     "username": null,
+     "website": null,
+     "youtube_handle": null
+    },
+    {
+     "api_id": "usr-ZyxdGiZYkHL6lBX",
+     "avatar_url": "https://images.lumacdn.com/avatars/6g/386e98cd-d28f-48c0-8c3c-be3ad5848324.jpg",
+     "bio_short": "Robot Queen @ Mission Robotics",
+     "first_name": "Mattie",
+     "last_name": "Fairchild",
+     "instagram_handle": "ScavieFae",
+     "is_verified": false,
+     "linkedin_handle": "/in/fairchildmattie",
+     "name": "Mattie Fairchild",
+     "tiktok_handle": null,
+     "timezone": "America/Los_Angeles",
+     "twitter_handle": "Scav",
+     "username": "scav",
+     "website": null,
+     "youtube_handle": null
+    }
+   ],
+   "guest_count": 0,
+   "ticket_count": 0,
+   "ticket_info": {
+    "price": null,
+    "is_free": true,
+    "max_price": null,
+    "is_sold_out": false,
+    "spots_remaining": 225,
+    "is_near_capacity": false,
+    "require_approval": true
+   },
+   "registration_availability": "open",
+   "featured_guests": [],
+   "manager_info": null,
+   "guest_info": null,
+   "host_info": null,
+   "waitlist_active": false,
+   "featured_city": null,
+   "calendar_api_id": "cal-ffZMpSc1tJiBS9b",
+   "is_manager": true,
+   "platform": "luma",
+   "status": "approved",
+   "submitted_by_user_api_id": "usr-0ix9RtyRPcnnf1B",
+   "tags": []
+  },
+  {
+   "api_id": "calev-mp4WC8mDCf6lsni",
+   "event": {
+    "api_id": "evt-o96EkV0hCkhNPpZ",
+    "calendar_api_id": "cal-w9R3VZaodvm4uxH",
+    "cover_url": "https://images.lumacdn.com/uploads/nh/2f322aff-5e45-4802-9dd3-9d206f169c03.png",
+    "end_at": "2026-10-15T06:00:00.000Z",
+    "event_type": "independent",
+    "hide_rsvp": false,
+    "location_type": "offline",
+    "name": "SignalFire's Disrupt Arthaus After-Party",
+    "one_to_one": true,
+    "recurrence_id": null,
+    "show_guest_list": false,
+    "social_image_url": "https://images.lumacdn.com/event-social/sn/eaae245a-8c87-4f9f-a000-c68ced989b7d.png",
+    "start_at": "2026-10-15T02:00:00.000Z",
+    "timezone": "America/Los_Angeles",
+    "url": "signalfire-arthaus",
+    "user_api_id": "usr-GXNLywKLjb0ifEh",
+    "visibility": "public",
+    "virtual_info": {
+     "has_access": false
+    },
+    "geo_address_info": {
+     "mode": "obfuscated",
+     "city": "San Francisco",
+     "city_state": "San Francisco, CA",
+     "sublocality": "Central Waterfront",
+     "country": "United States",
+     "country_code": "US",
+     "region": "California",
+     "region_short": "CA"
+    },
+    "geo_address_visibility": "guests-only",
+    "coordinate": {
+     "latitude": 37.755548083950934,
+     "longitude": -122.38994327467765
+    },
+    "waitlist_enabled": true,
+    "waitlist_status": "enabled"
+   },
+   "cover_image": {
+    "colors": [
+     "#ffeac9",
+     "#000000",
+     "#1943ad",
+     "#fe3532"
+    ],
+    "palette": {
+     "neutral": [
+      {
+       "color": "#000000",
+       "percentage": 14.11
+      },
+      {
+       "color": "#ffeac9",
+       "percentage": 79.62
+      }
+     ],
+     "vibrant": [
+      {
+       "color": "#fe3532",
+       "percentage": 1.66
+      },
+      {
+       "color": "#1943ad",
+       "percentage": 1.74
+      },
+      {
+       "color": "#efae32",
+       "percentage": 1.31
+      }
+     ]
+    }
+   },
+   "calendar": {
+    "access_level": "public",
+    "api_id": "cal-w9R3VZaodvm4uxH",
+    "avatar_url": "https://images.lumacdn.com/calendars/z7/4f47924d-fc5b-487e-bc32-c4a874293c9c",
+    "coordinate": {
+     "longitude": -122.419416,
+     "latitude": 37.77493
+    },
+    "cover_image_url": "https://images.lumacdn.com/calendar-cover-images/b3/04cfea0d-60ff-4b7b-acc3-d7c5b5780c42",
+    "description_short": "",
+    "end_date": null,
+    "event_submission_restriction": "open",
+    "google_measurement_id": null,
+    "instagram_handle": null,
+    "is_blocked": false,
+    "is_verified": false,
+    "launch_status": "launched",
+    "linkedin_handle": "/company/signalfire",
+    "location": {
+     "city": "San Francisco",
+     "region": "California",
+     "country": "United States",
+     "place_id": "ChIJIQBpAG2ahYAR_6128GcTUEo",
+     "timezone": "America/Los_Angeles",
+     "country_code": "US"
+    },
+    "luma_plan": "plus",
+    "luma_plus_active": true,
+    "meta_pixel_id": null,
+    "name": "SignalFire Events",
+    "personal_user_api_id": null,
+    "refund_policy": null,
+    "slug": "SFSFEvents",
+    "social_image_url": null,
+    "start_date": null,
+    "stripe_account_id": null,
+    "tax_config": null,
+    "tiktok_handle": null,
+    "tint_color": "#1b42ae",
+    "track_meta_ads_from_luma": false,
+    "twitter_handle": null,
+    "verified_at": "2023-07-15T20:33:20.197Z",
+    "website": "https://www.signalfire.com/",
+    "youtube_handle": null,
+    "is_personal": false,
+    "personal_user": null,
+    "timezone": "America/Los_Angeles"
+   },
+   "start_at": "2026-10-15T02:00:00.000Z",
+   "hosts": [
+    {
+     "api_id": "usr-GXNLywKLjb0ifEh",
+     "avatar_url": "https://images.lumacdn.com/avatars/75/a2a13b46-1775-431c-ad46-dace0ddff781",
+     "bio_short": null,
+     "first_name": "Mitchell",
+     "last_name": "Yee",
+     "instagram_handle": null,
+     "is_verified": false,
+     "linkedin_handle": "/in/mitchjyee",
+     "name": "Mitchell Yee",
+     "tiktok_handle": null,
+     "timezone": "America/Los_Angeles",
+     "twitter_handle": null,
+     "username": null,
+     "website": null,
+     "youtube_handle": null
+    },
+    {
+     "api_id": "usr-Ea0LQVGXTLBxgVI",
+     "avatar_url": "https://images.lumacdn.com/avatars/x0/f0e0f025-f773-4f13-accf-1a89ce4f681e",
+     "bio_short": "Pre-seed consumer VC, ex-TechCrunch Editor",
+     "first_name": "Josh",
+     "last_name": "Constine",
+     "instagram_handle": "joshsc",
+     "is_verified": false,
+     "linkedin_handle": "/in/joshconstine",
+     "name": "Josh Constine - VC at SignalFire",
+     "tiktok_handle": null,
+     "timezone": "America/Los_Angeles",
+     "twitter_handle": "joshconstine",
+     "username": "JoshConstineVC",
+     "website": null,
+     "youtube_handle": ""
+    }
+   ],
+   "guest_count": 0,
+   "ticket_count": 0,
+   "ticket_info": {
+    "price": null,
+    "is_free": true,
+    "max_price": null,
+    "is_sold_out": false,
+    "spots_remaining": 100,
+    "is_near_capacity": false,
+    "require_approval": true
+   },
+   "registration_availability": "open",
+   "featured_guests": [],
+   "manager_info": null,
+   "guest_info": null,
+   "host_info": null,
+   "waitlist_active": false,
+   "featured_city": {
+    "api_id": "discplace-BDj7GNbGlsF7Cka",
+    "name": "San Francisco",
+    "slug": "sf"
+   },
+   "calendar_api_id": "cal-ffZMpSc1tJiBS9b",
+   "is_manager": false,
+   "platform": "luma",
+   "status": "approved",
+   "submitted_by_user_api_id": "usr-0ix9RtyRPcnnf1B",
+   "tags": []
+  },
+  {
+   "api_id": "calev-OkHZOKQn1UgLAjb",
+   "event": {
+    "api_id": "evt-wVMBaVuSsbEQgJL",
+    "calendar_api_id": "cal-ffZMpSc1tJiBS9b",
+    "cover_url": "https://images.lumacdn.com/uploads/q3/a21ac0be-8670-4f85-be45-a71a768c4183.png",
+    "end_at": "2026-10-22T03:30:00.000Z",
+    "event_type": "independent",
+    "hide_rsvp": false,
+    "location_type": "offline",
+    "name": "Bay Area Frontier Research Club #28 | Cell Biology x AI: From Cancer Mechanisms to Virtual Cells (dinner + paper discussion @ Stanford)",
+    "one_to_one": true,
+    "recurrence_id": null,
+    "show_guest_list": false,
+    "social_image_url": "https://images.lumacdn.com/event-social/hn/4c2f8323-4788-40a5-8856-b79529fdb333.png",
+    "start_at": "2026-10-22T00:30:00.000Z",
+    "timezone": "America/Los_Angeles",
+    "url": "dj22bayb",
+    "user_api_id": "usr-0ix9RtyRPcnnf1B",
+    "visibility": "public",
+    "virtual_info": {
+     "has_access": false
+    },
+    "geo_address_info": {
+     "mode": "obfuscated",
+     "city": "Stanford",
+     "city_state": "Stanford, CA",
+     "sublocality": null,
+     "country": "United States",
+     "country_code": "US",
+     "region": "California",
+     "region_short": "CA"
+    },
+    "geo_address_visibility": "guests-only",
+    "coordinate": {
+     "latitude": 37.42949902440095,
+     "longitude": -122.17573199191824
+    },
+    "waitlist_enabled": true,
+    "waitlist_status": "active"
+   },
+   "cover_image": {
+    "colors": [
+     "#030302",
+     "#650e09",
+     "#bb906a",
+     "#e6e6e6"
+    ],
+    "palette": {
+     "neutral": [
+      {
+       "color": "#030302",
+       "percentage": 35.77
+      },
+      {
+       "color": "#e6e6e6",
+       "percentage": 1.52
+      }
+     ],
+     "vibrant": [
+      {
+       "color": "#650e09",
+       "percentage": 9.47
+      },
+      {
+       "color": "#bb906a",
+       "percentage": 5.13
+      }
+     ]
+    }
+   },
+   "calendar": {
+    "access_level": "public",
+    "api_id": "cal-ffZMpSc1tJiBS9b",
+    "avatar_url": "https://images.lumacdn.com/calendars/ts/a1c72eda-1af4-4323-8ad5-3c8121fb282c.jpg",
+    "coordinate": {
+     "longitude": -122.41941550000001,
+     "latitude": 37.7749295
+    },
+    "cover_image_url": "https://images.unsplash.com/photo-1652909490195-a069fd4499e1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjQyMjF8MHwxfHNlYXJjaHwxfHxyb2NrZXQlMjBibGFjayUyMHdoaXRlfGVufDB8fHx8MTc2OTUyMTcwNHwy&ixlib=rb-4.1.0&q=80&w=1080",
+    "description_short": "The Frontier Syndicate is a community of frontier tech researchers, builders, executives and investors. SF-based and globally networked, we convene high-signal rooms at the frontier.",
+    "end_date": null,
+    "event_submission_restriction": "open",
+    "google_measurement_id": null,
+    "instagram_handle": "frontiersyndicate",
+    "is_blocked": false,
+    "is_verified": false,
+    "launch_status": "launched",
+    "linkedin_handle": null,
+    "location": {
+     "city": "San Francisco",
+     "region": "California",
+     "country": "United States",
+     "place_id": "ChIJIQBpAG2ahYAR_6128GcTUEo",
+     "timezone": "America/Los_Angeles",
+     "country_code": "US"
+    },
+    "luma_plan": "plus",
+    "luma_plus_active": true,
+    "meta_pixel_id": null,
+    "name": "The Frontier Syndicate",
+    "personal_user_api_id": null,
+    "refund_policy": null,
+    "slug": "frontiersyndicate",
+    "social_image_url": null,
+    "start_date": null,
+    "stripe_account_id": "acct_1Tq0hkBQHTXUgbJm",
+    "tax_config": null,
+    "tiktok_handle": null,
+    "tint_color": "#146AEB",
+    "track_meta_ads_from_luma": false,
+    "twitter_handle": null,
+    "verified_at": "2026-01-16T00:35:49.474Z",
+    "website": "https://www.frontiersyndicate.vc",
+    "youtube_handle": null,
+    "is_personal": false,
+    "personal_user": null,
+    "timezone": "America/Los_Angeles"
+   },
+   "start_at": "2026-10-22T00:30:00.000Z",
+   "hosts": [
+    {
+     "api_id": "usr-0ix9RtyRPcnnf1B",
+     "avatar_url": "https://images.lumacdn.com/uploads/gh/16603e9f-d0b9-4ccf-be61-1de228cff82e.png",
+     "bio_short": "",
+     "first_name": "Kristopher",
+     "last_name": "Floyd",
+     "instagram_handle": "k_j_floyd",
+     "is_verified": false,
+     "linkedin_handle": "/in/kjfloyd",
+     "name": "Kristopher Floyd",
+     "tiktok_handle": null,
+     "timezone": "America/Los_Angeles",
+     "twitter_handle": "k_j_floyd",
+     "username": null,
+     "website": null,
+     "youtube_handle": null
+    },
+    {
+     "api_id": "usr-wzwrx2DQRuQ1zTu",
+     "avatar_url": "https://images.lumacdn.com/uploads/23/683b2b69-f416-4f1f-a1a8-a933a53f4635.webp",
+     "bio_short": "Aaran Vijayakumaran, PhD, is a Postdoctoral Scholar and at Stanford University, where he studies the cell biology of Parkinson's Disease.",
+     "first_name": "Aaran",
+     "last_name": "Vijayakumaran",
+     "instagram_handle": null,
+     "is_verified": false,
+     "linkedin_handle": "/in/aaran-vijayakumaran-4a624a199",
+     "name": "Aaran Vijayakumaran",
+     "tiktok_handle": null,
+     "timezone": "America/Los_Angeles",
+     "twitter_handle": null,
+     "username": "aaranvj",
+     "website": null,
+     "youtube_handle": null
+    }
+   ],
+   "guest_count": 0,
+   "ticket_count": 0,
+   "ticket_info": {
+    "price": null,
+    "is_free": true,
+    "max_price": null,
+    "is_sold_out": false,
+    "spots_remaining": 236,
+    "is_near_capacity": false,
+    "require_approval": true
+   },
+   "registration_availability": "open",
+   "featured_guests": [],
+   "manager_info": null,
+   "guest_info": null,
+   "host_info": null,
+   "waitlist_active": false,
+   "featured_city": null,
+   "calendar_api_id": "cal-ffZMpSc1tJiBS9b",
+   "is_manager": true,
+   "platform": "luma",
+   "status": "approved",
+   "submitted_by_user_api_id": "usr-0ix9RtyRPcnnf1B",
+   "tags": []
+  },
+  {
+   "api_id": "calev-nHArKDHgzEpB1sD",
+   "event": {
+    "api_id": "evt-Jt5wkpMDnqSaQs8",
+    "calendar_api_id": "cal-ffZMpSc1tJiBS9b",
+    "cover_url": "https://images.lumacdn.com/uploads/t6/167e705e-aabd-40d3-9abb-d25f9a6ac8fb.png",
+    "end_at": "2026-11-09T18:30:00.000Z",
+    "event_type": "independent",
+    "hide_rsvp": false,
+    "location_type": "offline",
+    "name": "Frontier Research Club | Munich Launch (dinner + paper discussion)",
+    "one_to_one": true,
+    "recurrence_id": null,
+    "show_guest_list": false,
+    "social_image_url": "https://images.lumacdn.com/event-social/yu/6f8d7d96-12b0-441f-a182-10bef0fcf2a6.png",
+    "start_at": "2026-11-09T13:30:00.000Z",
+    "timezone": "Europe/Berlin",
+    "url": "wzeigcgk",
+    "user_api_id": "usr-0ix9RtyRPcnnf1B",
+    "visibility": "public",
+    "virtual_info": {
+     "has_access": false
+    },
+    "geo_address_info": {
+     "mode": "obfuscated",
+     "city": "Munich",
+     "city_state": "Munich, Germany",
+     "sublocality": null,
+     "country": "Germany",
+     "country_code": "DE",
+     "region": "Bavaria",
+     "region_short": "BY"
+    },
+    "geo_address_visibility": "guests-only",
+    "coordinate": {
+     "latitude": 48.13678639536762,
+     "longitude": 11.582813982191078
+    },
+    "waitlist_enabled": true,
+    "waitlist_status": "active"
+   },
+   "cover_image": {
+    "colors": [
+     "#0f0a0b",
+     "#2560da",
+     "#f2ece8",
+     "#efaf57"
+    ],
+    "palette": {
+     "neutral": [
+      {
+       "color": "#0f0a0b",
+       "percentage": 23.22
+      },
+      {
+       "color": "#f2ece8",
+       "percentage": 5.85
+      }
+     ],
+     "vibrant": [
+      {
+       "color": "#2560da",
+       "percentage": 12.63
+      },
+      {
+       "color": "#c61d66",
+       "percentage": 5.5
+      },
+      {
+       "color": "#efaf57",
+       "percentage": 5.2
+      }
+     ]
+    }
+   },
+   "calendar": {
+    "access_level": "public",
+    "api_id": "cal-ffZMpSc1tJiBS9b",
+    "avatar_url": "https://images.lumacdn.com/calendars/ts/a1c72eda-1af4-4323-8ad5-3c8121fb282c.jpg",
+    "coordinate": {
+     "longitude": -122.41941550000001,
+     "latitude": 37.7749295
+    },
+    "cover_image_url": "https://images.unsplash.com/photo-1652909490195-a069fd4499e1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjQyMjF8MHwxfHNlYXJjaHwxfHxyb2NrZXQlMjBibGFjayUyMHdoaXRlfGVufDB8fHx8MTc2OTUyMTcwNHwy&ixlib=rb-4.1.0&q=80&w=1080",
+    "description_short": "The Frontier Syndicate is a community of frontier tech researchers, builders, executives and investors. SF-based and globally networked, we convene high-signal rooms at the frontier.",
+    "end_date": null,
+    "event_submission_restriction": "open",
+    "google_measurement_id": null,
+    "instagram_handle": "frontiersyndicate",
+    "is_blocked": false,
+    "is_verified": false,
+    "launch_status": "launched",
+    "linkedin_handle": null,
+    "location": {
+     "city": "San Francisco",
+     "region": "California",
+     "country": "United States",
+     "place_id": "ChIJIQBpAG2ahYAR_6128GcTUEo",
+     "timezone": "America/Los_Angeles",
+     "country_code": "US"
+    },
+    "luma_plan": "plus",
+    "luma_plus_active": true,
+    "meta_pixel_id": null,
+    "name": "The Frontier Syndicate",
+    "personal_user_api_id": null,
+    "refund_policy": null,
+    "slug": "frontiersyndicate",
+    "social_image_url": null,
+    "start_date": null,
+    "stripe_account_id": "acct_1Tq0hkBQHTXUgbJm",
+    "tax_config": null,
+    "tiktok_handle": null,
+    "tint_color": "#146AEB",
+    "track_meta_ads_from_luma": false,
+    "twitter_handle": null,
+    "verified_at": "2026-01-16T00:35:49.474Z",
+    "website": "https://www.frontiersyndicate.vc",
+    "youtube_handle": null,
+    "is_personal": false,
+    "personal_user": null,
+    "timezone": "America/Los_Angeles"
+   },
+   "start_at": "2026-11-09T13:30:00.000Z",
+   "hosts": [
+    {
+     "api_id": "usr-0ix9RtyRPcnnf1B",
+     "avatar_url": "https://images.lumacdn.com/uploads/gh/16603e9f-d0b9-4ccf-be61-1de228cff82e.png",
+     "bio_short": "",
+     "first_name": "Kristopher",
+     "last_name": "Floyd",
+     "instagram_handle": "k_j_floyd",
+     "is_verified": false,
+     "linkedin_handle": "/in/kjfloyd",
+     "name": "Kristopher Floyd",
+     "tiktok_handle": null,
+     "timezone": "America/Los_Angeles",
+     "twitter_handle": "k_j_floyd",
+     "username": null,
+     "website": null,
+     "youtube_handle": null
+    },
+    {
+     "api_id": "usr-BvS4JhKXmSguaLk",
+     "avatar_url": "https://cdn.lu.ma/avatars-default/avatar_31.png",
+     "bio_short": null,
+     "first_name": "Alex",
+     "last_name": "Schroeder",
+     "instagram_handle": null,
+     "is_verified": false,
+     "linkedin_handle": null,
+     "name": "Alexander Schr\u00f6der",
+     "tiktok_handle": null,
+     "timezone": "Europe/Berlin",
+     "twitter_handle": null,
+     "username": null,
+     "website": null,
+     "youtube_handle": null
+    },
+    {
+     "api_id": "usr-ai081qAUBp9f6Pz",
+     "avatar_url": "https://cdn.lu.ma/avatars-default/avatar_18.png",
+     "bio_short": null,
+     "first_name": "Carsten",
+     "last_name": "Peters",
+     "instagram_handle": null,
+     "is_verified": false,
+     "linkedin_handle": null,
+     "name": "Carsten",
+     "tiktok_handle": null,
+     "timezone": "Europe/Berlin",
+     "twitter_handle": null,
+     "username": null,
+     "website": null,
+     "youtube_handle": null
+    },
+    {
+     "api_id": "usr-ypmXKFPK6wymxJB",
+     "avatar_url": "https://cdn.lu.ma/avatars-default/avatar_34.png",
+     "bio_short": null,
+     "first_name": "Vera",
+     "last_name": null,
+     "instagram_handle": null,
+     "is_verified": false,
+     "linkedin_handle": null,
+     "name": "Vera",
+     "tiktok_handle": null,
+     "timezone": "Europe/Zurich",
+     "twitter_handle": null,
+     "username": null,
+     "website": null,
+     "youtube_handle": null
+    },
+    {
+     "api_id": "usr-vfhQmUy8M3Mvxl7",
+     "avatar_url": "https://cdn.lu.ma/avatars-default/avatar_12.png",
+     "bio_short": null,
+     "first_name": "Kajetan",
+     "last_name": null,
+     "instagram_handle": null,
+     "is_verified": false,
+     "linkedin_handle": null,
+     "name": "Kajetan",
+     "tiktok_handle": null,
+     "timezone": null,
+     "twitter_handle": null,
+     "username": null,
+     "website": null,
+     "youtube_handle": null
+    }
+   ],
+   "guest_count": 0,
+   "ticket_count": 0,
+   "ticket_info": {
+    "price": null,
+    "is_free": true,
+    "max_price": null,
+    "is_sold_out": false,
+    "spots_remaining": 250,
+    "is_near_capacity": false,
+    "require_approval": true
+   },
+   "registration_availability": "open",
+   "featured_guests": [],
+   "manager_info": null,
+   "guest_info": null,
+   "host_info": null,
+   "waitlist_active": false,
+   "featured_city": null,
+   "calendar_api_id": "cal-ffZMpSc1tJiBS9b",
+   "is_manager": true,
+   "platform": "luma",
+   "status": "approved",
+   "submitted_by_user_api_id": "usr-0ix9RtyRPcnnf1B",
+   "tags": []
+  },
+  {
+   "api_id": "calev-1zsonsVT8VbFXTm",
+   "event": {
+    "api_id": "evt-DzKAN5F2xK97kRv",
+    "calendar_api_id": "cal-ffZMpSc1tJiBS9b",
+    "cover_url": "https://images.lumacdn.com/uploads/6e/c6e3235f-6991-4d7d-957a-68a1f7002c52.png",
+    "end_at": "2026-12-03T17:00:00.000Z",
+    "event_type": "independent",
+    "hide_rsvp": false,
+    "location_type": "offline",
+    "name": "Frontier Research Club | Zurich Launch (dinner + paper discussion)",
+    "one_to_one": true,
+    "recurrence_id": null,
+    "show_guest_list": false,
+    "social_image_url": "https://images.lumacdn.com/event-social/9w/3d0e413e-f07f-4835-b852-27d3fa37c9fe.png",
+    "start_at": "2026-12-03T12:30:00.000Z",
+    "timezone": "Europe/Zurich",
+    "url": "dx4fbqb8",
+    "user_api_id": "usr-0ix9RtyRPcnnf1B",
+    "visibility": "public",
+    "virtual_info": {
+     "has_access": false
+    },
+    "geo_address_info": {
+     "mode": "obfuscated",
+     "city": "Z\u00fcrich",
+     "city_state": "Z\u00fcrich, Switzerland",
+     "sublocality": null,
+     "country": "Switzerland",
+     "country_code": "CH",
+     "region": "Zurich",
+     "region_short": "ZH"
+    },
+    "geo_address_visibility": "guests-only",
+    "coordinate": {
+     "latitude": 47.37617919278953,
+     "longitude": 8.539447048741529
+    },
+    "waitlist_enabled": true,
+    "waitlist_status": "active"
+   },
+   "cover_image": {
+    "colors": [
+     "#0e0a0e",
+     "#2244bb",
+     "#fcc71a",
+     "#eee6dc"
+    ],
+    "palette": {
+     "neutral": [
+      {
+       "color": "#0e0a0e",
+       "percentage": 26.63
+      },
+      {
+       "color": "#eee6dc",
+       "percentage": 8.51
+      }
+     ],
+     "vibrant": [
+      {
+       "color": "#2244bb",
+       "percentage": 12.03
+      },
+      {
+       "color": "#fcc71a",
+       "percentage": 8.66
+      },
+      {
+       "color": "#e51a7e",
+       "percentage": 3.74
+      }
+     ]
+    }
+   },
+   "calendar": {
+    "access_level": "public",
+    "api_id": "cal-ffZMpSc1tJiBS9b",
+    "avatar_url": "https://images.lumacdn.com/calendars/ts/a1c72eda-1af4-4323-8ad5-3c8121fb282c.jpg",
+    "coordinate": {
+     "longitude": -122.41941550000001,
+     "latitude": 37.7749295
+    },
+    "cover_image_url": "https://images.unsplash.com/photo-1652909490195-a069fd4499e1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjQyMjF8MHwxfHNlYXJjaHwxfHxyb2NrZXQlMjBibGFjayUyMHdoaXRlfGVufDB8fHx8MTc2OTUyMTcwNHwy&ixlib=rb-4.1.0&q=80&w=1080",
+    "description_short": "The Frontier Syndicate is a community of frontier tech researchers, builders, executives and investors. SF-based and globally networked, we convene high-signal rooms at the frontier.",
+    "end_date": null,
+    "event_submission_restriction": "open",
+    "google_measurement_id": null,
+    "instagram_handle": "frontiersyndicate",
+    "is_blocked": false,
+    "is_verified": false,
+    "launch_status": "launched",
+    "linkedin_handle": null,
+    "location": {
+     "city": "San Francisco",
+     "region": "California",
+     "country": "United States",
+     "place_id": "ChIJIQBpAG2ahYAR_6128GcTUEo",
+     "timezone": "America/Los_Angeles",
+     "country_code": "US"
+    },
+    "luma_plan": "plus",
+    "luma_plus_active": true,
+    "meta_pixel_id": null,
+    "name": "The Frontier Syndicate",
+    "personal_user_api_id": null,
+    "refund_policy": null,
+    "slug": "frontiersyndicate",
+    "social_image_url": null,
+    "start_date": null,
+    "stripe_account_id": "acct_1Tq0hkBQHTXUgbJm",
+    "tax_config": null,
+    "tiktok_handle": null,
+    "tint_color": "#146AEB",
+    "track_meta_ads_from_luma": false,
+    "twitter_handle": null,
+    "verified_at": "2026-01-16T00:35:49.474Z",
+    "website": "https://www.frontiersyndicate.vc",
+    "youtube_handle": null,
+    "is_personal": false,
+    "personal_user": null,
+    "timezone": "America/Los_Angeles"
+   },
+   "start_at": "2026-12-03T12:30:00.000Z",
+   "hosts": [
+    {
+     "api_id": "usr-0ix9RtyRPcnnf1B",
+     "avatar_url": "https://images.lumacdn.com/uploads/gh/16603e9f-d0b9-4ccf-be61-1de228cff82e.png",
+     "bio_short": "",
+     "first_name": "Kristopher",
+     "last_name": "Floyd",
+     "instagram_handle": "k_j_floyd",
+     "is_verified": false,
+     "linkedin_handle": "/in/kjfloyd",
+     "name": "Kristopher Floyd",
+     "tiktok_handle": null,
+     "timezone": "America/Los_Angeles",
+     "twitter_handle": "k_j_floyd",
+     "username": null,
+     "website": null,
+     "youtube_handle": null
+    },
+    {
+     "api_id": "usr-BvS4JhKXmSguaLk",
+     "avatar_url": "https://cdn.lu.ma/avatars-default/avatar_31.png",
+     "bio_short": null,
+     "first_name": "Alex",
+     "last_name": "Schroeder",
+     "instagram_handle": null,
+     "is_verified": false,
+     "linkedin_handle": null,
+     "name": "Alexander Schr\u00f6der",
+     "tiktok_handle": null,
+     "timezone": "Europe/Berlin",
+     "twitter_handle": null,
+     "username": null,
+     "website": null,
+     "youtube_handle": null
+    }
+   ],
+   "guest_count": 0,
+   "ticket_count": 0,
+   "ticket_info": {
+    "price": null,
+    "is_free": true,
+    "max_price": null,
+    "is_sold_out": false,
+    "spots_remaining": 250,
+    "is_near_capacity": false,
+    "require_approval": true
+   },
+   "registration_availability": "open",
+   "featured_guests": [],
+   "manager_info": null,
+   "guest_info": null,
+   "host_info": null,
+   "waitlist_active": false,
+   "featured_city": null,
+   "calendar_api_id": "cal-ffZMpSc1tJiBS9b",
+   "is_manager": true,
+   "platform": "luma",
+   "status": "approved",
+   "submitted_by_user_api_id": "usr-0ix9RtyRPcnnf1B",
+   "tags": []
+  }
+ ],
+ "has_more": false
+}

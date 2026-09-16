@@ -1,0 +1,26 @@
+_meta:
+  last_researched: '2026-09-16'
+  sources:
+  - publisher: Luma (api.lu.ma)
+    url: https://luma.com/mngid6og
+    retrieved: '2026-09-16'
+name: Practical AI for Documentation
+url: https://luma.com/mngid6og
+platform: luma
+start_date: '2026-10-06'
+start_time: '18:30'
+city: San Francisco
+host_calendar: Personal
+hosts:
+- Doug Purcell
+companies_involved:
+- gpt
+relevance_category: general_ai
+priority: optional
+registration_status: open
+in_trip_window: true
+description_snippet: 'AI and docs — everyone''s talking about it, but what does it actually look like
+  in practice? Join Write the Docs Bay Area and GitBook for an evening focused on real, applied workflows:
+  using AI to draft, structure, and maintain documentation, with GitBook demoed live as the publishing
+  platform.You''ll'
+note: AI-for-documentation talk.

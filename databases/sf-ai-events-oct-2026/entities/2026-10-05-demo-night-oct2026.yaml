@@ -1,0 +1,26 @@
+_meta:
+  last_researched: '2026-09-16'
+  sources:
+  - publisher: Luma (api.lu.ma)
+    url: https://luma.com/demo-night-oct2026
+    retrieved: '2026-09-16'
+name: Demo Night @ WorkOS (October)
+url: https://luma.com/demo-night-oct2026
+platform: luma
+start_date: '2026-10-05'
+start_time: '17:30'
+city: San Francisco
+host_calendar: WorkOS Events
+hosts:
+- Michael Grinich
+- WorkOS
+companies_involved: []
+relevance_category: general_ai
+priority: optional
+registration_status: waitlist_or_approval
+in_trip_window: true
+description_snippet: 'Whether it''s a side project, an internal tool, an open source project, or a startup,
+  this is your chance to show what you''ve been working on and see what others have created.The only rules:Come
+  share your work, get feedback, and meet fellow builders in the community.Demos by: coming soon 👀To sign
+  up'
+note: WorkOS demo night; builder crowd.

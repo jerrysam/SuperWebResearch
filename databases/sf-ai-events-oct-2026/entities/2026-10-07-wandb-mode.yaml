@@ -1,0 +1,28 @@
+_meta:
+  last_researched: '2026-09-16'
+  sources:
+  - publisher: Luma (api.lu.ma)
+    url: https://luma.com/wandb-mode
+    retrieved: '2026-09-16'
+name: 'From build data to better calibration: Applying physical AI to engineering workflows'
+url: https://luma.com/wandb-mode
+platform: luma
+start_date: '2026-10-07'
+start_time: 08:00
+city: Unknown
+host_calendar: Weights & Biases by CoreWeave
+hosts:
+- Weights & Biases
+companies_involved:
+- coreweave
+- weights & biases
+relevance_category: key_ai_company
+priority: strong
+registration_status: open
+in_trip_window: true
+description_snippet: Physical AI is changing how automotive engineering teams design, validate, and manufacture
+  complex systems. However, delivering value requires more than training a model. In this fireside chat,
+  specialists from CoreWeave’s Physical AI Field Engineering team— Isabel Ashworth, James Allibone, and
+  Kacp
+note: W&B/CoreWeave fireside on physical AI in engineering workflows. 8am; location listed as unknown
+  - verify whether in-person before planning.

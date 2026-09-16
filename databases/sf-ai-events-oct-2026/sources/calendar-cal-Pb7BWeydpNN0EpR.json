@@ -1,0 +1,369 @@
+{
+ "entries": [
+  {
+   "api_id": "calev-hxKGXoOZGzUyw1R",
+   "event": {
+    "api_id": "evt-qG2Eue8OnM4vmml",
+    "calendar_api_id": "cal-9QLMVT9CQVtX1u0",
+    "cover_url": "https://images.lumacdn.com/uploads/pf/d0f5888b-a48c-4e24-acf5-734ef7421d7b.png",
+    "end_at": "2026-10-31T05:00:00.000Z",
+    "event_type": "independent",
+    "hide_rsvp": false,
+    "location_type": "offline",
+    "name": "Futureproof Festival of AI",
+    "one_to_one": true,
+    "recurrence_id": null,
+    "show_guest_list": true,
+    "social_image_url": "https://images.lumacdn.com/event-social/oh/2bfe6639-db5c-4423-8e16-124610af783d.png",
+    "start_at": "2026-10-29T01:00:00.000Z",
+    "timezone": "America/Vancouver",
+    "url": "futureproof-festival",
+    "user_api_id": "usr-csseVKRR0TPJTQs",
+    "visibility": "public",
+    "virtual_info": {
+     "has_access": false
+    },
+    "geo_address_info": {
+     "city": "Vancouver",
+     "type": "google",
+     "region": "British Columbia",
+     "address": "H.R. MacMillan Space Centre",
+     "country": "Canada",
+     "place_id": "ChIJX-DfNzNyhlQR76LZl5hs5bc",
+     "localized": null,
+     "city_state": "Vancouver, British Columbia",
+     "description": "",
+     "sublocality": "Kitsilano",
+     "country_code": "CA",
+     "full_address": "H.R. MacMillan Space Centre, 1100 Chestnut St, Vancouver, BC V6J 3J9, Canada",
+     "short_address": "1100 Chestnut St Projection Theater, Vancouver",
+     "place_coordinate": null,
+     "apple_maps_place_id": "IEAD2DC7360C328D1",
+     "mode": "shown"
+    },
+    "geo_address_visibility": "public",
+    "coordinate": {
+     "longitude": -123.14444300000001,
+     "latitude": 49.276224
+    },
+    "waitlist_enabled": true,
+    "waitlist_status": "enabled"
+   },
+   "cover_image": {
+    "colors": [
+     "#09111d",
+     "#36635d",
+     "#b35440",
+     "#d7c490"
+    ],
+    "palette": {
+     "neutral": [
+      {
+       "color": "#09111d",
+       "percentage": 27.73
+      }
+     ],
+     "vibrant": [
+      {
+       "color": "#b35440",
+       "percentage": 4.77
+      },
+      {
+       "color": "#c47854",
+       "percentage": 4.67
+      },
+      {
+       "color": "#36635d",
+       "percentage": 6.36
+      },
+      {
+       "color": "#d7c490",
+       "percentage": 1.42
+      }
+     ]
+    }
+   },
+   "calendar": {
+    "access_level": "public",
+    "api_id": "cal-9QLMVT9CQVtX1u0",
+    "avatar_url": "https://images.lumacdn.com/calendars/bo/bbc82068-e593-40a7-a786-8b87bc91cfd5.png",
+    "coordinate": {
+     "longitude": -123.120738,
+     "latitude": 49.282729
+    },
+    "cover_image_url": "https://images.lumacdn.com/calendar-cover-images/7j/2db08ab0-377f-478e-aa47-7b396f0d7666.png",
+    "description_short": "The heartbeat of BC\u2019s AI community: Vancouver AI gatherings and every people-powered breakthrough across the province.\n\nMulti-modal, multi-cultural, radically local, and future-facing.",
+    "end_date": null,
+    "event_submission_restriction": "open",
+    "google_measurement_id": null,
+    "instagram_handle": "vancouver_ai",
+    "is_blocked": false,
+    "is_verified": false,
+    "launch_status": "launched",
+    "linkedin_handle": "/company/100613638",
+    "location": {
+     "city": "Vancouver",
+     "region": "British Columbia",
+     "country": "Canada",
+     "place_id": "ChIJs0-pQ_FzhlQRi_OBm-qWkbs",
+     "timezone": "America/Vancouver",
+     "country_code": "CA"
+    },
+    "luma_plan": "plus",
+    "luma_plus_active": true,
+    "meta_pixel_id": null,
+    "name": "BC + AI Events",
+    "personal_user_api_id": null,
+    "refund_policy": {
+     "type": "doc",
+     "content": [
+      {
+       "type": "paragraph",
+       "content": [
+        {
+         "text": "Full refund until August 22, 2026. 50% refund August 23 through August 31, 2026. Transfers only from September 1, 2026 onward. Transfer requests are accepted from September 1 through October 27, 2026 at 11:59 p.m. Pacific. The original purchaser must email hello@bc-ai.ca from the purchase email address with the recipient's full name and email. The organizer will reissue the pass without a fee, and the recipient must complete registration. For a same-person name or email correction, update your Luma profile.",
+         "type": "text"
+        }
+       ]
+      }
+     ]
+    },
+    "slug": "vancouver-ai",
+    "social_image_url": "https://images.lumacdn.com/calendar-cover-images/02/9b27f4fa-6d7d-476f-b66a-c1ba1711e034.png",
+    "start_date": null,
+    "stripe_account_id": "acct_1S0B1xF2GLxOhIwJ",
+    "tax_config": null,
+    "tiktok_handle": null,
+    "tint_color": "#F31A7C",
+    "track_meta_ads_from_luma": false,
+    "twitter_handle": "vancouver_ai",
+    "verified_at": "2024-10-09T16:18:07.405Z",
+    "website": "https://bc-ai.ca/",
+    "youtube_handle": "van_ai",
+    "is_personal": false,
+    "personal_user": null,
+    "timezone": "America/Vancouver"
+   },
+   "start_at": "2026-10-29T01:00:00.000Z",
+   "hosts": [
+    {
+     "api_id": "usr-csseVKRR0TPJTQs",
+     "avatar_url": "https://images.lumacdn.com/avatars/do/e91be03d-7f8f-40a0-9e9d-2a5b8bff69e2.png",
+     "bio_short": "Techartist, quasi-sage, cyberpunk anti-hero from the future.",
+     "first_name": "Kris",
+     "last_name": "Kr\u00fcg",
+     "instagram_handle": "vancouver_ai",
+     "is_verified": false,
+     "linkedin_handle": "/in/kriskrug",
+     "name": "Kris Kr\u00fcg",
+     "tiktok_handle": "vancouverai",
+     "timezone": "America/Toronto",
+     "twitter_handle": "vancouver_ai",
+     "username": "vancouver",
+     "website": "https://bc-ai.ca/",
+     "youtube_handle": "van_ai"
+    }
+   ],
+   "guest_count": 122,
+   "ticket_count": 127,
+   "ticket_info": {
+    "price": {
+     "cents": 95000,
+     "currency": "cad",
+     "is_flexible": false
+    },
+    "is_free": false,
+    "max_price": null,
+    "is_sold_out": false,
+    "spots_remaining": 90,
+    "is_near_capacity": false,
+    "require_approval": false
+   },
+   "registration_availability": "open",
+   "featured_guests": [
+    {
+     "api_id": "usr-2cENd20bRDEKgEM",
+     "avatar_url": "https://images.lumacdn.com/avatars/aa/fc6751c8-9ad7-4689-87c8-0b9e30523ae6.png",
+     "bio_short": "Content Creator (@noatitievsky)\nCo-Founder Slapd Treats (slapdtreats.ca)\nFull Time Student",
+     "first_name": "Noa",
+     "last_name": "Titievsky",
+     "instagram_handle": "Noatitievsky",
+     "is_verified": false,
+     "linkedin_handle": "/in/NoaTitievsky",
+     "name": "Noa Titievsky",
+     "tiktok_handle": null,
+     "timezone": "America/Vancouver",
+     "twitter_handle": null,
+     "username": null,
+     "website": null,
+     "youtube_handle": ""
+    },
+    {
+     "api_id": "usr-polJakASkopQgwz",
+     "avatar_url": "https://images.lumacdn.com/avatars/1e/a3e835fc-f565-49c4-b264-5d323e55d67a.jpg",
+     "bio_short": "",
+     "first_name": "Michael",
+     "last_name": "Caswell",
+     "instagram_handle": null,
+     "is_verified": false,
+     "linkedin_handle": "/in/michaelcaswell",
+     "name": "Michael Caswell",
+     "tiktok_handle": null,
+     "timezone": "America/Chicago",
+     "twitter_handle": null,
+     "username": null,
+     "website": null,
+     "youtube_handle": null
+    },
+    {
+     "api_id": "usr-hkPo1fIEqZRIopN",
+     "avatar_url": "https://images.lumacdn.com/avatars/1a/9640a02e-5c1f-4a99-801b-51a831575b0a",
+     "bio_short": "i make things",
+     "first_name": "Sean",
+     "last_name": "Cranbury",
+     "instagram_handle": "cranbury",
+     "is_verified": false,
+     "linkedin_handle": null,
+     "name": "Sean Cranbury",
+     "tiktok_handle": null,
+     "timezone": "America/Vancouver",
+     "twitter_handle": "seancranbury",
+     "username": null,
+     "website": "https://www.seancranbury.com",
+     "youtube_handle": ""
+    },
+    {
+     "api_id": "usr-Zc9IJUxb4RTh74j",
+     "avatar_url": "https://images.lumacdn.com/avatars/x2/41d74b33-e388-470a-b1b5-fd109c507916.jpg",
+     "bio_short": null,
+     "first_name": "Andrea",
+     "last_name": "Mills",
+     "instagram_handle": null,
+     "is_verified": false,
+     "linkedin_handle": null,
+     "name": "Andrea Mills",
+     "tiktok_handle": null,
+     "timezone": "America/Toronto",
+     "twitter_handle": null,
+     "username": null,
+     "website": null,
+     "youtube_handle": null
+    },
+    {
+     "api_id": "usr-ePHUH8jt3pMAykF",
+     "avatar_url": "https://images.lumacdn.com/avatars/yo/76007658-800c-4783-9352-461b07a37222.jpg",
+     "bio_short": "First Principles Thinker | Decentralized Systems Architect | Web 7.0\u2122 / TDW AgenticOS\u2122 / Trusted Digital Web\u2122 / TDW\u2122 / Hyperonomy | Wanderer",
+     "first_name": "Michael",
+     "last_name": "Herman",
+     "instagram_handle": null,
+     "is_verified": false,
+     "linkedin_handle": "/in/mwherman",
+     "name": "Michael Herman (Bindloss, Alberta)",
+     "tiktok_handle": null,
+     "timezone": "America/Edmonton",
+     "twitter_handle": "mwherman2000",
+     "username": "mwherman2000",
+     "website": "http://hyperonomy.com",
+     "youtube_handle": ""
+    },
+    {
+     "api_id": "usr-IM0cKfcyz8jNY25",
+     "avatar_url": "https://images.lumacdn.com/avatars/3a/fe971490-7355-459f-9792-e3e368a3cc57.jpg",
+     "bio_short": null,
+     "first_name": "Ashley",
+     "last_name": "Smith",
+     "instagram_handle": "ashleysmithnow",
+     "is_verified": false,
+     "linkedin_handle": "/in/ashleysmithnow",
+     "name": "Ashley Smith",
+     "tiktok_handle": null,
+     "timezone": "America/Vancouver",
+     "twitter_handle": null,
+     "username": "ashleysmithnow",
+     "website": null,
+     "youtube_handle": null
+    },
+    {
+     "api_id": "usr-sCIfCzzYzxamMG2",
+     "avatar_url": "https://images.lumacdn.com/uploads/ax/67bcde80-7e84-4402-8e83-d3094acbb666.png",
+     "bio_short": null,
+     "first_name": "Kerris",
+     "last_name": "Hougardy",
+     "instagram_handle": null,
+     "is_verified": false,
+     "linkedin_handle": "/in/kerrishougardy",
+     "name": "Kerris Hougardy",
+     "tiktok_handle": null,
+     "timezone": "America/Vancouver",
+     "twitter_handle": null,
+     "username": "Kerris",
+     "website": null,
+     "youtube_handle": null
+    },
+    {
+     "api_id": "usr-VOH9lfrUHpKudXi",
+     "avatar_url": "https://images.lumacdn.com/uploads/8b/f9791ed5-145d-4c8b-abb7-8e43394ae256.jpg",
+     "bio_short": "CTO @ vht.ai",
+     "first_name": "Dean",
+     "last_name": "Shev",
+     "instagram_handle": "dean.shev",
+     "is_verified": false,
+     "linkedin_handle": "/in/deanshev",
+     "name": "Dean Shev",
+     "tiktok_handle": null,
+     "timezone": "America/Vancouver",
+     "twitter_handle": "aialchemist0",
+     "username": "deanshev",
+     "website": "https://www.deanshev.com",
+     "youtube_handle": null
+    },
+    {
+     "api_id": "usr-BAEfADxIQByNUzX",
+     "avatar_url": "https://images.lumacdn.com/uploads/va/7ba61e5d-5c19-4f4b-ad1b-6cf33002a2b1.jpg",
+     "bio_short": "Shane Gibson is an international keynote speaker, and author on B2B sales performance, AI for Sales and Social Selling.",
+     "first_name": "Shane",
+     "last_name": "Gibson",
+     "instagram_handle": "shanegibson",
+     "is_verified": false,
+     "linkedin_handle": "/in/shanegibson",
+     "name": "Shane Gibson",
+     "tiktok_handle": "shanegibsonlive",
+     "timezone": "America/New_York",
+     "twitter_handle": "shanegibson",
+     "username": "ShaneGibson",
+     "website": "https://wwww.salesacademy.ca",
+     "youtube_handle": "shanegibson"
+    },
+    {
+     "api_id": "usr-FqKSo1n3yJsaqmh",
+     "avatar_url": "https://images.lumacdn.com/avatars/v6/0a985522-d295-4f62-8c59-73b30f6abc2d.jpg",
+     "bio_short": null,
+     "first_name": "David",
+     "last_name": "Chen",
+     "instagram_handle": null,
+     "is_verified": false,
+     "linkedin_handle": "/in/david-chen-963a278",
+     "name": "David Chen",
+     "tiktok_handle": null,
+     "timezone": "America/Vancouver",
+     "twitter_handle": null,
+     "username": null,
+     "website": "https://www.dccompletefinancial.com/",
+     "youtube_handle": ""
+    }
+   ],
+   "manager_info": null,
+   "guest_info": null,
+   "host_info": null,
+   "waitlist_active": false,
+   "featured_city": null,
+   "calendar_api_id": "cal-Pb7BWeydpNN0EpR",
+   "is_manager": false,
+   "platform": "luma",
+   "status": "approved",
+   "submitted_by_user_api_id": "usr-csseVKRR0TPJTQs",
+   "tags": []
+  }
+ ],
+ "has_more": false
+}

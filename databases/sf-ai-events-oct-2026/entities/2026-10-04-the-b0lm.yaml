@@ -1,0 +1,27 @@
+_meta:
+  last_researched: '2026-09-16'
+  sources:
+  - publisher: Luma (api.lu.ma)
+    url: https://luma.com/the-b0lm
+    retrieved: '2026-09-16'
+name: SF Writing Club
+url: https://luma.com/the-b0lm
+platform: luma
+start_date: '2026-10-04'
+start_time: '10:00'
+city: San Francisco
+host_calendar: The Commons
+hosts:
+- The SF Commons
+- J.H. Seow
+- Tim Stepro
+companies_involved: []
+relevance_category: general_ai
+priority: skip
+registration_status: open
+in_trip_window: true
+description_snippet: Welcome to SF Writing Club!We're a community of writers, technologists, and builders.
+  We convene once a week on Sunday mornings in Hayes Valley to meet cool people & go heads down together
+  to write whatever's on our minds and hearts.We welcome writing in all forms from journaling and personal
+  intros
+note: Writing club.

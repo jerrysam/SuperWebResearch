@@ -1,0 +1,26 @@
+_meta:
+  last_researched: '2026-09-16'
+  sources:
+  - publisher: Luma (api.lu.ma)
+    url: https://luma.com/Molecules2Agents
+    retrieved: '2026-09-16'
+name: 'Molecules, Models & Agents: Accelerating scientific research and development'
+url: https://luma.com/Molecules2Agents
+platform: luma
+start_date: '2026-10-05'
+start_time: '15:00'
+city: San Francisco
+host_calendar: Personal
+hosts:
+- GitHub
+companies_involved:
+- nvidia
+relevance_category: general_ai
+priority: optional
+registration_status: waitlist_or_approval
+in_trip_window: true
+description_snippet: Molecules, Models & Agents (M2A)An event focused on accelerating scientific research
+  and development, and the new developer frontier.Molecules, Models & Agents (M2A) brings together leaders
+  in AI, life sciences, and high performance computing to explore how foundation models and autonomous
+  agents ar
+note: AI-for-science; NVIDIA mentioned but science-domain audience.

@@ -1,0 +1,22 @@
+_meta:
+  last_researched: '2026-09-16'
+  sources:
+  - publisher: Luma (api.lu.ma)
+    url: https://luma.com/Agentic_AI_10-13
+    retrieved: '2026-09-16'
+name: Agentic + AI Observability Meetup SF
+url: https://luma.com/Agentic_AI_10-13
+platform: luma
+start_date: '2026-10-13'
+start_time: '17:00'
+city: San Francisco
+host_calendar: Agentic + AI Observability Meetup
+hosts: Unknown
+companies_involved:
+- openai
+relevance_category: ai_infra_compute
+priority: strong
+registration_status: waitlist_or_approval
+in_trip_window: true
+description_snippet: Unknown
+note: Agentic + AI observability meetup during Disrupt week (OpenAI involvement).

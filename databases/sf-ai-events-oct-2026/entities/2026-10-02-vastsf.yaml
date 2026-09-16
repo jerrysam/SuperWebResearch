@@ -1,0 +1,35 @@
+_meta:
+  last_researched: '2026-09-16'
+  sources:
+  - publisher: Luma (api.lu.ma)
+    url: https://luma.com/vastsf
+    retrieved: '2026-09-16'
+name: Real-Time Video Agents Hack - SF
+url: https://luma.com/vastsf
+platform: luma
+start_date: '2026-10-02'
+start_time: 08:30
+city: San Francisco
+host_calendar: tokens&
+hosts:
+- tokens&
+- Alessandro Amenta
+- Syerra Laurusaitis
+- Jacopo Piazza
+companies_involved:
+- coreweave
+- modal
+- nvidia
+- wandb
+- weights & biases
+- xai
+relevance_category: ai_infra_compute
+priority: strong
+registration_status: waitlist_or_approval
+in_trip_window: true
+description_snippet: The VAST Builders Challenge is a three-city technical event series bringing together
+  founders and engineers across New York, London, and San Francisco to build production-ready AI systems.Spend
+  the day building agents to unlock the value of video. Because video is hard to search and analyze, 
+  most o
+note: Full-day real-time video agents hack (VAST Builders Challenge); NVIDIA, W&B/CoreWeave, Modal, xAI
+  infra involved.

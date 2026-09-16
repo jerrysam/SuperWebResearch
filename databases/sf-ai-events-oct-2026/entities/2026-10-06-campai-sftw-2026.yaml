@@ -1,0 +1,27 @@
+_meta:
+  last_researched: '2026-09-16'
+  sources:
+  - publisher: Luma (api.lu.ma)
+    url: https://luma.com/campai-sftw-2026
+    retrieved: '2026-09-16'
+name: 'Camp AI: Production-Ready Agents @ SFTW'
+url: https://luma.com/campai-sftw-2026
+platform: luma
+start_date: '2026-10-06'
+start_time: '17:30'
+city: San Francisco
+host_calendar: Auth0 Events - San Francisco
+hosts:
+- Calah Vargas
+- Shreya
+- Adam ODonnell
+companies_involved:
+- anthropic
+relevance_category: ai_infra_compute
+priority: strong
+registration_status: waitlist_or_approval
+in_trip_window: true
+description_snippet: '🛑 THIS IS NOT A REGISTRATION PAGE. PLEASE REGISTER AT: https://partiful.com/e/wgzQaLCyAPobkZnJpzOP
+  🛑Calling all founders, builders, and AI enthusiasts 🗣️Zero to MVP is just a few prompts away, but what
+  does it really take to secure, automate, and scale your AI agents? Join Camp AI: Production Ready '
+note: Production-ready agents event (Auth0/Okta); Anthropic referenced in programme.

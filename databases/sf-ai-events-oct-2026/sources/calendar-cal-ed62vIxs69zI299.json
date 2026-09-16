@@ -1,0 +1,1020 @@
+{
+ "entries": [
+  {
+   "api_id": "calev-un7HS9Hsmesax2M",
+   "event": {
+    "api_id": "evt-lNPT5nHMuIB9taJ",
+    "calendar_api_id": "cal-ed62vIxs69zI299",
+    "cover_url": "https://images.lumacdn.com/uploads/m6/580d54f5-abb5-4d38-b714-9448e789906d.jpg",
+    "end_at": "2026-09-17T04:00:00.000Z",
+    "event_type": "independent",
+    "hide_rsvp": false,
+    "location_type": "offline",
+    "name": "AI Infrastructure Executive Networking Event hosted by vCluster and Netris",
+    "one_to_one": true,
+    "recurrence_id": null,
+    "show_guest_list": false,
+    "social_image_url": "https://images.lumacdn.com/event-social/xn/84335c7f-5fac-406c-9159-e2d2ee9b6441.png",
+    "start_at": "2026-09-17T01:00:00.000Z",
+    "timezone": "America/Los_Angeles",
+    "url": "7djqpn9h",
+    "user_api_id": "usr-FNGvYGtlxYqn6or",
+    "visibility": "public",
+    "virtual_info": {
+     "has_access": false
+    },
+    "geo_address_info": {
+     "mode": "obfuscated",
+     "city": "Sunnyvale",
+     "city_state": "Sunnyvale, CA",
+     "sublocality": null,
+     "country": "United States",
+     "country_code": "US",
+     "region": "California",
+     "region_short": "CA"
+    },
+    "geo_address_visibility": "guests-only",
+    "coordinate": {
+     "latitude": 37.40376085774375,
+     "longitude": -122.02335880299073
+    },
+    "waitlist_enabled": false,
+    "waitlist_status": "disabled"
+   },
+   "cover_image": {
+    "colors": [
+     "#b8d6f8",
+     "#504f37",
+     "#546d46",
+     "#cc8532"
+    ],
+    "palette": {
+     "neutral": [
+      {
+       "color": "#272f1f",
+       "percentage": 9.17
+      },
+      {
+       "color": "#f2e7d1",
+       "percentage": 6.1
+      },
+      {
+       "color": "#504f37",
+       "percentage": 11.81
+      }
+     ],
+     "vibrant": [
+      {
+       "color": "#cc8532",
+       "percentage": 5.17
+      },
+      {
+       "color": "#b8d6f8",
+       "percentage": 13.94
+      },
+      {
+       "color": "#546d46",
+       "percentage": 9.99
+      }
+     ]
+    }
+   },
+   "calendar": {
+    "access_level": "public",
+    "api_id": "cal-ed62vIxs69zI299",
+    "avatar_url": "https://images.lumacdn.com/uploads/yn/fa374b17-6b63-49fd-9ca0-dba46ed1b848.png",
+    "coordinate": {
+     "longitude": -122.41941550000001,
+     "latitude": 37.7749295
+    },
+    "cover_image_url": "https://images.lumacdn.com/uploads/i1/4940ae6c-a6a5-40fb-bc14-08ea3d8fa8c7.png",
+    "description_short": "",
+    "end_date": null,
+    "event_submission_restriction": "open",
+    "google_measurement_id": null,
+    "instagram_handle": null,
+    "is_blocked": false,
+    "is_verified": false,
+    "launch_status": "launched",
+    "linkedin_handle": "/in/vcluster",
+    "location": {
+     "city": "San Francisco",
+     "region": "California",
+     "country": "United States",
+     "place_id": "ChIJIQBpAG2ahYAR_6128GcTUEo",
+     "timezone": "America/Los_Angeles",
+     "country_code": "US"
+    },
+    "luma_plan": "plus",
+    "luma_plus_active": true,
+    "meta_pixel_id": null,
+    "name": "vCluster",
+    "personal_user_api_id": null,
+    "refund_policy": null,
+    "slug": "vcluster",
+    "social_image_url": null,
+    "start_date": null,
+    "stripe_account_id": null,
+    "tax_config": null,
+    "tiktok_handle": null,
+    "tint_color": "#131517",
+    "track_meta_ads_from_luma": false,
+    "twitter_handle": "vclusterlabs",
+    "verified_at": "2026-08-23T20:12:21.407Z",
+    "website": "https://vcluster.com",
+    "youtube_handle": "vcluster",
+    "is_personal": false,
+    "personal_user": null,
+    "timezone": "America/Los_Angeles"
+   },
+   "start_at": "2026-09-17T01:00:00.000Z",
+   "hosts": [
+    {
+     "api_id": "usr-FNGvYGtlxYqn6or",
+     "avatar_url": "https://images.lumacdn.com/avatars/1c/f93bff43-9b2b-4ccf-9e48-b1df118016e7.png",
+     "bio_short": "Building Blocks for Platform Builders. Creators of vCluster & DevPod.",
+     "first_name": "vCluster",
+     "last_name": "",
+     "instagram_handle": null,
+     "is_verified": false,
+     "linkedin_handle": "/company/vcluster",
+     "name": "vCluster",
+     "tiktok_handle": null,
+     "timezone": "America/Los_Angeles",
+     "twitter_handle": "loft_sh",
+     "username": "vcluster",
+     "website": "https://vcluster.com",
+     "youtube_handle": "vcluster"
+    },
+    {
+     "api_id": "usr-XGA9WG9RA81msF3",
+     "avatar_url": "https://images.lumacdn.com/avatars/e3/f6ba5738-ae68-48d1-8f53-18f088ee9c33.png",
+     "bio_short": "The Leading Network Automation and Multi-Tenancy Platform for AI Cloud Operators",
+     "first_name": "",
+     "last_name": "",
+     "instagram_handle": null,
+     "is_verified": false,
+     "linkedin_handle": "/company/netrisio",
+     "name": "Netris",
+     "tiktok_handle": null,
+     "timezone": "America/Los_Angeles",
+     "twitter_handle": "netris_io",
+     "username": null,
+     "website": null,
+     "youtube_handle": null
+    },
+    {
+     "api_id": "usr-DTqz9WGqxsTqWlB",
+     "avatar_url": "https://cdn.lu.ma/avatars-default/avatar_42.png",
+     "bio_short": "",
+     "first_name": "Brandon",
+     "last_name": "Jernigan",
+     "instagram_handle": null,
+     "is_verified": false,
+     "linkedin_handle": "/in/brandonjernigan52",
+     "name": "Brandon Jernigan",
+     "tiktok_handle": null,
+     "timezone": "America/Los_Angeles",
+     "twitter_handle": null,
+     "username": null,
+     "website": null,
+     "youtube_handle": null
+    },
+    {
+     "api_id": "usr-2De34vgDBMyA6HY",
+     "avatar_url": "https://cdn.lu.ma/avatars-default/avatar_32.png",
+     "bio_short": null,
+     "first_name": "Matt",
+     "last_name": "Saxe",
+     "instagram_handle": null,
+     "is_verified": false,
+     "linkedin_handle": "/in/matt-saxe-9955a4",
+     "name": "Matt Saxe",
+     "tiktok_handle": null,
+     "timezone": "America/Los_Angeles",
+     "twitter_handle": null,
+     "username": null,
+     "website": null,
+     "youtube_handle": null
+    }
+   ],
+   "guest_count": 0,
+   "ticket_count": 0,
+   "ticket_info": {
+    "price": null,
+    "is_free": true,
+    "max_price": null,
+    "is_sold_out": false,
+    "spots_remaining": 58,
+    "is_near_capacity": false,
+    "require_approval": true
+   },
+   "registration_availability": "open",
+   "featured_guests": [],
+   "manager_info": null,
+   "guest_info": null,
+   "host_info": null,
+   "waitlist_active": false,
+   "featured_city": null,
+   "calendar_api_id": "cal-ed62vIxs69zI299",
+   "is_manager": true,
+   "platform": "luma",
+   "status": "approved",
+   "submitted_by_user_api_id": "usr-FNGvYGtlxYqn6or",
+   "tags": []
+  },
+  {
+   "api_id": "calev-0AQXLupqs5NsD7h",
+   "event": {
+    "api_id": "evt-gEsKaaq3vN6moOf",
+    "calendar_api_id": "cal-ed62vIxs69zI299",
+    "cover_url": "https://images.lumacdn.com/api-uploads/wy/b1026baf-a618-4ab4-84d1-2421ca6931ea.jpg",
+    "end_at": "2026-10-22T15:00:00.000Z",
+    "event_type": "independent",
+    "hide_rsvp": false,
+    "location_type": "offline",
+    "name": "Nvidia GTC Berlin 2026",
+    "one_to_one": true,
+    "recurrence_id": null,
+    "show_guest_list": true,
+    "social_image_url": "https://images.lumacdn.com/event-social/gp/e7b6cb70-726b-4e48-af28-024aaf645818.png",
+    "start_at": "2026-10-20T07:00:00.000Z",
+    "timezone": "Europe/Berlin",
+    "url": "nvidia-gtc-berlin-2026",
+    "user_api_id": "usr-FNGvYGtlxYqn6or",
+    "visibility": "public",
+    "virtual_info": {
+     "has_access": false
+    },
+    "geo_address_info": {
+     "type": "manual",
+     "address": "Berlin, Germany",
+     "mode": "shown"
+    },
+    "geo_address_visibility": "public",
+    "coordinate": null,
+    "waitlist_enabled": false,
+    "waitlist_status": "disabled"
+   },
+   "cover_image": {
+    "colors": [
+     "#050a24",
+     "#79b60f",
+     "#fdfefe",
+     "#b1811d"
+    ],
+    "palette": {
+     "neutral": [
+      {
+       "color": "#050a24",
+       "percentage": 81.44
+      },
+      {
+       "color": "#fdfefe",
+       "percentage": 1.58
+      }
+     ],
+     "vibrant": [
+      {
+       "color": "#79b60f",
+       "percentage": 1.96
+      },
+      {
+       "color": "#b1811d",
+       "percentage": 0.78
+      },
+      {
+       "color": "#83afd1",
+       "percentage": 2.85
+      }
+     ]
+    }
+   },
+   "calendar": {
+    "access_level": "public",
+    "api_id": "cal-ed62vIxs69zI299",
+    "avatar_url": "https://images.lumacdn.com/uploads/yn/fa374b17-6b63-49fd-9ca0-dba46ed1b848.png",
+    "coordinate": {
+     "longitude": -122.41941550000001,
+     "latitude": 37.7749295
+    },
+    "cover_image_url": "https://images.lumacdn.com/uploads/i1/4940ae6c-a6a5-40fb-bc14-08ea3d8fa8c7.png",
+    "description_short": "",
+    "end_date": null,
+    "event_submission_restriction": "open",
+    "google_measurement_id": null,
+    "instagram_handle": null,
+    "is_blocked": false,
+    "is_verified": false,
+    "launch_status": "launched",
+    "linkedin_handle": "/in/vcluster",
+    "location": {
+     "city": "San Francisco",
+     "region": "California",
+     "country": "United States",
+     "place_id": "ChIJIQBpAG2ahYAR_6128GcTUEo",
+     "timezone": "America/Los_Angeles",
+     "country_code": "US"
+    },
+    "luma_plan": "plus",
+    "luma_plus_active": true,
+    "meta_pixel_id": null,
+    "name": "vCluster",
+    "personal_user_api_id": null,
+    "refund_policy": null,
+    "slug": "vcluster",
+    "social_image_url": null,
+    "start_date": null,
+    "stripe_account_id": null,
+    "tax_config": null,
+    "tiktok_handle": null,
+    "tint_color": "#131517",
+    "track_meta_ads_from_luma": false,
+    "twitter_handle": "vclusterlabs",
+    "verified_at": "2026-08-23T20:12:21.407Z",
+    "website": "https://vcluster.com",
+    "youtube_handle": "vcluster",
+    "is_personal": false,
+    "personal_user": null,
+    "timezone": "America/Los_Angeles"
+   },
+   "start_at": "2026-10-20T07:00:00.000Z",
+   "hosts": [
+    {
+     "api_id": "usr-FNGvYGtlxYqn6or",
+     "avatar_url": "https://images.lumacdn.com/avatars/1c/f93bff43-9b2b-4ccf-9e48-b1df118016e7.png",
+     "bio_short": "Building Blocks for Platform Builders. Creators of vCluster & DevPod.",
+     "first_name": "vCluster",
+     "last_name": "",
+     "instagram_handle": null,
+     "is_verified": false,
+     "linkedin_handle": "/company/vcluster",
+     "name": "vCluster",
+     "tiktok_handle": null,
+     "timezone": "America/Los_Angeles",
+     "twitter_handle": "loft_sh",
+     "username": "vcluster",
+     "website": "https://vcluster.com",
+     "youtube_handle": "vcluster"
+    }
+   ],
+   "guest_count": 6,
+   "ticket_count": 6,
+   "ticket_info": {
+    "price": null,
+    "is_free": true,
+    "max_price": null,
+    "is_sold_out": false,
+    "spots_remaining": null,
+    "is_near_capacity": false,
+    "require_approval": false
+   },
+   "registration_availability": "open",
+   "featured_guests": [
+    {
+     "api_id": "usr-oKdBYchfG5KY5yh",
+     "avatar_url": "https://images.lumacdn.com/avatars/3j/1e977286-5285-4332-a33b-56a43552efae.jpg",
+     "bio_short": "",
+     "first_name": "Viral",
+     "last_name": "Network",
+     "instagram_handle": "jadonwu",
+     "is_verified": false,
+     "linkedin_handle": "/in/jadon-wu-5aab74357",
+     "name": "Jadon Wu",
+     "tiktok_handle": null,
+     "timezone": "Europe/Berlin",
+     "twitter_handle": null,
+     "username": "jadonwu",
+     "website": null,
+     "youtube_handle": ""
+    },
+    {
+     "api_id": "usr-752JZYcD12jBZoM",
+     "avatar_url": "https://images.lumacdn.com/uploads/7d/5408d479-e47a-477a-b905-df5ceaafe527.jpg",
+     "bio_short": "Tech/Ai/Web3",
+     "first_name": "ilona",
+     "last_name": "zueva",
+     "instagram_handle": null,
+     "is_verified": false,
+     "linkedin_handle": null,
+     "name": "Ilona",
+     "tiktok_handle": null,
+     "timezone": "Europe/Berlin",
+     "twitter_handle": null,
+     "username": null,
+     "website": null,
+     "youtube_handle": null
+    },
+    {
+     "api_id": "usr-qBWHi5EZg7LAFY1",
+     "avatar_url": "https://images.lumacdn.com/avatars/kj/1f478ac0-8b92-48aa-883d-66f6d2931048",
+     "bio_short": "Co-Founder & CEO @ Onfire",
+     "first_name": "Tal",
+     "last_name": "Peretz",
+     "instagram_handle": null,
+     "is_verified": false,
+     "linkedin_handle": "/in/tal-peretz",
+     "name": "Tal Peretz",
+     "tiktok_handle": null,
+     "timezone": "Asia/Jerusalem",
+     "twitter_handle": null,
+     "username": "talperetz",
+     "website": "https://onfire.ai",
+     "youtube_handle": ""
+    },
+    {
+     "api_id": "usr-PPnH6uUDD1Yyy76",
+     "avatar_url": "https://cdn.lu.ma/avatars-default/avatar_18.png",
+     "bio_short": null,
+     "first_name": "Jia Peng",
+     "last_name": "Zhu",
+     "instagram_handle": null,
+     "is_verified": false,
+     "linkedin_handle": null,
+     "name": "Jia Peng Zhu",
+     "tiktok_handle": null,
+     "timezone": "Europe/Berlin",
+     "twitter_handle": null,
+     "username": null,
+     "website": null,
+     "youtube_handle": null
+    },
+    {
+     "api_id": "usr-U3Pu4yWIW2aOnZu",
+     "avatar_url": "https://cdn.lu.ma/avatars-default/avatar_0.png",
+     "bio_short": "Passionate about meaningful conversations, cross-cultural collaboration and connecting founders, investors and innovators.",
+     "first_name": "Jie",
+     "last_name": "Li",
+     "instagram_handle": "missj7689",
+     "is_verified": false,
+     "linkedin_handle": "/in/jie-l-65250a102",
+     "name": "Jie",
+     "tiktok_handle": null,
+     "timezone": "Europe/Berlin",
+     "twitter_handle": "missj7689",
+     "username": null,
+     "website": null,
+     "youtube_handle": null
+    },
+    {
+     "api_id": "usr-XZpOR6DDHqHOv50",
+     "avatar_url": "https://cdn.lu.ma/avatars-default/avatar_15.png",
+     "bio_short": "",
+     "first_name": "Wassim",
+     "last_name": "Abd albaki",
+     "instagram_handle": null,
+     "is_verified": false,
+     "linkedin_handle": null,
+     "name": "Wasiem Abd albaki",
+     "tiktok_handle": null,
+     "timezone": "Europe/Berlin",
+     "twitter_handle": null,
+     "username": null,
+     "website": null,
+     "youtube_handle": null
+    }
+   ],
+   "manager_info": null,
+   "guest_info": null,
+   "host_info": null,
+   "waitlist_active": false,
+   "featured_city": null,
+   "calendar_api_id": "cal-ed62vIxs69zI299",
+   "is_manager": true,
+   "platform": "luma",
+   "status": "approved",
+   "submitted_by_user_api_id": "usr-FNGvYGtlxYqn6or",
+   "tags": []
+  },
+  {
+   "api_id": "calev-hRoUkVUPqdFSeET",
+   "event": {
+    "api_id": "evt-8hl5PefOiUVjeJm",
+    "calendar_api_id": "cal-ed62vIxs69zI299",
+    "cover_url": "https://images.lumacdn.com/api-uploads/vx/1dd07ee2-07ea-4672-853c-87db2326525b.jpg",
+    "end_at": "2026-11-10T00:00:00.000Z",
+    "event_type": "independent",
+    "hide_rsvp": false,
+    "location_type": "offline",
+    "name": "Platform Engineering Day | North America 2026",
+    "one_to_one": true,
+    "recurrence_id": null,
+    "show_guest_list": true,
+    "social_image_url": "https://images.lumacdn.com/event-social/kg/f891312d-7a86-4449-9c8f-9ca6642e6ae8.png",
+    "start_at": "2026-11-09T16:00:00.000Z",
+    "timezone": "America/Denver",
+    "url": "platform-engineering-day-north-america-2026",
+    "user_api_id": "usr-FNGvYGtlxYqn6or",
+    "visibility": "public",
+    "virtual_info": {
+     "has_access": false
+    },
+    "geo_address_info": {
+     "type": "manual",
+     "address": "Salt Lake City, Utah",
+     "mode": "shown"
+    },
+    "geo_address_visibility": "public",
+    "coordinate": null,
+    "waitlist_enabled": false,
+    "waitlist_status": "disabled"
+   },
+   "cover_image": {
+    "colors": [
+     "#fba23f",
+     "#d78652",
+     "#fbfaf6",
+     "#322720"
+    ],
+    "palette": {
+     "neutral": [
+      {
+       "color": "#322720",
+       "percentage": 6.96
+      },
+      {
+       "color": "#fbfaf6",
+       "percentage": 9.7
+      }
+     ],
+     "vibrant": [
+      {
+       "color": "#fba23f",
+       "percentage": 31.07
+      },
+      {
+       "color": "#d78652",
+       "percentage": 10.11
+      }
+     ]
+    }
+   },
+   "calendar": {
+    "access_level": "public",
+    "api_id": "cal-ed62vIxs69zI299",
+    "avatar_url": "https://images.lumacdn.com/uploads/yn/fa374b17-6b63-49fd-9ca0-dba46ed1b848.png",
+    "coordinate": {
+     "longitude": -122.41941550000001,
+     "latitude": 37.7749295
+    },
+    "cover_image_url": "https://images.lumacdn.com/uploads/i1/4940ae6c-a6a5-40fb-bc14-08ea3d8fa8c7.png",
+    "description_short": "",
+    "end_date": null,
+    "event_submission_restriction": "open",
+    "google_measurement_id": null,
+    "instagram_handle": null,
+    "is_blocked": false,
+    "is_verified": false,
+    "launch_status": "launched",
+    "linkedin_handle": "/in/vcluster",
+    "location": {
+     "city": "San Francisco",
+     "region": "California",
+     "country": "United States",
+     "place_id": "ChIJIQBpAG2ahYAR_6128GcTUEo",
+     "timezone": "America/Los_Angeles",
+     "country_code": "US"
+    },
+    "luma_plan": "plus",
+    "luma_plus_active": true,
+    "meta_pixel_id": null,
+    "name": "vCluster",
+    "personal_user_api_id": null,
+    "refund_policy": null,
+    "slug": "vcluster",
+    "social_image_url": null,
+    "start_date": null,
+    "stripe_account_id": null,
+    "tax_config": null,
+    "tiktok_handle": null,
+    "tint_color": "#131517",
+    "track_meta_ads_from_luma": false,
+    "twitter_handle": "vclusterlabs",
+    "verified_at": "2026-08-23T20:12:21.407Z",
+    "website": "https://vcluster.com",
+    "youtube_handle": "vcluster",
+    "is_personal": false,
+    "personal_user": null,
+    "timezone": "America/Los_Angeles"
+   },
+   "start_at": "2026-11-09T16:00:00.000Z",
+   "hosts": [
+    {
+     "api_id": "usr-FNGvYGtlxYqn6or",
+     "avatar_url": "https://images.lumacdn.com/avatars/1c/f93bff43-9b2b-4ccf-9e48-b1df118016e7.png",
+     "bio_short": "Building Blocks for Platform Builders. Creators of vCluster & DevPod.",
+     "first_name": "vCluster",
+     "last_name": "",
+     "instagram_handle": null,
+     "is_verified": false,
+     "linkedin_handle": "/company/vcluster",
+     "name": "vCluster",
+     "tiktok_handle": null,
+     "timezone": "America/Los_Angeles",
+     "twitter_handle": "loft_sh",
+     "username": "vcluster",
+     "website": "https://vcluster.com",
+     "youtube_handle": "vcluster"
+    }
+   ],
+   "guest_count": 0,
+   "ticket_count": 0,
+   "ticket_info": {
+    "price": null,
+    "is_free": true,
+    "max_price": null,
+    "is_sold_out": false,
+    "spots_remaining": null,
+    "is_near_capacity": false,
+    "require_approval": false
+   },
+   "registration_availability": "open",
+   "featured_guests": [],
+   "manager_info": null,
+   "guest_info": null,
+   "host_info": null,
+   "waitlist_active": false,
+   "featured_city": null,
+   "calendar_api_id": "cal-ed62vIxs69zI299",
+   "is_manager": true,
+   "platform": "luma",
+   "status": "approved",
+   "submitted_by_user_api_id": "usr-FNGvYGtlxYqn6or",
+   "tags": []
+  },
+  {
+   "api_id": "calev-k8QQ66qsjtZsAZV",
+   "event": {
+    "api_id": "evt-Fmb4wmlIslwVlMD",
+    "calendar_api_id": "cal-ed62vIxs69zI299",
+    "cover_url": "https://images.lumacdn.com/api-uploads/q0/3b04d3ab-1fdd-4611-9666-e18b45997c77.jpg",
+    "end_at": "2026-11-13T00:00:00.000Z",
+    "event_type": "independent",
+    "hide_rsvp": false,
+    "location_type": "offline",
+    "name": "KubeCon + CloudNativeCon North America 2026",
+    "one_to_one": true,
+    "recurrence_id": null,
+    "show_guest_list": true,
+    "social_image_url": "https://images.lumacdn.com/event-social/sz/7fcfb88d-a1ae-4a55-8e31-4cac636c186d.png",
+    "start_at": "2026-11-09T16:00:00.000Z",
+    "timezone": "America/Denver",
+    "url": "kubecon-cloudnativecon-north-america-2026",
+    "user_api_id": "usr-FNGvYGtlxYqn6or",
+    "visibility": "public",
+    "virtual_info": {
+     "has_access": false
+    },
+    "geo_address_info": {
+     "type": "manual",
+     "address": "Salt Lake City, Utah",
+     "mode": "shown"
+    },
+    "geo_address_visibility": "public",
+    "coordinate": null,
+    "waitlist_enabled": false,
+    "waitlist_status": "disabled"
+   },
+   "cover_image": {
+    "colors": [
+     "#fa9f40",
+     "#cd8255",
+     "#fcfaf7",
+     "#322822"
+    ],
+    "palette": {
+     "neutral": [
+      {
+       "color": "#322822",
+       "percentage": 6.83
+      },
+      {
+       "color": "#fcfaf7",
+       "percentage": 11.13
+      }
+     ],
+     "vibrant": [
+      {
+       "color": "#fa9f40",
+       "percentage": 27.99
+      },
+      {
+       "color": "#cd8255",
+       "percentage": 13.05
+      }
+     ]
+    }
+   },
+   "calendar": {
+    "access_level": "public",
+    "api_id": "cal-ed62vIxs69zI299",
+    "avatar_url": "https://images.lumacdn.com/uploads/yn/fa374b17-6b63-49fd-9ca0-dba46ed1b848.png",
+    "coordinate": {
+     "longitude": -122.41941550000001,
+     "latitude": 37.7749295
+    },
+    "cover_image_url": "https://images.lumacdn.com/uploads/i1/4940ae6c-a6a5-40fb-bc14-08ea3d8fa8c7.png",
+    "description_short": "",
+    "end_date": null,
+    "event_submission_restriction": "open",
+    "google_measurement_id": null,
+    "instagram_handle": null,
+    "is_blocked": false,
+    "is_verified": false,
+    "launch_status": "launched",
+    "linkedin_handle": "/in/vcluster",
+    "location": {
+     "city": "San Francisco",
+     "region": "California",
+     "country": "United States",
+     "place_id": "ChIJIQBpAG2ahYAR_6128GcTUEo",
+     "timezone": "America/Los_Angeles",
+     "country_code": "US"
+    },
+    "luma_plan": "plus",
+    "luma_plus_active": true,
+    "meta_pixel_id": null,
+    "name": "vCluster",
+    "personal_user_api_id": null,
+    "refund_policy": null,
+    "slug": "vcluster",
+    "social_image_url": null,
+    "start_date": null,
+    "stripe_account_id": null,
+    "tax_config": null,
+    "tiktok_handle": null,
+    "tint_color": "#131517",
+    "track_meta_ads_from_luma": false,
+    "twitter_handle": "vclusterlabs",
+    "verified_at": "2026-08-23T20:12:21.407Z",
+    "website": "https://vcluster.com",
+    "youtube_handle": "vcluster",
+    "is_personal": false,
+    "personal_user": null,
+    "timezone": "America/Los_Angeles"
+   },
+   "start_at": "2026-11-09T16:00:00.000Z",
+   "hosts": [
+    {
+     "api_id": "usr-FNGvYGtlxYqn6or",
+     "avatar_url": "https://images.lumacdn.com/avatars/1c/f93bff43-9b2b-4ccf-9e48-b1df118016e7.png",
+     "bio_short": "Building Blocks for Platform Builders. Creators of vCluster & DevPod.",
+     "first_name": "vCluster",
+     "last_name": "",
+     "instagram_handle": null,
+     "is_verified": false,
+     "linkedin_handle": "/company/vcluster",
+     "name": "vCluster",
+     "tiktok_handle": null,
+     "timezone": "America/Los_Angeles",
+     "twitter_handle": "loft_sh",
+     "username": "vcluster",
+     "website": "https://vcluster.com",
+     "youtube_handle": "vcluster"
+    }
+   ],
+   "guest_count": 2,
+   "ticket_count": 2,
+   "ticket_info": {
+    "price": null,
+    "is_free": true,
+    "max_price": null,
+    "is_sold_out": false,
+    "spots_remaining": null,
+    "is_near_capacity": false,
+    "require_approval": false
+   },
+   "registration_availability": "open",
+   "featured_guests": [
+    {
+     "api_id": "usr-U6KZjFNkAs8F0Ef",
+     "avatar_url": "https://cdn.lu.ma/avatars-default/avatar_7.png",
+     "bio_short": "",
+     "first_name": "Shesha Sai Kumar Reddy",
+     "last_name": "Sadu",
+     "instagram_handle": null,
+     "is_verified": false,
+     "linkedin_handle": "/in/ssskr",
+     "name": "Shesha Sai Kumar Reddy Sadu",
+     "tiktok_handle": null,
+     "timezone": "America/Los_Angeles",
+     "twitter_handle": "NAA",
+     "username": null,
+     "website": null,
+     "youtube_handle": null
+    },
+    {
+     "api_id": "usr-3zak8ABL4fkG0Lu",
+     "avatar_url": "https://cdn.lu.ma/avatars-default/avatar_15.png",
+     "bio_short": null,
+     "first_name": "Cedric",
+     "last_name": "Sellmann",
+     "instagram_handle": null,
+     "is_verified": false,
+     "linkedin_handle": "/in/cedric-sellmann-931bb2125",
+     "name": "Cedric Sellmann",
+     "tiktok_handle": null,
+     "timezone": "Europe/London",
+     "twitter_handle": null,
+     "username": null,
+     "website": null,
+     "youtube_handle": null
+    }
+   ],
+   "manager_info": null,
+   "guest_info": null,
+   "host_info": null,
+   "waitlist_active": false,
+   "featured_city": null,
+   "calendar_api_id": "cal-ed62vIxs69zI299",
+   "is_manager": true,
+   "platform": "luma",
+   "status": "approved",
+   "submitted_by_user_api_id": "usr-FNGvYGtlxYqn6or",
+   "tags": []
+  },
+  {
+   "api_id": "calev-v8FXTWRoCqrveWb",
+   "event": {
+    "api_id": "evt-4X7JTBPAgl9bYYo",
+    "calendar_api_id": "cal-ed62vIxs69zI299",
+    "cover_url": "https://images.lumacdn.com/api-uploads/xu/8849ad7d-b926-4d6d-9a35-694d5623c922.jpg",
+    "end_at": "2026-11-20T23:00:00.000Z",
+    "event_type": "independent",
+    "hide_rsvp": false,
+    "location_type": "offline",
+    "name": "Supercomputing Chicago 2026 (SC26)",
+    "one_to_one": true,
+    "recurrence_id": null,
+    "show_guest_list": true,
+    "social_image_url": "https://images.lumacdn.com/event-social/nx/4422d767-d417-4789-a867-1db589405edc.png",
+    "start_at": "2026-11-15T15:00:00.000Z",
+    "timezone": "America/Chicago",
+    "url": "supercomputing-chicago-sc26",
+    "user_api_id": "usr-FNGvYGtlxYqn6or",
+    "visibility": "public",
+    "virtual_info": {
+     "has_access": false
+    },
+    "geo_address_info": {
+     "type": "manual",
+     "address": "Chicago, IL",
+     "mode": "shown"
+    },
+    "geo_address_visibility": "public",
+    "coordinate": null,
+    "waitlist_enabled": false,
+    "waitlist_status": "disabled"
+   },
+   "cover_image": {
+    "colors": [
+     "#050a24",
+     "#fdfefe",
+     "#ed8c36",
+     "#769455"
+    ],
+    "palette": {
+     "neutral": [
+      {
+       "color": "#050a24",
+       "percentage": 81.14
+      },
+      {
+       "color": "#fdfefe",
+       "percentage": 2.91
+      }
+     ],
+     "vibrant": [
+      {
+       "color": "#d63c8a",
+       "percentage": 0.34
+      },
+      {
+       "color": "#ed8c36",
+       "percentage": 0.62
+      },
+      {
+       "color": "#4d94c7",
+       "percentage": 1.67
+      },
+      {
+       "color": "#769455",
+       "percentage": 0.61
+      }
+     ]
+    }
+   },
+   "calendar": {
+    "access_level": "public",
+    "api_id": "cal-ed62vIxs69zI299",
+    "avatar_url": "https://images.lumacdn.com/uploads/yn/fa374b17-6b63-49fd-9ca0-dba46ed1b848.png",
+    "coordinate": {
+     "longitude": -122.41941550000001,
+     "latitude": 37.7749295
+    },
+    "cover_image_url": "https://images.lumacdn.com/uploads/i1/4940ae6c-a6a5-40fb-bc14-08ea3d8fa8c7.png",
+    "description_short": "",
+    "end_date": null,
+    "event_submission_restriction": "open",
+    "google_measurement_id": null,
+    "instagram_handle": null,
+    "is_blocked": false,
+    "is_verified": false,
+    "launch_status": "launched",
+    "linkedin_handle": "/in/vcluster",
+    "location": {
+     "city": "San Francisco",
+     "region": "California",
+     "country": "United States",
+     "place_id": "ChIJIQBpAG2ahYAR_6128GcTUEo",
+     "timezone": "America/Los_Angeles",
+     "country_code": "US"
+    },
+    "luma_plan": "plus",
+    "luma_plus_active": true,
+    "meta_pixel_id": null,
+    "name": "vCluster",
+    "personal_user_api_id": null,
+    "refund_policy": null,
+    "slug": "vcluster",
+    "social_image_url": null,
+    "start_date": null,
+    "stripe_account_id": null,
+    "tax_config": null,
+    "tiktok_handle": null,
+    "tint_color": "#131517",
+    "track_meta_ads_from_luma": false,
+    "twitter_handle": "vclusterlabs",
+    "verified_at": "2026-08-23T20:12:21.407Z",
+    "website": "https://vcluster.com",
+    "youtube_handle": "vcluster",
+    "is_personal": false,
+    "personal_user": null,
+    "timezone": "America/Los_Angeles"
+   },
+   "start_at": "2026-11-15T15:00:00.000Z",
+   "hosts": [
+    {
+     "api_id": "usr-FNGvYGtlxYqn6or",
+     "avatar_url": "https://images.lumacdn.com/avatars/1c/f93bff43-9b2b-4ccf-9e48-b1df118016e7.png",
+     "bio_short": "Building Blocks for Platform Builders. Creators of vCluster & DevPod.",
+     "first_name": "vCluster",
+     "last_name": "",
+     "instagram_handle": null,
+     "is_verified": false,
+     "linkedin_handle": "/company/vcluster",
+     "name": "vCluster",
+     "tiktok_handle": null,
+     "timezone": "America/Los_Angeles",
+     "twitter_handle": "loft_sh",
+     "username": "vcluster",
+     "website": "https://vcluster.com",
+     "youtube_handle": "vcluster"
+    }
+   ],
+   "guest_count": 1,
+   "ticket_count": 1,
+   "ticket_info": {
+    "price": null,
+    "is_free": true,
+    "max_price": null,
+    "is_sold_out": false,
+    "spots_remaining": null,
+    "is_near_capacity": false,
+    "require_approval": false
+   },
+   "registration_availability": "open",
+   "featured_guests": [
+    {
+     "api_id": "usr-yBlYFtS2zpKx69V",
+     "avatar_url": "https://cdn.lu.ma/avatars-default/avatar_47.png",
+     "bio_short": "Data Center Infra and High Speed Networking for AI, Neoclouds, HPC HPC environments",
+     "first_name": "Sean",
+     "last_name": "Stephenson",
+     "instagram_handle": null,
+     "is_verified": false,
+     "linkedin_handle": "/in/sean-stephenson-793bb13",
+     "name": "Sean Stephenson",
+     "tiktok_handle": null,
+     "timezone": "America/Los_Angeles",
+     "twitter_handle": null,
+     "username": null,
+     "website": null,
+     "youtube_handle": null
+    }
+   ],
+   "manager_info": null,
+   "guest_info": null,
+   "host_info": null,
+   "waitlist_active": false,
+   "featured_city": null,
+   "calendar_api_id": "cal-ed62vIxs69zI299",
+   "is_manager": true,
+   "platform": "luma",
+   "status": "approved",
+   "submitted_by_user_api_id": "usr-FNGvYGtlxYqn6or",
+   "tags": []
+  }
+ ],
+ "has_more": false
+}

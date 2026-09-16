@@ -1,0 +1,1022 @@
+{
+ "entries": [
+  {
+   "api_id": "calev-7Qrxka5Vj5Ccu4o",
+   "event": {
+    "api_id": "evt-Cf5nxddA0JRvh6u",
+    "calendar_api_id": "cal-8kHjPsvCPQtYtUp",
+    "cover_url": "https://images.lumacdn.com/uploads/y3/8d2cfbd5-555d-4962-8d77-12c1e973f0ff.jpg",
+    "end_at": "2026-09-17T15:30:00.000Z",
+    "event_type": "independent",
+    "hide_rsvp": false,
+    "location_type": "unknown",
+    "name": "What Predictable Inference Actually Requires",
+    "one_to_one": true,
+    "recurrence_id": null,
+    "show_guest_list": false,
+    "social_image_url": "https://images.lumacdn.com/event-social/31/01af9c25-de6d-46b1-97cd-6ef01edf710e.png",
+    "start_at": "2026-09-17T15:00:00.000Z",
+    "timezone": "America/New_York",
+    "url": "wandb-else",
+    "user_api_id": "usr-6CbayQQBM2LHG3t",
+    "visibility": "public",
+    "virtual_info": {
+     "has_access": false
+    },
+    "geo_address_info": {
+     "mode": "obfuscated"
+    },
+    "geo_address_visibility": "guests-only",
+    "coordinate": null,
+    "waitlist_enabled": false,
+    "waitlist_status": "disabled"
+   },
+   "cover_image": {
+    "colors": [
+     "#000000",
+     "#ffffff",
+     "#0541e8"
+    ],
+    "palette": {
+     "neutral": [
+      {
+       "color": "#000000",
+       "percentage": 89.3
+      },
+      {
+       "color": "#ffffff",
+       "percentage": 6.33
+      }
+     ],
+     "vibrant": [
+      {
+       "color": "#0541e8",
+       "percentage": 2.52
+      }
+     ]
+    }
+   },
+   "calendar": {
+    "access_level": "public",
+    "api_id": "cal-8kHjPsvCPQtYtUp",
+    "avatar_url": "https://images.lumacdn.com/calendars/li/b0d3defb-9aa0-4838-8ed0-2149355cb44c",
+    "coordinate": {
+     "longitude": -122.419416,
+     "latitude": 37.77493
+    },
+    "cover_image_url": "https://images.lumacdn.com/calendar-cover-images/85/b5c20016-2f9a-4b20-b2ee-093d172560a8",
+    "description_short": "The AI Developer Platform\n\nW&B Weave is a developer-first toolkit for tracing, debugging, and evaluating your AI apps.\n\nTry W&B Weave for free today: https://wandb.com/weave",
+    "end_date": null,
+    "event_submission_restriction": "open",
+    "google_measurement_id": null,
+    "instagram_handle": null,
+    "is_blocked": false,
+    "is_verified": false,
+    "launch_status": "launched",
+    "linkedin_handle": "/company/wandb",
+    "location": {
+     "city": "San Francisco",
+     "region": "California",
+     "country": "United States",
+     "place_id": "ChIJIQBpAG2ahYAR_6128GcTUEo",
+     "timezone": "America/Los_Angeles",
+     "country_code": "US"
+    },
+    "luma_plan": "plus",
+    "luma_plus_active": true,
+    "meta_pixel_id": null,
+    "name": "Weights & Biases by CoreWeave",
+    "personal_user_api_id": null,
+    "refund_policy": null,
+    "slug": "wandb",
+    "social_image_url": "https://images.lumacdn.com/calendar-cover-images/7x/c6e89a78-718a-4b60-bd94-599c775d725f",
+    "start_date": null,
+    "stripe_account_id": null,
+    "tax_config": null,
+    "tiktok_handle": null,
+    "tint_color": "#D69712",
+    "track_meta_ads_from_luma": false,
+    "twitter_handle": "weights_biases",
+    "verified_at": "2024-09-10T20:58:52.108Z",
+    "website": "https://www.wandb.ai",
+    "youtube_handle": "WeightsBiases",
+    "is_personal": false,
+    "personal_user": null,
+    "timezone": "America/Los_Angeles"
+   },
+   "start_at": "2026-09-17T15:00:00.000Z",
+   "hosts": [
+    {
+     "api_id": "usr-d69xRNFtr24H0vq",
+     "avatar_url": "https://images.lumacdn.com/avatars/hu/4b8a7cfa-3e35-4e4f-ad53-d141d14e65c8",
+     "bio_short": "",
+     "first_name": "Julie",
+     "last_name": "Wise",
+     "instagram_handle": null,
+     "is_verified": false,
+     "linkedin_handle": "/company/wandb",
+     "name": "Weights & Biases",
+     "tiktok_handle": null,
+     "timezone": "Europe/London",
+     "twitter_handle": "weights_biases",
+     "username": "wandb",
+     "website": "https://wandb.ai/site",
+     "youtube_handle": "WeightsBiases"
+    }
+   ],
+   "guest_count": 0,
+   "ticket_count": 0,
+   "ticket_info": {
+    "price": null,
+    "is_free": true,
+    "max_price": null,
+    "is_sold_out": false,
+    "spots_remaining": null,
+    "is_near_capacity": false,
+    "require_approval": false
+   },
+   "registration_availability": "open",
+   "featured_guests": [],
+   "manager_info": null,
+   "guest_info": null,
+   "host_info": null,
+   "waitlist_active": false,
+   "featured_city": null,
+   "calendar_api_id": "cal-8kHjPsvCPQtYtUp",
+   "is_manager": true,
+   "platform": "luma",
+   "status": "approved",
+   "submitted_by_user_api_id": "usr-6CbayQQBM2LHG3t",
+   "tags": []
+  },
+  {
+   "api_id": "calev-GgkFZlRZGSoam6W",
+   "event": {
+    "api_id": "evt-RjDXBIFzXU2XPiv",
+    "calendar_api_id": "cal-8kHjPsvCPQtYtUp",
+    "cover_url": "https://images.lumacdn.com/uploads/8j/1e4d220b-80a8-465c-9a48-6d1f888bf07a.jpg",
+    "end_at": "2026-09-22T15:30:00.000Z",
+    "event_type": "independent",
+    "hide_rsvp": false,
+    "location_type": "unknown",
+    "name": "What Model Distillation and Post-Training Optimization Actually Buys You",
+    "one_to_one": true,
+    "recurrence_id": null,
+    "show_guest_list": false,
+    "social_image_url": "https://images.lumacdn.com/event-social/ts/e3c347f2-e21f-49a3-8486-9ae70b7fb447.png",
+    "start_at": "2026-09-22T15:00:00.000Z",
+    "timezone": "America/New_York",
+    "url": "wandb-vg4a",
+    "user_api_id": "usr-6CbayQQBM2LHG3t",
+    "visibility": "public",
+    "virtual_info": {
+     "has_access": false
+    },
+    "geo_address_info": null,
+    "geo_address_visibility": "public",
+    "coordinate": null,
+    "waitlist_enabled": false,
+    "waitlist_status": "disabled"
+   },
+   "cover_image": {
+    "colors": [
+     "#0644ea",
+     "#000894",
+     "#fdfeff"
+    ],
+    "palette": {
+     "neutral": [
+      {
+       "color": "#000894",
+       "percentage": 10.19
+      },
+      {
+       "color": "#fdfeff",
+       "percentage": 8.31
+      }
+     ],
+     "vibrant": [
+      {
+       "color": "#0644ea",
+       "percentage": 15.94
+      }
+     ]
+    }
+   },
+   "calendar": {
+    "access_level": "public",
+    "api_id": "cal-8kHjPsvCPQtYtUp",
+    "avatar_url": "https://images.lumacdn.com/calendars/li/b0d3defb-9aa0-4838-8ed0-2149355cb44c",
+    "coordinate": {
+     "longitude": -122.419416,
+     "latitude": 37.77493
+    },
+    "cover_image_url": "https://images.lumacdn.com/calendar-cover-images/85/b5c20016-2f9a-4b20-b2ee-093d172560a8",
+    "description_short": "The AI Developer Platform\n\nW&B Weave is a developer-first toolkit for tracing, debugging, and evaluating your AI apps.\n\nTry W&B Weave for free today: https://wandb.com/weave",
+    "end_date": null,
+    "event_submission_restriction": "open",
+    "google_measurement_id": null,
+    "instagram_handle": null,
+    "is_blocked": false,
+    "is_verified": false,
+    "launch_status": "launched",
+    "linkedin_handle": "/company/wandb",
+    "location": {
+     "city": "San Francisco",
+     "region": "California",
+     "country": "United States",
+     "place_id": "ChIJIQBpAG2ahYAR_6128GcTUEo",
+     "timezone": "America/Los_Angeles",
+     "country_code": "US"
+    },
+    "luma_plan": "plus",
+    "luma_plus_active": true,
+    "meta_pixel_id": null,
+    "name": "Weights & Biases by CoreWeave",
+    "personal_user_api_id": null,
+    "refund_policy": null,
+    "slug": "wandb",
+    "social_image_url": "https://images.lumacdn.com/calendar-cover-images/7x/c6e89a78-718a-4b60-bd94-599c775d725f",
+    "start_date": null,
+    "stripe_account_id": null,
+    "tax_config": null,
+    "tiktok_handle": null,
+    "tint_color": "#D69712",
+    "track_meta_ads_from_luma": false,
+    "twitter_handle": "weights_biases",
+    "verified_at": "2024-09-10T20:58:52.108Z",
+    "website": "https://www.wandb.ai",
+    "youtube_handle": "WeightsBiases",
+    "is_personal": false,
+    "personal_user": null,
+    "timezone": "America/Los_Angeles"
+   },
+   "start_at": "2026-09-22T15:00:00.000Z",
+   "hosts": [
+    {
+     "api_id": "usr-d69xRNFtr24H0vq",
+     "avatar_url": "https://images.lumacdn.com/avatars/hu/4b8a7cfa-3e35-4e4f-ad53-d141d14e65c8",
+     "bio_short": "",
+     "first_name": "Julie",
+     "last_name": "Wise",
+     "instagram_handle": null,
+     "is_verified": false,
+     "linkedin_handle": "/company/wandb",
+     "name": "Weights & Biases",
+     "tiktok_handle": null,
+     "timezone": "Europe/London",
+     "twitter_handle": "weights_biases",
+     "username": "wandb",
+     "website": "https://wandb.ai/site",
+     "youtube_handle": "WeightsBiases"
+    }
+   ],
+   "guest_count": 0,
+   "ticket_count": 0,
+   "ticket_info": {
+    "price": null,
+    "is_free": true,
+    "max_price": null,
+    "is_sold_out": false,
+    "spots_remaining": null,
+    "is_near_capacity": false,
+    "require_approval": false
+   },
+   "registration_availability": "open",
+   "featured_guests": [],
+   "manager_info": null,
+   "guest_info": null,
+   "host_info": null,
+   "waitlist_active": false,
+   "featured_city": null,
+   "calendar_api_id": "cal-8kHjPsvCPQtYtUp",
+   "is_manager": true,
+   "platform": "luma",
+   "status": "approved",
+   "submitted_by_user_api_id": "usr-6CbayQQBM2LHG3t",
+   "tags": []
+  },
+  {
+   "api_id": "calev-3oJHRwuQTQqrUMQ",
+   "event": {
+    "api_id": "evt-0p5sysCmfybLssz",
+    "calendar_api_id": "cal-8kHjPsvCPQtYtUp",
+    "cover_url": "https://images.lumacdn.com/uploads/wi/c756c6b1-8c15-47b0-8ea1-8defa33a9a7e.png",
+    "end_at": "2026-09-23T18:00:00.000Z",
+    "event_type": "independent",
+    "hide_rsvp": false,
+    "location_type": "unknown",
+    "name": "What's New Wednesdays: Vibe-code, trace, and deploy your agents",
+    "one_to_one": true,
+    "recurrence_id": null,
+    "show_guest_list": false,
+    "social_image_url": "https://images.lumacdn.com/event-social/fz/ad284892-cc46-4b2d-8799-835d5862cdf9.png",
+    "start_at": "2026-09-23T17:00:00.000Z",
+    "timezone": "America/Los_Angeles",
+    "url": "wandb-vime",
+    "user_api_id": "usr-VYaof6DxWNGVXHG",
+    "visibility": "public",
+    "virtual_info": {
+     "has_access": false
+    },
+    "geo_address_info": null,
+    "geo_address_visibility": "public",
+    "coordinate": null,
+    "waitlist_enabled": false,
+    "waitlist_status": "disabled"
+   },
+   "cover_image": {
+    "colors": [
+     "#010914",
+     "#f8ad1f",
+     "#ececec",
+     "#c155f0"
+    ],
+    "palette": {
+     "neutral": [
+      {
+       "color": "#010914",
+       "percentage": 82.21
+      },
+      {
+       "color": "#ececec",
+       "percentage": 2.66
+      }
+     ],
+     "vibrant": [
+      {
+       "color": "#f8ad1f",
+       "percentage": 5.15
+      },
+      {
+       "color": "#c155f0",
+       "percentage": 1.21
+      },
+      {
+       "color": "#02b0c8",
+       "percentage": 1.97
+      }
+     ]
+    }
+   },
+   "calendar": {
+    "access_level": "public",
+    "api_id": "cal-8kHjPsvCPQtYtUp",
+    "avatar_url": "https://images.lumacdn.com/calendars/li/b0d3defb-9aa0-4838-8ed0-2149355cb44c",
+    "coordinate": {
+     "longitude": -122.419416,
+     "latitude": 37.77493
+    },
+    "cover_image_url": "https://images.lumacdn.com/calendar-cover-images/85/b5c20016-2f9a-4b20-b2ee-093d172560a8",
+    "description_short": "The AI Developer Platform\n\nW&B Weave is a developer-first toolkit for tracing, debugging, and evaluating your AI apps.\n\nTry W&B Weave for free today: https://wandb.com/weave",
+    "end_date": null,
+    "event_submission_restriction": "open",
+    "google_measurement_id": null,
+    "instagram_handle": null,
+    "is_blocked": false,
+    "is_verified": false,
+    "launch_status": "launched",
+    "linkedin_handle": "/company/wandb",
+    "location": {
+     "city": "San Francisco",
+     "region": "California",
+     "country": "United States",
+     "place_id": "ChIJIQBpAG2ahYAR_6128GcTUEo",
+     "timezone": "America/Los_Angeles",
+     "country_code": "US"
+    },
+    "luma_plan": "plus",
+    "luma_plus_active": true,
+    "meta_pixel_id": null,
+    "name": "Weights & Biases by CoreWeave",
+    "personal_user_api_id": null,
+    "refund_policy": null,
+    "slug": "wandb",
+    "social_image_url": "https://images.lumacdn.com/calendar-cover-images/7x/c6e89a78-718a-4b60-bd94-599c775d725f",
+    "start_date": null,
+    "stripe_account_id": null,
+    "tax_config": null,
+    "tiktok_handle": null,
+    "tint_color": "#D69712",
+    "track_meta_ads_from_luma": false,
+    "twitter_handle": "weights_biases",
+    "verified_at": "2024-09-10T20:58:52.108Z",
+    "website": "https://www.wandb.ai",
+    "youtube_handle": "WeightsBiases",
+    "is_personal": false,
+    "personal_user": null,
+    "timezone": "America/Los_Angeles"
+   },
+   "start_at": "2026-09-23T17:00:00.000Z",
+   "hosts": [
+    {
+     "api_id": "usr-d69xRNFtr24H0vq",
+     "avatar_url": "https://images.lumacdn.com/avatars/hu/4b8a7cfa-3e35-4e4f-ad53-d141d14e65c8",
+     "bio_short": "",
+     "first_name": "Julie",
+     "last_name": "Wise",
+     "instagram_handle": null,
+     "is_verified": false,
+     "linkedin_handle": "/company/wandb",
+     "name": "Weights & Biases",
+     "tiktok_handle": null,
+     "timezone": "Europe/London",
+     "twitter_handle": "weights_biases",
+     "username": "wandb",
+     "website": "https://wandb.ai/site",
+     "youtube_handle": "WeightsBiases"
+    }
+   ],
+   "guest_count": 0,
+   "ticket_count": 0,
+   "ticket_info": {
+    "price": null,
+    "is_free": true,
+    "max_price": null,
+    "is_sold_out": false,
+    "spots_remaining": null,
+    "is_near_capacity": false,
+    "require_approval": false
+   },
+   "registration_availability": "open",
+   "featured_guests": [],
+   "manager_info": null,
+   "guest_info": null,
+   "host_info": null,
+   "waitlist_active": false,
+   "featured_city": null,
+   "calendar_api_id": "cal-8kHjPsvCPQtYtUp",
+   "is_manager": true,
+   "platform": "luma",
+   "status": "approved",
+   "submitted_by_user_api_id": "usr-VYaof6DxWNGVXHG",
+   "tags": []
+  },
+  {
+   "api_id": "calev-xQlqx0VFfYQNJ58",
+   "event": {
+    "api_id": "evt-gV91IkQc7KYs0kX",
+    "calendar_api_id": "cal-8kHjPsvCPQtYtUp",
+    "cover_url": "https://images.lumacdn.com/uploads/94/c3b75cf4-5b19-4101-8040-9909991c79c8.png",
+    "end_at": "2026-10-02T05:00:00.000Z",
+    "event_type": "independent",
+    "hide_rsvp": false,
+    "location_type": "offline",
+    "name": "Fully Connected 2026: The AI cloud conference",
+    "one_to_one": true,
+    "recurrence_id": null,
+    "show_guest_list": false,
+    "social_image_url": "https://images.lumacdn.com/event-social/fx/41f670ce-5fd7-4212-8d46-caf8806b6aa1.png",
+    "start_at": "2026-09-29T19:00:00.000Z",
+    "timezone": "America/Los_Angeles",
+    "url": "wandb-54pf",
+    "user_api_id": "usr-VYaof6DxWNGVXHG",
+    "visibility": "public",
+    "virtual_info": {
+     "has_access": false
+    },
+    "geo_address_info": {
+     "city": "San Francisco",
+     "type": "google",
+     "region": "California",
+     "address": "Moscone Center South",
+     "country": "United States",
+     "place_id": "ChIJR7QY7X2AhYARb0LgEWSL0LE",
+     "localized": null,
+     "city_state": "San Francisco, CA",
+     "description": "",
+     "sublocality": "Yerba Buena",
+     "country_code": "US",
+     "full_address": "Moscone Center South, 747 Howard St, San Francisco, CA 94103, USA",
+     "region_short": "CA",
+     "short_address": "747 Howard St, San Francisco",
+     "place_coordinate": {
+      "latitude": 37.7836044,
+      "longitude": -122.40088819999998
+     },
+     "apple_maps_place_id": null,
+     "mode": "shown"
+    },
+    "geo_address_visibility": "public",
+    "coordinate": {
+     "longitude": -122.40088819999998,
+     "latitude": 37.7836044
+    },
+    "waitlist_enabled": false,
+    "waitlist_status": "disabled"
+   },
+   "cover_image": {
+    "colors": [
+     "#000101",
+     "#fdfdfd",
+     "#0541ea",
+     "#3c9cf1"
+    ],
+    "palette": {
+     "neutral": [
+      {
+       "color": "#000101",
+       "percentage": 77.13
+      },
+      {
+       "color": "#fdfdfd",
+       "percentage": 4.9
+      }
+     ],
+     "vibrant": [
+      {
+       "color": "#0541ea",
+       "percentage": 2.06
+      },
+      {
+       "color": "#3c9cf1",
+       "percentage": 1.12
+      }
+     ]
+    }
+   },
+   "calendar": {
+    "access_level": "public",
+    "api_id": "cal-8kHjPsvCPQtYtUp",
+    "avatar_url": "https://images.lumacdn.com/calendars/li/b0d3defb-9aa0-4838-8ed0-2149355cb44c",
+    "coordinate": {
+     "longitude": -122.419416,
+     "latitude": 37.77493
+    },
+    "cover_image_url": "https://images.lumacdn.com/calendar-cover-images/85/b5c20016-2f9a-4b20-b2ee-093d172560a8",
+    "description_short": "The AI Developer Platform\n\nW&B Weave is a developer-first toolkit for tracing, debugging, and evaluating your AI apps.\n\nTry W&B Weave for free today: https://wandb.com/weave",
+    "end_date": null,
+    "event_submission_restriction": "open",
+    "google_measurement_id": null,
+    "instagram_handle": null,
+    "is_blocked": false,
+    "is_verified": false,
+    "launch_status": "launched",
+    "linkedin_handle": "/company/wandb",
+    "location": {
+     "city": "San Francisco",
+     "region": "California",
+     "country": "United States",
+     "place_id": "ChIJIQBpAG2ahYAR_6128GcTUEo",
+     "timezone": "America/Los_Angeles",
+     "country_code": "US"
+    },
+    "luma_plan": "plus",
+    "luma_plus_active": true,
+    "meta_pixel_id": null,
+    "name": "Weights & Biases by CoreWeave",
+    "personal_user_api_id": null,
+    "refund_policy": null,
+    "slug": "wandb",
+    "social_image_url": "https://images.lumacdn.com/calendar-cover-images/7x/c6e89a78-718a-4b60-bd94-599c775d725f",
+    "start_date": null,
+    "stripe_account_id": null,
+    "tax_config": null,
+    "tiktok_handle": null,
+    "tint_color": "#D69712",
+    "track_meta_ads_from_luma": false,
+    "twitter_handle": "weights_biases",
+    "verified_at": "2024-09-10T20:58:52.108Z",
+    "website": "https://www.wandb.ai",
+    "youtube_handle": "WeightsBiases",
+    "is_personal": false,
+    "personal_user": null,
+    "timezone": "America/Los_Angeles"
+   },
+   "start_at": "2026-09-29T19:00:00.000Z",
+   "hosts": [
+    {
+     "api_id": "usr-d69xRNFtr24H0vq",
+     "avatar_url": "https://images.lumacdn.com/avatars/hu/4b8a7cfa-3e35-4e4f-ad53-d141d14e65c8",
+     "bio_short": "",
+     "first_name": "Julie",
+     "last_name": "Wise",
+     "instagram_handle": null,
+     "is_verified": false,
+     "linkedin_handle": "/company/wandb",
+     "name": "Weights & Biases",
+     "tiktok_handle": null,
+     "timezone": "Europe/London",
+     "twitter_handle": "weights_biases",
+     "username": "wandb",
+     "website": "https://wandb.ai/site",
+     "youtube_handle": "WeightsBiases"
+    }
+   ],
+   "guest_count": 0,
+   "ticket_count": 0,
+   "ticket_info": {
+    "price": null,
+    "is_free": true,
+    "max_price": null,
+    "is_sold_out": false,
+    "spots_remaining": null,
+    "is_near_capacity": false,
+    "require_approval": false
+   },
+   "registration_availability": "open",
+   "featured_guests": [],
+   "manager_info": null,
+   "guest_info": null,
+   "host_info": null,
+   "waitlist_active": false,
+   "featured_city": null,
+   "calendar_api_id": "cal-8kHjPsvCPQtYtUp",
+   "is_manager": true,
+   "platform": "luma",
+   "status": "approved",
+   "submitted_by_user_api_id": "usr-VYaof6DxWNGVXHG",
+   "tags": []
+  },
+  {
+   "api_id": "calev-4psk0ffpFgRW8IK",
+   "event": {
+    "api_id": "evt-m0zAauPFbqzth5t",
+    "calendar_api_id": "cal-8kHjPsvCPQtYtUp",
+    "cover_url": "https://images.lumacdn.com/uploads/vc/19eb9915-9c19-4757-bc51-f78c63f10b68.png",
+    "end_at": "2026-10-07T16:00:00.000Z",
+    "event_type": "independent",
+    "hide_rsvp": false,
+    "location_type": "unknown",
+    "name": "From build data to better calibration: Applying physical AI to engineering workflows",
+    "one_to_one": true,
+    "recurrence_id": null,
+    "show_guest_list": false,
+    "social_image_url": "https://images.lumacdn.com/event-social/0g/5f569699-3a60-4cef-ab72-6bcad507d52f.png",
+    "start_at": "2026-10-07T15:00:00.000Z",
+    "timezone": "America/Los_Angeles",
+    "url": "wandb-mode",
+    "user_api_id": "usr-VYaof6DxWNGVXHG",
+    "visibility": "public",
+    "virtual_info": {
+     "has_access": false
+    },
+    "geo_address_info": null,
+    "geo_address_visibility": "public",
+    "coordinate": null,
+    "waitlist_enabled": false,
+    "waitlist_status": "disabled"
+   },
+   "cover_image": {
+    "colors": [
+     "#141920",
+     "#09c8d7",
+     "#fbbf27",
+     "#f2f2f3"
+    ],
+    "palette": {
+     "neutral": [
+      {
+       "color": "#141920",
+       "percentage": 46.74
+      },
+      {
+       "color": "#f2f2f3",
+       "percentage": 2.87
+      }
+     ],
+     "vibrant": [
+      {
+       "color": "#d567fa",
+       "percentage": 8.66
+      },
+      {
+       "color": "#fbbf27",
+       "percentage": 10.07
+      },
+      {
+       "color": "#09c8d7",
+       "percentage": 14.82
+      }
+     ]
+    }
+   },
+   "calendar": {
+    "access_level": "public",
+    "api_id": "cal-8kHjPsvCPQtYtUp",
+    "avatar_url": "https://images.lumacdn.com/calendars/li/b0d3defb-9aa0-4838-8ed0-2149355cb44c",
+    "coordinate": {
+     "longitude": -122.419416,
+     "latitude": 37.77493
+    },
+    "cover_image_url": "https://images.lumacdn.com/calendar-cover-images/85/b5c20016-2f9a-4b20-b2ee-093d172560a8",
+    "description_short": "The AI Developer Platform\n\nW&B Weave is a developer-first toolkit for tracing, debugging, and evaluating your AI apps.\n\nTry W&B Weave for free today: https://wandb.com/weave",
+    "end_date": null,
+    "event_submission_restriction": "open",
+    "google_measurement_id": null,
+    "instagram_handle": null,
+    "is_blocked": false,
+    "is_verified": false,
+    "launch_status": "launched",
+    "linkedin_handle": "/company/wandb",
+    "location": {
+     "city": "San Francisco",
+     "region": "California",
+     "country": "United States",
+     "place_id": "ChIJIQBpAG2ahYAR_6128GcTUEo",
+     "timezone": "America/Los_Angeles",
+     "country_code": "US"
+    },
+    "luma_plan": "plus",
+    "luma_plus_active": true,
+    "meta_pixel_id": null,
+    "name": "Weights & Biases by CoreWeave",
+    "personal_user_api_id": null,
+    "refund_policy": null,
+    "slug": "wandb",
+    "social_image_url": "https://images.lumacdn.com/calendar-cover-images/7x/c6e89a78-718a-4b60-bd94-599c775d725f",
+    "start_date": null,
+    "stripe_account_id": null,
+    "tax_config": null,
+    "tiktok_handle": null,
+    "tint_color": "#D69712",
+    "track_meta_ads_from_luma": false,
+    "twitter_handle": "weights_biases",
+    "verified_at": "2024-09-10T20:58:52.108Z",
+    "website": "https://www.wandb.ai",
+    "youtube_handle": "WeightsBiases",
+    "is_personal": false,
+    "personal_user": null,
+    "timezone": "America/Los_Angeles"
+   },
+   "start_at": "2026-10-07T15:00:00.000Z",
+   "hosts": [
+    {
+     "api_id": "usr-d69xRNFtr24H0vq",
+     "avatar_url": "https://images.lumacdn.com/avatars/hu/4b8a7cfa-3e35-4e4f-ad53-d141d14e65c8",
+     "bio_short": "",
+     "first_name": "Julie",
+     "last_name": "Wise",
+     "instagram_handle": null,
+     "is_verified": false,
+     "linkedin_handle": "/company/wandb",
+     "name": "Weights & Biases",
+     "tiktok_handle": null,
+     "timezone": "Europe/London",
+     "twitter_handle": "weights_biases",
+     "username": "wandb",
+     "website": "https://wandb.ai/site",
+     "youtube_handle": "WeightsBiases"
+    }
+   ],
+   "guest_count": 0,
+   "ticket_count": 0,
+   "ticket_info": {
+    "price": null,
+    "is_free": true,
+    "max_price": null,
+    "is_sold_out": false,
+    "spots_remaining": null,
+    "is_near_capacity": false,
+    "require_approval": false
+   },
+   "registration_availability": "open",
+   "featured_guests": [],
+   "manager_info": null,
+   "guest_info": null,
+   "host_info": null,
+   "waitlist_active": false,
+   "featured_city": null,
+   "calendar_api_id": "cal-8kHjPsvCPQtYtUp",
+   "is_manager": true,
+   "platform": "luma",
+   "status": "approved",
+   "submitted_by_user_api_id": "usr-VYaof6DxWNGVXHG",
+   "tags": []
+  },
+  {
+   "api_id": "calev-a1yuXx2Q3wUdJik",
+   "event": {
+    "api_id": "evt-NMuOybHs4W6xkwN",
+    "calendar_api_id": "cal-8kHjPsvCPQtYtUp",
+    "cover_url": "https://images.lumacdn.com/uploads/mr/8de09cd7-1b47-43ce-8221-abab6bc4739e.jpg",
+    "end_at": "2026-10-15T15:30:00.000Z",
+    "event_type": "independent",
+    "hide_rsvp": false,
+    "location_type": "offline",
+    "name": "Trace It, Prove It, Scale It: AI Agents in Production",
+    "one_to_one": true,
+    "recurrence_id": null,
+    "show_guest_list": true,
+    "social_image_url": "https://images.lumacdn.com/event-social/0s/85fe592b-b9b0-4fe0-b8bc-28faa6ece7ec.png",
+    "start_at": "2026-10-15T12:00:00.000Z",
+    "timezone": "Europe/Paris",
+    "url": "parisoct15",
+    "user_api_id": "usr-d69xRNFtr24H0vq",
+    "visibility": "public",
+    "virtual_info": {
+     "has_access": false
+    },
+    "geo_address_info": {
+     "mode": "obfuscated",
+     "city": "Paris",
+     "city_state": "Paris, France",
+     "sublocality": null,
+     "country": "France",
+     "country_code": "FR",
+     "region": "\u00cele-de-France",
+     "region_short": "IDF"
+    },
+    "geo_address_visibility": "guests-only",
+    "coordinate": {
+     "latitude": 48.871482563312895,
+     "longitude": 2.3235050347576234
+    },
+    "waitlist_enabled": false,
+    "waitlist_status": "disabled"
+   },
+   "cover_image": {
+    "colors": [
+     "#0642ea",
+     "#000894",
+     "#fcfdff",
+     "#f8ba35"
+    ],
+    "palette": {
+     "neutral": [
+      {
+       "color": "#000894",
+       "percentage": 10.33
+      },
+      {
+       "color": "#fcfdff",
+       "percentage": 4.55
+      }
+     ],
+     "vibrant": [
+      {
+       "color": "#0642ea",
+       "percentage": 23.11
+      },
+      {
+       "color": "#f8ba35",
+       "percentage": 0.02
+      }
+     ]
+    }
+   },
+   "calendar": {
+    "access_level": "public",
+    "api_id": "cal-8kHjPsvCPQtYtUp",
+    "avatar_url": "https://images.lumacdn.com/calendars/li/b0d3defb-9aa0-4838-8ed0-2149355cb44c",
+    "coordinate": {
+     "longitude": -122.419416,
+     "latitude": 37.77493
+    },
+    "cover_image_url": "https://images.lumacdn.com/calendar-cover-images/85/b5c20016-2f9a-4b20-b2ee-093d172560a8",
+    "description_short": "The AI Developer Platform\n\nW&B Weave is a developer-first toolkit for tracing, debugging, and evaluating your AI apps.\n\nTry W&B Weave for free today: https://wandb.com/weave",
+    "end_date": null,
+    "event_submission_restriction": "open",
+    "google_measurement_id": null,
+    "instagram_handle": null,
+    "is_blocked": false,
+    "is_verified": false,
+    "launch_status": "launched",
+    "linkedin_handle": "/company/wandb",
+    "location": {
+     "city": "San Francisco",
+     "region": "California",
+     "country": "United States",
+     "place_id": "ChIJIQBpAG2ahYAR_6128GcTUEo",
+     "timezone": "America/Los_Angeles",
+     "country_code": "US"
+    },
+    "luma_plan": "plus",
+    "luma_plus_active": true,
+    "meta_pixel_id": null,
+    "name": "Weights & Biases by CoreWeave",
+    "personal_user_api_id": null,
+    "refund_policy": null,
+    "slug": "wandb",
+    "social_image_url": "https://images.lumacdn.com/calendar-cover-images/7x/c6e89a78-718a-4b60-bd94-599c775d725f",
+    "start_date": null,
+    "stripe_account_id": null,
+    "tax_config": null,
+    "tiktok_handle": null,
+    "tint_color": "#D69712",
+    "track_meta_ads_from_luma": false,
+    "twitter_handle": "weights_biases",
+    "verified_at": "2024-09-10T20:58:52.108Z",
+    "website": "https://www.wandb.ai",
+    "youtube_handle": "WeightsBiases",
+    "is_personal": false,
+    "personal_user": null,
+    "timezone": "America/Los_Angeles"
+   },
+   "start_at": "2026-10-15T12:00:00.000Z",
+   "hosts": [
+    {
+     "api_id": "usr-d69xRNFtr24H0vq",
+     "avatar_url": "https://images.lumacdn.com/avatars/hu/4b8a7cfa-3e35-4e4f-ad53-d141d14e65c8",
+     "bio_short": "",
+     "first_name": "Julie",
+     "last_name": "Wise",
+     "instagram_handle": null,
+     "is_verified": false,
+     "linkedin_handle": "/company/wandb",
+     "name": "Weights & Biases",
+     "tiktok_handle": null,
+     "timezone": "Europe/London",
+     "twitter_handle": "weights_biases",
+     "username": "wandb",
+     "website": "https://wandb.ai/site",
+     "youtube_handle": "WeightsBiases"
+    },
+    {
+     "api_id": "usr-U6mvVxHWTQkdhtD",
+     "avatar_url": "https://cdn.lu.ma/avatars-default/avatar_1.png",
+     "bio_short": null,
+     "first_name": "Camille",
+     "last_name": "Stibolt",
+     "instagram_handle": null,
+     "is_verified": false,
+     "linkedin_handle": null,
+     "name": "Camille Stibolt",
+     "tiktok_handle": null,
+     "timezone": "Europe/London",
+     "twitter_handle": null,
+     "username": null,
+     "website": null,
+     "youtube_handle": null
+    },
+    {
+     "api_id": "usr-Ulup2GMjp70hU9v",
+     "avatar_url": "https://cdn.lu.ma/avatars-default/avatar_11.png",
+     "bio_short": null,
+     "first_name": "Claire",
+     "last_name": "Westenfelder",
+     "instagram_handle": null,
+     "is_verified": false,
+     "linkedin_handle": null,
+     "name": "Claire Westenfelder",
+     "tiktok_handle": null,
+     "timezone": "Europe/Madrid",
+     "twitter_handle": null,
+     "username": null,
+     "website": null,
+     "youtube_handle": null
+    }
+   ],
+   "guest_count": 2,
+   "ticket_count": 2,
+   "ticket_info": {
+    "price": null,
+    "is_free": true,
+    "max_price": null,
+    "is_sold_out": false,
+    "spots_remaining": 98,
+    "is_near_capacity": false,
+    "require_approval": true
+   },
+   "registration_availability": "open",
+   "featured_guests": [
+    {
+     "api_id": "usr-U6mvVxHWTQkdhtD",
+     "avatar_url": "https://cdn.lu.ma/avatars-default/avatar_1.png",
+     "bio_short": null,
+     "first_name": "Camille",
+     "last_name": "Stibolt",
+     "instagram_handle": null,
+     "is_verified": false,
+     "linkedin_handle": null,
+     "name": "Camille Stibolt",
+     "tiktok_handle": null,
+     "timezone": "Europe/London",
+     "twitter_handle": null,
+     "username": null,
+     "website": null,
+     "youtube_handle": null
+    },
+    {
+     "api_id": "usr-Ulup2GMjp70hU9v",
+     "avatar_url": "https://cdn.lu.ma/avatars-default/avatar_11.png",
+     "bio_short": null,
+     "first_name": "Claire",
+     "last_name": "Westenfelder",
+     "instagram_handle": null,
+     "is_verified": false,
+     "linkedin_handle": null,
+     "name": "Claire Westenfelder",
+     "tiktok_handle": null,
+     "timezone": "Europe/Madrid",
+     "twitter_handle": null,
+     "username": null,
+     "website": null,
+     "youtube_handle": null
+    }
+   ],
+   "manager_info": null,
+   "guest_info": null,
+   "host_info": null,
+   "waitlist_active": false,
+   "featured_city": null,
+   "calendar_api_id": "cal-8kHjPsvCPQtYtUp",
+   "is_manager": true,
+   "platform": "luma",
+   "status": "approved",
+   "submitted_by_user_api_id": "usr-d69xRNFtr24H0vq",
+   "tags": []
+  }
+ ],
+ "has_more": false
+}

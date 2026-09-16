@@ -1,0 +1,1136 @@
+{
+ "entries": [
+  {
+   "api_id": "calev-KiZOITXRZelpBXy",
+   "event": {
+    "api_id": "evt-tzwIopv7FDdUVxy",
+    "calendar_api_id": "cal-5IX77A66d6eRvcb",
+    "cover_url": "https://images.lumacdn.com/uploads/eg/d83c3bb3-524a-40bd-965e-a04c6ced88f8.png",
+    "end_at": "2026-09-18T03:00:00.000Z",
+    "event_type": "independent",
+    "hide_rsvp": false,
+    "location_type": "offline",
+    "name": "Persona's ML reading group: Federico Bianchi presents TTT-Discover",
+    "one_to_one": true,
+    "recurrence_id": null,
+    "show_guest_list": false,
+    "social_image_url": "https://images.lumacdn.com/event-social/pf/91851bd3-5304-49d4-a46b-4153f2f1341c.png",
+    "start_at": "2026-09-18T01:00:00.000Z",
+    "timezone": "America/Los_Angeles",
+    "url": "personabianchi",
+    "user_api_id": "usr-ZgtTVxiVfeViqAK",
+    "visibility": "public",
+    "virtual_info": {
+     "has_access": false
+    },
+    "geo_address_info": {
+     "mode": "obfuscated",
+     "city": "San Francisco",
+     "city_state": "San Francisco, CA",
+     "sublocality": "Financial District",
+     "country": "United States",
+     "country_code": "US",
+     "region": "California",
+     "region_short": "CA"
+    },
+    "geo_address_visibility": "guests-only",
+    "coordinate": {
+     "latitude": 37.7914686897093,
+     "longitude": -122.39850916111136
+    },
+    "waitlist_enabled": true,
+    "waitlist_status": "enabled"
+   },
+   "cover_image": {
+    "colors": [
+     "#ffffff",
+     "#3c3837",
+     "#ddaede",
+     "#edd6a4"
+    ],
+    "palette": {
+     "neutral": [
+      {
+       "color": "#3c3837",
+       "percentage": 5.96
+      },
+      {
+       "color": "#ffffff",
+       "percentage": 63.08
+      }
+     ],
+     "vibrant": [
+      {
+       "color": "#ddaede",
+       "percentage": 5.4
+      },
+      {
+       "color": "#bb546e",
+       "percentage": 0.31
+      },
+      {
+       "color": "#edd6a4",
+       "percentage": 1.89
+      }
+     ]
+    }
+   },
+   "calendar": {
+    "access_level": "public",
+    "api_id": "cal-5IX77A66d6eRvcb",
+    "avatar_url": "https://images.lumacdn.com/calendars/4p/d462a322-789f-4473-a10b-286abfdf92c9",
+    "coordinate": null,
+    "cover_image_url": "https://images.unsplash.com/photo-1528605248644-14dd04022da1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjQyMjF8MHwxfHNlYXJjaHw1fHxzb2NpYWwlMjBldmVudHN8ZW58MHx8fHwxNzIyMzgxOTc5fDI&ixlib=rb-4.0.3&q=80&w=1080",
+    "description_short": "Persona is an online identity verification platform that helps businesses, from any size and industry to collect, verify, and manage user identities throughout a customer lifecycle.",
+    "end_date": null,
+    "event_submission_restriction": "open",
+    "google_measurement_id": null,
+    "instagram_handle": "edu.giansante",
+    "is_blocked": false,
+    "is_verified": false,
+    "launch_status": "launched",
+    "linkedin_handle": "/in/edugiansante",
+    "location": null,
+    "luma_plan": "plus",
+    "luma_plus_active": true,
+    "meta_pixel_id": null,
+    "name": "Persona Community",
+    "personal_user_api_id": null,
+    "refund_policy": {
+     "type": "doc",
+     "content": [
+      {
+       "type": "paragraph",
+       "content": [
+        {
+         "text": "Non-refundable",
+         "type": "text"
+        }
+       ]
+      }
+     ]
+    },
+    "slug": "withpersona",
+    "social_image_url": "https://images.lumacdn.com/uploads/0e/59572ee1-c8c4-4980-a624-76dcbe111fac.png",
+    "start_date": null,
+    "stripe_account_id": null,
+    "tax_config": null,
+    "tiktok_handle": null,
+    "tint_color": "#131517",
+    "track_meta_ads_from_luma": false,
+    "twitter_handle": "persona_idv",
+    "verified_at": "2023-08-01T16:53:27.773Z",
+    "website": "https://withpersona.com/community?utm_source=community&utm_medium=luma&utm_campaign=cmevents",
+    "youtube_handle": null,
+    "is_personal": false,
+    "personal_user": null,
+    "timezone": null
+   },
+   "start_at": "2026-09-18T01:00:00.000Z",
+   "hosts": [
+    {
+     "api_id": "usr-ZgtTVxiVfeViqAK",
+     "avatar_url": "https://images.lumacdn.com/uploads/lz/9126b533-1aa6-45bd-b790-10c7835b0c44.jpg",
+     "bio_short": "growth @ persona \ud83e\uddcb here for good convos, great people, and new ideas- let's talk!",
+     "first_name": "Jasmine",
+     "last_name": "Yuen",
+     "instagram_handle": null,
+     "is_verified": false,
+     "linkedin_handle": "/in/jasmine-yuen",
+     "name": "Jasmine Yuen",
+     "tiktok_handle": null,
+     "timezone": "America/Los_Angeles",
+     "twitter_handle": "jasconnects",
+     "username": null,
+     "website": null,
+     "youtube_handle": null
+    },
+    {
+     "api_id": "usr-qE2siWyQ7ZKoo7K",
+     "avatar_url": "https://cdn.lu.ma/avatars-default/avatar_11.png",
+     "bio_short": "",
+     "first_name": "Louis",
+     "last_name": "DeNicola",
+     "instagram_handle": null,
+     "is_verified": false,
+     "linkedin_handle": "/in/ladenicola",
+     "name": "Louis DeNicola",
+     "tiktok_handle": null,
+     "timezone": "America/Los_Angeles",
+     "twitter_handle": "is_lou",
+     "username": null,
+     "website": null,
+     "youtube_handle": null
+    },
+    {
+     "api_id": "usr-Fkf9u1Vce5Zz4xX",
+     "avatar_url": "https://images.lumacdn.com/avatars/mv/e6ca7337-2914-49ec-ab6e-cef2b86c3ae1",
+     "bio_short": "Expert Community Builder. Previously Global Head of Community at Dropbox, Wix, Zynga Founder of Edublin - the largest community of Brazilian",
+     "first_name": "Ed",
+     "last_name": "Giansante",
+     "instagram_handle": "edu.giansante",
+     "is_verified": false,
+     "linkedin_handle": "/in/edugiansante",
+     "name": "Ed Giansante",
+     "tiktok_handle": "edugiansante",
+     "timezone": "America/Los_Angeles",
+     "twitter_handle": "edugiansante",
+     "username": "edugiansante",
+     "website": "https://ed.community",
+     "youtube_handle": "edublinTV"
+    },
+    {
+     "api_id": "usr-PZmJeLXSp1Nd8CO",
+     "avatar_url": "https://cdn.lu.ma/avatars-default/avatar_5.png",
+     "bio_short": null,
+     "first_name": "Maya",
+     "last_name": "Varma",
+     "instagram_handle": null,
+     "is_verified": false,
+     "linkedin_handle": null,
+     "name": "Maya Varma",
+     "tiktok_handle": null,
+     "timezone": "America/Los_Angeles",
+     "twitter_handle": null,
+     "username": null,
+     "website": null,
+     "youtube_handle": null
+    },
+    {
+     "api_id": "usr-MJ4HVfXRyKPNZUB",
+     "avatar_url": "https://cdn.lu.ma/avatars-default/avatar_12.png",
+     "bio_short": null,
+     "first_name": "Daniel",
+     "last_name": "George",
+     "instagram_handle": null,
+     "is_verified": false,
+     "linkedin_handle": "/in/daniel-george-8799471b2",
+     "name": "Daniel George",
+     "tiktok_handle": null,
+     "timezone": "America/Los_Angeles",
+     "twitter_handle": "cur1i0sg30rg3",
+     "username": null,
+     "website": null,
+     "youtube_handle": null
+    }
+   ],
+   "guest_count": 0,
+   "ticket_count": 0,
+   "ticket_info": {
+    "price": null,
+    "is_free": true,
+    "max_price": null,
+    "is_sold_out": false,
+    "spots_remaining": 87,
+    "is_near_capacity": false,
+    "require_approval": true
+   },
+   "registration_availability": "open",
+   "featured_guests": [],
+   "manager_info": null,
+   "guest_info": null,
+   "host_info": null,
+   "waitlist_active": false,
+   "featured_city": null,
+   "calendar_api_id": "cal-5IX77A66d6eRvcb",
+   "is_manager": true,
+   "platform": "luma",
+   "status": "approved",
+   "submitted_by_user_api_id": "usr-ZgtTVxiVfeViqAK",
+   "tags": []
+  },
+  {
+   "api_id": "calev-mVjeZGNZAfDrOap",
+   "event": {
+    "api_id": "evt-CXW3YoH5bTYaWg3",
+    "calendar_api_id": "cal-5IX77A66d6eRvcb",
+    "cover_url": "https://images.lumacdn.com/uploads/ig/333ee60d-2f8c-4d36-b5d0-3b72feb2cea9.png",
+    "end_at": "2026-09-29T21:00:00.000Z",
+    "event_type": "independent",
+    "hide_rsvp": false,
+    "location_type": "offline",
+    "name": "Brew & Build: Persona x Corgi NYC EDITION",
+    "one_to_one": true,
+    "recurrence_id": null,
+    "show_guest_list": false,
+    "social_image_url": "https://images.lumacdn.com/event-social/xr/86dc63af-a6ec-4ecc-8104-ef51e62276e0.png",
+    "start_at": "2026-09-29T16:00:00.000Z",
+    "timezone": "America/New_York",
+    "url": "personacorgicafenyc",
+    "user_api_id": "usr-ZgtTVxiVfeViqAK",
+    "visibility": "public",
+    "virtual_info": {
+     "has_access": false
+    },
+    "geo_address_info": {
+     "mode": "obfuscated",
+     "city": "New York",
+     "city_state": "New York, NY",
+     "sublocality": "Rose Hill",
+     "country": "United States",
+     "country_code": "US",
+     "region": "New York",
+     "region_short": "NY"
+    },
+    "geo_address_visibility": "guests-only",
+    "coordinate": {
+     "latitude": 40.742567384635045,
+     "longitude": -73.98137769153445
+    },
+    "waitlist_enabled": false,
+    "waitlist_status": "disabled"
+   },
+   "cover_image": {
+    "colors": [
+     "#f8efdf",
+     "#87756e",
+     "#b17452",
+     "#1c1b1b"
+    ],
+    "palette": {
+     "neutral": [
+      {
+       "color": "#1c1b1b",
+       "percentage": 6.54
+      },
+      {
+       "color": "#f8efdf",
+       "percentage": 24.9
+      },
+      {
+       "color": "#87756e",
+       "percentage": 11.56
+      }
+     ],
+     "vibrant": [
+      {
+       "color": "#b17452",
+       "percentage": 9.23
+      },
+      {
+       "color": "#e74717",
+       "percentage": 0.7
+      }
+     ]
+    }
+   },
+   "calendar": {
+    "access_level": "public",
+    "api_id": "cal-5IX77A66d6eRvcb",
+    "avatar_url": "https://images.lumacdn.com/calendars/4p/d462a322-789f-4473-a10b-286abfdf92c9",
+    "coordinate": null,
+    "cover_image_url": "https://images.unsplash.com/photo-1528605248644-14dd04022da1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjQyMjF8MHwxfHNlYXJjaHw1fHxzb2NpYWwlMjBldmVudHN8ZW58MHx8fHwxNzIyMzgxOTc5fDI&ixlib=rb-4.0.3&q=80&w=1080",
+    "description_short": "Persona is an online identity verification platform that helps businesses, from any size and industry to collect, verify, and manage user identities throughout a customer lifecycle.",
+    "end_date": null,
+    "event_submission_restriction": "open",
+    "google_measurement_id": null,
+    "instagram_handle": "edu.giansante",
+    "is_blocked": false,
+    "is_verified": false,
+    "launch_status": "launched",
+    "linkedin_handle": "/in/edugiansante",
+    "location": null,
+    "luma_plan": "plus",
+    "luma_plus_active": true,
+    "meta_pixel_id": null,
+    "name": "Persona Community",
+    "personal_user_api_id": null,
+    "refund_policy": {
+     "type": "doc",
+     "content": [
+      {
+       "type": "paragraph",
+       "content": [
+        {
+         "text": "Non-refundable",
+         "type": "text"
+        }
+       ]
+      }
+     ]
+    },
+    "slug": "withpersona",
+    "social_image_url": "https://images.lumacdn.com/uploads/0e/59572ee1-c8c4-4980-a624-76dcbe111fac.png",
+    "start_date": null,
+    "stripe_account_id": null,
+    "tax_config": null,
+    "tiktok_handle": null,
+    "tint_color": "#131517",
+    "track_meta_ads_from_luma": false,
+    "twitter_handle": "persona_idv",
+    "verified_at": "2023-08-01T16:53:27.773Z",
+    "website": "https://withpersona.com/community?utm_source=community&utm_medium=luma&utm_campaign=cmevents",
+    "youtube_handle": null,
+    "is_personal": false,
+    "personal_user": null,
+    "timezone": null
+   },
+   "start_at": "2026-09-29T16:00:00.000Z",
+   "hosts": [
+    {
+     "api_id": "usr-ZgtTVxiVfeViqAK",
+     "avatar_url": "https://images.lumacdn.com/uploads/lz/9126b533-1aa6-45bd-b790-10c7835b0c44.jpg",
+     "bio_short": "growth @ persona \ud83e\uddcb here for good convos, great people, and new ideas- let's talk!",
+     "first_name": "Jasmine",
+     "last_name": "Yuen",
+     "instagram_handle": null,
+     "is_verified": false,
+     "linkedin_handle": "/in/jasmine-yuen",
+     "name": "Jasmine Yuen",
+     "tiktok_handle": null,
+     "timezone": "America/Los_Angeles",
+     "twitter_handle": "jasconnects",
+     "username": null,
+     "website": null,
+     "youtube_handle": null
+    },
+    {
+     "api_id": "usr-Fkf9u1Vce5Zz4xX",
+     "avatar_url": "https://images.lumacdn.com/avatars/mv/e6ca7337-2914-49ec-ab6e-cef2b86c3ae1",
+     "bio_short": "Expert Community Builder. Previously Global Head of Community at Dropbox, Wix, Zynga Founder of Edublin - the largest community of Brazilian",
+     "first_name": "Ed",
+     "last_name": "Giansante",
+     "instagram_handle": "edu.giansante",
+     "is_verified": false,
+     "linkedin_handle": "/in/edugiansante",
+     "name": "Ed Giansante",
+     "tiktok_handle": "edugiansante",
+     "timezone": "America/Los_Angeles",
+     "twitter_handle": "edugiansante",
+     "username": "edugiansante",
+     "website": "https://ed.community",
+     "youtube_handle": "edublinTV"
+    }
+   ],
+   "guest_count": 0,
+   "ticket_count": 0,
+   "ticket_info": {
+    "price": null,
+    "is_free": true,
+    "max_price": null,
+    "is_sold_out": false,
+    "spots_remaining": null,
+    "is_near_capacity": false,
+    "require_approval": true
+   },
+   "registration_availability": "open",
+   "featured_guests": [],
+   "manager_info": null,
+   "guest_info": null,
+   "host_info": null,
+   "waitlist_active": false,
+   "featured_city": null,
+   "calendar_api_id": "cal-5IX77A66d6eRvcb",
+   "is_manager": true,
+   "platform": "luma",
+   "status": "approved",
+   "submitted_by_user_api_id": "usr-ZgtTVxiVfeViqAK",
+   "tags": []
+  },
+  {
+   "api_id": "calev-mu2AEKKZBAzgLGJ",
+   "event": {
+    "api_id": "evt-rJmFsf83oDcd7Dg",
+    "calendar_api_id": "cal-5IX77A66d6eRvcb",
+    "cover_url": "https://images.lumacdn.com/uploads/kb/57baca12-9417-43f0-a8cd-6653841a5ff1.png",
+    "end_at": "2026-09-30T21:00:00.000Z",
+    "event_type": "independent",
+    "hide_rsvp": false,
+    "location_type": "offline",
+    "name": "Sip, Charm, and Repeat for Founders \ud83c\udf75 by Persona & Corgi",
+    "one_to_one": true,
+    "recurrence_id": null,
+    "show_guest_list": false,
+    "social_image_url": "https://images.lumacdn.com/event-social/s9/0a296a72-9c64-473f-8dca-7fdce8886094.png",
+    "start_at": "2026-09-30T19:00:00.000Z",
+    "timezone": "America/New_York",
+    "url": "nycfoundersmatcha",
+    "user_api_id": "usr-ZgtTVxiVfeViqAK",
+    "visibility": "public",
+    "virtual_info": {
+     "has_access": false
+    },
+    "geo_address_info": {
+     "mode": "obfuscated",
+     "city": "New York",
+     "city_state": "New York, NY",
+     "sublocality": "Lower Manhattan",
+     "country": "United States",
+     "country_code": "US",
+     "region": "New York",
+     "region_short": "NY"
+    },
+    "geo_address_visibility": "guests-only",
+    "coordinate": {
+     "latitude": 40.71872968085915,
+     "longitude": -74.00487297644595
+    },
+    "waitlist_enabled": true,
+    "waitlist_status": "active"
+   },
+   "cover_image": {
+    "colors": [
+     "#faf3ea",
+     "#cee298",
+     "#d5bbd5",
+     "#ce661b"
+    ],
+    "palette": {
+     "neutral": [
+      {
+       "color": "#172707",
+       "percentage": 7.16
+      },
+      {
+       "color": "#faf3ea",
+       "percentage": 16.32
+      }
+     ],
+     "vibrant": [
+      {
+       "color": "#cee298",
+       "percentage": 16.12
+      },
+      {
+       "color": "#ce661b",
+       "percentage": 2.24
+      },
+      {
+       "color": "#d5bbd5",
+       "percentage": 2.81
+      },
+      {
+       "color": "#eec270",
+       "percentage": 4.51
+      }
+     ]
+    }
+   },
+   "calendar": {
+    "access_level": "public",
+    "api_id": "cal-5IX77A66d6eRvcb",
+    "avatar_url": "https://images.lumacdn.com/calendars/4p/d462a322-789f-4473-a10b-286abfdf92c9",
+    "coordinate": null,
+    "cover_image_url": "https://images.unsplash.com/photo-1528605248644-14dd04022da1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjQyMjF8MHwxfHNlYXJjaHw1fHxzb2NpYWwlMjBldmVudHN8ZW58MHx8fHwxNzIyMzgxOTc5fDI&ixlib=rb-4.0.3&q=80&w=1080",
+    "description_short": "Persona is an online identity verification platform that helps businesses, from any size and industry to collect, verify, and manage user identities throughout a customer lifecycle.",
+    "end_date": null,
+    "event_submission_restriction": "open",
+    "google_measurement_id": null,
+    "instagram_handle": "edu.giansante",
+    "is_blocked": false,
+    "is_verified": false,
+    "launch_status": "launched",
+    "linkedin_handle": "/in/edugiansante",
+    "location": null,
+    "luma_plan": "plus",
+    "luma_plus_active": true,
+    "meta_pixel_id": null,
+    "name": "Persona Community",
+    "personal_user_api_id": null,
+    "refund_policy": {
+     "type": "doc",
+     "content": [
+      {
+       "type": "paragraph",
+       "content": [
+        {
+         "text": "Non-refundable",
+         "type": "text"
+        }
+       ]
+      }
+     ]
+    },
+    "slug": "withpersona",
+    "social_image_url": "https://images.lumacdn.com/uploads/0e/59572ee1-c8c4-4980-a624-76dcbe111fac.png",
+    "start_date": null,
+    "stripe_account_id": null,
+    "tax_config": null,
+    "tiktok_handle": null,
+    "tint_color": "#131517",
+    "track_meta_ads_from_luma": false,
+    "twitter_handle": "persona_idv",
+    "verified_at": "2023-08-01T16:53:27.773Z",
+    "website": "https://withpersona.com/community?utm_source=community&utm_medium=luma&utm_campaign=cmevents",
+    "youtube_handle": null,
+    "is_personal": false,
+    "personal_user": null,
+    "timezone": null
+   },
+   "start_at": "2026-09-30T19:00:00.000Z",
+   "hosts": [
+    {
+     "api_id": "usr-ZgtTVxiVfeViqAK",
+     "avatar_url": "https://images.lumacdn.com/uploads/lz/9126b533-1aa6-45bd-b790-10c7835b0c44.jpg",
+     "bio_short": "growth @ persona \ud83e\uddcb here for good convos, great people, and new ideas- let's talk!",
+     "first_name": "Jasmine",
+     "last_name": "Yuen",
+     "instagram_handle": null,
+     "is_verified": false,
+     "linkedin_handle": "/in/jasmine-yuen",
+     "name": "Jasmine Yuen",
+     "tiktok_handle": null,
+     "timezone": "America/Los_Angeles",
+     "twitter_handle": "jasconnects",
+     "username": null,
+     "website": null,
+     "youtube_handle": null
+    },
+    {
+     "api_id": "usr-Fkf9u1Vce5Zz4xX",
+     "avatar_url": "https://images.lumacdn.com/avatars/mv/e6ca7337-2914-49ec-ab6e-cef2b86c3ae1",
+     "bio_short": "Expert Community Builder. Previously Global Head of Community at Dropbox, Wix, Zynga Founder of Edublin - the largest community of Brazilian",
+     "first_name": "Ed",
+     "last_name": "Giansante",
+     "instagram_handle": "edu.giansante",
+     "is_verified": false,
+     "linkedin_handle": "/in/edugiansante",
+     "name": "Ed Giansante",
+     "tiktok_handle": "edugiansante",
+     "timezone": "America/Los_Angeles",
+     "twitter_handle": "edugiansante",
+     "username": "edugiansante",
+     "website": "https://ed.community",
+     "youtube_handle": "edublinTV"
+    }
+   ],
+   "guest_count": 0,
+   "ticket_count": 0,
+   "ticket_info": {
+    "price": null,
+    "is_free": true,
+    "max_price": null,
+    "is_sold_out": false,
+    "spots_remaining": 20,
+    "is_near_capacity": false,
+    "require_approval": true
+   },
+   "registration_availability": "open",
+   "featured_guests": [],
+   "manager_info": null,
+   "guest_info": null,
+   "host_info": null,
+   "waitlist_active": false,
+   "featured_city": null,
+   "calendar_api_id": "cal-5IX77A66d6eRvcb",
+   "is_manager": true,
+   "platform": "luma",
+   "status": "approved",
+   "submitted_by_user_api_id": "usr-ZgtTVxiVfeViqAK",
+   "tags": []
+  },
+  {
+   "api_id": "calev-t1OG01kTw4wsP3U",
+   "event": {
+    "api_id": "evt-69Eg4zBUpCDWuRA",
+    "calendar_api_id": "cal-5IX77A66d6eRvcb",
+    "cover_url": "https://images.unsplash.com/photo-1547573854-74d2a71d0826?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjQyMjF8MHwxfHNlYXJjaHwyfHxkaW5uZXJ8ZW58MHx8fHwxNzg0NzQzMDk0fDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "end_at": "2026-10-07T04:00:00.000Z",
+    "event_type": "independent",
+    "hide_rsvp": false,
+    "location_type": "offline",
+    "name": "SF Private Dinner",
+    "one_to_one": true,
+    "recurrence_id": null,
+    "show_guest_list": false,
+    "social_image_url": "https://images.lumacdn.com/event-social/f2/c38e653f-4726-4f54-880a-3f23213623ea.png",
+    "start_at": "2026-10-07T01:00:00.000Z",
+    "timezone": "America/Los_Angeles",
+    "url": "personadinner",
+    "user_api_id": "usr-ZgtTVxiVfeViqAK",
+    "visibility": "public",
+    "virtual_info": {
+     "has_access": false
+    },
+    "geo_address_info": {
+     "mode": "obfuscated",
+     "city": "San Francisco",
+     "city_state": "San Francisco, CA",
+     "sublocality": null,
+     "country": "United States",
+     "country_code": "US",
+     "region": "California",
+     "region_short": "CA"
+    },
+    "geo_address_visibility": "guests-only",
+    "coordinate": {
+     "latitude": 37.774882855539516,
+     "longitude": -122.4177292844198
+    },
+    "waitlist_enabled": true,
+    "waitlist_status": "enabled"
+   },
+   "cover_image": {
+    "colors": [
+     "#120503",
+     "#522209",
+     "#656034"
+    ],
+    "palette": {
+     "neutral": [
+      {
+       "color": "#120503",
+       "percentage": 17.88
+      }
+     ],
+     "vibrant": [
+      {
+       "color": "#522209",
+       "percentage": 16.68
+      },
+      {
+       "color": "#656034",
+       "percentage": 5.25
+      }
+     ]
+    }
+   },
+   "calendar": {
+    "access_level": "public",
+    "api_id": "cal-5IX77A66d6eRvcb",
+    "avatar_url": "https://images.lumacdn.com/calendars/4p/d462a322-789f-4473-a10b-286abfdf92c9",
+    "coordinate": null,
+    "cover_image_url": "https://images.unsplash.com/photo-1528605248644-14dd04022da1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjQyMjF8MHwxfHNlYXJjaHw1fHxzb2NpYWwlMjBldmVudHN8ZW58MHx8fHwxNzIyMzgxOTc5fDI&ixlib=rb-4.0.3&q=80&w=1080",
+    "description_short": "Persona is an online identity verification platform that helps businesses, from any size and industry to collect, verify, and manage user identities throughout a customer lifecycle.",
+    "end_date": null,
+    "event_submission_restriction": "open",
+    "google_measurement_id": null,
+    "instagram_handle": "edu.giansante",
+    "is_blocked": false,
+    "is_verified": false,
+    "launch_status": "launched",
+    "linkedin_handle": "/in/edugiansante",
+    "location": null,
+    "luma_plan": "plus",
+    "luma_plus_active": true,
+    "meta_pixel_id": null,
+    "name": "Persona Community",
+    "personal_user_api_id": null,
+    "refund_policy": {
+     "type": "doc",
+     "content": [
+      {
+       "type": "paragraph",
+       "content": [
+        {
+         "text": "Non-refundable",
+         "type": "text"
+        }
+       ]
+      }
+     ]
+    },
+    "slug": "withpersona",
+    "social_image_url": "https://images.lumacdn.com/uploads/0e/59572ee1-c8c4-4980-a624-76dcbe111fac.png",
+    "start_date": null,
+    "stripe_account_id": null,
+    "tax_config": null,
+    "tiktok_handle": null,
+    "tint_color": "#131517",
+    "track_meta_ads_from_luma": false,
+    "twitter_handle": "persona_idv",
+    "verified_at": "2023-08-01T16:53:27.773Z",
+    "website": "https://withpersona.com/community?utm_source=community&utm_medium=luma&utm_campaign=cmevents",
+    "youtube_handle": null,
+    "is_personal": false,
+    "personal_user": null,
+    "timezone": null
+   },
+   "start_at": "2026-10-07T01:00:00.000Z",
+   "hosts": [
+    {
+     "api_id": "usr-ZgtTVxiVfeViqAK",
+     "avatar_url": "https://images.lumacdn.com/uploads/lz/9126b533-1aa6-45bd-b790-10c7835b0c44.jpg",
+     "bio_short": "growth @ persona \ud83e\uddcb here for good convos, great people, and new ideas- let's talk!",
+     "first_name": "Jasmine",
+     "last_name": "Yuen",
+     "instagram_handle": null,
+     "is_verified": false,
+     "linkedin_handle": "/in/jasmine-yuen",
+     "name": "Jasmine Yuen",
+     "tiktok_handle": null,
+     "timezone": "America/Los_Angeles",
+     "twitter_handle": "jasconnects",
+     "username": null,
+     "website": null,
+     "youtube_handle": null
+    }
+   ],
+   "guest_count": 0,
+   "ticket_count": 0,
+   "ticket_info": {
+    "price": null,
+    "is_free": true,
+    "max_price": null,
+    "is_sold_out": false,
+    "spots_remaining": 25,
+    "is_near_capacity": false,
+    "require_approval": true
+   },
+   "registration_availability": "open",
+   "featured_guests": [],
+   "manager_info": null,
+   "guest_info": null,
+   "host_info": null,
+   "waitlist_active": false,
+   "featured_city": null,
+   "calendar_api_id": "cal-5IX77A66d6eRvcb",
+   "is_manager": true,
+   "platform": "luma",
+   "status": "approved",
+   "submitted_by_user_api_id": "usr-ZgtTVxiVfeViqAK",
+   "tags": []
+  },
+  {
+   "api_id": "calev-5MbHSdRHp8hr2fe",
+   "event": {
+    "api_id": "evt-oJzetMBcJV6D4jY",
+    "calendar_api_id": "cal-rMQpu61kZutcrRZ",
+    "cover_url": "https://images.lumacdn.com/uploads/0u/9e80650e-c5df-4ccf-910f-cfd6b9a25f5a.jpg",
+    "end_at": "2026-10-09T06:00:00.000Z",
+    "event_type": "independent",
+    "hide_rsvp": false,
+    "location_type": "offline",
+    "name": "speedrun sr007 | a masquerade ball",
+    "one_to_one": true,
+    "recurrence_id": null,
+    "show_guest_list": true,
+    "social_image_url": "https://images.lumacdn.com/event-social/ii/32d5f317-f6e5-410c-8af3-03bfa1a6983a.png",
+    "start_at": "2026-10-09T03:00:00.000Z",
+    "timezone": "America/Los_Angeles",
+    "url": "fldrgzgq",
+    "user_api_id": "usr-st83mDK2h9KM6aw",
+    "visibility": "public",
+    "virtual_info": {
+     "has_access": false
+    },
+    "geo_address_info": {
+     "mode": "obfuscated",
+     "city": "San Francisco",
+     "city_state": "San Francisco, CA",
+     "sublocality": "Tenderloin",
+     "country": "United States",
+     "country_code": "US",
+     "region": "California",
+     "region_short": "CA"
+    },
+    "geo_address_visibility": "guests-only",
+    "coordinate": {
+     "latitude": 37.787035890030864,
+     "longitude": -122.41329715037865
+    },
+    "waitlist_enabled": false,
+    "waitlist_status": "disabled"
+   },
+   "cover_image": {
+    "colors": [
+     "#020101",
+     "#774b21",
+     "#f3e1c1"
+    ],
+    "palette": {
+     "neutral": [
+      {
+       "color": "#020101",
+       "percentage": 70.95
+      }
+     ],
+     "vibrant": [
+      {
+       "color": "#774b21",
+       "percentage": 0.79
+      },
+      {
+       "color": "#f3e1c1",
+       "percentage": 0.47
+      }
+     ]
+    }
+   },
+   "calendar": {
+    "access_level": "public",
+    "api_id": "cal-rMQpu61kZutcrRZ",
+    "avatar_url": "https://cdn.lu.ma/avatars-default/community_avatar_15.png",
+    "coordinate": null,
+    "cover_image_url": null,
+    "description_short": null,
+    "end_date": null,
+    "event_submission_restriction": "open",
+    "google_measurement_id": null,
+    "instagram_handle": null,
+    "is_blocked": false,
+    "is_verified": false,
+    "launch_status": "launched",
+    "linkedin_handle": null,
+    "location": null,
+    "luma_plan": "plus",
+    "luma_plus_active": true,
+    "meta_pixel_id": null,
+    "name": "Personal",
+    "personal_user_api_id": "usr-st83mDK2h9KM6aw",
+    "refund_policy": null,
+    "slug": null,
+    "social_image_url": null,
+    "start_date": null,
+    "stripe_account_id": null,
+    "tax_config": null,
+    "tiktok_handle": null,
+    "tint_color": "#F31A7C",
+    "track_meta_ads_from_luma": false,
+    "twitter_handle": null,
+    "verified_at": "2026-05-27T00:02:57.164Z",
+    "website": null,
+    "youtube_handle": null,
+    "is_personal": true,
+    "personal_user": {
+     "api_id": "usr-st83mDK2h9KM6aw",
+     "avatar_url": "https://images.lumacdn.com/avatars/uc/81e8722f-cfb5-4b8a-bfda-c24534759644.jpg",
+     "bio_short": "",
+     "first_name": "Vivian",
+     "last_name": "Cai",
+     "instagram_handle": "vivian_vivia_c",
+     "is_verified": false,
+     "linkedin_handle": "/in/caivivian",
+     "name": "Vivian Cai",
+     "tiktok_handle": null,
+     "timezone": "America/Los_Angeles",
+     "twitter_handle": "VivianCaiIAm",
+     "username": null,
+     "website": "https://try-cali.com",
+     "youtube_handle": null
+    },
+    "timezone": null
+   },
+   "start_at": "2026-10-09T03:00:00.000Z",
+   "hosts": [
+    {
+     "api_id": "usr-st83mDK2h9KM6aw",
+     "avatar_url": "https://images.lumacdn.com/avatars/uc/81e8722f-cfb5-4b8a-bfda-c24534759644.jpg",
+     "bio_short": "",
+     "first_name": "Vivian",
+     "last_name": "Cai",
+     "instagram_handle": "vivian_vivia_c",
+     "is_verified": false,
+     "linkedin_handle": "/in/caivivian",
+     "name": "Vivian Cai",
+     "tiktok_handle": null,
+     "timezone": "America/Los_Angeles",
+     "twitter_handle": "VivianCaiIAm",
+     "username": null,
+     "website": "https://try-cali.com",
+     "youtube_handle": null
+    },
+    {
+     "api_id": "usr-41ivrECbFzShgUs",
+     "avatar_url": "https://cdn.lu.ma/avatars-default/avatar_14.png",
+     "bio_short": null,
+     "first_name": "Richard",
+     "last_name": "Trinh",
+     "instagram_handle": null,
+     "is_verified": false,
+     "linkedin_handle": "/in/richard-t-a9789428a",
+     "name": "Richard Trinh",
+     "tiktok_handle": null,
+     "timezone": "America/Los_Angeles",
+     "twitter_handle": null,
+     "username": null,
+     "website": null,
+     "youtube_handle": null
+    },
+    {
+     "api_id": "usr-ZgtTVxiVfeViqAK",
+     "avatar_url": "https://images.lumacdn.com/uploads/lz/9126b533-1aa6-45bd-b790-10c7835b0c44.jpg",
+     "bio_short": "growth @ persona \ud83e\uddcb here for good convos, great people, and new ideas- let's talk!",
+     "first_name": "Jasmine",
+     "last_name": "Yuen",
+     "instagram_handle": null,
+     "is_verified": false,
+     "linkedin_handle": "/in/jasmine-yuen",
+     "name": "Jasmine Yuen",
+     "tiktok_handle": null,
+     "timezone": "America/Los_Angeles",
+     "twitter_handle": "jasconnects",
+     "username": null,
+     "website": null,
+     "youtube_handle": null
+    }
+   ],
+   "guest_count": 0,
+   "ticket_count": 0,
+   "ticket_info": {
+    "price": null,
+    "is_free": true,
+    "max_price": null,
+    "is_sold_out": false,
+    "spots_remaining": null,
+    "is_near_capacity": false,
+    "require_approval": true
+   },
+   "registration_availability": "open",
+   "featured_guests": [],
+   "manager_info": null,
+   "guest_info": null,
+   "host_info": null,
+   "waitlist_active": false,
+   "featured_city": null,
+   "calendar_api_id": "cal-5IX77A66d6eRvcb",
+   "is_manager": false,
+   "platform": "luma",
+   "status": "approved",
+   "submitted_by_user_api_id": "usr-ZgtTVxiVfeViqAK",
+   "tags": []
+  },
+  {
+   "api_id": "calev-gXLbmG8B1hmSXHm",
+   "event": {
+    "api_id": "evt-eHJOxUFEyxnGZvY",
+    "calendar_api_id": "cal-5IX77A66d6eRvcb",
+    "cover_url": "https://images.lumacdn.com/event-covers/56/25ec4cff-b936-4be6-acb5-ab141db8a1f6.png",
+    "end_at": "2026-11-19T17:30:00.000Z",
+    "event_type": "independent",
+    "hide_rsvp": false,
+    "location_type": "zoom",
+    "name": "Onboarding call for Persona customers",
+    "one_to_one": true,
+    "recurrence_id": null,
+    "show_guest_list": false,
+    "social_image_url": "https://images.lumacdn.com/event-social/xw/36091634-023d-47ee-80c6-1b02a1cf41f3.png",
+    "start_at": "2026-11-19T17:00:00.000Z",
+    "timezone": "America/Los_Angeles",
+    "url": "personaonboardingnov",
+    "user_api_id": "usr-ZgtTVxiVfeViqAK",
+    "visibility": "public",
+    "virtual_info": {
+     "has_access": false
+    },
+    "geo_address_info": null,
+    "geo_address_visibility": "public",
+    "coordinate": null,
+    "waitlist_enabled": false,
+    "waitlist_status": "disabled"
+   },
+   "cover_image": {
+    "colors": [
+     "#7379fd",
+     "#000000",
+     "#ffffff",
+     "#c9cafe"
+    ],
+    "palette": {
+     "neutral": [
+      {
+       "color": "#feffff",
+       "percentage": 39.3
+      },
+      {
+       "color": "#d7d9ff",
+       "percentage": 0.73
+      }
+     ],
+     "vibrant": [
+      {
+       "color": "#7279fd",
+       "percentage": 56.85
+      }
+     ]
+    }
+   },
+   "calendar": {
+    "access_level": "public",
+    "api_id": "cal-5IX77A66d6eRvcb",
+    "avatar_url": "https://images.lumacdn.com/calendars/4p/d462a322-789f-4473-a10b-286abfdf92c9",
+    "coordinate": null,
+    "cover_image_url": "https://images.unsplash.com/photo-1528605248644-14dd04022da1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjQyMjF8MHwxfHNlYXJjaHw1fHxzb2NpYWwlMjBldmVudHN8ZW58MHx8fHwxNzIyMzgxOTc5fDI&ixlib=rb-4.0.3&q=80&w=1080",
+    "description_short": "Persona is an online identity verification platform that helps businesses, from any size and industry to collect, verify, and manage user identities throughout a customer lifecycle.",
+    "end_date": null,
+    "event_submission_restriction": "open",
+    "google_measurement_id": null,
+    "instagram_handle": "edu.giansante",
+    "is_blocked": false,
+    "is_verified": false,
+    "launch_status": "launched",
+    "linkedin_handle": "/in/edugiansante",
+    "location": null,
+    "luma_plan": "plus",
+    "luma_plus_active": true,
+    "meta_pixel_id": null,
+    "name": "Persona Community",
+    "personal_user_api_id": null,
+    "refund_policy": {
+     "type": "doc",
+     "content": [
+      {
+       "type": "paragraph",
+       "content": [
+        {
+         "text": "Non-refundable",
+         "type": "text"
+        }
+       ]
+      }
+     ]
+    },
+    "slug": "withpersona",
+    "social_image_url": "https://images.lumacdn.com/uploads/0e/59572ee1-c8c4-4980-a624-76dcbe111fac.png",
+    "start_date": null,
+    "stripe_account_id": null,
+    "tax_config": null,
+    "tiktok_handle": null,
+    "tint_color": "#131517",
+    "track_meta_ads_from_luma": false,
+    "twitter_handle": "persona_idv",
+    "verified_at": "2023-08-01T16:53:27.773Z",
+    "website": "https://withpersona.com/community?utm_source=community&utm_medium=luma&utm_campaign=cmevents",
+    "youtube_handle": null,
+    "is_personal": false,
+    "personal_user": null,
+    "timezone": null
+   },
+   "start_at": "2026-11-19T17:00:00.000Z",
+   "hosts": [
+    {
+     "api_id": "usr-ZgtTVxiVfeViqAK",
+     "avatar_url": "https://images.lumacdn.com/uploads/lz/9126b533-1aa6-45bd-b790-10c7835b0c44.jpg",
+     "bio_short": "growth @ persona \ud83e\uddcb here for good convos, great people, and new ideas- let's talk!",
+     "first_name": "Jasmine",
+     "last_name": "Yuen",
+     "instagram_handle": null,
+     "is_verified": false,
+     "linkedin_handle": "/in/jasmine-yuen",
+     "name": "Jasmine Yuen",
+     "tiktok_handle": null,
+     "timezone": "America/Los_Angeles",
+     "twitter_handle": "jasconnects",
+     "username": null,
+     "website": null,
+     "youtube_handle": null
+    }
+   ],
+   "guest_count": 0,
+   "ticket_count": 0,
+   "ticket_info": {
+    "price": null,
+    "is_free": true,
+    "max_price": null,
+    "is_sold_out": false,
+    "spots_remaining": null,
+    "is_near_capacity": false,
+    "require_approval": true
+   },
+   "registration_availability": "open",
+   "featured_guests": [],
+   "manager_info": null,
+   "guest_info": null,
+   "host_info": null,
+   "waitlist_active": false,
+   "featured_city": null,
+   "calendar_api_id": "cal-5IX77A66d6eRvcb",
+   "is_manager": true,
+   "platform": "luma",
+   "status": "approved",
+   "submitted_by_user_api_id": "usr-ZgtTVxiVfeViqAK",
+   "tags": []
+  }
+ ],
+ "has_more": false
+}

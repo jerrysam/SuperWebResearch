@@ -1,0 +1,24 @@
+_meta:
+  last_researched: '2026-09-16'
+  sources:
+  - publisher: User's September list (weekly recurring)
+    url: Unknown
+    retrieved: '2026-09-16'
+name: Constellation happy hour (AI safety community)
+url: Unknown
+platform: other
+start_date: '2026-10-08'
+start_time: Unknown
+city: Berkeley
+host_calendar: Constellation
+hosts:
+- Constellation
+companies_involved: []
+relevance_category: researchers_safety_rationalist
+priority: strong
+registration_status: invite_only
+in_trip_window: true
+description_snippet: Weekly Thursday happy hour at Constellation (AI safety research center). Expect Oct
+  8 and Oct 15 during the trip.
+note: No public listing; entry via safety-community contacts. Back door to senior LLM/safety people per
+  user's strategy.

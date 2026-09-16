@@ -1,0 +1,27 @@
+_meta:
+  last_researched: '2026-09-16'
+  sources:
+  - publisher: Luma (api.lu.ma)
+    url: https://luma.com/scorx7qo
+    retrieved: '2026-09-16'
+name: The MCP Gateway during SF a16z TechWeek
+url: https://luma.com/scorx7qo
+platform: luma
+start_date: '2026-10-05'
+start_time: 09:30
+city: San Francisco
+host_calendar: a16z SF Tech Week 2026
+hosts:
+- Murray
+- Paulina Xu
+- Yvonne Newlands
+companies_involved: []
+relevance_category: ai_infra_compute
+priority: strong
+registration_status: waitlist_or_approval
+in_trip_window: true
+description_snippet: Hosted by Open Future ForumSponsored by Agentic FabriqAI agents need access to real
+  tools and data—but every new connection introduces questions about identity, permissions, security,
+  reliability, and control.Join Open Future Forum during SF a16z TechWeek for a practical, developer-focused
+  discussio
+note: MCP infrastructure talk during Tech Week; agent-infra crowd.

@@ -1,0 +1,25 @@
+_meta:
+  last_researched: '2026-09-16'
+  sources:
+  - publisher: Luma (api.lu.ma)
+    url: https://luma.com/g5sdw0b6
+    retrieved: '2026-09-16'
+name: 'Hardware FYI: SF Tech Week Edition'
+url: https://luma.com/g5sdw0b6
+platform: luma
+start_date: '2026-10-09'
+start_time: '17:00'
+city: San Francisco
+host_calendar: Hardware FYI
+hosts:
+- Brian D'Erario
+- Benji Chia
+companies_involved: []
+relevance_category: general_ai
+priority: skip
+registration_status: waitlist_or_approval
+in_trip_window: true
+description_snippet: Join Hardware FYI for an evening with the founders, engineers, operators, and investors
+  building the physical world.During SF Tech Week, we're bringing the hardware ecosystem together at Dogpatch
+  Studios for a short conversation on emerging trends at the interesection of AI, manufacturing, robotics,
+note: Hardware meetup.

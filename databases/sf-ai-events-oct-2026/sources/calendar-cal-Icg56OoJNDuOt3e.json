@@ -1,0 +1,357 @@
+{
+ "entries": [
+  {
+   "api_id": "calev-Aqw8ovBVKPd5Fzz",
+   "event": {
+    "api_id": "evt-j62KQe4OxnQJLzg",
+    "calendar_api_id": "cal-Icg56OoJNDuOt3e",
+    "cover_url": "https://images.lumacdn.com/uploads/2q/b1d86f61-9fca-4970-b460-58c959c61d8b.png",
+    "end_at": "2026-09-16T19:30:00.000Z",
+    "event_type": "independent",
+    "hide_rsvp": true,
+    "location_type": "offline",
+    "name": "Open by Design: The Economics of AI in Production",
+    "one_to_one": true,
+    "recurrence_id": null,
+    "show_guest_list": false,
+    "social_image_url": "https://images.lumacdn.com/event-social/z0/5de36bce-851e-40e6-a170-cb516362d4ce.png",
+    "start_at": "2026-09-16T17:30:00.000Z",
+    "timezone": "Europe/London",
+    "url": "together-OBDLondon",
+    "user_api_id": "usr-sLEAzPhJWh1pHPp",
+    "visibility": "public",
+    "virtual_info": {
+     "has_access": false
+    },
+    "geo_address_info": {
+     "city": "London",
+     "type": "google",
+     "region": "England",
+     "address": "10 York Rd",
+     "country": "United Kingdom",
+     "place_id": "ChIJbWDHF7gEdkgRjt9bLbFX7LU",
+     "localized": {
+      "en-GB": {
+       "city": "London",
+       "region": "England",
+       "address": "10 York Rd",
+       "country": "United Kingdom",
+       "city_state": "London, United Kingdom",
+       "sublocality": null,
+       "full_address": "10 York Rd, London SE1 7ND, UK",
+       "region_short": "England",
+       "short_address": "10 York Rd, London"
+      }
+     },
+     "city_state": "London, United Kingdom",
+     "description": "",
+     "sublocality": null,
+     "country_code": "GB",
+     "full_address": "10 York Rd, London SE1 7ND, UK",
+     "region_short": "England",
+     "short_address": "10 York Rd, London",
+     "place_coordinate": {
+      "latitude": 51.504070999999996,
+      "longitude": -0.1153506
+     },
+     "apple_maps_place_id": null,
+     "mode": "shown"
+    },
+    "geo_address_visibility": "public",
+    "coordinate": {
+     "longitude": -0.1153506,
+     "latitude": 51.504070999999996
+    },
+    "waitlist_enabled": true,
+    "waitlist_status": "enabled"
+   },
+   "cover_image": {
+    "colors": [
+     "#831112",
+     "#fafafa",
+     "#8e4685"
+    ],
+    "palette": {
+     "neutral": [
+      {
+       "color": "#831112",
+       "percentage": 18.77
+      },
+      {
+       "color": "#fafafa",
+       "percentage": 11.79
+      }
+     ],
+     "vibrant": [
+      {
+       "color": "#8e4685",
+       "percentage": 3.27
+      }
+     ]
+    }
+   },
+   "calendar": {
+    "access_level": "public",
+    "api_id": "cal-Icg56OoJNDuOt3e",
+    "avatar_url": "https://images.lumacdn.com/calendars/bc/89642d8f-3083-41e7-b275-0c48b16a61e1.jpg",
+    "coordinate": null,
+    "cover_image_url": "https://images.unsplash.com/photo-1670189577367-2c6ef31a4b8c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjQyMjF8MHwxfHNlYXJjaHw1fHxhYnN0cmFjdCUyMDNkfGVufDB8fHx8MTc3MzA4MzA5Nnwy&ixlib=rb-4.1.0&q=80&w=1080",
+    "description_short": "",
+    "end_date": null,
+    "event_submission_restriction": "open",
+    "google_measurement_id": null,
+    "instagram_handle": null,
+    "is_blocked": false,
+    "is_verified": false,
+    "launch_status": "launched",
+    "linkedin_handle": "/company/togethercomputer",
+    "location": null,
+    "luma_plan": "plus",
+    "luma_plus_active": true,
+    "meta_pixel_id": null,
+    "name": "Together AI Calendar",
+    "personal_user_api_id": null,
+    "refund_policy": null,
+    "slug": "together-ai",
+    "social_image_url": null,
+    "start_date": null,
+    "stripe_account_id": null,
+    "tax_config": null,
+    "tiktok_handle": null,
+    "tint_color": "#C0DDF9",
+    "track_meta_ads_from_luma": false,
+    "twitter_handle": "togethercompute",
+    "verified_at": "2025-06-12T21:25:05.510Z",
+    "website": "https://www.together.ai/",
+    "youtube_handle": "togetherdotai",
+    "is_personal": false,
+    "personal_user": null,
+    "timezone": null
+   },
+   "start_at": "2026-09-16T17:30:00.000Z",
+   "hosts": [
+    {
+     "api_id": "usr-sLEAzPhJWh1pHPp",
+     "avatar_url": "https://images.lumacdn.com/avatars/hj/5f1f0306-fa0d-4f82-aea0-27d0cb03c18e.jpg",
+     "bio_short": "",
+     "first_name": "Together",
+     "last_name": "AI",
+     "instagram_handle": null,
+     "is_verified": false,
+     "linkedin_handle": "/company/togethercomputer",
+     "name": "Together AI",
+     "tiktok_handle": null,
+     "timezone": "America/Los_Angeles",
+     "twitter_handle": "togethercompute",
+     "username": "together_ai",
+     "website": null,
+     "youtube_handle": ""
+    },
+    {
+     "api_id": "usr-DawJBZHfCdR69Kn",
+     "avatar_url": "https://images.lumacdn.com/avatars/no/1bef7537-ec94-467a-b2dd-e9ba1a6c2f66.png",
+     "bio_short": "Join MiniMax events, where AI builders and creators come together to connect and explore what's next. We'd love to meet you here.",
+     "first_name": "Victor",
+     "last_name": "Su-Ortiz",
+     "instagram_handle": null,
+     "is_verified": false,
+     "linkedin_handle": "/company/minimax-ai",
+     "name": "MiniMax",
+     "tiktok_handle": null,
+     "timezone": "America/Los_Angeles",
+     "twitter_handle": "MiniMax_AI",
+     "username": "MiniMax",
+     "website": null,
+     "youtube_handle": ""
+    }
+   ],
+   "guest_count": 0,
+   "ticket_count": 0,
+   "ticket_info": {
+    "price": null,
+    "is_free": true,
+    "max_price": null,
+    "is_sold_out": true,
+    "spots_remaining": 0,
+    "is_near_capacity": false,
+    "require_approval": true
+   },
+   "registration_availability": "sold-out",
+   "featured_guests": [],
+   "manager_info": null,
+   "guest_info": null,
+   "host_info": null,
+   "waitlist_active": false,
+   "featured_city": {
+    "api_id": "discplace-QCcNk3HXowOR97j",
+    "name": "London",
+    "slug": "london"
+   },
+   "calendar_api_id": "cal-Icg56OoJNDuOt3e",
+   "is_manager": true,
+   "platform": "luma",
+   "status": "approved",
+   "submitted_by_user_api_id": "usr-sLEAzPhJWh1pHPp",
+   "tags": []
+  },
+  {
+   "api_id": "calev-bXm25JvhjDENAaI",
+   "event": {
+    "api_id": "evt-5BHNzIGAHP1jLVS",
+    "calendar_api_id": "cal-Icg56OoJNDuOt3e",
+    "cover_url": "https://images.lumacdn.com/uploads/gy/5ea0fd12-6bb6-4945-ab56-1f3ea7893b59.jpg",
+    "end_at": "2026-10-21T20:00:00.000Z",
+    "event_type": "independent",
+    "hide_rsvp": false,
+    "location_type": "offline",
+    "name": "UNTERGRUND, An evening for the people building the next generation of open source.",
+    "one_to_one": true,
+    "recurrence_id": null,
+    "show_guest_list": false,
+    "social_image_url": "https://images.lumacdn.com/event-social/h5/b6b804c2-c4bb-4fd8-90bc-3dde58525bf8.png",
+    "start_at": "2026-10-21T17:00:00.000Z",
+    "timezone": "Europe/Berlin",
+    "url": "untergrund-berlin",
+    "user_api_id": "usr-sLEAzPhJWh1pHPp",
+    "visibility": "public",
+    "virtual_info": {
+     "has_access": false
+    },
+    "geo_address_info": {
+     "mode": "obfuscated",
+     "city": "Berlin",
+     "city_state": "Berlin, Germany",
+     "sublocality": "Berliner Innenstadt",
+     "country": "Germany",
+     "country_code": "DE",
+     "region": "Berlin",
+     "region_short": "BE"
+    },
+    "geo_address_visibility": "guests-only",
+    "coordinate": {
+     "latitude": 52.499961013883706,
+     "longitude": 13.375796099574007
+    },
+    "waitlist_enabled": false,
+    "waitlist_status": "disabled"
+   },
+   "cover_image": {
+    "colors": [
+     "#120e11",
+     "#843316",
+     "#2d4c69",
+     "#fdfdfd"
+    ],
+    "palette": {
+     "neutral": [
+      {
+       "color": "#120e11",
+       "percentage": 27.54
+      },
+      {
+       "color": "#fdfdfd",
+       "percentage": 4.14
+      }
+     ],
+     "vibrant": [
+      {
+       "color": "#843316",
+       "percentage": 18.7
+      },
+      {
+       "color": "#5d2a75",
+       "percentage": 12.15
+      },
+      {
+       "color": "#2d4c69",
+       "percentage": 12.29
+      }
+     ]
+    }
+   },
+   "calendar": {
+    "access_level": "public",
+    "api_id": "cal-Icg56OoJNDuOt3e",
+    "avatar_url": "https://images.lumacdn.com/calendars/bc/89642d8f-3083-41e7-b275-0c48b16a61e1.jpg",
+    "coordinate": null,
+    "cover_image_url": "https://images.unsplash.com/photo-1670189577367-2c6ef31a4b8c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjQyMjF8MHwxfHNlYXJjaHw1fHxhYnN0cmFjdCUyMDNkfGVufDB8fHx8MTc3MzA4MzA5Nnwy&ixlib=rb-4.1.0&q=80&w=1080",
+    "description_short": "",
+    "end_date": null,
+    "event_submission_restriction": "open",
+    "google_measurement_id": null,
+    "instagram_handle": null,
+    "is_blocked": false,
+    "is_verified": false,
+    "launch_status": "launched",
+    "linkedin_handle": "/company/togethercomputer",
+    "location": null,
+    "luma_plan": "plus",
+    "luma_plus_active": true,
+    "meta_pixel_id": null,
+    "name": "Together AI Calendar",
+    "personal_user_api_id": null,
+    "refund_policy": null,
+    "slug": "together-ai",
+    "social_image_url": null,
+    "start_date": null,
+    "stripe_account_id": null,
+    "tax_config": null,
+    "tiktok_handle": null,
+    "tint_color": "#C0DDF9",
+    "track_meta_ads_from_luma": false,
+    "twitter_handle": "togethercompute",
+    "verified_at": "2025-06-12T21:25:05.510Z",
+    "website": "https://www.together.ai/",
+    "youtube_handle": "togetherdotai",
+    "is_personal": false,
+    "personal_user": null,
+    "timezone": null
+   },
+   "start_at": "2026-10-21T17:00:00.000Z",
+   "hosts": [
+    {
+     "api_id": "usr-sLEAzPhJWh1pHPp",
+     "avatar_url": "https://images.lumacdn.com/avatars/hj/5f1f0306-fa0d-4f82-aea0-27d0cb03c18e.jpg",
+     "bio_short": "",
+     "first_name": "Together",
+     "last_name": "AI",
+     "instagram_handle": null,
+     "is_verified": false,
+     "linkedin_handle": "/company/togethercomputer",
+     "name": "Together AI",
+     "tiktok_handle": null,
+     "timezone": "America/Los_Angeles",
+     "twitter_handle": "togethercompute",
+     "username": "together_ai",
+     "website": null,
+     "youtube_handle": ""
+    }
+   ],
+   "guest_count": 0,
+   "ticket_count": 0,
+   "ticket_info": {
+    "price": null,
+    "is_free": true,
+    "max_price": null,
+    "is_sold_out": false,
+    "spots_remaining": null,
+    "is_near_capacity": false,
+    "require_approval": true
+   },
+   "registration_availability": "open",
+   "featured_guests": [],
+   "manager_info": null,
+   "guest_info": null,
+   "host_info": null,
+   "waitlist_active": false,
+   "featured_city": null,
+   "calendar_api_id": "cal-Icg56OoJNDuOt3e",
+   "is_manager": true,
+   "platform": "luma",
+   "status": "approved",
+   "submitted_by_user_api_id": "usr-sLEAzPhJWh1pHPp",
+   "tags": []
+  }
+ ],
+ "has_more": false
+}

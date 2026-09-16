@@ -1,0 +1,927 @@
+{
+ "entries": [
+  {
+   "api_id": "calev-8BFm9UwwyEyWAXh",
+   "event": {
+    "api_id": "evt-yk836v7sGGwFGgY",
+    "calendar_api_id": "cal-XqDIe2oUVLcybKK",
+    "cover_url": "https://images.lumacdn.com/uploads/xe/0d7611c2-6ea6-456d-b609-6f63cf713f70.png",
+    "end_at": "2026-09-23T18:30:00.000Z",
+    "event_type": "independent",
+    "hide_rsvp": false,
+    "location_type": "offline",
+    "name": "Startups Speakeasy at HumanX w/ Fin, Stripe, and Nebius",
+    "one_to_one": true,
+    "recurrence_id": null,
+    "show_guest_list": false,
+    "social_image_url": "https://images.lumacdn.com/event-social/gm/79461c04-54f7-488a-8646-e3190cfcecd5.png",
+    "start_at": "2026-09-23T16:00:00.000Z",
+    "timezone": "Europe/Amsterdam",
+    "url": "startupspeakeasyhumanx",
+    "user_api_id": "usr-85DdUgAs60E3xrt",
+    "visibility": "public",
+    "virtual_info": {
+     "has_access": false
+    },
+    "geo_address_info": {
+     "mode": "obfuscated",
+     "city": "Amsterdam",
+     "city_state": "Amsterdam, Netherlands",
+     "sublocality": "Amsterdam Oud-Zuid",
+     "country": "Netherlands",
+     "country_code": "NL",
+     "region": "Noord-Holland",
+     "region_short": "NH"
+    },
+    "geo_address_visibility": "guests-only",
+    "coordinate": {
+     "latitude": 52.35537519325046,
+     "longitude": 4.88586989180097
+    },
+    "waitlist_enabled": true,
+    "waitlist_status": "active"
+   },
+   "cover_image": {
+    "colors": [
+     "#020917",
+     "#f7f6f1"
+    ],
+    "palette": {
+     "neutral": [
+      {
+       "color": "#020917",
+       "percentage": 93.07
+      },
+      {
+       "color": "#f4f3ec",
+       "percentage": 3.81
+      },
+      {
+       "color": "#fefefe",
+       "percentage": 1.63
+      }
+     ],
+     "vibrant": []
+    }
+   },
+   "calendar": {
+    "access_level": "public",
+    "api_id": "cal-XqDIe2oUVLcybKK",
+    "avatar_url": "https://images.lumacdn.com/uploads/55/0bf4dfed-7d42-4565-a941-11f580cbb095.png",
+    "coordinate": null,
+    "cover_image_url": "https://images.lumacdn.com/uploads/6h/e908c132-8886-472a-aeb0-84f5dd1765ba.png",
+    "description_short": "Fin is a unified Customer Agent for the entire customer journey. Subscribe to join Fin events in your city.",
+    "end_date": null,
+    "event_submission_restriction": "open",
+    "google_measurement_id": null,
+    "instagram_handle": null,
+    "is_blocked": false,
+    "is_verified": false,
+    "launch_status": "launched",
+    "linkedin_handle": "/showcase/fin",
+    "location": null,
+    "luma_plan": "plus",
+    "luma_plus_active": true,
+    "meta_pixel_id": null,
+    "name": "Fin",
+    "personal_user_api_id": null,
+    "refund_policy": null,
+    "slug": "fin",
+    "social_image_url": "https://images.lumacdn.com/uploads/ic/e1505d06-eae6-485e-8b2a-50816d4af9fe.png",
+    "start_date": null,
+    "stripe_account_id": null,
+    "tax_config": null,
+    "tiktok_handle": null,
+    "tint_color": "#ffffff",
+    "track_meta_ads_from_luma": false,
+    "twitter_handle": "fin_ai",
+    "verified_at": "2025-06-03T16:40:41.467Z",
+    "website": "https://fin.ai/",
+    "youtube_handle": null,
+    "is_personal": false,
+    "personal_user": null,
+    "timezone": null
+   },
+   "start_at": "2026-09-23T16:00:00.000Z",
+   "hosts": [
+    {
+     "api_id": "usr-85DdUgAs60E3xrt",
+     "avatar_url": "https://images.lumacdn.com/avatars/6p/c62d7df8-826e-4406-89c8-51227943b82b.jpg",
+     "bio_short": "",
+     "first_name": "Chen-Chen",
+     "last_name": "from Fin",
+     "instagram_handle": "chenchenhuo",
+     "is_verified": false,
+     "linkedin_handle": "/in/chenchenhuo",
+     "name": "Chen-Chen from Fin",
+     "tiktok_handle": null,
+     "timezone": "America/Los_Angeles",
+     "twitter_handle": null,
+     "username": "chenchenhuo",
+     "website": null,
+     "youtube_handle": null
+    },
+    {
+     "api_id": "usr-FI8lZoiAgGoo6D9",
+     "avatar_url": "https://images.lumacdn.com/avatars/dx/a971f5c9-58e0-4f62-9a16-902dd10b0737.png",
+     "bio_short": "Nebius for Startups helps AI startups scale with ease through AI infra and growth partnership. Apply today at www.nebius.com/startups",
+     "first_name": "Nebius",
+     "last_name": "for Startups",
+     "instagram_handle": null,
+     "is_verified": false,
+     "linkedin_handle": "/company/nebius",
+     "name": "Nebius for Startups",
+     "tiktok_handle": null,
+     "timezone": "America/Los_Angeles",
+     "twitter_handle": "nebiusai",
+     "username": "NebiusStartups",
+     "website": "https://www.nebius.com/startups-program",
+     "youtube_handle": "nebiusofficial"
+    },
+    {
+     "api_id": "usr-sGA6jnF7EyCGE7a",
+     "avatar_url": "https://images.lumacdn.com/uploads/zz/7fc9eeb3-9b6c-4d45-8f88-4cfe2b2d3837.png",
+     "bio_short": "Startups @ Nebius",
+     "first_name": "Yasemin",
+     "last_name": "Gunes",
+     "instagram_handle": null,
+     "is_verified": false,
+     "linkedin_handle": "/in/yasemingunes",
+     "name": "Yasemin Gunes",
+     "tiktok_handle": null,
+     "timezone": "Europe/London",
+     "twitter_handle": null,
+     "username": null,
+     "website": null,
+     "youtube_handle": null
+    },
+    {
+     "api_id": "usr-7PrFMXVka5shHxi",
+     "avatar_url": "https://images.lumacdn.com/avatars/cv/5c7ba400-95fd-46ec-ad16-589feb717851.png",
+     "bio_short": "Field Marketing, EMEA Startups @Stripe",
+     "first_name": "Dec",
+     "last_name": "McLaughlin",
+     "instagram_handle": null,
+     "is_verified": false,
+     "linkedin_handle": "/in/dec-mclaughlin",
+     "name": "Dec McLaughlin",
+     "tiktok_handle": null,
+     "timezone": "Europe/London",
+     "twitter_handle": "decmclaughlin_",
+     "username": null,
+     "website": "https://stripe.com",
+     "youtube_handle": ""
+    }
+   ],
+   "guest_count": 0,
+   "ticket_count": 0,
+   "ticket_info": {
+    "price": null,
+    "is_free": true,
+    "max_price": null,
+    "is_sold_out": false,
+    "spots_remaining": 65,
+    "is_near_capacity": false,
+    "require_approval": true
+   },
+   "registration_availability": "open",
+   "featured_guests": [],
+   "manager_info": null,
+   "guest_info": null,
+   "host_info": null,
+   "waitlist_active": false,
+   "featured_city": null,
+   "calendar_api_id": "cal-XqDIe2oUVLcybKK",
+   "is_manager": true,
+   "platform": "luma",
+   "status": "approved",
+   "submitted_by_user_api_id": "usr-85DdUgAs60E3xrt",
+   "tags": [
+    {
+     "api_id": "tag-Of69kNhYZEW883w",
+     "name": "Startups",
+     "color": "blue"
+    }
+   ]
+  },
+  {
+   "api_id": "calev-x1BTFUcOpZKtQ6l",
+   "calendar_api_id": "cal-XqDIe2oUVLcybKK",
+   "platform": "external",
+   "status": "approved",
+   "submitted_by_user_api_id": "usr-EnsJkKXsW8imJZf",
+   "tags": [
+    {
+     "api_id": "tag-Of69kNhYZEW883w",
+     "name": "Startups",
+     "color": "blue"
+    }
+   ],
+   "is_manager": true,
+   "event": {
+    "duration_interval": "P0Y0M0DT2H30M0S",
+    "geo_address_json": {
+     "city": "San Francisco",
+     "type": "google",
+     "region": "California",
+     "address": "Intercom Inc",
+     "country": "United States",
+     "place_id": "ChIJZfV2KgCBhYARdSMkTdLoRTU",
+     "city_state": "San Francisco, CA",
+     "description": "",
+     "sublocality": "Financial District",
+     "country_code": "US",
+     "full_address": "Intercom Inc, 55 2nd St 5th Fl, San Francisco, CA 94105, USA",
+     "region_short": "CA",
+     "short_address": "55 2nd St 5th Fl, San Francisco",
+     "place_coordinate": {
+      "latitude": 37.7888063,
+      "longitude": -122.40031289999999
+     },
+     "apple_maps_place_id": "I659E3DEA66788CC0"
+    },
+    "coordinate": {
+     "longitude": -122.40031289999999,
+     "latitude": 37.7888063
+    },
+    "host": "Fin & Clay",
+    "name": "Demos After Dark w/ Fin, Clay - #SFTechWeek",
+    "start_at": "2026-10-06T01:00:00.000Z",
+    "timezone": "America/Los_Angeles",
+    "url": "https://partiful.com/e/4hR2c72SkILJeP0NNOZT",
+    "geo_address_info": {
+     "city": "San Francisco",
+     "type": "google",
+     "region": "California",
+     "address": "Intercom Inc",
+     "country": "United States",
+     "place_id": "ChIJZfV2KgCBhYARdSMkTdLoRTU",
+     "city_state": "San Francisco, CA",
+     "description": "",
+     "sublocality": "Financial District",
+     "country_code": "US",
+     "full_address": "Intercom Inc, 55 2nd St 5th Fl, San Francisco, CA 94105, USA",
+     "region_short": "CA",
+     "short_address": "55 2nd St 5th Fl, San Francisco",
+     "place_coordinate": {
+      "latitude": 37.7888063,
+      "longitude": -122.40031289999999
+     },
+     "apple_maps_place_id": "I659E3DEA66788CC0",
+     "mode": "shown"
+    }
+   }
+  },
+  {
+   "api_id": "calev-yxXTNRCBrxu8Zxj",
+   "calendar_api_id": "cal-XqDIe2oUVLcybKK",
+   "platform": "external",
+   "status": "approved",
+   "submitted_by_user_api_id": "usr-EnsJkKXsW8imJZf",
+   "tags": [
+    {
+     "api_id": "tag-Of69kNhYZEW883w",
+     "name": "Startups",
+     "color": "blue"
+    }
+   ],
+   "is_manager": true,
+   "event": {
+    "duration_interval": "P0Y0M0DT2H0M0S",
+    "geo_address_json": {
+     "city": "San Francisco",
+     "type": "google",
+     "region": "California",
+     "address": "La Connessa",
+     "country": "United States",
+     "place_id": "ChIJu9FSr9d_j4ARDBkteFKvUyA",
+     "city_state": "San Francisco, CA",
+     "description": "",
+     "sublocality": "Potrero Hill",
+     "country_code": "US",
+     "full_address": "La Connessa, 1695 Mariposa St, San Francisco, CA 94107, USA",
+     "region_short": "CA",
+     "short_address": "1695 Mariposa St, San Francisco",
+     "place_coordinate": {
+      "latitude": 37.7635326,
+      "longitude": -122.40035830000001
+     },
+     "apple_maps_place_id": "IB28FF6C9D274156E"
+    },
+    "coordinate": {
+     "longitude": -122.40035830000001,
+     "latitude": 37.7635326
+    },
+    "host": "Fin & Stripe",
+    "name": "Founder Lunch Club w/ Fin and Stripe - #SFTechWeek",
+    "start_at": "2026-10-06T19:00:00.000Z",
+    "timezone": "America/Los_Angeles",
+    "url": "https://partiful.com/e/PwDKrPTS03ZD3sGuLeog",
+    "geo_address_info": {
+     "city": "San Francisco",
+     "type": "google",
+     "region": "California",
+     "address": "La Connessa",
+     "country": "United States",
+     "place_id": "ChIJu9FSr9d_j4ARDBkteFKvUyA",
+     "city_state": "San Francisco, CA",
+     "description": "",
+     "sublocality": "Potrero Hill",
+     "country_code": "US",
+     "full_address": "La Connessa, 1695 Mariposa St, San Francisco, CA 94107, USA",
+     "region_short": "CA",
+     "short_address": "1695 Mariposa St, San Francisco",
+     "place_coordinate": {
+      "latitude": 37.7635326,
+      "longitude": -122.40035830000001
+     },
+     "apple_maps_place_id": "IB28FF6C9D274156E",
+     "mode": "shown"
+    }
+   }
+  },
+  {
+   "api_id": "calev-fcrYjoXzhzG3NQE",
+   "calendar_api_id": "cal-XqDIe2oUVLcybKK",
+   "platform": "external",
+   "status": "approved",
+   "submitted_by_user_api_id": "usr-EnsJkKXsW8imJZf",
+   "tags": [
+    {
+     "api_id": "tag-Of69kNhYZEW883w",
+     "name": "Startups",
+     "color": "blue"
+    }
+   ],
+   "is_manager": true,
+   "event": {
+    "duration_interval": "P0Y0M0DT2H30M0S",
+    "geo_address_json": {
+     "type": "manual",
+     "address": ""
+    },
+    "coordinate": null,
+    "host": "Fin & Gamma",
+    "name": "AI Trivia Night with Gamma & Fin - #SFTechWeek",
+    "start_at": "2026-10-07T01:00:00.000Z",
+    "timezone": "America/Los_Angeles",
+    "url": "https://partiful.com/e/Pw9mJZCkZcMCFDrbxaVM",
+    "geo_address_info": {
+     "type": "manual",
+     "address": "",
+     "mode": "shown"
+    }
+   }
+  },
+  {
+   "api_id": "calev-uIy7FptqVCZVVUN",
+   "event": {
+    "api_id": "evt-CA9a2lYE6233ajC",
+    "calendar_api_id": "cal-XqDIe2oUVLcybKK",
+    "cover_url": "https://images.lumacdn.com/uploads/q1/b0481047-600a-47df-8d02-451bf8dcedd3.png",
+    "end_at": "2026-10-07T19:30:00.000Z",
+    "event_type": "independent",
+    "hide_rsvp": false,
+    "location_type": "offline",
+    "name": "Pioneer Watch Party - London",
+    "one_to_one": true,
+    "recurrence_id": null,
+    "show_guest_list": false,
+    "social_image_url": "https://images.lumacdn.com/event-social/zy/4d137fc0-908a-4f92-bf2a-0312a7f0ef05.png",
+    "start_at": "2026-10-07T16:00:00.000Z",
+    "timezone": "Europe/London",
+    "url": "fin-Ldn-Pioneer-watch",
+    "user_api_id": "usr-Y3fmT3JTcxYnIoE",
+    "visibility": "public",
+    "virtual_info": {
+     "has_access": false
+    },
+    "geo_address_info": {
+     "city": "London",
+     "type": "google",
+     "region": "England",
+     "address": "Fin",
+     "country": "United Kingdom",
+     "place_id": "ChIJyxXkamcddkgR9niUQcA7g3w",
+     "localized": {
+      "en-GB": {
+       "city": "London",
+       "region": "England",
+       "address": "Fin",
+       "country": "United Kingdom",
+       "city_state": "London, United Kingdom",
+       "sublocality": null,
+       "full_address": "Fin, 9th Floor, The Warehouse, 211 Old St, London EC1V 9NR, UK",
+       "region_short": "England",
+       "short_address": "9th Floor, The Warehouse, The Bower, 211 Old St, London"
+      }
+     },
+     "city_state": "London, United Kingdom",
+     "description": "",
+     "sublocality": null,
+     "country_code": "GB",
+     "full_address": "Fin, 9th Floor, The Warehouse, 211 Old St, London EC1V 9NR, UK",
+     "region_short": "England",
+     "short_address": "9th Floor, The Warehouse, The Bower, 211 Old St, London",
+     "place_coordinate": {
+      "latitude": 51.5259961,
+      "longitude": -0.0888394
+     },
+     "apple_maps_place_id": null,
+     "mode": "shown"
+    },
+    "geo_address_visibility": "public",
+    "coordinate": {
+     "longitude": -0.0888394,
+     "latitude": 51.5259961
+    },
+    "waitlist_enabled": true,
+    "waitlist_status": "enabled"
+   },
+   "cover_image": {
+    "colors": [
+     "#bac3eb",
+     "#8a8873",
+     "#fefefe"
+    ],
+    "palette": {
+     "neutral": [
+      {
+       "color": "#fefefe",
+       "percentage": 6.63
+      }
+     ],
+     "vibrant": [
+      {
+       "color": "#bac3eb",
+       "percentage": 11.42
+      },
+      {
+       "color": "#8a8873",
+       "percentage": 10.79
+      }
+     ]
+    }
+   },
+   "calendar": {
+    "access_level": "public",
+    "api_id": "cal-XqDIe2oUVLcybKK",
+    "avatar_url": "https://images.lumacdn.com/uploads/55/0bf4dfed-7d42-4565-a941-11f580cbb095.png",
+    "coordinate": null,
+    "cover_image_url": "https://images.lumacdn.com/uploads/6h/e908c132-8886-472a-aeb0-84f5dd1765ba.png",
+    "description_short": "Fin is a unified Customer Agent for the entire customer journey. Subscribe to join Fin events in your city.",
+    "end_date": null,
+    "event_submission_restriction": "open",
+    "google_measurement_id": null,
+    "instagram_handle": null,
+    "is_blocked": false,
+    "is_verified": false,
+    "launch_status": "launched",
+    "linkedin_handle": "/showcase/fin",
+    "location": null,
+    "luma_plan": "plus",
+    "luma_plus_active": true,
+    "meta_pixel_id": null,
+    "name": "Fin",
+    "personal_user_api_id": null,
+    "refund_policy": null,
+    "slug": "fin",
+    "social_image_url": "https://images.lumacdn.com/uploads/ic/e1505d06-eae6-485e-8b2a-50816d4af9fe.png",
+    "start_date": null,
+    "stripe_account_id": null,
+    "tax_config": null,
+    "tiktok_handle": null,
+    "tint_color": "#ffffff",
+    "track_meta_ads_from_luma": false,
+    "twitter_handle": "fin_ai",
+    "verified_at": "2025-06-03T16:40:41.467Z",
+    "website": "https://fin.ai/",
+    "youtube_handle": null,
+    "is_personal": false,
+    "personal_user": null,
+    "timezone": null
+   },
+   "start_at": "2026-10-07T16:00:00.000Z",
+   "hosts": [
+    {
+     "api_id": "usr-Y3fmT3JTcxYnIoE",
+     "avatar_url": "https://images.lumacdn.com/avatars/62/3cbb9b76-fb85-4b62-8f80-f212c1ac8f9a.jpg",
+     "bio_short": "",
+     "first_name": "Jenny",
+     "last_name": "Rowland",
+     "instagram_handle": null,
+     "is_verified": false,
+     "linkedin_handle": null,
+     "name": "Jenny Rowland",
+     "tiktok_handle": null,
+     "timezone": "Europe/Paris",
+     "twitter_handle": null,
+     "username": null,
+     "website": null,
+     "youtube_handle": null
+    }
+   ],
+   "guest_count": 0,
+   "ticket_count": 0,
+   "ticket_info": {
+    "price": null,
+    "is_free": true,
+    "max_price": null,
+    "is_sold_out": false,
+    "spots_remaining": 144,
+    "is_near_capacity": false,
+    "require_approval": true
+   },
+   "registration_availability": "open",
+   "featured_guests": [],
+   "manager_info": null,
+   "guest_info": null,
+   "host_info": null,
+   "waitlist_active": false,
+   "featured_city": null,
+   "calendar_api_id": "cal-XqDIe2oUVLcybKK",
+   "is_manager": true,
+   "platform": "luma",
+   "status": "approved",
+   "submitted_by_user_api_id": "usr-Y3fmT3JTcxYnIoE",
+   "tags": []
+  },
+  {
+   "api_id": "calev-UNwdRStGIgBCKwj",
+   "event": {
+    "api_id": "evt-L0NC8nQrWM4AYP5",
+    "calendar_api_id": "cal-XqDIe2oUVLcybKK",
+    "cover_url": "https://images.lumacdn.com/uploads/wk/a062f3db-7c6e-4bc7-9a6b-fde4576af7c0.png",
+    "end_at": "2026-10-07T19:30:00.000Z",
+    "event_type": "independent",
+    "hide_rsvp": false,
+    "location_type": "offline",
+    "name": "Pioneer Watch Party - Berlin",
+    "one_to_one": true,
+    "recurrence_id": null,
+    "show_guest_list": false,
+    "social_image_url": "https://images.lumacdn.com/event-social/lz/810b9474-565e-4a11-89f5-899b9a88947b.png",
+    "start_at": "2026-10-07T16:00:00.000Z",
+    "timezone": "Europe/Berlin",
+    "url": "Pioneer-watch-Berlin",
+    "user_api_id": "usr-Y3fmT3JTcxYnIoE",
+    "visibility": "public",
+    "virtual_info": {
+     "has_access": false
+    },
+    "geo_address_info": {
+     "city": "Berlin",
+     "type": "google",
+     "region": "Berlin",
+     "address": "M\u00f6ckernstra\u00dfe 120",
+     "country": "Germany",
+     "place_id": "ChIJT6a39i1QqEcRJdwBo6eyNiM",
+     "localized": {
+      "de": {
+       "city": "Berlin",
+       "region": "Berlin",
+       "address": "M\u00f6ckernstra\u00dfe 120",
+       "country": "Deutschland",
+       "city_state": "Berlin, Deutschland",
+       "sublocality": "Bezirk Friedrichshain-Kreuzberg",
+       "full_address": "M\u00f6ckernstra\u00dfe 120, 10963 Berlin-Bezirk Friedrichshain-Kreuzberg, Deutschland",
+       "region_short": "BE",
+       "short_address": "M\u00f6ckernstra\u00dfe 120, Berlin-Bezirk Friedrichshain-Kreuzberg"
+      }
+     },
+     "city_state": "Berlin, Germany",
+     "description": "",
+     "sublocality": "Bezirk Friedrichshain-Kreuzberg",
+     "country_code": "DE",
+     "full_address": "M\u00f6ckernstra\u00dfe 120, 10963 Berlin-Bezirk Friedrichshain-Kreuzberg, Germany",
+     "region_short": "BE",
+     "short_address": "M\u00f6ckernstra\u00dfe 120, Berlin-Bezirk Friedrichshain-Kreuzberg",
+     "place_coordinate": {
+      "latitude": 52.497943199999995,
+      "longitude": 13.380370699999999
+     },
+     "apple_maps_place_id": null,
+     "mode": "shown"
+    },
+    "geo_address_visibility": "public",
+    "coordinate": {
+     "longitude": 13.380370699999999,
+     "latitude": 52.497943199999995
+    },
+    "waitlist_enabled": true,
+    "waitlist_status": "enabled"
+   },
+   "cover_image": {
+    "colors": [
+     "#b5bee8",
+     "#aeafb5",
+     "#9b957a",
+     "#fefefe"
+    ],
+    "palette": {
+     "neutral": [
+      {
+       "color": "#fefefe",
+       "percentage": 6.55
+      },
+      {
+       "color": "#aeafb5",
+       "percentage": 10.59
+      }
+     ],
+     "vibrant": [
+      {
+       "color": "#b5bee8",
+       "percentage": 12.52
+      },
+      {
+       "color": "#9b957a",
+       "percentage": 8.69
+      }
+     ]
+    }
+   },
+   "calendar": {
+    "access_level": "public",
+    "api_id": "cal-XqDIe2oUVLcybKK",
+    "avatar_url": "https://images.lumacdn.com/uploads/55/0bf4dfed-7d42-4565-a941-11f580cbb095.png",
+    "coordinate": null,
+    "cover_image_url": "https://images.lumacdn.com/uploads/6h/e908c132-8886-472a-aeb0-84f5dd1765ba.png",
+    "description_short": "Fin is a unified Customer Agent for the entire customer journey. Subscribe to join Fin events in your city.",
+    "end_date": null,
+    "event_submission_restriction": "open",
+    "google_measurement_id": null,
+    "instagram_handle": null,
+    "is_blocked": false,
+    "is_verified": false,
+    "launch_status": "launched",
+    "linkedin_handle": "/showcase/fin",
+    "location": null,
+    "luma_plan": "plus",
+    "luma_plus_active": true,
+    "meta_pixel_id": null,
+    "name": "Fin",
+    "personal_user_api_id": null,
+    "refund_policy": null,
+    "slug": "fin",
+    "social_image_url": "https://images.lumacdn.com/uploads/ic/e1505d06-eae6-485e-8b2a-50816d4af9fe.png",
+    "start_date": null,
+    "stripe_account_id": null,
+    "tax_config": null,
+    "tiktok_handle": null,
+    "tint_color": "#ffffff",
+    "track_meta_ads_from_luma": false,
+    "twitter_handle": "fin_ai",
+    "verified_at": "2025-06-03T16:40:41.467Z",
+    "website": "https://fin.ai/",
+    "youtube_handle": null,
+    "is_personal": false,
+    "personal_user": null,
+    "timezone": null
+   },
+   "start_at": "2026-10-07T16:00:00.000Z",
+   "hosts": [
+    {
+     "api_id": "usr-Y3fmT3JTcxYnIoE",
+     "avatar_url": "https://images.lumacdn.com/avatars/62/3cbb9b76-fb85-4b62-8f80-f212c1ac8f9a.jpg",
+     "bio_short": "",
+     "first_name": "Jenny",
+     "last_name": "Rowland",
+     "instagram_handle": null,
+     "is_verified": false,
+     "linkedin_handle": null,
+     "name": "Jenny Rowland",
+     "tiktok_handle": null,
+     "timezone": "Europe/Paris",
+     "twitter_handle": null,
+     "username": null,
+     "website": null,
+     "youtube_handle": null
+    }
+   ],
+   "guest_count": 0,
+   "ticket_count": 0,
+   "ticket_info": {
+    "price": null,
+    "is_free": true,
+    "max_price": null,
+    "is_sold_out": false,
+    "spots_remaining": 145,
+    "is_near_capacity": false,
+    "require_approval": true
+   },
+   "registration_availability": "open",
+   "featured_guests": [],
+   "manager_info": null,
+   "guest_info": null,
+   "host_info": null,
+   "waitlist_active": false,
+   "featured_city": null,
+   "calendar_api_id": "cal-XqDIe2oUVLcybKK",
+   "is_manager": true,
+   "platform": "luma",
+   "status": "approved",
+   "submitted_by_user_api_id": "usr-Y3fmT3JTcxYnIoE",
+   "tags": []
+  },
+  {
+   "api_id": "calev-ZGL7IJLecUY7GSQ",
+   "calendar_api_id": "cal-XqDIe2oUVLcybKK",
+   "platform": "external",
+   "status": "approved",
+   "submitted_by_user_api_id": "usr-IcVmH2bYIni3tIH",
+   "tags": [],
+   "is_manager": true,
+   "event": {
+    "duration_interval": "P0Y0M0DT7H30M0S",
+    "geo_address_json": {
+     "city": "San Francisco",
+     "type": "google",
+     "region": "California",
+     "address": "The Regency Ballroom",
+     "country": "United States",
+     "place_id": "ChIJH3E4qZWAhYARe4tjSWXQgSQ",
+     "city_state": "San Francisco, CA",
+     "description": "",
+     "sublocality": "Lower Nob Hill",
+     "country_code": "US",
+     "full_address": "The Regency Ballroom, 1300 Van Ness Ave, San Francisco, CA 94109, USA",
+     "region_short": "CA",
+     "short_address": "1300 Van Ness Ave, San Francisco",
+     "place_coordinate": {
+      "latitude": 37.7878701,
+      "longitude": -122.4214133
+     },
+     "apple_maps_place_id": "I65272ED2385CE52F"
+    },
+    "coordinate": {
+     "longitude": -122.4214133,
+     "latitude": 37.7878701
+    },
+    "host": "Fin",
+    "name": "Pioneer: A summit for CX leaders - #SFTechWeek",
+    "start_at": "2026-10-07T16:00:00.000Z",
+    "timezone": "America/Los_Angeles",
+    "url": "https://pioneer.fin.ai/",
+    "geo_address_info": {
+     "city": "San Francisco",
+     "type": "google",
+     "region": "California",
+     "address": "The Regency Ballroom",
+     "country": "United States",
+     "place_id": "ChIJH3E4qZWAhYARe4tjSWXQgSQ",
+     "city_state": "San Francisco, CA",
+     "description": "",
+     "sublocality": "Lower Nob Hill",
+     "country_code": "US",
+     "full_address": "The Regency Ballroom, 1300 Van Ness Ave, San Francisco, CA 94109, USA",
+     "region_short": "CA",
+     "short_address": "1300 Van Ness Ave, San Francisco",
+     "place_coordinate": {
+      "latitude": 37.7878701,
+      "longitude": -122.4214133
+     },
+     "apple_maps_place_id": "I65272ED2385CE52F",
+     "mode": "shown"
+    }
+   }
+  },
+  {
+   "api_id": "calev-YPoIQXkCCAuKkKd",
+   "calendar_api_id": "cal-XqDIe2oUVLcybKK",
+   "platform": "external",
+   "status": "approved",
+   "submitted_by_user_api_id": "usr-EnsJkKXsW8imJZf",
+   "tags": [
+    {
+     "api_id": "tag-Of69kNhYZEW883w",
+     "name": "Startups",
+     "color": "blue"
+    }
+   ],
+   "is_manager": true,
+   "event": {
+    "duration_interval": "P0Y0M0DT3H0M0S",
+    "geo_address_json": {
+     "city": "San Francisco",
+     "type": "google",
+     "region": "California",
+     "address": "Salesforce Tower",
+     "country": "United States",
+     "place_id": "ChIJ1dIqa2OAhYAREimtEtfBLyc",
+     "city_state": "San Francisco, CA",
+     "description": "",
+     "sublocality": "SoMa",
+     "country_code": "US",
+     "full_address": "Salesforce Tower, 415 Mission St, San Francisco, CA 94105, USA",
+     "region_short": "CA",
+     "short_address": "415 Mission St, San Francisco",
+     "place_coordinate": {
+      "latitude": 37.7897442,
+      "longitude": -122.3972337
+     },
+     "apple_maps_place_id": "I7A7AA5A075417BBB"
+    },
+    "coordinate": {
+     "longitude": -122.3972337,
+     "latitude": 37.7897442
+    },
+    "host": "Fin & Salesforce",
+    "name": "Agents at Altitude w/ Salesforce, Fin - #SFTechWeek",
+    "start_at": "2026-10-08T00:30:00.000Z",
+    "timezone": "America/Los_Angeles",
+    "url": "https://partiful.com/e/5BKkDUZiqxPXnkRhlaeg",
+    "geo_address_info": {
+     "city": "San Francisco",
+     "type": "google",
+     "region": "California",
+     "address": "Salesforce Tower",
+     "country": "United States",
+     "place_id": "ChIJ1dIqa2OAhYAREimtEtfBLyc",
+     "city_state": "San Francisco, CA",
+     "description": "",
+     "sublocality": "SoMa",
+     "country_code": "US",
+     "full_address": "Salesforce Tower, 415 Mission St, San Francisco, CA 94105, USA",
+     "region_short": "CA",
+     "short_address": "415 Mission St, San Francisco",
+     "place_coordinate": {
+      "latitude": 37.7897442,
+      "longitude": -122.3972337
+     },
+     "apple_maps_place_id": "I7A7AA5A075417BBB",
+     "mode": "shown"
+    }
+   }
+  },
+  {
+   "api_id": "calev-4SYhg11BmxUIKYr",
+   "calendar_api_id": "cal-XqDIe2oUVLcybKK",
+   "platform": "external",
+   "status": "approved",
+   "submitted_by_user_api_id": "usr-EnsJkKXsW8imJZf",
+   "tags": [
+    {
+     "api_id": "tag-Of69kNhYZEW883w",
+     "name": "Startups",
+     "color": "blue"
+    }
+   ],
+   "is_manager": true,
+   "event": {
+    "duration_interval": "P0Y0M0DT2H30M0S",
+    "geo_address_json": {
+     "city": "San Francisco",
+     "type": "google",
+     "region": "California",
+     "address": "Harlan Records",
+     "country": "United States",
+     "place_id": "ChIJ-Y4uYaqBhYARqH5-U8RufZg",
+     "city_state": "San Francisco, CA",
+     "description": "",
+     "sublocality": "Union Square",
+     "country_code": "US",
+     "full_address": "Harlan Records, 18 Harlan Pl, San Francisco, CA 94108, USA",
+     "region_short": "CA",
+     "short_address": "18 Harlan Pl, San Francisco",
+     "place_coordinate": {
+      "latitude": 37.790230099999995,
+      "longitude": -122.40499690000001
+     },
+     "apple_maps_place_id": "I8F7BA3340DAE269F"
+    },
+    "coordinate": {
+     "longitude": -122.40499690000001,
+     "latitude": 37.790230099999995
+    },
+    "host": "Fin, Vanta, Fireworks, Linear, Dust",
+    "name": "Analog Extravaganza w/ Fin, Vanta, Fireworks, Linear, Dust - #SFTechWeek",
+    "start_at": "2026-10-09T01:00:00.000Z",
+    "timezone": "America/Los_Angeles",
+    "url": "https://partiful.com/e/4SlE28ImtRvwFcIiwHEz",
+    "geo_address_info": {
+     "city": "San Francisco",
+     "type": "google",
+     "region": "California",
+     "address": "Harlan Records",
+     "country": "United States",
+     "place_id": "ChIJ-Y4uYaqBhYARqH5-U8RufZg",
+     "city_state": "San Francisco, CA",
+     "description": "",
+     "sublocality": "Union Square",
+     "country_code": "US",
+     "full_address": "Harlan Records, 18 Harlan Pl, San Francisco, CA 94108, USA",
+     "region_short": "CA",
+     "short_address": "18 Harlan Pl, San Francisco",
+     "place_coordinate": {
+      "latitude": 37.790230099999995,
+      "longitude": -122.40499690000001
+     },
+     "apple_maps_place_id": "I8F7BA3340DAE269F",
+     "mode": "shown"
+    }
+   }
+  }
+ ],
+ "has_more": false
+}

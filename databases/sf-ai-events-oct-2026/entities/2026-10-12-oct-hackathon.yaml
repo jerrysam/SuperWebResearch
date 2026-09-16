@@ -1,0 +1,29 @@
+_meta:
+  last_researched: '2026-09-16'
+  sources:
+  - publisher: Luma (api.lu.ma)
+    url: https://luma.com/oct-hackathon
+    retrieved: '2026-09-16'
+name: 'Company Brain Hackathon: Build an AI Agent That Knows Your Organization'
+url: https://luma.com/oct-hackathon
+platform: luma
+start_date: '2026-10-12'
+start_time: '13:00'
+city: Menlo Park
+host_calendar: TechEquity Ai - Silicon Valley
+hosts:
+- TechEquity Ai
+- Sheena Tu
+- Mahan Soltanzadeh
+- Dave Nielsen
+- Silicon Valley AI Hub
+companies_involved: []
+relevance_category: general_ai
+priority: optional
+registration_status: waitlist_or_approval
+in_trip_window: true
+description_snippet: 'What if your company had a shared brain that could understand its documents, tools,
+  processes, people, and institutional knowledge—and make that knowledge available to employees and AI
+  agents?In this 4-hour hands-on hackathon, participants will build a working Company Brain: an AI-powered
+  knowledge '
+note: Company-brain agent hackathon (Menlo Park, Monday daytime).

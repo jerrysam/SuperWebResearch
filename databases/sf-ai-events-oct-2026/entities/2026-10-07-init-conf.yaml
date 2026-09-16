@@ -1,0 +1,30 @@
+_meta:
+  last_researched: '2026-09-16'
+  sources:
+  - publisher: Luma (api.lu.ma)
+    url: https://luma.com/init-conf
+    retrieved: '2026-09-16'
+name: init() by WorkOS
+url: https://luma.com/init-conf
+platform: luma
+start_date: '2026-10-07'
+start_time: 08:00
+city: San Francisco
+host_calendar: WorkOS Events
+hosts:
+- WorkOS
+companies_involved:
+- anthropic
+- openai
+- replit
+relevance_category: target_customer
+priority: must_go
+registration_status: waitlist_or_approval
+in_trip_window: true
+description_snippet: 'WorkOS presents init(): the conference for builders.Join the founders, engineers,
+  and technical leaders shaping what’s next. Hear how the best teams are building with AI, shipping ambitious
+  products, and turning new ideas into reality.SpeakersSpeaker announcements coming soon...​About WorkOSWorkOS
+  i'
+note: WorkOS init() builders conference; description references Replit, Anthropic and OpenAI (speaker
+  list still publishing). WorkOS sells enterprise-readiness infra to AI-native cos - your exact buyer
+  ecosystem.

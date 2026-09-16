@@ -1,0 +1,1684 @@
+{
+ "entries": [
+  {
+   "api_id": "calev-g9FnjOwYcJRy3Lm",
+   "event": {
+    "api_id": "evt-37XhZ14gbV5vf18",
+    "calendar_api_id": "cal-wjMwGmksR3Zpa83",
+    "cover_url": "https://images.lumacdn.com/uploads/5i/fffe8d98-737e-45b4-ba26-acacbaf0627e.png",
+    "end_at": "2026-09-17T03:00:00.000Z",
+    "event_type": "independent",
+    "hide_rsvp": false,
+    "location_type": "offline",
+    "name": "AI Leaders Suite: Rangers vs Red Sox",
+    "one_to_one": true,
+    "recurrence_id": null,
+    "show_guest_list": false,
+    "social_image_url": "https://images.lumacdn.com/event-social/q6/c5d1ffbe-d9d8-42eb-9602-e794a0b17179.png",
+    "start_at": "2026-09-16T23:00:00.000Z",
+    "timezone": "America/Chicago",
+    "url": "arize-rangers-red-sox",
+    "user_api_id": "usr-ibnLXQkOoIbHB9s",
+    "visibility": "public",
+    "virtual_info": {
+     "has_access": false
+    },
+    "geo_address_info": {
+     "city": "Arlington",
+     "type": "google",
+     "region": "Texas",
+     "address": "Globe Life Field",
+     "country": "United States",
+     "place_id": "ChIJKzjlim6HToYRm7CjYlFnXiA",
+     "localized": null,
+     "city_state": "Arlington, TX",
+     "description": "",
+     "sublocality": "East Arlington",
+     "country_code": "US",
+     "full_address": "Globe Life Field, 734 Stadium Dr E, Arlington, TX 76011, USA",
+     "region_short": "TX",
+     "short_address": "734 Stadium Dr E, Arlington",
+     "place_coordinate": {
+      "latitude": 32.7466803,
+      "longitude": -97.0828087
+     },
+     "apple_maps_place_id": null,
+     "mode": "shown"
+    },
+    "geo_address_visibility": "public",
+    "coordinate": {
+     "longitude": -97.0828087,
+     "latitude": 32.7466803
+    },
+    "waitlist_enabled": true,
+    "waitlist_status": "enabled"
+   },
+   "cover_image": {
+    "colors": [
+     "#f5f5ed",
+     "#c7dd32",
+     "#150e22",
+     "#f4356f"
+    ],
+    "palette": {
+     "neutral": [
+      {
+       "color": "#150e22",
+       "percentage": 3.93
+      },
+      {
+       "color": "#f5f5ed",
+       "percentage": 80.56
+      }
+     ],
+     "vibrant": [
+      {
+       "color": "#c7dd32",
+       "percentage": 6.14
+      },
+      {
+       "color": "#f4356f",
+       "percentage": 0.09
+      },
+      {
+       "color": "#3688ff",
+       "percentage": 0.05
+      }
+     ]
+    }
+   },
+   "calendar": {
+    "access_level": "public",
+    "api_id": "cal-wjMwGmksR3Zpa83",
+    "avatar_url": "https://images.lumacdn.com/uploads/za/52700b86-c3a9-48c8-afb3-db765ecacba9.jpg",
+    "coordinate": null,
+    "cover_image_url": "https://images.lumacdn.com/uploads/ep/fc66b7da-e2b1-4ed7-941e-9351fa9bbb18.png",
+    "description_short": "Generative AI-focused workshops, meetups, online sessions, and more. Come build with us!",
+    "end_date": null,
+    "event_submission_restriction": "open",
+    "google_measurement_id": null,
+    "instagram_handle": null,
+    "is_blocked": false,
+    "is_verified": false,
+    "launch_status": "launched",
+    "linkedin_handle": "/company/arizeai",
+    "location": null,
+    "luma_plan": "plus",
+    "luma_plus_active": true,
+    "meta_pixel_id": null,
+    "name": "Arize AI",
+    "personal_user_api_id": null,
+    "refund_policy": null,
+    "slug": "arizeai",
+    "social_image_url": "https://images.lumacdn.com/uploads/tj/fce5fe89-4e04-4d08-9676-c04356d9f0c4.png",
+    "start_date": null,
+    "stripe_account_id": null,
+    "tax_config": null,
+    "tiktok_handle": null,
+    "tint_color": "#ed2089",
+    "track_meta_ads_from_luma": false,
+    "twitter_handle": "arizeai",
+    "verified_at": "2023-07-10T23:05:46.302Z",
+    "website": "https://www.arize.com",
+    "youtube_handle": "arizeai",
+    "is_personal": false,
+    "personal_user": null,
+    "timezone": null
+   },
+   "start_at": "2026-09-16T23:00:00.000Z",
+   "hosts": [
+    {
+     "api_id": "usr-oLnqRQHVGH3TfnK",
+     "avatar_url": "https://images.lumacdn.com/uploads/98/36c08559-7b2e-4550-a5c6-006b96d20488.jpg",
+     "bio_short": "",
+     "first_name": "Arize",
+     "last_name": "AI",
+     "instagram_handle": null,
+     "is_verified": false,
+     "linkedin_handle": "/in/manpreet-kandola95",
+     "name": "Arize AI",
+     "tiktok_handle": null,
+     "timezone": "America/Los_Angeles",
+     "twitter_handle": null,
+     "username": null,
+     "website": null,
+     "youtube_handle": null
+    },
+    {
+     "api_id": "usr-byEIFtLVZ7q8Z74",
+     "avatar_url": "https://images.lumacdn.com/uploads/q3/67abaf16-90ab-4976-bf9b-b2a1d8c076e4.webp",
+     "bio_short": null,
+     "first_name": null,
+     "last_name": null,
+     "instagram_handle": null,
+     "is_verified": false,
+     "linkedin_handle": null,
+     "name": "Google Cloud",
+     "tiktok_handle": null,
+     "timezone": null,
+     "twitter_handle": null,
+     "username": null,
+     "website": null,
+     "youtube_handle": null
+    }
+   ],
+   "guest_count": 0,
+   "ticket_count": 0,
+   "ticket_info": {
+    "price": null,
+    "is_free": true,
+    "max_price": null,
+    "is_sold_out": false,
+    "spots_remaining": 5,
+    "is_near_capacity": true,
+    "require_approval": true
+   },
+   "registration_availability": "open",
+   "featured_guests": [],
+   "manager_info": null,
+   "guest_info": null,
+   "host_info": null,
+   "waitlist_active": false,
+   "featured_city": null,
+   "calendar_api_id": "cal-wjMwGmksR3Zpa83",
+   "is_manager": true,
+   "platform": "luma",
+   "status": "approved",
+   "submitted_by_user_api_id": "usr-ibnLXQkOoIbHB9s",
+   "tags": []
+  },
+  {
+   "api_id": "calev-EPDUfWWlQt3dvw7",
+   "event": {
+    "api_id": "evt-Q9YtairxfmEHkKi",
+    "calendar_api_id": "cal-wjMwGmksR3Zpa83",
+    "cover_url": "https://images.lumacdn.com/uploads/xr/60d2017d-73c9-4630-85cd-880e0b4ba71d.png",
+    "end_at": "2026-09-17T18:45:00.000Z",
+    "event_type": "independent",
+    "hide_rsvp": false,
+    "location_type": "missing",
+    "name": "From prototype to production: building reliable long-running agents with Temporal + Arize",
+    "one_to_one": true,
+    "recurrence_id": null,
+    "show_guest_list": false,
+    "social_image_url": "https://images.lumacdn.com/event-social/o4/5e9a3496-c7d3-4a8c-8d06-6117d22f6288.png",
+    "start_at": "2026-09-17T18:00:00.000Z",
+    "timezone": "America/Los_Angeles",
+    "url": "arizeai-FromPrototypeToProduction",
+    "user_api_id": "usr-TVtwqeIwyK6KnY7",
+    "visibility": "public",
+    "virtual_info": {
+     "has_access": false
+    },
+    "geo_address_info": null,
+    "geo_address_visibility": "public",
+    "coordinate": null,
+    "waitlist_enabled": false,
+    "waitlist_status": "disabled"
+   },
+   "cover_image": {
+    "colors": [
+     "#f5f5ed",
+     "#6f05fd",
+     "#140e22",
+     "#ec2289"
+    ],
+    "palette": {
+     "neutral": [
+      {
+       "color": "#140e22",
+       "percentage": 4.3
+      },
+      {
+       "color": "#f5f5ed",
+       "percentage": 77.76
+      }
+     ],
+     "vibrant": [
+      {
+       "color": "#6f05fd",
+       "percentage": 13.46
+      },
+      {
+       "color": "#ec2289",
+       "percentage": 0.05
+      }
+     ]
+    }
+   },
+   "calendar": {
+    "access_level": "public",
+    "api_id": "cal-wjMwGmksR3Zpa83",
+    "avatar_url": "https://images.lumacdn.com/uploads/za/52700b86-c3a9-48c8-afb3-db765ecacba9.jpg",
+    "coordinate": null,
+    "cover_image_url": "https://images.lumacdn.com/uploads/ep/fc66b7da-e2b1-4ed7-941e-9351fa9bbb18.png",
+    "description_short": "Generative AI-focused workshops, meetups, online sessions, and more. Come build with us!",
+    "end_date": null,
+    "event_submission_restriction": "open",
+    "google_measurement_id": null,
+    "instagram_handle": null,
+    "is_blocked": false,
+    "is_verified": false,
+    "launch_status": "launched",
+    "linkedin_handle": "/company/arizeai",
+    "location": null,
+    "luma_plan": "plus",
+    "luma_plus_active": true,
+    "meta_pixel_id": null,
+    "name": "Arize AI",
+    "personal_user_api_id": null,
+    "refund_policy": null,
+    "slug": "arizeai",
+    "social_image_url": "https://images.lumacdn.com/uploads/tj/fce5fe89-4e04-4d08-9676-c04356d9f0c4.png",
+    "start_date": null,
+    "stripe_account_id": null,
+    "tax_config": null,
+    "tiktok_handle": null,
+    "tint_color": "#ed2089",
+    "track_meta_ads_from_luma": false,
+    "twitter_handle": "arizeai",
+    "verified_at": "2023-07-10T23:05:46.302Z",
+    "website": "https://www.arize.com",
+    "youtube_handle": "arizeai",
+    "is_personal": false,
+    "personal_user": null,
+    "timezone": null
+   },
+   "start_at": "2026-09-17T18:00:00.000Z",
+   "hosts": [
+    {
+     "api_id": "usr-TVtwqeIwyK6KnY7",
+     "avatar_url": "https://images.lumacdn.com/uploads/fg/3b801245-48f1-43d5-914a-938e8d3b63ec.jpg",
+     "bio_short": null,
+     "first_name": "Arize",
+     "last_name": "AI",
+     "instagram_handle": null,
+     "is_verified": false,
+     "linkedin_handle": "/company/arizeai",
+     "name": "Arize AI",
+     "tiktok_handle": null,
+     "timezone": "Europe/London",
+     "twitter_handle": "arizeai",
+     "username": "marinearizeai",
+     "website": "https://arize.com/",
+     "youtube_handle": "arizeai"
+    },
+    {
+     "api_id": "usr-td22txGIp4DKgaC",
+     "avatar_url": "https://images.lumacdn.com/avatars/4w/9ad8b96a-9bec-4038-b227-f45a2debd5a4",
+     "bio_short": "Here's where you can find Temporal or Temporal-hosted events!",
+     "first_name": "Temporal",
+     "last_name": "Community Team",
+     "instagram_handle": null,
+     "is_verified": false,
+     "linkedin_handle": "/company/temporal-technologies",
+     "name": "Temporal Team",
+     "tiktok_handle": null,
+     "timezone": "America/Los_Angeles",
+     "twitter_handle": "temporalio",
+     "username": "temporalio",
+     "website": "https://temporal.io",
+     "youtube_handle": "temporalio"
+    }
+   ],
+   "guest_count": 0,
+   "ticket_count": 0,
+   "ticket_info": {
+    "price": null,
+    "is_free": true,
+    "max_price": null,
+    "is_sold_out": false,
+    "spots_remaining": null,
+    "is_near_capacity": false,
+    "require_approval": false
+   },
+   "registration_availability": "open",
+   "featured_guests": [],
+   "manager_info": null,
+   "guest_info": null,
+   "host_info": null,
+   "waitlist_active": false,
+   "featured_city": null,
+   "calendar_api_id": "cal-wjMwGmksR3Zpa83",
+   "is_manager": true,
+   "platform": "luma",
+   "status": "approved",
+   "submitted_by_user_api_id": "usr-TVtwqeIwyK6KnY7",
+   "tags": [
+    {
+     "api_id": "tag-UsFfdodcGiV76hB",
+     "name": "Virtual",
+     "color": "purple"
+    }
+   ]
+  },
+  {
+   "api_id": "calev-d69m7hQzCK2JV2f",
+   "event": {
+    "api_id": "evt-zYrvR0hdFt8t75l",
+    "calendar_api_id": "cal-wjMwGmksR3Zpa83",
+    "cover_url": "https://images.lumacdn.com/uploads/60/2da285f7-ef09-47f0-9786-3d0e9cff6927.png",
+    "end_at": "2026-09-22T20:00:00.000Z",
+    "event_type": "independent",
+    "hide_rsvp": false,
+    "location_type": "offline",
+    "name": "The state of harness engineering",
+    "one_to_one": true,
+    "recurrence_id": null,
+    "show_guest_list": false,
+    "social_image_url": "https://images.lumacdn.com/event-social/wl/e7bdb88c-712c-46a0-a6af-b8c14103c63a.png",
+    "start_at": "2026-09-22T17:00:00.000Z",
+    "timezone": "Europe/London",
+    "url": "arizeai-state-of-harness-engineering",
+    "user_api_id": "usr-TVtwqeIwyK6KnY7",
+    "visibility": "public",
+    "virtual_info": {
+     "has_access": false
+    },
+    "geo_address_info": {
+     "mode": "obfuscated",
+     "city": "London",
+     "city_state": "London, United Kingdom",
+     "sublocality": null,
+     "country": "United Kingdom",
+     "country_code": "GB",
+     "region": "England",
+     "region_short": "England"
+    },
+    "geo_address_visibility": "guests-only",
+    "coordinate": {
+     "latitude": 51.53223342371461,
+     "longitude": -0.1278045491765365
+    },
+    "waitlist_enabled": true,
+    "waitlist_status": "active"
+   },
+   "cover_image": {
+    "colors": [
+     "#f5f5ed",
+     "#97d8ff",
+     "#150f22",
+     "#ed2d8b"
+    ],
+    "palette": {
+     "neutral": [
+      {
+       "color": "#150f22",
+       "percentage": 3.61
+      },
+      {
+       "color": "#f5f5ed",
+       "percentage": 79.32
+      }
+     ],
+     "vibrant": [
+      {
+       "color": "#97d8ff",
+       "percentage": 10.62
+      },
+      {
+       "color": "#ed2d8b",
+       "percentage": 0.05
+      }
+     ]
+    }
+   },
+   "calendar": {
+    "access_level": "public",
+    "api_id": "cal-wjMwGmksR3Zpa83",
+    "avatar_url": "https://images.lumacdn.com/uploads/za/52700b86-c3a9-48c8-afb3-db765ecacba9.jpg",
+    "coordinate": null,
+    "cover_image_url": "https://images.lumacdn.com/uploads/ep/fc66b7da-e2b1-4ed7-941e-9351fa9bbb18.png",
+    "description_short": "Generative AI-focused workshops, meetups, online sessions, and more. Come build with us!",
+    "end_date": null,
+    "event_submission_restriction": "open",
+    "google_measurement_id": null,
+    "instagram_handle": null,
+    "is_blocked": false,
+    "is_verified": false,
+    "launch_status": "launched",
+    "linkedin_handle": "/company/arizeai",
+    "location": null,
+    "luma_plan": "plus",
+    "luma_plus_active": true,
+    "meta_pixel_id": null,
+    "name": "Arize AI",
+    "personal_user_api_id": null,
+    "refund_policy": null,
+    "slug": "arizeai",
+    "social_image_url": "https://images.lumacdn.com/uploads/tj/fce5fe89-4e04-4d08-9676-c04356d9f0c4.png",
+    "start_date": null,
+    "stripe_account_id": null,
+    "tax_config": null,
+    "tiktok_handle": null,
+    "tint_color": "#ed2089",
+    "track_meta_ads_from_luma": false,
+    "twitter_handle": "arizeai",
+    "verified_at": "2023-07-10T23:05:46.302Z",
+    "website": "https://www.arize.com",
+    "youtube_handle": "arizeai",
+    "is_personal": false,
+    "personal_user": null,
+    "timezone": null
+   },
+   "start_at": "2026-09-22T17:00:00.000Z",
+   "hosts": [
+    {
+     "api_id": "usr-TVtwqeIwyK6KnY7",
+     "avatar_url": "https://images.lumacdn.com/uploads/fg/3b801245-48f1-43d5-914a-938e8d3b63ec.jpg",
+     "bio_short": null,
+     "first_name": "Arize",
+     "last_name": "AI",
+     "instagram_handle": null,
+     "is_verified": false,
+     "linkedin_handle": "/company/arizeai",
+     "name": "Arize AI",
+     "tiktok_handle": null,
+     "timezone": "Europe/London",
+     "twitter_handle": "arizeai",
+     "username": "marinearizeai",
+     "website": "https://arize.com/",
+     "youtube_handle": "arizeai"
+    },
+    {
+     "api_id": "usr-BKMH9fkiENnujeN",
+     "avatar_url": "https://images.lumacdn.com/avatars/p3/22b4104c-8baa-43c5-b762-7cb4f14f19d9.png",
+     "bio_short": "",
+     "first_name": "Google",
+     "last_name": "DeepMind",
+     "instagram_handle": "googledeepmind",
+     "is_verified": false,
+     "linkedin_handle": "/in/googledeepmind",
+     "name": "Google DeepMind",
+     "tiktok_handle": null,
+     "timezone": "Europe/London",
+     "twitter_handle": "GoogleDeepMind",
+     "username": "gdm",
+     "website": "https://deepmind.google.com",
+     "youtube_handle": "googledeepmind"
+    }
+   ],
+   "guest_count": 0,
+   "ticket_count": 0,
+   "ticket_info": {
+    "price": null,
+    "is_free": true,
+    "max_price": null,
+    "is_sold_out": true,
+    "spots_remaining": 44,
+    "is_near_capacity": false,
+    "require_approval": false
+   },
+   "registration_availability": "waitlist",
+   "featured_guests": [],
+   "manager_info": null,
+   "guest_info": null,
+   "host_info": null,
+   "waitlist_active": true,
+   "featured_city": {
+    "api_id": "discplace-QCcNk3HXowOR97j",
+    "name": "London",
+    "slug": "london"
+   },
+   "calendar_api_id": "cal-wjMwGmksR3Zpa83",
+   "is_manager": true,
+   "platform": "luma",
+   "status": "approved",
+   "submitted_by_user_api_id": "usr-TVtwqeIwyK6KnY7",
+   "tags": [
+    {
+     "api_id": "tag-U6NfNcEIzoB96CC",
+     "name": "London",
+     "color": "orange"
+    }
+   ]
+  },
+  {
+   "api_id": "calev-ssRrrN7hykCFdXE",
+   "event": {
+    "api_id": "evt-cCYWBCT2RdviKmA",
+    "calendar_api_id": "cal-9TtclLmMDpKInNO",
+    "cover_url": "https://images.lumacdn.com/uploads/lf/38255982-0292-47d0-aa4f-6dfa1a69dd69.png",
+    "end_at": "2026-09-24T02:00:00.000Z",
+    "event_type": "independent",
+    "hide_rsvp": false,
+    "location_type": "offline",
+    "name": "AI Trivia and Game Night: WeAreDevelopers Pre-Party with PagerDuty, Box, Arize and Entire!",
+    "one_to_one": true,
+    "recurrence_id": null,
+    "show_guest_list": false,
+    "social_image_url": "https://images.lumacdn.com/event-social/s5/db726372-91cd-4d91-8e7c-10108070dff2.png",
+    "start_at": "2026-09-24T00:00:00.000Z",
+    "timezone": "America/Los_Angeles",
+    "url": "prtcc7pw",
+    "user_api_id": "usr-Je8EaaKUAWUJNKy",
+    "visibility": "public",
+    "virtual_info": {
+     "has_access": false
+    },
+    "geo_address_info": {
+     "mode": "obfuscated",
+     "city": "San Jose",
+     "city_state": "San Jose, CA",
+     "sublocality": "Downtown San Jose",
+     "country": "United States",
+     "country_code": "US",
+     "region": "California",
+     "region_short": "CA"
+    },
+    "geo_address_visibility": "guests-only",
+    "coordinate": {
+     "latitude": 37.328408294913274,
+     "longitude": -121.88519660796337
+    },
+    "waitlist_enabled": false,
+    "waitlist_status": "disabled"
+   },
+   "cover_image": {
+    "colors": [
+     "#171817",
+     "#fdfdfe",
+     "#0ea73a",
+     "#f00d70"
+    ],
+    "palette": {
+     "neutral": [
+      {
+       "color": "#171817",
+       "percentage": 88.48
+      },
+      {
+       "color": "#fdfdfe",
+       "percentage": 4.38
+      }
+     ],
+     "vibrant": [
+      {
+       "color": "#0ea73a",
+       "percentage": 0.98
+      },
+      {
+       "color": "#f00d70",
+       "percentage": 0.11
+      },
+      {
+       "color": "#db8e21",
+       "percentage": 0.08
+      }
+     ]
+    }
+   },
+   "calendar": {
+    "access_level": "public",
+    "api_id": "cal-9TtclLmMDpKInNO",
+    "avatar_url": "https://images.lumacdn.com/calendars/cf/2e895bf3-4c20-4baa-80f4-19470cb07a0c.png",
+    "coordinate": null,
+    "cover_image_url": "https://images.lumacdn.com/calendar-cover-images/as/86c4f978-e19e-4e07-acfa-49f6b4b116c6.png",
+    "description_short": "Our meetups bring together DevOps, SRE, and IT professionals who are passionate about incident management, automation, and building resilient systems. Join us to learn, share and connect!",
+    "end_date": null,
+    "event_submission_restriction": "open",
+    "google_measurement_id": null,
+    "instagram_handle": "pagerduty",
+    "is_blocked": false,
+    "is_verified": false,
+    "launch_status": "launched",
+    "linkedin_handle": "/company/pagerduty",
+    "location": null,
+    "luma_plan": "free",
+    "luma_plus_active": false,
+    "meta_pixel_id": null,
+    "name": "PagerDuty Community Events",
+    "personal_user_api_id": null,
+    "refund_policy": null,
+    "slug": "pagerduty",
+    "social_image_url": "https://images.lumacdn.com/calendar-cover-images/ql/4a087b3f-36a1-402b-80ea-db5f8247fe7d.png",
+    "start_date": null,
+    "stripe_account_id": null,
+    "tax_config": null,
+    "tiktok_handle": null,
+    "tint_color": "#000502",
+    "track_meta_ads_from_luma": false,
+    "twitter_handle": "pagerduty",
+    "verified_at": "2025-11-19T11:25:10.862Z",
+    "website": "https://www.pagerduty.com/",
+    "youtube_handle": "Pagerduty",
+    "is_personal": false,
+    "personal_user": null,
+    "timezone": null
+   },
+   "start_at": "2026-09-24T00:00:00.000Z",
+   "hosts": [
+    {
+     "api_id": "usr-Je8EaaKUAWUJNKy",
+     "avatar_url": "https://images.lumacdn.com/avatars/9l/b05b1e11-ad5e-4e72-aa74-356006d78d71.png",
+     "bio_short": null,
+     "first_name": "Xenda",
+     "last_name": "Amici",
+     "instagram_handle": "pagerduty",
+     "is_verified": false,
+     "linkedin_handle": "/company/pagerduty",
+     "name": "PagerDuty",
+     "tiktok_handle": null,
+     "timezone": "America/Los_Angeles",
+     "twitter_handle": "pagerduty",
+     "username": "pagerduty",
+     "website": "https://www.pagerduty.com/",
+     "youtube_handle": "Pagerduty"
+    },
+    {
+     "api_id": "usr-oLnqRQHVGH3TfnK",
+     "avatar_url": "https://images.lumacdn.com/uploads/98/36c08559-7b2e-4550-a5c6-006b96d20488.jpg",
+     "bio_short": "",
+     "first_name": "Arize",
+     "last_name": "AI",
+     "instagram_handle": null,
+     "is_verified": false,
+     "linkedin_handle": "/in/manpreet-kandola95",
+     "name": "Arize AI",
+     "tiktok_handle": null,
+     "timezone": "America/Los_Angeles",
+     "twitter_handle": null,
+     "username": null,
+     "website": null,
+     "youtube_handle": null
+    },
+    {
+     "api_id": "usr-j6IFwMOAA8lbBKI",
+     "avatar_url": "https://images.lumacdn.com/avatars/9y/eb6a9c9e-13f2-47e7-adc2-6f7c7980ef61.jpg",
+     "bio_short": "Head of DevRel at Box, Lead Organizer of CascadiaJS",
+     "first_name": "Carter",
+     "last_name": "Rabasa",
+     "instagram_handle": null,
+     "is_verified": false,
+     "linkedin_handle": "/in/carterrabasa",
+     "name": "Carter Rabasa",
+     "tiktok_handle": null,
+     "timezone": "America/Los_Angeles",
+     "twitter_handle": "crtr0",
+     "username": null,
+     "website": null,
+     "youtube_handle": null
+    }
+   ],
+   "guest_count": 0,
+   "ticket_count": 0,
+   "ticket_info": {
+    "price": null,
+    "is_free": true,
+    "max_price": null,
+    "is_sold_out": false,
+    "spots_remaining": null,
+    "is_near_capacity": false,
+    "require_approval": true
+   },
+   "registration_availability": "open",
+   "featured_guests": [],
+   "manager_info": null,
+   "guest_info": null,
+   "host_info": null,
+   "waitlist_active": false,
+   "featured_city": null,
+   "calendar_api_id": "cal-wjMwGmksR3Zpa83",
+   "is_manager": false,
+   "platform": "luma",
+   "status": "approved",
+   "submitted_by_user_api_id": "usr-ibnLXQkOoIbHB9s",
+   "tags": []
+  },
+  {
+   "api_id": "calev-GEMoo89Dat3BE7S",
+   "event": {
+    "api_id": "evt-9EXceFGZYXZzseE",
+    "calendar_api_id": "cal-wjMwGmksR3Zpa83",
+    "cover_url": "https://images.lumacdn.com/uploads/2o/854064f2-d786-4a29-945d-ae09abba4e4b.jpg",
+    "end_at": "2026-09-25T00:00:00.000Z",
+    "event_type": "independent",
+    "hide_rsvp": false,
+    "location_type": "offline",
+    "name": "Agents in Production: Models, Memory & Observability",
+    "one_to_one": true,
+    "recurrence_id": null,
+    "show_guest_list": false,
+    "social_image_url": "https://images.lumacdn.com/event-social/hf/16f40539-5e58-417d-964a-481c7a2feef4.png",
+    "start_at": "2026-09-24T21:00:00.000Z",
+    "timezone": "America/Chicago",
+    "url": "agents-in-prod-chicago",
+    "user_api_id": "usr-ibnLXQkOoIbHB9s",
+    "visibility": "public",
+    "virtual_info": {
+     "has_access": false
+    },
+    "geo_address_info": {
+     "city": "Chicago",
+     "type": "google",
+     "region": "Illinois",
+     "address": "Google Chicago - Fulton Market",
+     "country": "United States",
+     "place_id": "ChIJ9f8w5LEsDogRcxI9khFdHzM",
+     "localized": null,
+     "city_state": "Chicago, IL",
+     "description": "",
+     "sublocality": "Fulton Market District",
+     "country_code": "US",
+     "full_address": "Google Chicago - Fulton Market, 320 N Morgan St #600, Chicago, IL 60607, USA",
+     "region_short": "IL",
+     "short_address": "320 N Morgan St #600, Chicago",
+     "place_coordinate": {
+      "latitude": 41.8872571,
+      "longitude": -87.65266679999999
+     },
+     "apple_maps_place_id": "IB4498CBFD14EEF71",
+     "mode": "shown"
+    },
+    "geo_address_visibility": "public",
+    "coordinate": {
+     "longitude": -87.65266679999999,
+     "latitude": 41.8872571
+    },
+    "waitlist_enabled": true,
+    "waitlist_status": "enabled"
+   },
+   "cover_image": {
+    "colors": [
+     "#150d22",
+     "#2f2955",
+     "#f6f5ef",
+     "#718edc"
+    ],
+    "palette": {
+     "neutral": [
+      {
+       "color": "#150d22",
+       "percentage": 79.95
+      },
+      {
+       "color": "#f6f5ef",
+       "percentage": 3.08
+      }
+     ],
+     "vibrant": [
+      {
+       "color": "#2f2955",
+       "percentage": 10.57
+      },
+      {
+       "color": "#718edc",
+       "percentage": 2.52
+      }
+     ]
+    }
+   },
+   "calendar": {
+    "access_level": "public",
+    "api_id": "cal-wjMwGmksR3Zpa83",
+    "avatar_url": "https://images.lumacdn.com/uploads/za/52700b86-c3a9-48c8-afb3-db765ecacba9.jpg",
+    "coordinate": null,
+    "cover_image_url": "https://images.lumacdn.com/uploads/ep/fc66b7da-e2b1-4ed7-941e-9351fa9bbb18.png",
+    "description_short": "Generative AI-focused workshops, meetups, online sessions, and more. Come build with us!",
+    "end_date": null,
+    "event_submission_restriction": "open",
+    "google_measurement_id": null,
+    "instagram_handle": null,
+    "is_blocked": false,
+    "is_verified": false,
+    "launch_status": "launched",
+    "linkedin_handle": "/company/arizeai",
+    "location": null,
+    "luma_plan": "plus",
+    "luma_plus_active": true,
+    "meta_pixel_id": null,
+    "name": "Arize AI",
+    "personal_user_api_id": null,
+    "refund_policy": null,
+    "slug": "arizeai",
+    "social_image_url": "https://images.lumacdn.com/uploads/tj/fce5fe89-4e04-4d08-9676-c04356d9f0c4.png",
+    "start_date": null,
+    "stripe_account_id": null,
+    "tax_config": null,
+    "tiktok_handle": null,
+    "tint_color": "#ed2089",
+    "track_meta_ads_from_luma": false,
+    "twitter_handle": "arizeai",
+    "verified_at": "2023-07-10T23:05:46.302Z",
+    "website": "https://www.arize.com",
+    "youtube_handle": "arizeai",
+    "is_personal": false,
+    "personal_user": null,
+    "timezone": null
+   },
+   "start_at": "2026-09-24T21:00:00.000Z",
+   "hosts": [
+    {
+     "api_id": "usr-oLnqRQHVGH3TfnK",
+     "avatar_url": "https://images.lumacdn.com/uploads/98/36c08559-7b2e-4550-a5c6-006b96d20488.jpg",
+     "bio_short": "",
+     "first_name": "Arize",
+     "last_name": "AI",
+     "instagram_handle": null,
+     "is_verified": false,
+     "linkedin_handle": "/in/manpreet-kandola95",
+     "name": "Arize AI",
+     "tiktok_handle": null,
+     "timezone": "America/Los_Angeles",
+     "twitter_handle": null,
+     "username": null,
+     "website": null,
+     "youtube_handle": null
+    },
+    {
+     "api_id": "usr-eBDBjjLsR3bOX4O",
+     "avatar_url": "https://images.lumacdn.com/uploads/ll/bb631eb0-c403-4b5f-b59d-84c62ea761e7.png",
+     "bio_short": "",
+     "first_name": "MongoDB",
+     "last_name": "",
+     "instagram_handle": null,
+     "is_verified": false,
+     "linkedin_handle": null,
+     "name": "MongoDB",
+     "tiktok_handle": null,
+     "timezone": "America/Los_Angeles",
+     "twitter_handle": null,
+     "username": null,
+     "website": null,
+     "youtube_handle": null
+    },
+    {
+     "api_id": "usr-byEIFtLVZ7q8Z74",
+     "avatar_url": "https://images.lumacdn.com/uploads/q3/67abaf16-90ab-4976-bf9b-b2a1d8c076e4.webp",
+     "bio_short": null,
+     "first_name": null,
+     "last_name": null,
+     "instagram_handle": null,
+     "is_verified": false,
+     "linkedin_handle": null,
+     "name": "Google Cloud",
+     "tiktok_handle": null,
+     "timezone": null,
+     "twitter_handle": null,
+     "username": null,
+     "website": null,
+     "youtube_handle": null
+    }
+   ],
+   "guest_count": 0,
+   "ticket_count": 0,
+   "ticket_info": {
+    "price": null,
+    "is_free": true,
+    "max_price": null,
+    "is_sold_out": false,
+    "spots_remaining": 114,
+    "is_near_capacity": false,
+    "require_approval": true
+   },
+   "registration_availability": "open",
+   "featured_guests": [],
+   "manager_info": null,
+   "guest_info": null,
+   "host_info": null,
+   "waitlist_active": false,
+   "featured_city": null,
+   "calendar_api_id": "cal-wjMwGmksR3Zpa83",
+   "is_manager": true,
+   "platform": "luma",
+   "status": "approved",
+   "submitted_by_user_api_id": "usr-ibnLXQkOoIbHB9s",
+   "tags": [
+    {
+     "api_id": "tag-bcGeB8qw3qMQAdV",
+     "name": "Agents",
+     "color": "green"
+    },
+    {
+     "api_id": "tag-lDPZIkGlGAW22gk",
+     "name": "Chicago",
+     "color": "yellow"
+    }
+   ]
+  },
+  {
+   "api_id": "calev-0fGWlnMPrY023HX",
+   "event": {
+    "api_id": "evt-JH9CJLAGjJ2WsgX",
+    "calendar_api_id": "cal-wjMwGmksR3Zpa83",
+    "cover_url": "https://images.lumacdn.com/uploads/l2/ad963d7c-f2cf-451a-95c1-214cfd32b4ae.png",
+    "end_at": "2026-10-08T20:00:00.000Z",
+    "event_type": "independent",
+    "hide_rsvp": false,
+    "location_type": "offline",
+    "name": "Shipping AI agents in the EU: What the new rules mean for dev teams",
+    "one_to_one": true,
+    "recurrence_id": null,
+    "show_guest_list": false,
+    "social_image_url": "https://images.lumacdn.com/event-social/hn/0ad9b68f-cb93-4b9d-8c08-4d7db96f917a.png",
+    "start_at": "2026-10-08T17:00:00.000Z",
+    "timezone": "Europe/London",
+    "url": "arizeai-shipping-agents-under-EU-rules",
+    "user_api_id": "usr-TVtwqeIwyK6KnY7",
+    "visibility": "public",
+    "virtual_info": {
+     "has_access": false
+    },
+    "geo_address_info": {
+     "mode": "obfuscated",
+     "city": "London",
+     "city_state": "London, United Kingdom",
+     "sublocality": null,
+     "country": "United Kingdom",
+     "country_code": "GB",
+     "region": "England",
+     "region_short": "England"
+    },
+    "geo_address_visibility": "guests-only",
+    "coordinate": {
+     "latitude": 51.506699787598414,
+     "longitude": -0.1300880459006738
+    },
+    "waitlist_enabled": true,
+    "waitlist_status": "enabled"
+   },
+   "cover_image": {
+    "colors": [
+     "#f5f5ed",
+     "#ec2088",
+     "#140e22"
+    ],
+    "palette": {
+     "neutral": [
+      {
+       "color": "#140e22",
+       "percentage": 3.32
+      },
+      {
+       "color": "#f5f5ed",
+       "percentage": 79.04
+      }
+     ],
+     "vibrant": [
+      {
+       "color": "#ec2088",
+       "percentage": 13.54
+      }
+     ]
+    }
+   },
+   "calendar": {
+    "access_level": "public",
+    "api_id": "cal-wjMwGmksR3Zpa83",
+    "avatar_url": "https://images.lumacdn.com/uploads/za/52700b86-c3a9-48c8-afb3-db765ecacba9.jpg",
+    "coordinate": null,
+    "cover_image_url": "https://images.lumacdn.com/uploads/ep/fc66b7da-e2b1-4ed7-941e-9351fa9bbb18.png",
+    "description_short": "Generative AI-focused workshops, meetups, online sessions, and more. Come build with us!",
+    "end_date": null,
+    "event_submission_restriction": "open",
+    "google_measurement_id": null,
+    "instagram_handle": null,
+    "is_blocked": false,
+    "is_verified": false,
+    "launch_status": "launched",
+    "linkedin_handle": "/company/arizeai",
+    "location": null,
+    "luma_plan": "plus",
+    "luma_plus_active": true,
+    "meta_pixel_id": null,
+    "name": "Arize AI",
+    "personal_user_api_id": null,
+    "refund_policy": null,
+    "slug": "arizeai",
+    "social_image_url": "https://images.lumacdn.com/uploads/tj/fce5fe89-4e04-4d08-9676-c04356d9f0c4.png",
+    "start_date": null,
+    "stripe_account_id": null,
+    "tax_config": null,
+    "tiktok_handle": null,
+    "tint_color": "#ed2089",
+    "track_meta_ads_from_luma": false,
+    "twitter_handle": "arizeai",
+    "verified_at": "2023-07-10T23:05:46.302Z",
+    "website": "https://www.arize.com",
+    "youtube_handle": "arizeai",
+    "is_personal": false,
+    "personal_user": null,
+    "timezone": null
+   },
+   "start_at": "2026-10-08T17:00:00.000Z",
+   "hosts": [
+    {
+     "api_id": "usr-TVtwqeIwyK6KnY7",
+     "avatar_url": "https://images.lumacdn.com/uploads/fg/3b801245-48f1-43d5-914a-938e8d3b63ec.jpg",
+     "bio_short": null,
+     "first_name": "Arize",
+     "last_name": "AI",
+     "instagram_handle": null,
+     "is_verified": false,
+     "linkedin_handle": "/company/arizeai",
+     "name": "Arize AI",
+     "tiktok_handle": null,
+     "timezone": "Europe/London",
+     "twitter_handle": "arizeai",
+     "username": "marinearizeai",
+     "website": "https://arize.com/",
+     "youtube_handle": "arizeai"
+    },
+    {
+     "api_id": "usr-HlHLoyfVe1RZBdx",
+     "avatar_url": "https://images.lumacdn.com/uploads/su/e35e507d-ef94-4ba9-ab52-4b8cbcbdf344.png",
+     "bio_short": "",
+     "first_name": "",
+     "last_name": "",
+     "instagram_handle": null,
+     "is_verified": false,
+     "linkedin_handle": null,
+     "name": "Wise",
+     "tiktok_handle": null,
+     "timezone": "Europe/London",
+     "twitter_handle": null,
+     "username": null,
+     "website": null,
+     "youtube_handle": null
+    }
+   ],
+   "guest_count": 0,
+   "ticket_count": 0,
+   "ticket_info": {
+    "price": null,
+    "is_free": true,
+    "max_price": null,
+    "is_sold_out": false,
+    "spots_remaining": 142,
+    "is_near_capacity": false,
+    "require_approval": true
+   },
+   "registration_availability": "open",
+   "featured_guests": [],
+   "manager_info": null,
+   "guest_info": null,
+   "host_info": null,
+   "waitlist_active": false,
+   "featured_city": null,
+   "calendar_api_id": "cal-wjMwGmksR3Zpa83",
+   "is_manager": true,
+   "platform": "luma",
+   "status": "approved",
+   "submitted_by_user_api_id": "usr-TVtwqeIwyK6KnY7",
+   "tags": [
+    {
+     "api_id": "tag-U6NfNcEIzoB96CC",
+     "name": "London",
+     "color": "orange"
+    }
+   ]
+  },
+  {
+   "api_id": "calev-jfShdTRKHGqnz6X",
+   "event": {
+    "api_id": "evt-DS00lj3DgdjS56X",
+    "calendar_api_id": "cal-wjMwGmksR3Zpa83",
+    "cover_url": "https://images.lumacdn.com/uploads/ml/cad679a8-617d-472a-aa43-1e985d61c103.jpg",
+    "end_at": "2026-10-13T00:00:00.000Z",
+    "event_type": "independent",
+    "hide_rsvp": false,
+    "location_type": "offline",
+    "name": "Arize x AWS AI Leaders Dinner",
+    "one_to_one": true,
+    "recurrence_id": null,
+    "show_guest_list": false,
+    "social_image_url": "https://images.lumacdn.com/event-social/bz/42e48476-c901-445a-8df6-3b2283d4edc1.png",
+    "start_at": "2026-10-12T22:00:00.000Z",
+    "timezone": "America/New_York",
+    "url": "arize-aws-exec-dinner-nyc",
+    "user_api_id": "usr-ibnLXQkOoIbHB9s",
+    "visibility": "public",
+    "virtual_info": {
+     "has_access": false
+    },
+    "geo_address_info": {
+     "mode": "obfuscated"
+    },
+    "geo_address_visibility": "guests-only",
+    "coordinate": null,
+    "waitlist_enabled": false,
+    "waitlist_status": "disabled"
+   },
+   "cover_image": {
+    "colors": [
+     "#f5f5ed",
+     "#1b1412",
+     "#4b5416",
+     "#9a8497"
+    ],
+    "palette": {
+     "neutral": [
+      {
+       "color": "#1b1412",
+       "percentage": 5.66
+      },
+      {
+       "color": "#f5f5ed",
+       "percentage": 77.26
+      }
+     ],
+     "vibrant": [
+      {
+       "color": "#4b5416",
+       "percentage": 4.27
+      },
+      {
+       "color": "#c99051",
+       "percentage": 1.22
+      },
+      {
+       "color": "#9a8497",
+       "percentage": 0.39
+      }
+     ]
+    }
+   },
+   "calendar": {
+    "access_level": "public",
+    "api_id": "cal-wjMwGmksR3Zpa83",
+    "avatar_url": "https://images.lumacdn.com/uploads/za/52700b86-c3a9-48c8-afb3-db765ecacba9.jpg",
+    "coordinate": null,
+    "cover_image_url": "https://images.lumacdn.com/uploads/ep/fc66b7da-e2b1-4ed7-941e-9351fa9bbb18.png",
+    "description_short": "Generative AI-focused workshops, meetups, online sessions, and more. Come build with us!",
+    "end_date": null,
+    "event_submission_restriction": "open",
+    "google_measurement_id": null,
+    "instagram_handle": null,
+    "is_blocked": false,
+    "is_verified": false,
+    "launch_status": "launched",
+    "linkedin_handle": "/company/arizeai",
+    "location": null,
+    "luma_plan": "plus",
+    "luma_plus_active": true,
+    "meta_pixel_id": null,
+    "name": "Arize AI",
+    "personal_user_api_id": null,
+    "refund_policy": null,
+    "slug": "arizeai",
+    "social_image_url": "https://images.lumacdn.com/uploads/tj/fce5fe89-4e04-4d08-9676-c04356d9f0c4.png",
+    "start_date": null,
+    "stripe_account_id": null,
+    "tax_config": null,
+    "tiktok_handle": null,
+    "tint_color": "#ed2089",
+    "track_meta_ads_from_luma": false,
+    "twitter_handle": "arizeai",
+    "verified_at": "2023-07-10T23:05:46.302Z",
+    "website": "https://www.arize.com",
+    "youtube_handle": "arizeai",
+    "is_personal": false,
+    "personal_user": null,
+    "timezone": null
+   },
+   "start_at": "2026-10-12T22:00:00.000Z",
+   "hosts": [
+    {
+     "api_id": "usr-oLnqRQHVGH3TfnK",
+     "avatar_url": "https://images.lumacdn.com/uploads/98/36c08559-7b2e-4550-a5c6-006b96d20488.jpg",
+     "bio_short": "",
+     "first_name": "Arize",
+     "last_name": "AI",
+     "instagram_handle": null,
+     "is_verified": false,
+     "linkedin_handle": "/in/manpreet-kandola95",
+     "name": "Arize AI",
+     "tiktok_handle": null,
+     "timezone": "America/Los_Angeles",
+     "twitter_handle": null,
+     "username": null,
+     "website": null,
+     "youtube_handle": null
+    },
+    {
+     "api_id": "usr-AEyj5zjYwqz1l6H",
+     "avatar_url": "https://images.lumacdn.com/uploads/iu/df75e262-b28f-466b-bbf6-effae63bd4b3.png",
+     "bio_short": null,
+     "first_name": "Amazon",
+     "last_name": "Web Services",
+     "instagram_handle": null,
+     "is_verified": false,
+     "linkedin_handle": "/company/amazon-web-services",
+     "name": "Amazon Web Services",
+     "tiktok_handle": null,
+     "timezone": "America/Los_Angeles",
+     "twitter_handle": null,
+     "username": null,
+     "website": null,
+     "youtube_handle": null
+    }
+   ],
+   "guest_count": 0,
+   "ticket_count": 0,
+   "ticket_info": {
+    "price": null,
+    "is_free": true,
+    "max_price": null,
+    "is_sold_out": false,
+    "spots_remaining": 13,
+    "is_near_capacity": false,
+    "require_approval": true
+   },
+   "registration_availability": "open",
+   "featured_guests": [],
+   "manager_info": null,
+   "guest_info": null,
+   "host_info": null,
+   "waitlist_active": false,
+   "featured_city": null,
+   "calendar_api_id": "cal-wjMwGmksR3Zpa83",
+   "is_manager": true,
+   "platform": "luma",
+   "status": "approved",
+   "submitted_by_user_api_id": "usr-ibnLXQkOoIbHB9s",
+   "tags": [
+    {
+     "api_id": "tag-VjmADbWWPPagIPU",
+     "name": "NYC",
+     "color": "cranberry"
+    }
+   ]
+  },
+  {
+   "api_id": "calev-9DrrEMLSaivz1S0",
+   "event": {
+    "api_id": "evt-gM6hHif5XGgDJYn",
+    "calendar_api_id": "cal-wjMwGmksR3Zpa83",
+    "cover_url": "https://images.lumacdn.com/uploads/2r/f7ee491e-72c1-4ec5-8a76-2e433351fb9a.png",
+    "end_at": "2026-10-14T00:30:00.000Z",
+    "event_type": "independent",
+    "hide_rsvp": false,
+    "location_type": "offline",
+    "name": "Table Stakes",
+    "one_to_one": true,
+    "recurrence_id": null,
+    "show_guest_list": false,
+    "social_image_url": "https://images.lumacdn.com/event-social/g8/bd17822c-6d5f-481b-966c-2a776ec65f92.png",
+    "start_at": "2026-10-13T21:30:00.000Z",
+    "timezone": "America/New_York",
+    "url": "aie-nyc-happy-hour-2026",
+    "user_api_id": "usr-ibnLXQkOoIbHB9s",
+    "visibility": "public",
+    "virtual_info": {
+     "has_access": false
+    },
+    "geo_address_info": {
+     "mode": "obfuscated"
+    },
+    "geo_address_visibility": "guests-only",
+    "coordinate": null,
+    "waitlist_enabled": false,
+    "waitlist_status": "disabled"
+   },
+   "cover_image": {
+    "colors": [
+     "#040302",
+     "#b2b3ff",
+     "#fefdfd",
+     "#ffe090"
+    ],
+    "palette": {
+     "neutral": [
+      {
+       "color": "#040302",
+       "percentage": 83.72
+      },
+      {
+       "color": "#fefdfd",
+       "percentage": 1.52
+      }
+     ],
+     "vibrant": [
+      {
+       "color": "#b2b3ff",
+       "percentage": 9.27
+      },
+      {
+       "color": "#ff6000",
+       "percentage": 1.62
+      },
+      {
+       "color": "#ffe090",
+       "percentage": 0.13
+      }
+     ]
+    }
+   },
+   "calendar": {
+    "access_level": "public",
+    "api_id": "cal-wjMwGmksR3Zpa83",
+    "avatar_url": "https://images.lumacdn.com/uploads/za/52700b86-c3a9-48c8-afb3-db765ecacba9.jpg",
+    "coordinate": null,
+    "cover_image_url": "https://images.lumacdn.com/uploads/ep/fc66b7da-e2b1-4ed7-941e-9351fa9bbb18.png",
+    "description_short": "Generative AI-focused workshops, meetups, online sessions, and more. Come build with us!",
+    "end_date": null,
+    "event_submission_restriction": "open",
+    "google_measurement_id": null,
+    "instagram_handle": null,
+    "is_blocked": false,
+    "is_verified": false,
+    "launch_status": "launched",
+    "linkedin_handle": "/company/arizeai",
+    "location": null,
+    "luma_plan": "plus",
+    "luma_plus_active": true,
+    "meta_pixel_id": null,
+    "name": "Arize AI",
+    "personal_user_api_id": null,
+    "refund_policy": null,
+    "slug": "arizeai",
+    "social_image_url": "https://images.lumacdn.com/uploads/tj/fce5fe89-4e04-4d08-9676-c04356d9f0c4.png",
+    "start_date": null,
+    "stripe_account_id": null,
+    "tax_config": null,
+    "tiktok_handle": null,
+    "tint_color": "#ed2089",
+    "track_meta_ads_from_luma": false,
+    "twitter_handle": "arizeai",
+    "verified_at": "2023-07-10T23:05:46.302Z",
+    "website": "https://www.arize.com",
+    "youtube_handle": "arizeai",
+    "is_personal": false,
+    "personal_user": null,
+    "timezone": null
+   },
+   "start_at": "2026-10-13T21:30:00.000Z",
+   "hosts": [
+    {
+     "api_id": "usr-oLnqRQHVGH3TfnK",
+     "avatar_url": "https://images.lumacdn.com/uploads/98/36c08559-7b2e-4550-a5c6-006b96d20488.jpg",
+     "bio_short": "",
+     "first_name": "Arize",
+     "last_name": "AI",
+     "instagram_handle": null,
+     "is_verified": false,
+     "linkedin_handle": "/in/manpreet-kandola95",
+     "name": "Arize AI",
+     "tiktok_handle": null,
+     "timezone": "America/Los_Angeles",
+     "twitter_handle": null,
+     "username": null,
+     "website": null,
+     "youtube_handle": null
+    },
+    {
+     "api_id": "usr-EIUE5IhEGH0AwIv",
+     "avatar_url": "https://images.lumacdn.com/avatars/yc/7920a9f3-62f9-4b40-9790-604f36a438d4.png",
+     "bio_short": null,
+     "first_name": "Crew",
+     "last_name": "AI",
+     "instagram_handle": null,
+     "is_verified": false,
+     "linkedin_handle": "/in/katharine-laird-8b66b8122",
+     "name": "Crew AI",
+     "tiktok_handle": null,
+     "timezone": "America/Los_Angeles",
+     "twitter_handle": null,
+     "username": null,
+     "website": null,
+     "youtube_handle": ""
+    },
+    {
+     "api_id": "usr-byEIFtLVZ7q8Z74",
+     "avatar_url": "https://images.lumacdn.com/uploads/q3/67abaf16-90ab-4976-bf9b-b2a1d8c076e4.webp",
+     "bio_short": null,
+     "first_name": null,
+     "last_name": null,
+     "instagram_handle": null,
+     "is_verified": false,
+     "linkedin_handle": null,
+     "name": "Google Cloud",
+     "tiktok_handle": null,
+     "timezone": null,
+     "twitter_handle": null,
+     "username": null,
+     "website": null,
+     "youtube_handle": null
+    },
+    {
+     "api_id": "usr-ecesxjfxDXFVTBb",
+     "avatar_url": "https://images.lumacdn.com/uploads/tp/fe6d35a1-be14-4816-a7b9-6ae03408596d.jpg",
+     "bio_short": "Modal is the cloud platform for AI development. Run inference, training, and batch workloads on any GPU, at any scale.",
+     "first_name": "Will",
+     "last_name": "Reese",
+     "instagram_handle": null,
+     "is_verified": false,
+     "linkedin_handle": "/in/will-r-82361b53",
+     "name": "Modal",
+     "tiktok_handle": null,
+     "timezone": "America/New_York",
+     "twitter_handle": "modal",
+     "username": "Modal_Labs",
+     "website": "https://modal.com",
+     "youtube_handle": "ModalLabs"
+    },
+    {
+     "api_id": "usr-BKMH9fkiENnujeN",
+     "avatar_url": "https://images.lumacdn.com/avatars/p3/22b4104c-8baa-43c5-b762-7cb4f14f19d9.png",
+     "bio_short": "",
+     "first_name": "Google",
+     "last_name": "DeepMind",
+     "instagram_handle": "googledeepmind",
+     "is_verified": false,
+     "linkedin_handle": "/in/googledeepmind",
+     "name": "Google DeepMind",
+     "tiktok_handle": null,
+     "timezone": "Europe/London",
+     "twitter_handle": "GoogleDeepMind",
+     "username": "gdm",
+     "website": "https://deepmind.google.com",
+     "youtube_handle": "googledeepmind"
+    },
+    {
+     "api_id": "usr-yX1eYDaV9EnuXAw",
+     "avatar_url": "https://images.lumacdn.com/uploads/jo/a77334e6-5bfe-4b36-a1ba-07fee07e7f1c.jpg",
+     "bio_short": "The frontier lab for acting in space and time.",
+     "first_name": "General",
+     "last_name": "Intuition",
+     "instagram_handle": null,
+     "is_verified": false,
+     "linkedin_handle": null,
+     "name": "General Intuition",
+     "tiktok_handle": null,
+     "timezone": "Europe/Madrid",
+     "twitter_handle": "gen_intuition",
+     "username": null,
+     "website": null,
+     "youtube_handle": null
+    },
+    {
+     "api_id": "usr-DPsuH3JxcbXY9hH",
+     "avatar_url": "https://images.lumacdn.com/avatars/jc/3a7b91ec-b2b8-4dd8-a9be-620b9bb9ba7f.png",
+     "bio_short": "",
+     "first_name": "Erika",
+     "last_name": "Bricky",
+     "instagram_handle": null,
+     "is_verified": false,
+     "linkedin_handle": "/company/browserbasehq",
+     "name": "Browserbase",
+     "tiktok_handle": null,
+     "timezone": "America/Los_Angeles",
+     "twitter_handle": "brickywhat",
+     "username": "browserbasehq",
+     "website": "https://www.browserbase.com/",
+     "youtube_handle": "browserbase"
+    }
+   ],
+   "guest_count": 0,
+   "ticket_count": 0,
+   "ticket_info": {
+    "price": null,
+    "is_free": true,
+    "max_price": null,
+    "is_sold_out": false,
+    "spots_remaining": null,
+    "is_near_capacity": false,
+    "require_approval": true
+   },
+   "registration_availability": "open",
+   "featured_guests": [],
+   "manager_info": null,
+   "guest_info": null,
+   "host_info": null,
+   "waitlist_active": false,
+   "featured_city": null,
+   "calendar_api_id": "cal-wjMwGmksR3Zpa83",
+   "is_manager": true,
+   "platform": "luma",
+   "status": "approved",
+   "submitted_by_user_api_id": "usr-ibnLXQkOoIbHB9s",
+   "tags": [
+    {
+     "api_id": "tag-VjmADbWWPPagIPU",
+     "name": "NYC",
+     "color": "cranberry"
+    }
+   ]
+  },
+  {
+   "api_id": "calev-9bSM6CI5bphv3HM",
+   "event": {
+    "api_id": "evt-gABAI2eoe9lSLXn",
+    "calendar_api_id": "cal-wjMwGmksR3Zpa83",
+    "cover_url": "https://images.lumacdn.com/uploads/fg/477127ad-0654-46b3-8b7b-128c416b471a.jpg",
+    "end_at": "2026-12-02T02:00:00.000Z",
+    "event_type": "independent",
+    "hide_rsvp": false,
+    "location_type": "offline",
+    "name": "Races & Traces: A Supercar Experience",
+    "one_to_one": true,
+    "recurrence_id": null,
+    "show_guest_list": false,
+    "social_image_url": "https://images.lumacdn.com/event-social/cj/04b307ff-40d9-4fcd-898a-90242b7151b3.png",
+    "start_at": "2026-12-01T22:00:00.000Z",
+    "timezone": "America/Los_Angeles",
+    "url": "arize-speedway",
+    "user_api_id": "usr-ibnLXQkOoIbHB9s",
+    "visibility": "public",
+    "virtual_info": {
+     "has_access": false
+    },
+    "geo_address_info": {
+     "mode": "obfuscated"
+    },
+    "geo_address_visibility": "guests-only",
+    "coordinate": null,
+    "waitlist_enabled": true,
+    "waitlist_status": "enabled"
+   },
+   "cover_image": {
+    "colors": [
+     "#f5f5ed",
+     "#100d14",
+     "#e72688",
+     "#0375b1"
+    ],
+    "palette": {
+     "neutral": [
+      {
+       "color": "#100d14",
+       "percentage": 3.17
+      },
+      {
+       "color": "#f5f5ed",
+       "percentage": 77.64
+      }
+     ],
+     "vibrant": [
+      {
+       "color": "#e72688",
+       "percentage": 2.78
+      },
+      {
+       "color": "#0375b1",
+       "percentage": 1.79
+      }
+     ]
+    }
+   },
+   "calendar": {
+    "access_level": "public",
+    "api_id": "cal-wjMwGmksR3Zpa83",
+    "avatar_url": "https://images.lumacdn.com/uploads/za/52700b86-c3a9-48c8-afb3-db765ecacba9.jpg",
+    "coordinate": null,
+    "cover_image_url": "https://images.lumacdn.com/uploads/ep/fc66b7da-e2b1-4ed7-941e-9351fa9bbb18.png",
+    "description_short": "Generative AI-focused workshops, meetups, online sessions, and more. Come build with us!",
+    "end_date": null,
+    "event_submission_restriction": "open",
+    "google_measurement_id": null,
+    "instagram_handle": null,
+    "is_blocked": false,
+    "is_verified": false,
+    "launch_status": "launched",
+    "linkedin_handle": "/company/arizeai",
+    "location": null,
+    "luma_plan": "plus",
+    "luma_plus_active": true,
+    "meta_pixel_id": null,
+    "name": "Arize AI",
+    "personal_user_api_id": null,
+    "refund_policy": null,
+    "slug": "arizeai",
+    "social_image_url": "https://images.lumacdn.com/uploads/tj/fce5fe89-4e04-4d08-9676-c04356d9f0c4.png",
+    "start_date": null,
+    "stripe_account_id": null,
+    "tax_config": null,
+    "tiktok_handle": null,
+    "tint_color": "#ed2089",
+    "track_meta_ads_from_luma": false,
+    "twitter_handle": "arizeai",
+    "verified_at": "2023-07-10T23:05:46.302Z",
+    "website": "https://www.arize.com",
+    "youtube_handle": "arizeai",
+    "is_personal": false,
+    "personal_user": null,
+    "timezone": null
+   },
+   "start_at": "2026-12-01T22:00:00.000Z",
+   "hosts": [
+    {
+     "api_id": "usr-oLnqRQHVGH3TfnK",
+     "avatar_url": "https://images.lumacdn.com/uploads/98/36c08559-7b2e-4550-a5c6-006b96d20488.jpg",
+     "bio_short": "",
+     "first_name": "Arize",
+     "last_name": "AI",
+     "instagram_handle": null,
+     "is_verified": false,
+     "linkedin_handle": "/in/manpreet-kandola95",
+     "name": "Arize AI",
+     "tiktok_handle": null,
+     "timezone": "America/Los_Angeles",
+     "twitter_handle": null,
+     "username": null,
+     "website": null,
+     "youtube_handle": null
+    }
+   ],
+   "guest_count": 0,
+   "ticket_count": 0,
+   "ticket_info": {
+    "price": null,
+    "is_free": true,
+    "max_price": null,
+    "is_sold_out": false,
+    "spots_remaining": 20,
+    "is_near_capacity": false,
+    "require_approval": true
+   },
+   "registration_availability": "open",
+   "featured_guests": [],
+   "manager_info": null,
+   "guest_info": null,
+   "host_info": null,
+   "waitlist_active": false,
+   "featured_city": null,
+   "calendar_api_id": "cal-wjMwGmksR3Zpa83",
+   "is_manager": true,
+   "platform": "luma",
+   "status": "approved",
+   "submitted_by_user_api_id": "usr-ibnLXQkOoIbHB9s",
+   "tags": []
+  }
+ ],
+ "has_more": false
+}

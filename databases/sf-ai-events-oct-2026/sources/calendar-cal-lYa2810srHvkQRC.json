@@ -1,0 +1,1340 @@
+{
+ "entries": [
+  {
+   "api_id": "calev-6xkXawHhD5topdl",
+   "event": {
+    "api_id": "evt-Ry1vwUvFjudIlae",
+    "calendar_api_id": "cal-qyEpCltsspbMoJR",
+    "cover_url": "https://images.lumacdn.com/uploads/87/1aaf584e-6d94-43cc-8484-025ec845d8b1.png",
+    "end_at": "2026-09-19T20:30:00.000Z",
+    "event_type": "independent",
+    "hide_rsvp": false,
+    "location_type": "offline",
+    "name": "{Tech: Europe} Agentic AI Hack",
+    "one_to_one": true,
+    "recurrence_id": null,
+    "show_guest_list": false,
+    "social_image_url": "https://images.lumacdn.com/event-social/u3/18ec964f-5c8f-48d6-9715-f5411f2268bb.png",
+    "start_at": "2026-09-19T08:30:00.000Z",
+    "timezone": "Europe/London",
+    "url": "ldn-hack",
+    "user_api_id": "usr-otWuO7FEbBUgwkH",
+    "visibility": "public",
+    "virtual_info": {
+     "has_access": false
+    },
+    "geo_address_info": {
+     "mode": "obfuscated",
+     "city": "London",
+     "city_state": "London, United Kingdom",
+     "sublocality": null,
+     "country": "United Kingdom",
+     "country_code": "GB",
+     "region": "England",
+     "region_short": "England"
+    },
+    "geo_address_visibility": "guests-only",
+    "coordinate": {
+     "latitude": 51.516715277913995,
+     "longitude": -0.13086972522631155
+    },
+    "waitlist_enabled": false,
+    "waitlist_status": "disabled"
+   },
+   "cover_image": {
+    "colors": [
+     "#5a6f74",
+     "#212829",
+     "#3c1b13"
+    ],
+    "palette": {
+     "neutral": [
+      {
+       "color": "#212829",
+       "percentage": 15.48
+      }
+     ],
+     "vibrant": [
+      {
+       "color": "#5a6f74",
+       "percentage": 15.9
+      },
+      {
+       "color": "#3c1b13",
+       "percentage": 4.04
+      }
+     ]
+    }
+   },
+   "calendar": {
+    "access_level": "public",
+    "api_id": "cal-qyEpCltsspbMoJR",
+    "avatar_url": "https://images.lumacdn.com/uploads/qi/de3fc517-123c-4af6-91bd-9c26bf53d63d.png",
+    "coordinate": null,
+    "cover_image_url": "https://images.unsplash.com/photo-1531297484001-80022131f5a1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjQyMjF8MHwxfHNlYXJjaHwxfHx0ZWNofGVufDB8fHx8MTcyNzA3MzY3Mnwy&ixlib=rb-4.0.3&q=80&w=1080",
+    "description_short": "Hackathons & other tech events in London | Berlin | Paris | Munich | Stockholm & all over Europe",
+    "end_date": null,
+    "event_submission_restriction": "open",
+    "google_measurement_id": null,
+    "instagram_handle": null,
+    "is_blocked": false,
+    "is_verified": false,
+    "launch_status": "launched",
+    "linkedin_handle": "/company/tech-europe-community",
+    "location": null,
+    "luma_plan": "plus",
+    "luma_plus_active": true,
+    "meta_pixel_id": null,
+    "name": "{Tech: Europe}",
+    "personal_user_api_id": null,
+    "refund_policy": null,
+    "slug": "tech-europe",
+    "social_image_url": "https://images.lumacdn.com/calendar-cover-images/uf/5bca6132-1da2-4415-9a8c-d65317ad72f4.png",
+    "start_date": null,
+    "stripe_account_id": "acct_1QUWNrGl3sqX3h5o",
+    "tax_config": {
+     "tax_name": "VAT",
+     "tax_percent": 19
+    },
+    "tiktok_handle": null,
+    "tint_color": "#000000",
+    "track_meta_ads_from_luma": false,
+    "twitter_handle": "techeurope_",
+    "verified_at": "2024-09-23T20:56:46.512Z",
+    "website": "https://www.techeurope.io",
+    "youtube_handle": "Tech-Europe",
+    "is_personal": false,
+    "personal_user": null,
+    "timezone": null
+   },
+   "start_at": "2026-09-19T08:30:00.000Z",
+   "hosts": [
+    {
+     "api_id": "usr-RUH1MG8Tm1NjwgB",
+     "avatar_url": "https://images.lumacdn.com/uploads/oo/adf4c858-4372-4364-bade-37bc11347edc.png",
+     "bio_short": "",
+     "first_name": "Bela",
+     "last_name": "Wiertz",
+     "instagram_handle": null,
+     "is_verified": false,
+     "linkedin_handle": "/in/bela-wiertz",
+     "name": "{Tech: Europe}",
+     "tiktok_handle": null,
+     "timezone": "Europe/Berlin",
+     "twitter_handle": "techeurope_",
+     "username": "tech_europe",
+     "website": "https://techeurope.io",
+     "youtube_handle": "Tech-Europe"
+    },
+    {
+     "api_id": "usr-BKMH9fkiENnujeN",
+     "avatar_url": "https://images.lumacdn.com/avatars/p3/22b4104c-8baa-43c5-b762-7cb4f14f19d9.png",
+     "bio_short": "",
+     "first_name": "Google",
+     "last_name": "DeepMind",
+     "instagram_handle": "googledeepmind",
+     "is_verified": false,
+     "linkedin_handle": "/in/googledeepmind",
+     "name": "Google DeepMind",
+     "tiktok_handle": null,
+     "timezone": "Europe/London",
+     "twitter_handle": "GoogleDeepMind",
+     "username": "gdm",
+     "website": "https://deepmind.google.com",
+     "youtube_handle": "googledeepmind"
+    }
+   ],
+   "guest_count": 0,
+   "ticket_count": 0,
+   "ticket_info": {
+    "price": null,
+    "is_free": true,
+    "max_price": null,
+    "is_sold_out": false,
+    "spots_remaining": null,
+    "is_near_capacity": false,
+    "require_approval": true
+   },
+   "registration_availability": "open",
+   "featured_guests": [],
+   "manager_info": null,
+   "guest_info": null,
+   "host_info": null,
+   "waitlist_active": false,
+   "featured_city": {
+    "api_id": "discplace-QCcNk3HXowOR97j",
+    "name": "London",
+    "slug": "london"
+   },
+   "calendar_api_id": "cal-lYa2810srHvkQRC",
+   "is_manager": false,
+   "platform": "luma",
+   "status": "approved",
+   "submitted_by_user_api_id": "usr-2881P8Q7H3U4ndM",
+   "tags": []
+  },
+  {
+   "api_id": "calev-4aFgXqGjnXPCfhv",
+   "event": {
+    "api_id": "evt-aHdhUcjDBPfHh4H",
+    "calendar_api_id": "cal-lYa2810srHvkQRC",
+    "cover_url": "https://images.lumacdn.com/uploads/p8/1e82426e-9b0c-49c6-820e-e3e195ee0866.png",
+    "end_at": "2026-09-21T20:30:00.000Z",
+    "event_type": "independent",
+    "hide_rsvp": false,
+    "location_type": "offline",
+    "name": "Modal x Pydantic London Meetup: How We Build Dev Tools for You and Your Agents",
+    "one_to_one": true,
+    "recurrence_id": null,
+    "show_guest_list": false,
+    "social_image_url": "https://images.lumacdn.com/event-social/7q/9524c952-d0fb-46ef-b8da-19f2f12843ca.png",
+    "start_at": "2026-09-21T17:30:00.000Z",
+    "timezone": "Europe/London",
+    "url": "modal-72s8",
+    "user_api_id": "usr-2881P8Q7H3U4ndM",
+    "visibility": "public",
+    "virtual_info": {
+     "has_access": false
+    },
+    "geo_address_info": {
+     "mode": "obfuscated",
+     "city": "London",
+     "city_state": "London, United Kingdom",
+     "sublocality": null,
+     "country": "United Kingdom",
+     "country_code": "GB",
+     "region": "England",
+     "region_short": "England"
+    },
+    "geo_address_visibility": "guests-only",
+    "coordinate": {
+     "latitude": 51.51372068596278,
+     "longitude": -0.1628898069308456
+    },
+    "waitlist_enabled": true,
+    "waitlist_status": "enabled"
+   },
+   "cover_image": {
+    "colors": [
+     "#0b1b10",
+     "#174621",
+     "#fdfefd"
+    ],
+    "palette": {
+     "neutral": [
+      {
+       "color": "#0b1b10",
+       "percentage": 22.34
+      },
+      {
+       "color": "#fdfefd",
+       "percentage": 5.22
+      }
+     ],
+     "vibrant": [
+      {
+       "color": "#174621",
+       "percentage": 16.1
+      }
+     ]
+    }
+   },
+   "calendar": {
+    "access_level": "public",
+    "api_id": "cal-lYa2810srHvkQRC",
+    "avatar_url": "https://images.lumacdn.com/calendars/uc/1185c97b-b497-40fe-b6a6-cfe657eb52a3.png",
+    "coordinate": null,
+    "cover_image_url": "https://images.lumacdn.com/calendar-cover-images/sk/1a6f92e2-2f41-4dc5-9caa-bcbb1c4741be.png",
+    "description_short": "AI infrastructure that developers love",
+    "end_date": null,
+    "event_submission_restriction": "open",
+    "google_measurement_id": null,
+    "instagram_handle": null,
+    "is_blocked": false,
+    "is_verified": false,
+    "launch_status": "launched",
+    "linkedin_handle": "/company/modal-labs",
+    "location": null,
+    "luma_plan": "plus",
+    "luma_plus_active": true,
+    "meta_pixel_id": null,
+    "name": "Modal",
+    "personal_user_api_id": null,
+    "refund_policy": null,
+    "slug": "modal-labs",
+    "social_image_url": "https://images.lumacdn.com/calendar-cover-images/mb/4193a519-2f48-4b5a-9192-18d1a9532dff.jpg",
+    "start_date": null,
+    "stripe_account_id": null,
+    "tax_config": null,
+    "tiktok_handle": null,
+    "tint_color": "#07a460",
+    "track_meta_ads_from_luma": false,
+    "twitter_handle": "modal",
+    "verified_at": "2025-08-13T15:28:11.931Z",
+    "website": "https://modal.com",
+    "youtube_handle": "ModalLabs",
+    "is_personal": false,
+    "personal_user": null,
+    "timezone": null
+   },
+   "start_at": "2026-09-21T17:30:00.000Z",
+   "hosts": [
+    {
+     "api_id": "usr-xeEpkrleL4Dmw2V",
+     "avatar_url": "https://images.lumacdn.com/avatars/y0/3a9fe2f5-4683-4388-b270-4ad7e8fc3f83.jpg",
+     "bio_short": "",
+     "first_name": "Lais",
+     "last_name": "Carvalho",
+     "instagram_handle": "laiscarvalho",
+     "is_verified": false,
+     "linkedin_handle": "/in/laisbsc",
+     "name": "Lais Carvalho",
+     "tiktok_handle": null,
+     "timezone": "Europe/Dublin",
+     "twitter_handle": "lais_bsc",
+     "username": "lais",
+     "website": null,
+     "youtube_handle": ""
+    },
+    {
+     "api_id": "usr-ecesxjfxDXFVTBb",
+     "avatar_url": "https://images.lumacdn.com/uploads/tp/fe6d35a1-be14-4816-a7b9-6ae03408596d.jpg",
+     "bio_short": "Modal is the cloud platform for AI development. Run inference, training, and batch workloads on any GPU, at any scale.",
+     "first_name": "Will",
+     "last_name": "Reese",
+     "instagram_handle": null,
+     "is_verified": false,
+     "linkedin_handle": "/in/will-r-82361b53",
+     "name": "Modal",
+     "tiktok_handle": null,
+     "timezone": "America/New_York",
+     "twitter_handle": "modal",
+     "username": "Modal_Labs",
+     "website": "https://modal.com",
+     "youtube_handle": "ModalLabs"
+    },
+    {
+     "api_id": "usr-cZl4WwdQuSQkkhM",
+     "avatar_url": "https://images.lumacdn.com/avatars/av/ea2ecd54-d24c-4c7e-b300-af1ffe9e3e56.png",
+     "bio_short": null,
+     "first_name": "Rachel",
+     "last_name": "Peplow",
+     "instagram_handle": null,
+     "is_verified": false,
+     "linkedin_handle": "/in/rachelpeplow",
+     "name": "Rachel Peplow",
+     "tiktok_handle": null,
+     "timezone": "Europe/London",
+     "twitter_handle": null,
+     "username": null,
+     "website": null,
+     "youtube_handle": ""
+    }
+   ],
+   "guest_count": 0,
+   "ticket_count": 0,
+   "ticket_info": {
+    "price": null,
+    "is_free": true,
+    "max_price": null,
+    "is_sold_out": false,
+    "spots_remaining": 25,
+    "is_near_capacity": false,
+    "require_approval": true
+   },
+   "registration_availability": "open",
+   "featured_guests": [],
+   "manager_info": null,
+   "guest_info": null,
+   "host_info": null,
+   "waitlist_active": false,
+   "featured_city": {
+    "api_id": "discplace-QCcNk3HXowOR97j",
+    "name": "London",
+    "slug": "london"
+   },
+   "calendar_api_id": "cal-lYa2810srHvkQRC",
+   "is_manager": true,
+   "platform": "luma",
+   "status": "approved",
+   "submitted_by_user_api_id": "usr-2881P8Q7H3U4ndM",
+   "tags": []
+  },
+  {
+   "api_id": "calev-Z4JM0a2Rz2bRWY3",
+   "event": {
+    "api_id": "evt-AtfWHfKA18Jmx9q",
+    "calendar_api_id": "cal-lYa2810srHvkQRC",
+    "cover_url": "https://images.lumacdn.com/uploads/0d/b1910b63-4d15-4fc8-a9c6-0c43e31f091d.png",
+    "end_at": "2026-09-22T23:30:00.000Z",
+    "event_type": "independent",
+    "hide_rsvp": false,
+    "location_type": "offline",
+    "name": "Boston Computational Biology Hackathon with Anthropic, Modal, and Flagship Pioneering",
+    "one_to_one": true,
+    "recurrence_id": null,
+    "show_guest_list": false,
+    "social_image_url": "https://images.lumacdn.com/event-social/dn/c9d56e4f-438f-4701-b0ae-27d06724049c.png",
+    "start_at": "2026-09-22T13:00:00.000Z",
+    "timezone": "America/New_York",
+    "url": "boston-comp-bio-hack",
+    "user_api_id": "usr-s7aq2cQ5tCMd9To",
+    "visibility": "public",
+    "virtual_info": {
+     "has_access": false
+    },
+    "geo_address_info": {
+     "mode": "obfuscated",
+     "city": "Cambridge",
+     "city_state": "Cambridge, MA",
+     "sublocality": "East Cambridge",
+     "country": "United States",
+     "country_code": "US",
+     "region": "Massachusetts",
+     "region_short": "MA"
+    },
+    "geo_address_visibility": "guests-only",
+    "coordinate": {
+     "latitude": 42.36701750163048,
+     "longitude": -71.07529838163525
+    },
+    "waitlist_enabled": true,
+    "waitlist_status": "enabled"
+   },
+   "cover_image": {
+    "colors": [
+     "#e1e6ee",
+     "#1d1d1d",
+     "#435ff8",
+     "#55cf64"
+    ],
+    "palette": {
+     "neutral": [
+      {
+       "color": "#1d1d1d",
+       "percentage": 8.39
+      },
+      {
+       "color": "#e1e6ee",
+       "percentage": 43.85
+      }
+     ],
+     "vibrant": [
+      {
+       "color": "#435ff8",
+       "percentage": 1.99
+      },
+      {
+       "color": "#55cf64",
+       "percentage": 0.23
+      }
+     ]
+    }
+   },
+   "calendar": {
+    "access_level": "public",
+    "api_id": "cal-lYa2810srHvkQRC",
+    "avatar_url": "https://images.lumacdn.com/calendars/uc/1185c97b-b497-40fe-b6a6-cfe657eb52a3.png",
+    "coordinate": null,
+    "cover_image_url": "https://images.lumacdn.com/calendar-cover-images/sk/1a6f92e2-2f41-4dc5-9caa-bcbb1c4741be.png",
+    "description_short": "AI infrastructure that developers love",
+    "end_date": null,
+    "event_submission_restriction": "open",
+    "google_measurement_id": null,
+    "instagram_handle": null,
+    "is_blocked": false,
+    "is_verified": false,
+    "launch_status": "launched",
+    "linkedin_handle": "/company/modal-labs",
+    "location": null,
+    "luma_plan": "plus",
+    "luma_plus_active": true,
+    "meta_pixel_id": null,
+    "name": "Modal",
+    "personal_user_api_id": null,
+    "refund_policy": null,
+    "slug": "modal-labs",
+    "social_image_url": "https://images.lumacdn.com/calendar-cover-images/mb/4193a519-2f48-4b5a-9192-18d1a9532dff.jpg",
+    "start_date": null,
+    "stripe_account_id": null,
+    "tax_config": null,
+    "tiktok_handle": null,
+    "tint_color": "#07a460",
+    "track_meta_ads_from_luma": false,
+    "twitter_handle": "modal",
+    "verified_at": "2025-08-13T15:28:11.931Z",
+    "website": "https://modal.com",
+    "youtube_handle": "ModalLabs",
+    "is_personal": false,
+    "personal_user": null,
+    "timezone": null
+   },
+   "start_at": "2026-09-22T13:00:00.000Z",
+   "hosts": [
+    {
+     "api_id": "usr-ecesxjfxDXFVTBb",
+     "avatar_url": "https://images.lumacdn.com/uploads/tp/fe6d35a1-be14-4816-a7b9-6ae03408596d.jpg",
+     "bio_short": "Modal is the cloud platform for AI development. Run inference, training, and batch workloads on any GPU, at any scale.",
+     "first_name": "Will",
+     "last_name": "Reese",
+     "instagram_handle": null,
+     "is_verified": false,
+     "linkedin_handle": "/in/will-r-82361b53",
+     "name": "Modal",
+     "tiktok_handle": null,
+     "timezone": "America/New_York",
+     "twitter_handle": "modal",
+     "username": "Modal_Labs",
+     "website": "https://modal.com",
+     "youtube_handle": "ModalLabs"
+    },
+    {
+     "api_id": "usr-tRvn4UvTA14hiGg",
+     "avatar_url": "https://images.lumacdn.com/uploads/sm/3b07ba17-ae29-4df6-bcf0-062426239d5d.png",
+     "bio_short": null,
+     "first_name": "",
+     "last_name": "",
+     "instagram_handle": null,
+     "is_verified": false,
+     "linkedin_handle": null,
+     "name": "Flagship Pioneering",
+     "tiktok_handle": null,
+     "timezone": "America/New_York",
+     "twitter_handle": null,
+     "username": "FlagshipPioneer",
+     "website": null,
+     "youtube_handle": null
+    },
+    {
+     "api_id": "usr-d1DYYDp54XFNx3v",
+     "avatar_url": "https://images.lumacdn.com/uploads/w2/7ab60ed2-a76d-42ba-b8ea-442a940739c3.png",
+     "bio_short": null,
+     "first_name": "Anthropic",
+     "last_name": "AI for Science",
+     "instagram_handle": null,
+     "is_verified": false,
+     "linkedin_handle": null,
+     "name": "Anthropic AI for Science",
+     "tiktok_handle": null,
+     "timezone": "America/Los_Angeles",
+     "twitter_handle": null,
+     "username": null,
+     "website": null,
+     "youtube_handle": null
+    }
+   ],
+   "guest_count": 0,
+   "ticket_count": 0,
+   "ticket_info": {
+    "price": null,
+    "is_free": true,
+    "max_price": null,
+    "is_sold_out": false,
+    "spots_remaining": 12,
+    "is_near_capacity": false,
+    "require_approval": true
+   },
+   "registration_availability": "open",
+   "featured_guests": [],
+   "manager_info": null,
+   "guest_info": null,
+   "host_info": null,
+   "waitlist_active": false,
+   "featured_city": {
+    "api_id": "discplace-VWeZ1zUvnawYHMj",
+    "name": "Boston",
+    "slug": "boston"
+   },
+   "calendar_api_id": "cal-lYa2810srHvkQRC",
+   "is_manager": true,
+   "platform": "luma",
+   "status": "approved",
+   "submitted_by_user_api_id": "usr-s7aq2cQ5tCMd9To",
+   "tags": []
+  },
+  {
+   "api_id": "calev-niRq5cmjuPDr3el",
+   "event": {
+    "api_id": "evt-zg1SAExzQU0njEo",
+    "calendar_api_id": "cal-5T3F81Hsbssln0s",
+    "cover_url": "https://images.lumacdn.com/uploads/9l/635c0544-795c-48ee-a0f9-ba56ccac558e.png",
+    "end_at": "2026-09-22T20:00:00.000Z",
+    "event_type": "independent",
+    "hide_rsvp": false,
+    "location_type": "offline",
+    "name": "AI Engineer Warmup w/ H Company, Modal and Black Forest Labs",
+    "one_to_one": true,
+    "recurrence_id": null,
+    "show_guest_list": false,
+    "social_image_url": "https://images.lumacdn.com/event-social/43/3ba2492d-e17f-460f-895e-262085f2f8b4.png",
+    "start_at": "2026-09-22T16:00:00.000Z",
+    "timezone": "Europe/Paris",
+    "url": "drd77d1r",
+    "user_api_id": "usr-p57gVAvQUwxxd7w",
+    "visibility": "public",
+    "virtual_info": {
+     "has_access": false
+    },
+    "geo_address_info": {
+     "mode": "obfuscated",
+     "city": "Paris",
+     "city_state": "Paris, France",
+     "sublocality": "Paris Rive Gauche",
+     "country": "France",
+     "country_code": "FR",
+     "region": "\u00cele-de-France",
+     "region_short": "IDF"
+    },
+    "geo_address_visibility": "guests-only",
+    "coordinate": {
+     "latitude": 48.834540327004824,
+     "longitude": 2.375848799358515
+    },
+    "waitlist_enabled": false,
+    "waitlist_status": "disabled"
+   },
+   "cover_image": {
+    "colors": [
+     "#a8a4a7",
+     "#2d3030",
+     "#a6663e",
+     "#fefefe"
+    ],
+    "palette": {
+     "neutral": [
+      {
+       "color": "#2d3030",
+       "percentage": 12.67
+      },
+      {
+       "color": "#fefefe",
+       "percentage": 4.43
+      },
+      {
+       "color": "#a8a4a7",
+       "percentage": 14.3
+      }
+     ],
+     "vibrant": [
+      {
+       "color": "#a6663e",
+       "percentage": 6.08
+      },
+      {
+       "color": "#32537b",
+       "percentage": 4.04
+      }
+     ]
+    }
+   },
+   "calendar": {
+    "access_level": "public",
+    "api_id": "cal-5T3F81Hsbssln0s",
+    "avatar_url": "https://images.lumacdn.com/uploads/w8/429e6f0e-9acb-4a67-b798-ba50f0d25dec.jpg",
+    "coordinate": null,
+    "cover_image_url": "https://images.unsplash.com/photo-1531297484001-80022131f5a1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjQyMjF8MHwxfHNlYXJjaHwzfHx0ZWNofGVufDB8fHx8MTc4MjI3NTUzOXwy&ixlib=rb-4.1.0&q=80&w=1080",
+    "description_short": "Leading edge research, proprietary models and agents",
+    "end_date": null,
+    "event_submission_restriction": "open",
+    "google_measurement_id": null,
+    "instagram_handle": null,
+    "is_blocked": false,
+    "is_verified": false,
+    "launch_status": "launched",
+    "linkedin_handle": "/company/h-company-ai",
+    "location": null,
+    "luma_plan": "plus",
+    "luma_plus_active": true,
+    "meta_pixel_id": null,
+    "name": "H Company",
+    "personal_user_api_id": null,
+    "refund_policy": null,
+    "slug": "hcompany.ai",
+    "social_image_url": "https://images.lumacdn.com/uploads/j1/71e98499-7ca0-4fd4-9976-d4c1ff0d52b0.jpg",
+    "start_date": null,
+    "stripe_account_id": null,
+    "tax_config": null,
+    "tiktok_handle": null,
+    "tint_color": "#ffffff",
+    "track_meta_ads_from_luma": false,
+    "twitter_handle": "hcompany_ai",
+    "verified_at": "2026-06-26T13:47:40.110Z",
+    "website": "https://hcompany.ai/",
+    "youtube_handle": null,
+    "is_personal": false,
+    "personal_user": null,
+    "timezone": null
+   },
+   "start_at": "2026-09-22T16:00:00.000Z",
+   "hosts": [
+    {
+     "api_id": "usr-ecesxjfxDXFVTBb",
+     "avatar_url": "https://images.lumacdn.com/uploads/tp/fe6d35a1-be14-4816-a7b9-6ae03408596d.jpg",
+     "bio_short": "Modal is the cloud platform for AI development. Run inference, training, and batch workloads on any GPU, at any scale.",
+     "first_name": "Will",
+     "last_name": "Reese",
+     "instagram_handle": null,
+     "is_verified": false,
+     "linkedin_handle": "/in/will-r-82361b53",
+     "name": "Modal",
+     "tiktok_handle": null,
+     "timezone": "America/New_York",
+     "twitter_handle": "modal",
+     "username": "Modal_Labs",
+     "website": "https://modal.com",
+     "youtube_handle": "ModalLabs"
+    },
+    {
+     "api_id": "usr-MOYGTCXTc6ACz25",
+     "avatar_url": "https://images.lumacdn.com/avatars/2x/d067820f-6d3e-4858-b6c8-cd0660850cbb.png",
+     "bio_short": "The frontier AI research lab for visual intelligence.",
+     "first_name": "",
+     "last_name": "",
+     "instagram_handle": "bfl_ml",
+     "is_verified": false,
+     "linkedin_handle": "/company/bflai",
+     "name": "Black Forest Labs",
+     "tiktok_handle": null,
+     "timezone": "Europe/Berlin",
+     "twitter_handle": "bfl_ml",
+     "username": "blackforestlabs",
+     "website": "https://bfl.ai/",
+     "youtube_handle": "blackforestlabs-ai"
+    },
+    {
+     "api_id": "usr-VmHAL8MpHIq4Tkl",
+     "avatar_url": "https://images.lumacdn.com/uploads/bs/deff1712-2fa1-4f5b-a4fe-20b777c542a9.png",
+     "bio_short": "Leading edge research, proprietary models and agents",
+     "first_name": "",
+     "last_name": "",
+     "instagram_handle": null,
+     "is_verified": false,
+     "linkedin_handle": "/company/103833400",
+     "name": "H Company",
+     "tiktok_handle": null,
+     "timezone": "Europe/Paris",
+     "twitter_handle": "hcompany_ai",
+     "username": "hcompany",
+     "website": "https://hcompany.ai",
+     "youtube_handle": null
+    }
+   ],
+   "guest_count": 0,
+   "ticket_count": 0,
+   "ticket_info": {
+    "price": null,
+    "is_free": true,
+    "max_price": null,
+    "is_sold_out": false,
+    "spots_remaining": null,
+    "is_near_capacity": false,
+    "require_approval": true
+   },
+   "registration_availability": "open",
+   "featured_guests": [],
+   "manager_info": null,
+   "guest_info": null,
+   "host_info": null,
+   "waitlist_active": false,
+   "featured_city": {
+    "api_id": "discplace-NdLrh1xJfeotJZC",
+    "name": "Paris",
+    "slug": "paris"
+   },
+   "calendar_api_id": "cal-lYa2810srHvkQRC",
+   "is_manager": false,
+   "platform": "luma",
+   "status": "approved",
+   "submitted_by_user_api_id": "usr-2881P8Q7H3U4ndM",
+   "tags": []
+  },
+  {
+   "api_id": "calev-leu6LQCfcwoFuoW",
+   "event": {
+    "api_id": "evt-o20Nhu7iRvcZxQN",
+    "calendar_api_id": "cal-LPMnCK72N8V1Wro",
+    "cover_url": "https://images.lumacdn.com/uploads/kw/caf12acc-5f32-4371-8930-923873daaade.png",
+    "end_at": "2026-09-25T09:00:00.000Z",
+    "event_type": "independent",
+    "hide_rsvp": false,
+    "location_type": "offline",
+    "name": "Inference Engineering with Modal\u2019s Charles Frye",
+    "one_to_one": true,
+    "recurrence_id": null,
+    "show_guest_list": false,
+    "social_image_url": "https://images.lumacdn.com/event-social/qp/84ced59c-3adc-4b69-b594-3e97f20475c6.png",
+    "start_at": "2026-09-25T07:30:00.000Z",
+    "timezone": "Europe/London",
+    "url": "a5cpqc9o",
+    "user_api_id": "usr-tVcc3fkEf0atodP",
+    "visibility": "public",
+    "virtual_info": {
+     "has_access": false
+    },
+    "geo_address_info": {
+     "mode": "obfuscated"
+    },
+    "geo_address_visibility": "guests-only",
+    "coordinate": null,
+    "waitlist_enabled": false,
+    "waitlist_status": "disabled"
+   },
+   "cover_image": {
+    "colors": [
+     "#f7fbfe",
+     "#2c1a16",
+     "#b4db3a",
+     "#5d79c7"
+    ],
+    "palette": {
+     "neutral": [
+      {
+       "color": "#2c1a16",
+       "percentage": 14.05
+      },
+      {
+       "color": "#f7fbfe",
+       "percentage": 52.68
+      }
+     ],
+     "vibrant": [
+      {
+       "color": "#ef273b",
+       "percentage": 2.87
+      },
+      {
+       "color": "#b4db3a",
+       "percentage": 0.84
+      },
+      {
+       "color": "#5d79c7",
+       "percentage": 0.49
+      },
+      {
+       "color": "#c586b9",
+       "percentage": 4.67
+      }
+     ]
+    }
+   },
+   "calendar": {
+    "access_level": "public",
+    "api_id": "cal-LPMnCK72N8V1Wro",
+    "avatar_url": "https://images.lumacdn.com/calendars/yd/071e1c15-7bbb-47f0-a20a-5a6e2a4476f6.png",
+    "coordinate": null,
+    "cover_image_url": "https://images.lumacdn.com/calendar-cover-images/9p/97560278-54c5-467e-9c64-b476cc80ff76.png",
+    "description_short": "AI Roundtables: Curated deep dives with technical builders.",
+    "end_date": null,
+    "event_submission_restriction": "open",
+    "google_measurement_id": null,
+    "instagram_handle": null,
+    "is_blocked": false,
+    "is_verified": false,
+    "launch_status": "launched",
+    "linkedin_handle": "/company/earlybird-venture-capital",
+    "location": null,
+    "luma_plan": "plus",
+    "luma_plus_active": true,
+    "meta_pixel_id": null,
+    "name": "Gradient Descending",
+    "personal_user_api_id": null,
+    "refund_policy": null,
+    "slug": "gradientdescending",
+    "social_image_url": null,
+    "start_date": null,
+    "stripe_account_id": null,
+    "tax_config": null,
+    "tiktok_handle": null,
+    "tint_color": "#ED2B32",
+    "track_meta_ads_from_luma": false,
+    "twitter_handle": null,
+    "verified_at": "2026-04-29T15:52:41.989Z",
+    "website": "https://earlybird.com/",
+    "youtube_handle": null,
+    "is_personal": false,
+    "personal_user": null,
+    "timezone": null
+   },
+   "start_at": "2026-09-25T07:30:00.000Z",
+   "hosts": [
+    {
+     "api_id": "usr-tVcc3fkEf0atodP",
+     "avatar_url": "https://images.lumacdn.com/avatars/86/b6d4bafe-d215-4dfa-9287-d4497b58fd8c.png",
+     "bio_short": "Community @ Earlybird VC",
+     "first_name": "Anna",
+     "last_name": "Andersson",
+     "instagram_handle": null,
+     "is_verified": false,
+     "linkedin_handle": "/in/annandersson12",
+     "name": "Anna Andersson",
+     "tiktok_handle": null,
+     "timezone": "Europe/Madrid",
+     "twitter_handle": null,
+     "username": null,
+     "website": null,
+     "youtube_handle": ""
+    },
+    {
+     "api_id": "usr-5d8DK4Y38FH4jjd",
+     "avatar_url": "https://images.lumacdn.com/avatars/jt/638d32f7-8e17-48cc-97f7-c0ee0fa5dd1e.jpg",
+     "bio_short": "",
+     "first_name": "Akash",
+     "last_name": "Bajwa",
+     "instagram_handle": null,
+     "is_verified": false,
+     "linkedin_handle": "/in/akashbajwa",
+     "name": "Akash Bajwa",
+     "tiktok_handle": null,
+     "timezone": "Europe/London",
+     "twitter_handle": "AkashBajwa96",
+     "username": "akashbajwa",
+     "website": "https://akashbajwa.co",
+     "youtube_handle": ""
+    },
+    {
+     "api_id": "usr-ecesxjfxDXFVTBb",
+     "avatar_url": "https://images.lumacdn.com/uploads/tp/fe6d35a1-be14-4816-a7b9-6ae03408596d.jpg",
+     "bio_short": "Modal is the cloud platform for AI development. Run inference, training, and batch workloads on any GPU, at any scale.",
+     "first_name": "Will",
+     "last_name": "Reese",
+     "instagram_handle": null,
+     "is_verified": false,
+     "linkedin_handle": "/in/will-r-82361b53",
+     "name": "Modal",
+     "tiktok_handle": null,
+     "timezone": "America/New_York",
+     "twitter_handle": "modal",
+     "username": "Modal_Labs",
+     "website": "https://modal.com",
+     "youtube_handle": "ModalLabs"
+    },
+    {
+     "api_id": "usr-kGrR5uIAcCvDpzD",
+     "avatar_url": "https://images.lumacdn.com/avatars/pe/5d662a5d-5595-480f-a9c0-7ca39ba7eff2",
+     "bio_short": null,
+     "first_name": "Charles",
+     "last_name": "Frye",
+     "instagram_handle": null,
+     "is_verified": false,
+     "linkedin_handle": "/in/charles-frye-38654abb",
+     "name": "Charles Frye",
+     "tiktok_handle": null,
+     "timezone": "America/New_York",
+     "twitter_handle": "charles_irl",
+     "username": null,
+     "website": null,
+     "youtube_handle": ""
+    }
+   ],
+   "guest_count": 0,
+   "ticket_count": 0,
+   "ticket_info": {
+    "price": null,
+    "is_free": true,
+    "max_price": null,
+    "is_sold_out": false,
+    "spots_remaining": null,
+    "is_near_capacity": false,
+    "require_approval": true
+   },
+   "registration_availability": "open",
+   "featured_guests": [],
+   "manager_info": null,
+   "guest_info": null,
+   "host_info": null,
+   "waitlist_active": false,
+   "featured_city": null,
+   "calendar_api_id": "cal-lYa2810srHvkQRC",
+   "is_manager": false,
+   "platform": "luma",
+   "status": "approved",
+   "submitted_by_user_api_id": "usr-2881P8Q7H3U4ndM",
+   "tags": []
+  },
+  {
+   "api_id": "calev-HbwSCfVlXo94Pjc",
+   "event": {
+    "api_id": "evt-9ifwHpMXOX1nYhp",
+    "calendar_api_id": "cal-lYa2810srHvkQRC",
+    "cover_url": "https://images.lumacdn.com/uploads/0r/54988b63-0dd4-4c14-b96b-81da0d3f6961.gif",
+    "end_at": "2026-10-02T01:30:00.000Z",
+    "event_type": "independent",
+    "hide_rsvp": false,
+    "location_type": "offline",
+    "name": "Runtime by Modal",
+    "one_to_one": true,
+    "recurrence_id": null,
+    "show_guest_list": false,
+    "social_image_url": "https://images.lumacdn.com/event-social/bl/4d4537cb-b067-4439-bcb6-550e476572e4.png",
+    "start_at": "2026-10-01T15:30:00.000Z",
+    "timezone": "America/Los_Angeles",
+    "url": "runtime-by-modal",
+    "user_api_id": "usr-s7aq2cQ5tCMd9To",
+    "visibility": "public",
+    "virtual_info": {
+     "has_access": false
+    },
+    "geo_address_info": {
+     "city": "San Francisco",
+     "type": "google",
+     "region": "California",
+     "address": "The Midway",
+     "country": "United States",
+     "place_id": "ChIJ0Xb_IqR_j4ARoBy8BX7TMCE",
+     "localized": null,
+     "city_state": "San Francisco, CA",
+     "description": "",
+     "sublocality": "Central Waterfront",
+     "country_code": "US",
+     "full_address": "The Midway, 900 Marin St, San Francisco, CA 94124, USA",
+     "region_short": "CA",
+     "short_address": "900 Marin St, San Francisco",
+     "place_coordinate": null,
+     "apple_maps_place_id": "IA641CE4182F2F031",
+     "mode": "shown"
+    },
+    "geo_address_visibility": "public",
+    "coordinate": {
+     "longitude": -122.38569439999998,
+     "latitude": 37.749277400000004
+    },
+    "waitlist_enabled": false,
+    "waitlist_status": "disabled"
+   },
+   "cover_image": {
+    "colors": [
+     "#020101",
+     "#e0e0df",
+     "#92526f",
+     "#639f52"
+    ],
+    "palette": {
+     "neutral": [
+      {
+       "color": "#020101",
+       "percentage": 47.14
+      },
+      {
+       "color": "#e0e0df",
+       "percentage": 8.96
+      }
+     ],
+     "vibrant": [
+      {
+       "color": "#639f52",
+       "percentage": 4.55
+      },
+      {
+       "color": "#92526f",
+       "percentage": 5.48
+      }
+     ]
+    }
+   },
+   "calendar": {
+    "access_level": "public",
+    "api_id": "cal-lYa2810srHvkQRC",
+    "avatar_url": "https://images.lumacdn.com/calendars/uc/1185c97b-b497-40fe-b6a6-cfe657eb52a3.png",
+    "coordinate": null,
+    "cover_image_url": "https://images.lumacdn.com/calendar-cover-images/sk/1a6f92e2-2f41-4dc5-9caa-bcbb1c4741be.png",
+    "description_short": "AI infrastructure that developers love",
+    "end_date": null,
+    "event_submission_restriction": "open",
+    "google_measurement_id": null,
+    "instagram_handle": null,
+    "is_blocked": false,
+    "is_verified": false,
+    "launch_status": "launched",
+    "linkedin_handle": "/company/modal-labs",
+    "location": null,
+    "luma_plan": "plus",
+    "luma_plus_active": true,
+    "meta_pixel_id": null,
+    "name": "Modal",
+    "personal_user_api_id": null,
+    "refund_policy": null,
+    "slug": "modal-labs",
+    "social_image_url": "https://images.lumacdn.com/calendar-cover-images/mb/4193a519-2f48-4b5a-9192-18d1a9532dff.jpg",
+    "start_date": null,
+    "stripe_account_id": null,
+    "tax_config": null,
+    "tiktok_handle": null,
+    "tint_color": "#07a460",
+    "track_meta_ads_from_luma": false,
+    "twitter_handle": "modal",
+    "verified_at": "2025-08-13T15:28:11.931Z",
+    "website": "https://modal.com",
+    "youtube_handle": "ModalLabs",
+    "is_personal": false,
+    "personal_user": null,
+    "timezone": null
+   },
+   "start_at": "2026-10-01T15:30:00.000Z",
+   "hosts": [
+    {
+     "api_id": "usr-ecesxjfxDXFVTBb",
+     "avatar_url": "https://images.lumacdn.com/uploads/tp/fe6d35a1-be14-4816-a7b9-6ae03408596d.jpg",
+     "bio_short": "Modal is the cloud platform for AI development. Run inference, training, and batch workloads on any GPU, at any scale.",
+     "first_name": "Will",
+     "last_name": "Reese",
+     "instagram_handle": null,
+     "is_verified": false,
+     "linkedin_handle": "/in/will-r-82361b53",
+     "name": "Modal",
+     "tiktok_handle": null,
+     "timezone": "America/New_York",
+     "twitter_handle": "modal",
+     "username": "Modal_Labs",
+     "website": "https://modal.com",
+     "youtube_handle": "ModalLabs"
+    }
+   ],
+   "guest_count": 0,
+   "ticket_count": 0,
+   "ticket_info": {
+    "price": null,
+    "is_free": true,
+    "max_price": null,
+    "is_sold_out": false,
+    "spots_remaining": null,
+    "is_near_capacity": false,
+    "require_approval": true
+   },
+   "registration_availability": "open",
+   "featured_guests": [],
+   "manager_info": null,
+   "guest_info": null,
+   "host_info": null,
+   "waitlist_active": false,
+   "featured_city": {
+    "api_id": "discplace-BDj7GNbGlsF7Cka",
+    "name": "San Francisco",
+    "slug": "sf"
+   },
+   "calendar_api_id": "cal-lYa2810srHvkQRC",
+   "is_manager": true,
+   "platform": "luma",
+   "status": "approved",
+   "submitted_by_user_api_id": "usr-s7aq2cQ5tCMd9To",
+   "tags": []
+  },
+  {
+   "api_id": "calev-EgVmxU0yiFjBA3q",
+   "event": {
+    "api_id": "evt-qlNoZjWKJzEq5ao",
+    "calendar_api_id": "cal-lYa2810srHvkQRC",
+    "cover_url": "https://images.lumacdn.com/uploads/c7/35d76f2f-54ea-41d9-b8d6-ea0e5b62fbde.png",
+    "end_at": "2026-10-14T04:00:00.000Z",
+    "event_type": "independent",
+    "hide_rsvp": false,
+    "location_type": "offline",
+    "name": "AI Builder's Night",
+    "one_to_one": true,
+    "recurrence_id": null,
+    "show_guest_list": false,
+    "social_image_url": "https://images.lumacdn.com/event-social/9m/80b3fe17-5452-47bf-ac9d-b4871b1eeaea.png",
+    "start_at": "2026-10-14T01:00:00.000Z",
+    "timezone": "America/Los_Angeles",
+    "url": "aibuilders_techcrunch",
+    "user_api_id": "usr-ecesxjfxDXFVTBb",
+    "visibility": "public",
+    "virtual_info": {
+     "has_access": false
+    },
+    "geo_address_info": {
+     "city": "San Francisco",
+     "type": "google",
+     "region": "California",
+     "address": "Local Edition",
+     "country": "United States",
+     "place_id": "ChIJezfMa4iAhYARh5hM01QRydg",
+     "localized": null,
+     "city_state": "San Francisco, CA",
+     "description": "",
+     "sublocality": "Yerba Buena",
+     "country_code": "US",
+     "full_address": "Local Edition, 691 Market St, San Francisco, CA 94105, USA",
+     "region_short": "CA",
+     "short_address": "691 Market St, San Francisco",
+     "place_coordinate": {
+      "latitude": 37.7876173,
+      "longitude": -122.40314719999999
+     },
+     "apple_maps_place_id": "I1A77DE2862570240",
+     "mode": "shown"
+    },
+    "geo_address_visibility": "public",
+    "coordinate": {
+     "longitude": -122.40314719999999,
+     "latitude": 37.7876173
+    },
+    "waitlist_enabled": false,
+    "waitlist_status": "disabled"
+   },
+   "cover_image": {
+    "colors": [
+     "#052816",
+     "#0a5413",
+     "#0b5c40",
+     "#fcfdfa"
+    ],
+    "palette": {
+     "neutral": [
+      {
+       "color": "#052816",
+       "percentage": 51.37
+      },
+      {
+       "color": "#fcfdfa",
+       "percentage": 1.16
+      }
+     ],
+     "vibrant": [
+      {
+       "color": "#0a5413",
+       "percentage": 11.96
+      },
+      {
+       "color": "#0b5c40",
+       "percentage": 2.48
+      }
+     ]
+    }
+   },
+   "calendar": {
+    "access_level": "public",
+    "api_id": "cal-lYa2810srHvkQRC",
+    "avatar_url": "https://images.lumacdn.com/calendars/uc/1185c97b-b497-40fe-b6a6-cfe657eb52a3.png",
+    "coordinate": null,
+    "cover_image_url": "https://images.lumacdn.com/calendar-cover-images/sk/1a6f92e2-2f41-4dc5-9caa-bcbb1c4741be.png",
+    "description_short": "AI infrastructure that developers love",
+    "end_date": null,
+    "event_submission_restriction": "open",
+    "google_measurement_id": null,
+    "instagram_handle": null,
+    "is_blocked": false,
+    "is_verified": false,
+    "launch_status": "launched",
+    "linkedin_handle": "/company/modal-labs",
+    "location": null,
+    "luma_plan": "plus",
+    "luma_plus_active": true,
+    "meta_pixel_id": null,
+    "name": "Modal",
+    "personal_user_api_id": null,
+    "refund_policy": null,
+    "slug": "modal-labs",
+    "social_image_url": "https://images.lumacdn.com/calendar-cover-images/mb/4193a519-2f48-4b5a-9192-18d1a9532dff.jpg",
+    "start_date": null,
+    "stripe_account_id": null,
+    "tax_config": null,
+    "tiktok_handle": null,
+    "tint_color": "#07a460",
+    "track_meta_ads_from_luma": false,
+    "twitter_handle": "modal",
+    "verified_at": "2025-08-13T15:28:11.931Z",
+    "website": "https://modal.com",
+    "youtube_handle": "ModalLabs",
+    "is_personal": false,
+    "personal_user": null,
+    "timezone": null
+   },
+   "start_at": "2026-10-14T01:00:00.000Z",
+   "hosts": [
+    {
+     "api_id": "usr-ecesxjfxDXFVTBb",
+     "avatar_url": "https://images.lumacdn.com/uploads/tp/fe6d35a1-be14-4816-a7b9-6ae03408596d.jpg",
+     "bio_short": "Modal is the cloud platform for AI development. Run inference, training, and batch workloads on any GPU, at any scale.",
+     "first_name": "Will",
+     "last_name": "Reese",
+     "instagram_handle": null,
+     "is_verified": false,
+     "linkedin_handle": "/in/will-r-82361b53",
+     "name": "Modal",
+     "tiktok_handle": null,
+     "timezone": "America/New_York",
+     "twitter_handle": "modal",
+     "username": "Modal_Labs",
+     "website": "https://modal.com",
+     "youtube_handle": "ModalLabs"
+    },
+    {
+     "api_id": "usr-BB1swrHGAHy7LyT",
+     "avatar_url": "https://cdn.lu.ma/avatars-default/avatar_29.png",
+     "bio_short": null,
+     "first_name": "ke",
+     "last_name": "deng",
+     "instagram_handle": null,
+     "is_verified": false,
+     "linkedin_handle": "/in/justke",
+     "name": "ke deng",
+     "tiktok_handle": null,
+     "timezone": "America/Los_Angeles",
+     "twitter_handle": null,
+     "username": null,
+     "website": null,
+     "youtube_handle": null
+    },
+    {
+     "api_id": "usr-rpkdTxRlUfh0sCg",
+     "avatar_url": "https://cdn.lu.ma/avatars-default/avatar_33.png",
+     "bio_short": null,
+     "first_name": "Anna",
+     "last_name": "Wang",
+     "instagram_handle": null,
+     "is_verified": false,
+     "linkedin_handle": "/in/annaxwang",
+     "name": "Anna",
+     "tiktok_handle": null,
+     "timezone": "America/Los_Angeles",
+     "twitter_handle": null,
+     "username": null,
+     "website": null,
+     "youtube_handle": null
+    },
+    {
+     "api_id": "usr-dKLA3FH4evyDnDp",
+     "avatar_url": "https://images.lumacdn.com/avatars/d4/b65a8e53-0fc7-4fb3-922a-a581914c60eb.png",
+     "bio_short": "",
+     "first_name": "Ornella",
+     "last_name": "Altunyan",
+     "instagram_handle": null,
+     "is_verified": false,
+     "linkedin_handle": null,
+     "name": "Braintrust",
+     "tiktok_handle": null,
+     "timezone": "America/New_York",
+     "twitter_handle": "braintrust",
+     "username": "braintrustdata",
+     "website": "https://braintrust.dev",
+     "youtube_handle": "BraintrustData"
+    }
+   ],
+   "guest_count": 0,
+   "ticket_count": 0,
+   "ticket_info": {
+    "price": null,
+    "is_free": true,
+    "max_price": null,
+    "is_sold_out": false,
+    "spots_remaining": null,
+    "is_near_capacity": false,
+    "require_approval": true
+   },
+   "registration_availability": "open",
+   "featured_guests": [],
+   "manager_info": null,
+   "guest_info": null,
+   "host_info": null,
+   "waitlist_active": false,
+   "featured_city": null,
+   "calendar_api_id": "cal-lYa2810srHvkQRC",
+   "is_manager": true,
+   "platform": "luma",
+   "status": "approved",
+   "submitted_by_user_api_id": "usr-ecesxjfxDXFVTBb",
+   "tags": []
+  }
+ ],
+ "has_more": false
+}

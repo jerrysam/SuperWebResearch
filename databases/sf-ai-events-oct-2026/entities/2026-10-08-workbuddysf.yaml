@@ -1,0 +1,27 @@
+_meta:
+  last_researched: '2026-09-16'
+  sources:
+  - publisher: Luma (api.lu.ma)
+    url: https://luma.com/workbuddysf
+    retrieved: '2026-09-16'
+name: 'Hello Buddy: WorkBuddy SF Meetup'
+url: https://luma.com/workbuddysf
+platform: luma
+start_date: '2026-10-08'
+start_time: '18:00'
+city: San Francisco
+host_calendar: AI Builders
+hosts:
+- AI Builders
+- Aimee
+- Elenor Zhong
+companies_involved: []
+relevance_category: general_ai
+priority: optional
+registration_status: waitlist_or_approval
+in_trip_window: true
+description_snippet: Most AI tools live in a browser tab. The interesting ones live on your desktop —
+  where your files, your timeline, your reference folder, and the seventeen apps you actually work in
+  already are.That gap is what this evening is about. WorkBuddy.ai and AI Builders are putting the people
+  building deskto
+note: WorkBuddy meetup.

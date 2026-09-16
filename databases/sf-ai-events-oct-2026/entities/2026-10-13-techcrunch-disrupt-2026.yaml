@@ -1,0 +1,34 @@
+_meta:
+  last_researched: '2026-09-16'
+  sources:
+  - publisher: TechCrunch
+    url: https://techcrunch.com/events/techcrunch-disrupt/
+    retrieved: '2026-09-16'
+  - publisher: Moscone Center
+    url: https://www.moscone.com/events/techcrunch-disrupt-2026
+    retrieved: '2026-09-16'
+name: TechCrunch Disrupt 2026
+url: https://techcrunch.com/events/techcrunch-disrupt/
+platform: other
+start_date: '2026-10-13'
+start_time: 07:30
+end_date: '2026-10-15'
+city: San Francisco
+venue: Moscone West
+host_calendar: TechCrunch
+hosts:
+- TechCrunch
+companies_involved:
+- Replit (CEO Amjad Masad)
+- Lovable (GTM lead Ben Broca)
+- Anthropic (Cat de Jong)
+- OpenAI (Tara Seshan)
+- NVIDIA (Les Karpas)
+relevance_category: mega_conference
+priority: must_go
+registration_status: open
+in_trip_window: true
+description_snippet: 3-day startup conference at Moscone West. Attendee pass $849. Early badge pickup
+  Oct 12, 1-5pm.
+note: Everyone-is-there anchor like Dreamforce. Speakers include two target customers (Replit CEO, Lovable
+  GTM lead) plus Anthropic/OpenAI leadership - book sessions and side events around it.

@@ -1,0 +1,30 @@
+_meta:
+  last_researched: '2026-09-16'
+  sources:
+  - publisher: Luma (api.lu.ma)
+    url: https://luma.com/nssis
+    retrieved: '2026-09-16'
+name: NatSec + Space Innovation Summit | Fleet Week × SF Tech Week
+url: https://luma.com/nssis
+platform: luma
+start_date: '2026-10-08'
+start_time: 09:00
+city: San Francisco
+host_calendar: VetsinTech
+hosts:
+- VetsinTech
+- Kristopher Floyd
+- Katherine Webster
+companies_involved:
+- cognition
+- openai
+relevance_category: general_ai
+priority: optional
+registration_status: waitlist_or_approval
+in_trip_window: true
+description_snippet: 'The Department of Defense is embracing a commercial-first model: operating at startup
+  tempo, adopting dual-use technology, and shortening the path from breakthrough to fielded capability.The
+  Bay Area already holds the other half of the equation: the Defense Innovation Unit, NASA Ames, the national
+  l'
+note: NatSec/space summit (Fleet Week x Tech Week); Cognition and OpenAI mentioned in programme but defense-focused
+  audience.

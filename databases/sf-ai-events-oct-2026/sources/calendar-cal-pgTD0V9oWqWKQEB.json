@@ -1,0 +1,216 @@
+{
+ "entries": [
+  {
+   "api_id": "calev-DqUC6JvTBWUGsbI",
+   "event": {
+    "api_id": "evt-lcjF5SrxrxoQ6jo",
+    "calendar_api_id": "cal-pgTD0V9oWqWKQEB",
+    "cover_url": "https://images.lumacdn.com/uploads/ob/a1afeea6-ce44-4f85-9c48-c98805416708.png",
+    "end_at": "2026-10-09T03:30:00.000Z",
+    "event_type": "independent",
+    "hide_rsvp": false,
+    "location_type": "offline",
+    "name": "AI4Science: The Next Experiment",
+    "one_to_one": true,
+    "recurrence_id": null,
+    "show_guest_list": true,
+    "social_image_url": "https://images.lumacdn.com/event-social/ky/7d3de3bf-76a2-4d3e-9e8a-a29d96264ca4.png",
+    "start_at": "2026-10-09T01:30:00.000Z",
+    "timezone": "America/Los_Angeles",
+    "url": "j2d9fhek",
+    "user_api_id": "usr-9uFYbWkAobJU3Ny",
+    "visibility": "public",
+    "virtual_info": {
+     "has_access": false
+    },
+    "geo_address_info": {
+     "mode": "obfuscated",
+     "city": "San Francisco",
+     "city_state": "San Francisco, CA",
+     "sublocality": "Cow Hollow",
+     "country": "United States",
+     "country_code": "US",
+     "region": "California",
+     "region_short": "CA"
+    },
+    "geo_address_visibility": "guests-only",
+    "coordinate": {
+     "latitude": 37.79630900230579,
+     "longitude": -122.44079428030017
+    },
+    "waitlist_enabled": false,
+    "waitlist_status": "disabled"
+   },
+   "cover_image": {
+    "colors": [
+     "#f0cc73",
+     "#3a3526"
+    ],
+    "palette": {
+     "neutral": [
+      {
+       "color": "#3a3526",
+       "percentage": 1.15
+      }
+     ],
+     "vibrant": [
+      {
+       "color": "#f0cc73",
+       "percentage": 25.16
+      }
+     ]
+    }
+   },
+   "calendar": {
+    "access_level": "public",
+    "api_id": "cal-pgTD0V9oWqWKQEB",
+    "avatar_url": "https://cdn.lu.ma/avatars-default/community_avatar_2.png",
+    "coordinate": null,
+    "cover_image_url": null,
+    "description_short": null,
+    "end_date": null,
+    "event_submission_restriction": "open",
+    "google_measurement_id": null,
+    "instagram_handle": null,
+    "is_blocked": false,
+    "is_verified": false,
+    "launch_status": "launched",
+    "linkedin_handle": null,
+    "location": null,
+    "luma_plan": "free",
+    "luma_plus_active": false,
+    "meta_pixel_id": null,
+    "name": "Personal",
+    "personal_user_api_id": "usr-9uFYbWkAobJU3Ny",
+    "refund_policy": null,
+    "slug": null,
+    "social_image_url": null,
+    "start_date": null,
+    "stripe_account_id": null,
+    "tax_config": null,
+    "tiktok_handle": null,
+    "tint_color": "#F31A7C",
+    "track_meta_ads_from_luma": false,
+    "twitter_handle": null,
+    "verified_at": "2026-07-07T14:55:09.869Z",
+    "website": null,
+    "youtube_handle": null,
+    "is_personal": true,
+    "personal_user": {
+     "api_id": "usr-9uFYbWkAobJU3Ny",
+     "avatar_url": "https://images.lumacdn.com/avatars/yw/05fa9fb6-471d-4486-91df-5f434c0aaa5e.jpg",
+     "bio_short": null,
+     "first_name": "Naomi",
+     "last_name": "Xia",
+     "instagram_handle": "naomiiixia",
+     "is_verified": false,
+     "linkedin_handle": "/in/naomi-yue-xia",
+     "name": "Naomi Xia",
+     "tiktok_handle": null,
+     "timezone": "America/Los_Angeles",
+     "twitter_handle": "naomiiixia",
+     "username": "naomiiixia",
+     "website": null,
+     "youtube_handle": ""
+    },
+    "timezone": null
+   },
+   "start_at": "2026-10-09T01:30:00.000Z",
+   "hosts": [
+    {
+     "api_id": "usr-9uFYbWkAobJU3Ny",
+     "avatar_url": "https://images.lumacdn.com/avatars/yw/05fa9fb6-471d-4486-91df-5f434c0aaa5e.jpg",
+     "bio_short": null,
+     "first_name": "Naomi",
+     "last_name": "Xia",
+     "instagram_handle": "naomiiixia",
+     "is_verified": false,
+     "linkedin_handle": "/in/naomi-yue-xia",
+     "name": "Naomi Xia",
+     "tiktok_handle": null,
+     "timezone": "America/Los_Angeles",
+     "twitter_handle": "naomiiixia",
+     "username": "naomiiixia",
+     "website": null,
+     "youtube_handle": ""
+    },
+    {
+     "api_id": "usr-41JvQiTcMAE2upE",
+     "avatar_url": "https://images.lumacdn.com/avatars/jo/00e16bf3-4674-461d-a7c4-c510fcb08b67.jpg",
+     "bio_short": "",
+     "first_name": "Henry",
+     "last_name": "Yin",
+     "instagram_handle": "humanoidhenry",
+     "is_verified": false,
+     "linkedin_handle": "/in/henry-yin-88116a52",
+     "name": "Henry Yin",
+     "tiktok_handle": null,
+     "timezone": "America/Los_Angeles",
+     "twitter_handle": "HenryYin_",
+     "username": null,
+     "website": null,
+     "youtube_handle": ""
+    },
+    {
+     "api_id": "usr-8M8YfZ5REB2NB1N",
+     "avatar_url": "https://cdn.lu.ma/avatars-default/avatar_9.png",
+     "bio_short": "",
+     "first_name": "Priscilla",
+     "last_name": "Russo",
+     "instagram_handle": "thepkrusso",
+     "is_verified": false,
+     "linkedin_handle": "/in/priscilla-russo",
+     "name": "Priscilla Russo",
+     "tiktok_handle": null,
+     "timezone": "America/Los_Angeles",
+     "twitter_handle": "ByPRusso",
+     "username": null,
+     "website": null,
+     "youtube_handle": null
+    },
+    {
+     "api_id": "usr-mrHmUBQjH0Y9hDu",
+     "avatar_url": "https://cdn.lu.ma/avatars-default/avatar_28.png",
+     "bio_short": "",
+     "first_name": "Kyle",
+     "last_name": "Murphy",
+     "instagram_handle": null,
+     "is_verified": false,
+     "linkedin_handle": "/in/kyle-murphy-88b5a56b",
+     "name": "Kyle Murphy",
+     "tiktok_handle": null,
+     "timezone": "America/Los_Angeles",
+     "twitter_handle": null,
+     "username": null,
+     "website": null,
+     "youtube_handle": null
+    }
+   ],
+   "guest_count": 0,
+   "ticket_count": 0,
+   "ticket_info": {
+    "price": null,
+    "is_free": true,
+    "max_price": null,
+    "is_sold_out": false,
+    "spots_remaining": null,
+    "is_near_capacity": false,
+    "require_approval": true
+   },
+   "registration_availability": "open",
+   "featured_guests": [],
+   "manager_info": null,
+   "guest_info": null,
+   "host_info": null,
+   "waitlist_active": false,
+   "featured_city": null,
+   "calendar_api_id": "cal-pgTD0V9oWqWKQEB",
+   "is_manager": true,
+   "platform": "luma",
+   "status": "approved",
+   "submitted_by_user_api_id": "usr-9uFYbWkAobJU3Ny",
+   "tags": []
+  }
+ ],
+ "has_more": false
+}

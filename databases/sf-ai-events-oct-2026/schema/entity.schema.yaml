@@ -1,0 +1,98 @@
+$schema: "https://json-schema.org/draft/2020-12/schema"
+title: SF Bay Area AI event (Oct 2-16 2026 GTM trip)
+description: >
+  Normalised event listing used to build a GTM trip calendar for selling a
+  post-training / AI research product to top SF AI companies.
+type: object
+required:
+  - _meta
+  - name
+  - url
+  - platform
+  - start_date
+  - city
+  - host_calendar
+  - relevance_category
+  - priority
+  - in_trip_window
+properties:
+  _meta:
+    type: object
+  name:
+    type: string
+  url:
+    type: string
+  platform:
+    enum: [luma, partiful, other]
+  start_date:
+    type: string
+    description: "YYYY-MM-DD in America/Los_Angeles local time"
+  start_time:
+    type: string
+    description: "HH:MM local, or Unknown"
+  end_date:
+    type: string
+  city:
+    type: string
+  venue:
+    type: string
+  host_calendar:
+    type: string
+  hosts:
+    type: array
+    items: { type: string }
+  companies_involved:
+    type: array
+    items: { type: string }
+    description: "Derived: companies hosting, speaking, or sponsoring"
+  relevance_category:
+    enum:
+      - target_customer
+      - key_ai_company
+      - ai_infra_compute
+      - researchers_safety_rationalist
+      - gtm_growth
+      - senior_eng_leaders
+      - corporate_dev_enterprise
+      - community_spc
+      - mega_conference
+      - general_ai
+  priority:
+    enum: [must_go, strong, optional, skip]
+  registration_status:
+    enum: [open, sold_out, waitlist_or_approval, invite_only, Unknown]
+  in_trip_window:
+    type: boolean
+    description: "true if start_date is between 2026-10-02 and 2026-10-16 inclusive"
+  description_snippet:
+    type: string
+x-guidelines:
+  research_date: "2026-09-16"
+  sources: >
+    Luma internal JSON API (api.lu.ma/url, api.lu.ma/calendar/get-items,
+    discover feeds) enumerated by script; Partiful event pages for recurring
+    community events. Search engines used only to discover calendar slugs.
+  trip_window: "2026-10-02 to 2026-10-16 inclusive, San Francisco Bay Area."
+  target_customers: >
+    Top AI companies in Customer Success, Law, and Vibecoding: Sierra, Decagon,
+    ElevenLabs, Parloa, Harvey, Legora, Lovable, Replit, Cognition, Vercel
+    (v0). Any event hosted by or featuring these = relevance_category
+    target_customer and priority must_go.
+  key_ai_companies: >
+    Baseten, NVIDIA, SGLang, Fireworks, Together AI, Anthropic, OpenAI, Liquid,
+    Gradient, Grok/xAI, CoreWeave (incl. Weights & Biases), Mercor. Their
+    events = key_ai_company, priority must_go.
+  category_rules: >
+    ai_infra_compute = inference/compute/infra topic with big companies
+    involved (priority strong). researchers_safety_rationalist = paper clubs,
+    rationalist/EA/safety community events - back door to senior LLM people
+    (strong). gtm_growth = growth/GTM leader meetups for intro exchange
+    (strong). senior_eng_leaders = CTO/eng-leader dinners (strong).
+    corporate_dev_enterprise = corp dev / selling-into-enterprise content
+    (strong). community_spc = South Park Commons events (must_go).
+    mega_conference = everyone-is-there conferences (strong). general_ai =
+    everything else (optional).
+  priority_rule: >
+    must_go > strong > optional. Sold-out or invite-only events keep their
+    priority but flag registration_status so the user can chase an invite.
+  time_normalisation: "All times America/Los_Angeles. Multi-day events use start_date and end_date."

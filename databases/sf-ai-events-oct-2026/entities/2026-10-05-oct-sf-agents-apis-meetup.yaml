@@ -1,0 +1,22 @@
+_meta:
+  last_researched: '2026-09-16'
+  sources:
+  - publisher: Luma (api.lu.ma)
+    url: https://luma.com/Oct-SF-agents-APIs-meetup
+    retrieved: '2026-09-16'
+name: Agents & APIs SF Developer Meetup
+url: https://luma.com/Oct-SF-agents-APIs-meetup
+platform: luma
+start_date: '2026-10-05'
+start_time: '17:30'
+city: San Francisco
+host_calendar: Postman Developer Events
+hosts:
+- Patricia Dugan
+companies_involved: []
+relevance_category: general_ai
+priority: optional
+registration_status: open
+in_trip_window: true
+description_snippet: We will be hosting an event with SF Tech Week. Please sign up here.
+note: Postman agents/APIs meetup.

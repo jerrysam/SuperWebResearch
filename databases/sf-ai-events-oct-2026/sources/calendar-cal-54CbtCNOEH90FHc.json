@@ -1,0 +1,545 @@
+{
+ "entries": [
+  {
+   "api_id": "calev-YSo7r0w8C2ALq3k",
+   "event": {
+    "api_id": "evt-I3znjd9H1QapHj9",
+    "calendar_api_id": "cal-54CbtCNOEH90FHc",
+    "cover_url": "https://images.lumacdn.com/uploads/r0/caf2ba3c-30a0-4ba0-a2d5-2f30de70d7a1.png",
+    "end_at": "2026-09-19T03:00:00.000Z",
+    "event_type": "independent",
+    "hide_rsvp": false,
+    "location_type": "offline",
+    "name": "Building the Future of AI: Frontier Research Panel",
+    "one_to_one": true,
+    "recurrence_id": null,
+    "show_guest_list": true,
+    "social_image_url": "https://images.lumacdn.com/event-social/c3/cb7bf9e3-db2f-4f78-8f83-10230aaf66fe.png",
+    "start_at": "2026-09-19T01:00:00.000Z",
+    "timezone": "America/Los_Angeles",
+    "url": "zba4aoe2",
+    "user_api_id": "usr-dLfzpGQmPCtbojF",
+    "visibility": "public",
+    "virtual_info": {
+     "has_access": false
+    },
+    "geo_address_info": {
+     "city": "Berkeley",
+     "type": "google",
+     "region": "California",
+     "address": "The Gateway",
+     "country": "United States",
+     "place_id": "ChIJd2Dtyjp8hYARb8UVDnQBmi4",
+     "localized": null,
+     "city_state": "Berkeley, CA",
+     "description": "The Gateway Auditorium 1210",
+     "sublocality": null,
+     "country_code": "US",
+     "full_address": "The Gateway, 2300 Hearst Ave, Berkeley, CA 94703, USA",
+     "region_short": "CA",
+     "short_address": "2300 Hearst Ave, Berkeley",
+     "place_coordinate": {
+      "latitude": 37.8740904,
+      "longitude": -122.2639462
+     },
+     "apple_maps_place_id": "IBA297FD8779E8347",
+     "mode": "shown"
+    },
+    "geo_address_visibility": "public",
+    "coordinate": {
+     "longitude": -122.2639462,
+     "latitude": 37.8740904
+    },
+    "waitlist_enabled": false,
+    "waitlist_status": "disabled"
+   },
+   "cover_image": {
+    "colors": [
+     "#013262",
+     "#f6f5f3",
+     "#f0b220",
+     "#eb3960"
+    ],
+    "palette": {
+     "neutral": [
+      {
+       "color": "#013262",
+       "percentage": 51.18
+      },
+      {
+       "color": "#f6f5f3",
+       "percentage": 19.33
+      }
+     ],
+     "vibrant": [
+      {
+       "color": "#f0b220",
+       "percentage": 3.87
+      },
+      {
+       "color": "#4887f4",
+       "percentage": 1
+      },
+      {
+       "color": "#eb3960",
+       "percentage": 0.23
+      },
+      {
+       "color": "#26958d",
+       "percentage": 0.44
+      }
+     ]
+    }
+   },
+   "calendar": {
+    "access_level": "public",
+    "api_id": "cal-54CbtCNOEH90FHc",
+    "avatar_url": "https://images.lumacdn.com/uploads/sn/4c4c5528-40a9-4b93-8361-0629c926ba83.jpg",
+    "coordinate": null,
+    "cover_image_url": "https://images.unsplash.com/photo-1694391505705-7fde96f6f14f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjQyMjF8MHwxfHNlYXJjaHwxfHxiZXJrZWxleXxlbnwwfHx8fDE3ODc4OTQxMTl8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "description_short": "",
+    "end_date": null,
+    "event_submission_restriction": "open",
+    "google_measurement_id": null,
+    "instagram_handle": null,
+    "is_blocked": false,
+    "is_verified": false,
+    "launch_status": "launched",
+    "linkedin_handle": null,
+    "location": null,
+    "luma_plan": "free",
+    "luma_plus_active": false,
+    "meta_pixel_id": null,
+    "name": "Hello World Mentorship",
+    "personal_user_api_id": null,
+    "refund_policy": null,
+    "slug": "cdss-hello-world",
+    "social_image_url": null,
+    "start_date": null,
+    "stripe_account_id": null,
+    "tax_config": null,
+    "tiktok_handle": null,
+    "tint_color": "#D69712",
+    "track_meta_ads_from_luma": false,
+    "twitter_handle": null,
+    "verified_at": "2026-08-28T05:33:45.228Z",
+    "website": "https://cdss.berkeley.edu/hello-world",
+    "youtube_handle": null,
+    "is_personal": false,
+    "personal_user": null,
+    "timezone": null
+   },
+   "start_at": "2026-09-19T01:00:00.000Z",
+   "hosts": [
+    {
+     "api_id": "usr-dLfzpGQmPCtbojF",
+     "avatar_url": "https://images.lumacdn.com/uploads/40/9fdbbed6-9258-452e-ad3a-14098e22bae2.jpg",
+     "bio_short": "",
+     "first_name": "Arda",
+     "last_name": "Hoke",
+     "instagram_handle": null,
+     "is_verified": false,
+     "linkedin_handle": "/in/ardahk",
+     "name": "Arda Hoke",
+     "tiktok_handle": null,
+     "timezone": "America/Los_Angeles",
+     "twitter_handle": "ardahoke",
+     "username": "hoke",
+     "website": null,
+     "youtube_handle": "hoke20"
+    },
+    {
+     "api_id": "usr-jeF9q6KuOWU6ENF",
+     "avatar_url": "https://images.lumacdn.com/avatars/6a/470660c8-4e6e-43f7-8f33-3c333f7bf776.png",
+     "bio_short": null,
+     "first_name": "Heba",
+     "last_name": "Alazzeh",
+     "instagram_handle": "alazzeh_heba",
+     "is_verified": false,
+     "linkedin_handle": "/in/heba-alazzeh",
+     "name": "Heba Alazzeh",
+     "tiktok_handle": null,
+     "timezone": "America/Los_Angeles",
+     "twitter_handle": null,
+     "username": "alazzehheba",
+     "website": null,
+     "youtube_handle": ""
+    },
+    {
+     "api_id": "usr-CUCGYqe25n0Mg87",
+     "avatar_url": "https://cdn.lu.ma/avatars-default/avatar_29.png",
+     "bio_short": null,
+     "first_name": "Marcia",
+     "last_name": "Breslin-Cantillana",
+     "instagram_handle": null,
+     "is_verified": false,
+     "linkedin_handle": null,
+     "name": "Marcia Breslin-cantillana",
+     "tiktok_handle": null,
+     "timezone": "America/Los_Angeles",
+     "twitter_handle": null,
+     "username": null,
+     "website": null,
+     "youtube_handle": null
+    }
+   ],
+   "guest_count": 537,
+   "ticket_count": 537,
+   "ticket_info": {
+    "price": null,
+    "is_free": true,
+    "max_price": null,
+    "is_sold_out": false,
+    "spots_remaining": null,
+    "is_near_capacity": false,
+    "require_approval": false
+   },
+   "registration_availability": "open",
+   "featured_guests": [
+    {
+     "api_id": "usr-J29AOcfq2ppkH4V",
+     "avatar_url": "https://images.lumacdn.com/avatars/xb/459023fb-e8e1-45ad-a45a-6d8878bd7256.jpg",
+     "bio_short": "",
+     "first_name": "Lauri",
+     "last_name": "Sippola",
+     "instagram_handle": "sippolauri",
+     "is_verified": false,
+     "linkedin_handle": "/in/lauri-sippola-8a281152",
+     "name": "Lauri Sippola",
+     "tiktok_handle": null,
+     "timezone": "Asia/Shanghai",
+     "twitter_handle": "laurisippola",
+     "username": "laurisippola",
+     "website": null,
+     "youtube_handle": "Lartti"
+    },
+    {
+     "api_id": "usr-Ico4L2rBQ7z6y7I",
+     "avatar_url": "https://images.lumacdn.com/uploads/1r/908e08a2-ea1a-4792-937e-04efeba0d175.jpg",
+     "bio_short": null,
+     "first_name": "Pedro",
+     "last_name": "Miguel",
+     "instagram_handle": null,
+     "is_verified": false,
+     "linkedin_handle": "/in/pedro-torrao",
+     "name": "Pedro Miguel",
+     "tiktok_handle": null,
+     "timezone": "America/Los_Angeles",
+     "twitter_handle": null,
+     "username": null,
+     "website": null,
+     "youtube_handle": null
+    },
+    {
+     "api_id": "usr-LRXN4Sl3NKrcGCo",
+     "avatar_url": "https://images.lumacdn.com/uploads/si/9a0a3762-b5b8-4f9f-8224-cd3f79dccd23.png",
+     "bio_short": null,
+     "first_name": "Maxwell",
+     "last_name": "Palance",
+     "instagram_handle": null,
+     "is_verified": false,
+     "linkedin_handle": null,
+     "name": "Maxwell Palance",
+     "tiktok_handle": null,
+     "timezone": "America/Los_Angeles",
+     "twitter_handle": null,
+     "username": null,
+     "website": null,
+     "youtube_handle": null
+    },
+    {
+     "api_id": "usr-u3BEulwj5y2SSSC",
+     "avatar_url": "https://images.lumacdn.com/uploads/ex/422e5e49-9f7b-4e91-b7f7-ede6a4c95274.jpg",
+     "bio_short": "I like computers and math",
+     "first_name": "Steven",
+     "last_name": "Millan-Villegas",
+     "instagram_handle": null,
+     "is_verified": false,
+     "linkedin_handle": "/in/thesteven123",
+     "name": "Steven Millan-Villegas",
+     "tiktok_handle": null,
+     "timezone": "America/Los_Angeles",
+     "twitter_handle": null,
+     "username": null,
+     "website": null,
+     "youtube_handle": null
+    },
+    {
+     "api_id": "usr-DFgJ85mVmLPgvdb",
+     "avatar_url": "https://images.lumacdn.com/avatars/wf/74fa867f-a1f9-4fe7-aff0-b9182f93d7f8.jpg",
+     "bio_short": "",
+     "first_name": "Dean",
+     "last_name": "Wu",
+     "instagram_handle": null,
+     "is_verified": false,
+     "linkedin_handle": "/in/deanswu",
+     "name": "Dean Wu",
+     "tiktok_handle": null,
+     "timezone": "America/Los_Angeles",
+     "twitter_handle": "dean_wu_",
+     "username": null,
+     "website": null,
+     "youtube_handle": null
+    },
+    {
+     "api_id": "usr-YlDUIr79eluPYOQ",
+     "avatar_url": "https://images.lumacdn.com/avatars/5t/40b8e56a-8eda-4e9d-bdf8-173d889eeb9c.png",
+     "bio_short": null,
+     "first_name": "Dylan Christopher",
+     "last_name": "Chen",
+     "instagram_handle": null,
+     "is_verified": false,
+     "linkedin_handle": "/in/dylancc5",
+     "name": "Dylan Chen",
+     "tiktok_handle": null,
+     "timezone": "America/Los_Angeles",
+     "twitter_handle": "KittenOverlord1",
+     "username": "dylancc5",
+     "website": null,
+     "youtube_handle": ""
+    },
+    {
+     "api_id": "usr-02GVmAmcq6h9DZ2",
+     "avatar_url": "https://images.lumacdn.com/avatars/go/f006b491-170b-4285-a1d2-2b9bfc454f66.jpg",
+     "bio_short": null,
+     "first_name": "Samuel",
+     "last_name": "Aleksander Sanchez",
+     "instagram_handle": null,
+     "is_verified": false,
+     "linkedin_handle": "/in/samuel-aleksander-sanchez",
+     "name": "Samuel Aleksander Sanchez",
+     "tiktok_handle": null,
+     "timezone": "America/Los_Angeles",
+     "twitter_handle": null,
+     "username": null,
+     "website": null,
+     "youtube_handle": ""
+    },
+    {
+     "api_id": "usr-m8ge07oeaAUw8Vb",
+     "avatar_url": "https://images.lumacdn.com/avatars/t7/e514f56c-2ff9-4080-bae3-5bae1adffc97.jpg",
+     "bio_short": "",
+     "first_name": "Akhil",
+     "last_name": "Neelam",
+     "instagram_handle": null,
+     "is_verified": false,
+     "linkedin_handle": "/in/akhilneelam",
+     "name": "Akhil Neelam",
+     "tiktok_handle": null,
+     "timezone": "America/Los_Angeles",
+     "twitter_handle": null,
+     "username": null,
+     "website": "https://akhilneelam.com",
+     "youtube_handle": ""
+    },
+    {
+     "api_id": "usr-u1ns38McvBCv0YW",
+     "avatar_url": "https://images.lumacdn.com/avatars/zp/ce9623bb-7e6d-4cd4-be6b-a8e8d30cc3b2.jpg",
+     "bio_short": "",
+     "first_name": "Madeline",
+     "last_name": "Agusalim",
+     "instagram_handle": null,
+     "is_verified": false,
+     "linkedin_handle": "/in/madeline-louise-agusalim",
+     "name": "Madeline LA",
+     "tiktok_handle": null,
+     "timezone": "America/Los_Angeles",
+     "twitter_handle": "MadelineLA71391",
+     "username": null,
+     "website": null,
+     "youtube_handle": null
+    },
+    {
+     "api_id": "usr-bLPNo0zKSehWBPB",
+     "avatar_url": "https://images.lumacdn.com/avatars/bi/c8f8bb87-1d48-42c1-87fd-8339c41c02e1.jpg",
+     "bio_short": "Agentic AI Safety @Snowflake, @SarvamAI, @Indeed.com. MBA @BerkeleyHaas, CS @IIITHyderabad",
+     "first_name": "Devansh",
+     "last_name": "Shah",
+     "instagram_handle": "devanshx",
+     "is_verified": false,
+     "linkedin_handle": "/in/shahdevansh",
+     "name": "Devansh Shah",
+     "tiktok_handle": null,
+     "timezone": "America/Los_Angeles",
+     "twitter_handle": "theboyinatux",
+     "username": null,
+     "website": null,
+     "youtube_handle": null
+    }
+   ],
+   "manager_info": null,
+   "guest_info": null,
+   "host_info": null,
+   "waitlist_active": false,
+   "featured_city": null,
+   "calendar_api_id": "cal-54CbtCNOEH90FHc",
+   "is_manager": true,
+   "platform": "luma",
+   "status": "approved",
+   "submitted_by_user_api_id": "usr-dLfzpGQmPCtbojF",
+   "tags": []
+  },
+  {
+   "api_id": "calev-FLdpGT4Wp4qAz3C",
+   "event": {
+    "api_id": "evt-pNhnM7ctBMlezRT",
+    "calendar_api_id": "cal-54CbtCNOEH90FHc",
+    "cover_url": "https://images.lumacdn.com/uploads/ts/ccf46251-d5c7-4ca6-bd8e-7ec87af669fe.png",
+    "end_at": "2026-09-25T01:00:00.000Z",
+    "event_type": "independent",
+    "hide_rsvp": false,
+    "location_type": "offline",
+    "name": "Innovation as a Teachable Skill: From Creativity to Market Success",
+    "one_to_one": true,
+    "recurrence_id": null,
+    "show_guest_list": false,
+    "social_image_url": "https://images.lumacdn.com/event-social/9d/31ae7679-5526-431e-be98-afd89091c770.png",
+    "start_at": "2026-09-24T23:30:00.000Z",
+    "timezone": "America/Los_Angeles",
+    "url": "ciu7ynqz",
+    "user_api_id": "usr-dLfzpGQmPCtbojF",
+    "visibility": "public",
+    "virtual_info": {
+     "has_access": false
+    },
+    "geo_address_info": {
+     "city": "Berkeley",
+     "type": "google",
+     "region": "California",
+     "address": "The Gateway",
+     "country": "United States",
+     "place_id": "ChIJd2Dtyjp8hYARb8UVDnQBmi4",
+     "localized": null,
+     "city_state": "Berkeley, CA",
+     "description": "First Floor Social Kitchen is located on the West side of the ground floor",
+     "sublocality": null,
+     "country_code": "US",
+     "full_address": "The Gateway, 2300 Hearst Ave, Berkeley, CA 94703, USA",
+     "region_short": "CA",
+     "short_address": "2300 Hearst Ave, Berkeley",
+     "place_coordinate": {
+      "latitude": 37.8740904,
+      "longitude": -122.2639462
+     },
+     "apple_maps_place_id": "IBA297FD8779E8347",
+     "mode": "shown"
+    },
+    "geo_address_visibility": "public",
+    "coordinate": {
+     "longitude": -122.2639462,
+     "latitude": 37.8740904
+    },
+    "waitlist_enabled": false,
+    "waitlist_status": "disabled"
+   },
+   "cover_image": {
+    "colors": [
+     "#003261",
+     "#f2f2f0",
+     "#f5c14c"
+    ],
+    "palette": {
+     "neutral": [
+      {
+       "color": "#003261",
+       "percentage": 47.53
+      },
+      {
+       "color": "#f2f2f0",
+       "percentage": 23.77
+      }
+     ],
+     "vibrant": [
+      {
+       "color": "#f5c14c",
+       "percentage": 0.89
+      }
+     ]
+    }
+   },
+   "calendar": {
+    "access_level": "public",
+    "api_id": "cal-54CbtCNOEH90FHc",
+    "avatar_url": "https://images.lumacdn.com/uploads/sn/4c4c5528-40a9-4b93-8361-0629c926ba83.jpg",
+    "coordinate": null,
+    "cover_image_url": "https://images.unsplash.com/photo-1694391505705-7fde96f6f14f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjQyMjF8MHwxfHNlYXJjaHwxfHxiZXJrZWxleXxlbnwwfHx8fDE3ODc4OTQxMTl8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "description_short": "",
+    "end_date": null,
+    "event_submission_restriction": "open",
+    "google_measurement_id": null,
+    "instagram_handle": null,
+    "is_blocked": false,
+    "is_verified": false,
+    "launch_status": "launched",
+    "linkedin_handle": null,
+    "location": null,
+    "luma_plan": "free",
+    "luma_plus_active": false,
+    "meta_pixel_id": null,
+    "name": "Hello World Mentorship",
+    "personal_user_api_id": null,
+    "refund_policy": null,
+    "slug": "cdss-hello-world",
+    "social_image_url": null,
+    "start_date": null,
+    "stripe_account_id": null,
+    "tax_config": null,
+    "tiktok_handle": null,
+    "tint_color": "#D69712",
+    "track_meta_ads_from_luma": false,
+    "twitter_handle": null,
+    "verified_at": "2026-08-28T05:33:45.228Z",
+    "website": "https://cdss.berkeley.edu/hello-world",
+    "youtube_handle": null,
+    "is_personal": false,
+    "personal_user": null,
+    "timezone": null
+   },
+   "start_at": "2026-09-24T23:30:00.000Z",
+   "hosts": [
+    {
+     "api_id": "usr-dLfzpGQmPCtbojF",
+     "avatar_url": "https://images.lumacdn.com/uploads/40/9fdbbed6-9258-452e-ad3a-14098e22bae2.jpg",
+     "bio_short": "",
+     "first_name": "Arda",
+     "last_name": "Hoke",
+     "instagram_handle": null,
+     "is_verified": false,
+     "linkedin_handle": "/in/ardahk",
+     "name": "Arda Hoke",
+     "tiktok_handle": null,
+     "timezone": "America/Los_Angeles",
+     "twitter_handle": "ardahoke",
+     "username": "hoke",
+     "website": null,
+     "youtube_handle": "hoke20"
+    }
+   ],
+   "guest_count": 0,
+   "ticket_count": 0,
+   "ticket_info": {
+    "price": null,
+    "is_free": true,
+    "max_price": null,
+    "is_sold_out": false,
+    "spots_remaining": null,
+    "is_near_capacity": false,
+    "require_approval": false
+   },
+   "registration_availability": "open",
+   "featured_guests": [],
+   "manager_info": null,
+   "guest_info": null,
+   "host_info": null,
+   "waitlist_active": false,
+   "featured_city": null,
+   "calendar_api_id": "cal-54CbtCNOEH90FHc",
+   "is_manager": true,
+   "platform": "luma",
+   "status": "approved",
+   "submitted_by_user_api_id": "usr-dLfzpGQmPCtbojF",
+   "tags": []
+  }
+ ],
+ "has_more": false
+}

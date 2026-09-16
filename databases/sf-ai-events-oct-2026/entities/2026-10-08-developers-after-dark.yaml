@@ -1,0 +1,25 @@
+_meta:
+  last_researched: '2026-09-16'
+  sources:
+  - publisher: Luma (api.lu.ma)
+    url: https://luma.com/developers-after-dark
+    retrieved: '2026-09-16'
+name: Developers after Dark
+url: https://luma.com/developers-after-dark
+platform: luma
+start_date: '2026-10-08'
+start_time: '18:00'
+city: San Francisco
+host_calendar: WorkOS Events
+hosts:
+- WorkOS
+companies_involved: []
+relevance_category: general_ai
+priority: optional
+registration_status: waitlist_or_approval
+in_trip_window: true
+description_snippet: 'Celebrate the end of #SFTechWeek at Developers After Dark, an evening of technology,
+  nostalgia, and a little after-hours fun at the Exploratorium.We''re rolling in a pop-up roadshow of
+  vintage tech and nerding out on ESP32-S3 boards on the spot (so, make sure to bring your laptop). Grab
+  a drink, get '
+note: WorkOS developers social - good init() follow-on.

@@ -1,0 +1,2574 @@
+{
+ "entries": [
+  {
+   "api_id": "calev-FjPpIjjHZ189bVz",
+   "event": {
+    "api_id": "evt-JboNKgDQrd0olE0",
+    "calendar_api_id": "cal-rPELVGeAPWYowo2",
+    "cover_url": "https://images.lumacdn.com/uploads/7a/048cb2dd-1dea-4337-88ef-4d3265fdd270.png",
+    "end_at": "2026-09-20T19:00:00.000Z",
+    "event_type": "independent",
+    "hide_rsvp": false,
+    "location_type": "offline",
+    "name": "London AI\u00d7Bio Hack",
+    "one_to_one": true,
+    "recurrence_id": null,
+    "show_guest_list": false,
+    "social_image_url": "https://images.lumacdn.com/event-social/ep/65148666-7c65-4a6f-a95d-7ad2d13babe2.png",
+    "start_at": "2026-09-18T14:00:00.000Z",
+    "timezone": "Europe/London",
+    "url": "87m4mw6b",
+    "user_api_id": "usr-gi8tTqlliyGymAb",
+    "visibility": "public",
+    "virtual_info": {
+     "has_access": false
+    },
+    "geo_address_info": {
+     "mode": "obfuscated",
+     "city": "London",
+     "city_state": "London, United Kingdom",
+     "sublocality": null,
+     "country": "United Kingdom",
+     "country_code": "GB",
+     "region": "England",
+     "region_short": "England"
+    },
+    "geo_address_visibility": "guests-only",
+    "coordinate": {
+     "latitude": 51.51558601072696,
+     "longitude": -0.22476743381305794
+    },
+    "waitlist_enabled": true,
+    "waitlist_status": "active"
+   },
+   "cover_image": {
+    "colors": [
+     "#fefefe",
+     "#040404",
+     "#65bc23",
+     "#8798da"
+    ],
+    "palette": {
+     "neutral": [
+      {
+       "color": "#040404",
+       "percentage": 2.84
+      },
+      {
+       "color": "#fefefe",
+       "percentage": 93.86
+      }
+     ],
+     "vibrant": [
+      {
+       "color": "#65bc23",
+       "percentage": 0.18
+      },
+      {
+       "color": "#8798da",
+       "percentage": 0.1
+      },
+      {
+       "color": "#ecd46f",
+       "percentage": 0.05
+      }
+     ]
+    }
+   },
+   "calendar": {
+    "access_level": "public",
+    "api_id": "cal-rPELVGeAPWYowo2",
+    "avatar_url": "https://images.lumacdn.com/uploads/1r/55d9a215-203c-4540-b242-17d2e1e4ca4f.jpg",
+    "coordinate": null,
+    "cover_image_url": null,
+    "description_short": "We create and run laboratories and innovation spaces for science and deep tech ventures.",
+    "end_date": null,
+    "event_submission_restriction": "open",
+    "google_measurement_id": null,
+    "instagram_handle": null,
+    "is_blocked": false,
+    "is_verified": false,
+    "launch_status": "launched",
+    "linkedin_handle": null,
+    "location": null,
+    "luma_plan": "free",
+    "luma_plus_active": false,
+    "meta_pixel_id": null,
+    "name": "WilbeLABS",
+    "personal_user_api_id": null,
+    "refund_policy": null,
+    "slug": "wilbelabs",
+    "social_image_url": null,
+    "start_date": null,
+    "stripe_account_id": null,
+    "tax_config": null,
+    "tiktok_handle": null,
+    "tint_color": "#fadb66",
+    "track_meta_ads_from_luma": false,
+    "twitter_handle": null,
+    "verified_at": "2026-06-17T10:21:14.184Z",
+    "website": null,
+    "youtube_handle": null,
+    "is_personal": false,
+    "personal_user": null,
+    "timezone": null
+   },
+   "start_at": "2026-09-18T14:00:00.000Z",
+   "hosts": [
+    {
+     "api_id": "usr-RtF6aJlfvEDCztl",
+     "avatar_url": "https://images.lumacdn.com/avatars/sw/e5394450-d3ec-4148-91b7-add03ce5f57c",
+     "bio_short": "PhD Candidate @ University of Oxford / Applied Research Scientist @ NVIDIA",
+     "first_name": "Bruno",
+     "last_name": "Trentini",
+     "instagram_handle": null,
+     "is_verified": false,
+     "linkedin_handle": "/in/btrentini",
+     "name": "Bruno Trentini",
+     "tiktok_handle": null,
+     "timezone": "Europe/London",
+     "twitter_handle": "brtrentini",
+     "username": "brtrentini",
+     "website": null,
+     "youtube_handle": ""
+    },
+    {
+     "api_id": "usr-NYX18DLahZGlowB",
+     "avatar_url": "https://images.lumacdn.com/uploads/sj/48436753-5dc7-4fe1-9897-1d227964064b.png",
+     "bio_short": "Digital Biology @ NVIDIA",
+     "first_name": "Daniel",
+     "last_name": "Burkhardt",
+     "instagram_handle": null,
+     "is_verified": false,
+     "linkedin_handle": "/in/daniel-burkhardt",
+     "name": "Daniel Burkhardt",
+     "tiktok_handle": null,
+     "timezone": "America/Toronto",
+     "twitter_handle": null,
+     "username": null,
+     "website": null,
+     "youtube_handle": ""
+    },
+    {
+     "api_id": "usr-aGZcmrzdO0asDCK",
+     "avatar_url": "https://cdn.lu.ma/avatars-default/avatar_40.png",
+     "bio_short": null,
+     "first_name": "Konstantin",
+     "last_name": "Hemker",
+     "instagram_handle": null,
+     "is_verified": false,
+     "linkedin_handle": null,
+     "name": "Konstantin Hemker",
+     "tiktok_handle": null,
+     "timezone": "Europe/Berlin",
+     "twitter_handle": null,
+     "username": null,
+     "website": null,
+     "youtube_handle": null
+    },
+    {
+     "api_id": "usr-zCJRK6vofpjv5Cb",
+     "avatar_url": "https://images.lumacdn.com/avatars/4n/8101ae24-3732-4630-b6b4-339eab92ebc4.jpg",
+     "bio_short": null,
+     "first_name": "Subaita",
+     "last_name": "Rahman",
+     "instagram_handle": null,
+     "is_verified": false,
+     "linkedin_handle": "/in/subaita-rahman",
+     "name": "Subaita Rahman",
+     "tiktok_handle": null,
+     "timezone": "Europe/London",
+     "twitter_handle": "subaita_rahman",
+     "username": null,
+     "website": null,
+     "youtube_handle": ""
+    },
+    {
+     "api_id": "usr-gi8tTqlliyGymAb",
+     "avatar_url": "https://images.lumacdn.com/avatars/9t/0721ce93-7c1d-46df-a972-13609a432060.jpg",
+     "bio_short": "We Build for Science.",
+     "first_name": "",
+     "last_name": "",
+     "instagram_handle": null,
+     "is_verified": false,
+     "linkedin_handle": null,
+     "name": "WilbeLABS",
+     "tiktok_handle": null,
+     "timezone": "Europe/London",
+     "twitter_handle": null,
+     "username": null,
+     "website": null,
+     "youtube_handle": ""
+    },
+    {
+     "api_id": "usr-PEJvEJ0GkAK6NTg",
+     "avatar_url": "https://images.lumacdn.com/avatars/7q/ee2f2dd4-47dc-4ba8-8a14-5040bb101a5e",
+     "bio_short": "",
+     "first_name": "Wilbe",
+     "last_name": "",
+     "instagram_handle": null,
+     "is_verified": false,
+     "linkedin_handle": "/company/wilbe",
+     "name": "Wilbe",
+     "tiktok_handle": null,
+     "timezone": "Europe/London",
+     "twitter_handle": "wilbe_science",
+     "username": null,
+     "website": "https://www.wilbe.com",
+     "youtube_handle": "wilbescience"
+    },
+    {
+     "api_id": "usr-WwivSefltvBKasR",
+     "avatar_url": "https://images.lumacdn.com/uploads/68/1423850c-c5ff-48df-96ab-5280c296398c.png",
+     "bio_short": "OpenAI\u2019s mission is to ensure that artificial general intelligence benefits all of humanity.",
+     "first_name": null,
+     "last_name": null,
+     "instagram_handle": null,
+     "is_verified": false,
+     "linkedin_handle": null,
+     "name": "OpenAI",
+     "tiktok_handle": null,
+     "timezone": "Asia/Tokyo",
+     "twitter_handle": "openai",
+     "username": "openai",
+     "website": "https://openai.com/",
+     "youtube_handle": ""
+    },
+    {
+     "api_id": "usr-fgWuHfPAh8UZSam",
+     "avatar_url": "https://images.lumacdn.com/uploads/ry/c93b93f4-e184-434b-8e3c-c8f6ede151a0.png",
+     "bio_short": "Developer Community @ NVIDIA",
+     "first_name": "NVIDIA",
+     "last_name": "",
+     "instagram_handle": null,
+     "is_verified": false,
+     "linkedin_handle": "/in/ayesha-a-asif",
+     "name": "NVIDIA",
+     "tiktok_handle": null,
+     "timezone": "America/Toronto",
+     "twitter_handle": null,
+     "username": "nvidiadeveloper",
+     "website": null,
+     "youtube_handle": null
+    }
+   ],
+   "guest_count": 0,
+   "ticket_count": 0,
+   "ticket_info": {
+    "price": null,
+    "is_free": true,
+    "max_price": null,
+    "is_sold_out": true,
+    "spots_remaining": 0,
+    "is_near_capacity": false,
+    "require_approval": true
+   },
+   "registration_availability": "waitlist",
+   "featured_guests": [],
+   "manager_info": null,
+   "guest_info": null,
+   "host_info": null,
+   "waitlist_active": true,
+   "featured_city": null,
+   "calendar_api_id": "cal-MJ28KU4lOJNFNHk",
+   "is_manager": false,
+   "platform": "luma",
+   "status": "approved",
+   "submitted_by_user_api_id": "usr-fgWuHfPAh8UZSam",
+   "tags": [
+    {
+     "api_id": "tag-SBCfygnYGEtai9d",
+     "name": "EMEA",
+     "color": "blue"
+    },
+    {
+     "api_id": "tag-XCdbR1pwBzAB22x",
+     "name": "Hackathon",
+     "color": "green"
+    }
+   ]
+  },
+  {
+   "api_id": "calev-TAnfU2BXRgNKBZY",
+   "event": {
+    "api_id": "evt-AWryJVPmyUKZo9T",
+    "calendar_api_id": "cal-MJ28KU4lOJNFNHk",
+    "cover_url": "https://images.lumacdn.com/uploads/80/e0cd148e-20bb-4cbf-96ec-5998d9f3f555.jpg",
+    "end_at": "2026-10-13T12:00:00.000Z",
+    "event_type": "independent",
+    "hide_rsvp": false,
+    "location_type": "offline",
+    "name": "Build-A-Claw: Barcelona",
+    "one_to_one": true,
+    "recurrence_id": null,
+    "show_guest_list": false,
+    "social_image_url": "https://images.lumacdn.com/event-social/r6/2e1b60c6-a077-4822-b767-31fd076c52b4.png",
+    "start_at": "2026-10-13T07:30:00.000Z",
+    "timezone": "Europe/Madrid",
+    "url": "bac-barcelona",
+    "user_api_id": "usr-vVGwHQHDRMDI1RN",
+    "visibility": "public",
+    "virtual_info": {
+     "has_access": false
+    },
+    "geo_address_info": {
+     "mode": "obfuscated",
+     "city": "Barcelona",
+     "city_state": "Barcelona, Spain",
+     "sublocality": null,
+     "country": "Spain",
+     "country_code": "ES",
+     "region": "Catalonia",
+     "region_short": "CT"
+    },
+    "geo_address_visibility": "guests-only",
+    "coordinate": {
+     "latitude": 41.388428876374114,
+     "longitude": 2.1708029400786577
+    },
+    "waitlist_enabled": true,
+    "waitlist_status": "active"
+   },
+   "cover_image": {
+    "colors": [
+     "#100c11",
+     "#d0e4f5",
+     "#865b4e"
+    ],
+    "palette": {
+     "neutral": [
+      {
+       "color": "#100c11",
+       "percentage": 18.09
+      }
+     ],
+     "vibrant": [
+      {
+       "color": "#865b4e",
+       "percentage": 5.48
+      },
+      {
+       "color": "#d0e4f5",
+       "percentage": 10.49
+      }
+     ]
+    }
+   },
+   "calendar": {
+    "access_level": "public",
+    "api_id": "cal-MJ28KU4lOJNFNHk",
+    "avatar_url": "https://images.lumacdn.com/calendars/2h/7236c1b7-05e8-4c8a-9bd2-58782f6efbb8.png",
+    "coordinate": null,
+    "cover_image_url": "https://images.lumacdn.com/calendar-cover-images/6f/6df88eaa-674f-43d6-8e1e-afc17d84be36.jpg",
+    "description_short": "Explore upcoming events hosted by NVIDIA. This is the official calendar of the NVIDIA Developer Community Team. Got questions? Reach out to community@nvidia.com \u2014 we\u2019re here to help!",
+    "end_date": null,
+    "event_submission_restriction": "open",
+    "google_measurement_id": null,
+    "instagram_handle": null,
+    "is_blocked": false,
+    "is_verified": false,
+    "launch_status": "launched",
+    "linkedin_handle": null,
+    "location": null,
+    "luma_plan": "plus",
+    "luma_plus_active": true,
+    "meta_pixel_id": null,
+    "name": "NVIDIA",
+    "personal_user_api_id": null,
+    "refund_policy": null,
+    "slug": "nvidia-events",
+    "social_image_url": null,
+    "start_date": null,
+    "stripe_account_id": null,
+    "tax_config": null,
+    "tiktok_handle": null,
+    "tint_color": "#76b900",
+    "track_meta_ads_from_luma": false,
+    "twitter_handle": null,
+    "verified_at": "2025-10-21T20:01:59.616Z",
+    "website": "https://developer.nvidia.com/community",
+    "youtube_handle": null,
+    "is_personal": false,
+    "personal_user": null,
+    "timezone": null
+   },
+   "start_at": "2026-10-13T07:30:00.000Z",
+   "hosts": [
+    {
+     "api_id": "usr-fgWuHfPAh8UZSam",
+     "avatar_url": "https://images.lumacdn.com/uploads/ry/c93b93f4-e184-434b-8e3c-c8f6ede151a0.png",
+     "bio_short": "Developer Community @ NVIDIA",
+     "first_name": "NVIDIA",
+     "last_name": "",
+     "instagram_handle": null,
+     "is_verified": false,
+     "linkedin_handle": "/in/ayesha-a-asif",
+     "name": "NVIDIA",
+     "tiktok_handle": null,
+     "timezone": "America/Toronto",
+     "twitter_handle": null,
+     "username": "nvidiadeveloper",
+     "website": null,
+     "youtube_handle": null
+    }
+   ],
+   "guest_count": 0,
+   "ticket_count": 0,
+   "ticket_info": {
+    "price": null,
+    "is_free": true,
+    "max_price": null,
+    "is_sold_out": false,
+    "spots_remaining": 600,
+    "is_near_capacity": false,
+    "require_approval": true
+   },
+   "registration_availability": "open",
+   "featured_guests": [],
+   "manager_info": null,
+   "guest_info": null,
+   "host_info": null,
+   "waitlist_active": false,
+   "featured_city": null,
+   "calendar_api_id": "cal-MJ28KU4lOJNFNHk",
+   "is_manager": true,
+   "platform": "luma",
+   "status": "approved",
+   "submitted_by_user_api_id": "usr-vVGwHQHDRMDI1RN",
+   "tags": [
+    {
+     "api_id": "tag-SBCfygnYGEtai9d",
+     "name": "EMEA",
+     "color": "blue"
+    },
+    {
+     "api_id": "tag-tfN0MgeTobZObQD",
+     "name": "Meetup",
+     "color": "green"
+    }
+   ]
+  },
+  {
+   "api_id": "calev-5DBBuERViMhbBHP",
+   "event": {
+    "api_id": "evt-bCYzmSCrgoOtE0w",
+    "calendar_api_id": "cal-MJ28KU4lOJNFNHk",
+    "cover_url": "https://images.lumacdn.com/uploads/h9/895fcc78-3250-4dff-9226-17af1545cbb4.jpg",
+    "end_at": "2026-10-13T16:00:00.000Z",
+    "event_type": "independent",
+    "hide_rsvp": false,
+    "location_type": "offline",
+    "name": "Build-A-Claw: Paris",
+    "one_to_one": true,
+    "recurrence_id": null,
+    "show_guest_list": false,
+    "social_image_url": "https://images.lumacdn.com/event-social/go/9c109bf2-b633-4d3e-b48a-2a0b3ef98c17.png",
+    "start_at": "2026-10-13T12:00:00.000Z",
+    "timezone": "Europe/Paris",
+    "url": "bac-paris",
+    "user_api_id": "usr-vVGwHQHDRMDI1RN",
+    "visibility": "public",
+    "virtual_info": {
+     "has_access": false
+    },
+    "geo_address_info": {
+     "mode": "obfuscated",
+     "city": "Paris",
+     "city_state": "Paris, France",
+     "sublocality": null,
+     "country": "France",
+     "country_code": "FR",
+     "region": "\u00cele-de-France",
+     "region_short": "IDF"
+    },
+    "geo_address_visibility": "guests-only",
+    "coordinate": {
+     "latitude": 48.855845030335374,
+     "longitude": 2.3523206385669524
+    },
+    "waitlist_enabled": true,
+    "waitlist_status": "active"
+   },
+   "cover_image": {
+    "colors": [
+     "#141216",
+     "#d4d9dc",
+     "#444546",
+     "#b0de61"
+    ],
+    "palette": {
+     "neutral": [
+      {
+       "color": "#141216",
+       "percentage": 14.36
+      },
+      {
+       "color": "#d4d9dc",
+       "percentage": 14.29
+      },
+      {
+       "color": "#444546",
+       "percentage": 9.58
+      }
+     ],
+     "vibrant": [
+      {
+       "color": "#b0de61",
+       "percentage": 9.09
+      },
+      {
+       "color": "#b6856d",
+       "percentage": 5.93
+      },
+      {
+       "color": "#2c4968",
+       "percentage": 6.58
+      }
+     ]
+    }
+   },
+   "calendar": {
+    "access_level": "public",
+    "api_id": "cal-MJ28KU4lOJNFNHk",
+    "avatar_url": "https://images.lumacdn.com/calendars/2h/7236c1b7-05e8-4c8a-9bd2-58782f6efbb8.png",
+    "coordinate": null,
+    "cover_image_url": "https://images.lumacdn.com/calendar-cover-images/6f/6df88eaa-674f-43d6-8e1e-afc17d84be36.jpg",
+    "description_short": "Explore upcoming events hosted by NVIDIA. This is the official calendar of the NVIDIA Developer Community Team. Got questions? Reach out to community@nvidia.com \u2014 we\u2019re here to help!",
+    "end_date": null,
+    "event_submission_restriction": "open",
+    "google_measurement_id": null,
+    "instagram_handle": null,
+    "is_blocked": false,
+    "is_verified": false,
+    "launch_status": "launched",
+    "linkedin_handle": null,
+    "location": null,
+    "luma_plan": "plus",
+    "luma_plus_active": true,
+    "meta_pixel_id": null,
+    "name": "NVIDIA",
+    "personal_user_api_id": null,
+    "refund_policy": null,
+    "slug": "nvidia-events",
+    "social_image_url": null,
+    "start_date": null,
+    "stripe_account_id": null,
+    "tax_config": null,
+    "tiktok_handle": null,
+    "tint_color": "#76b900",
+    "track_meta_ads_from_luma": false,
+    "twitter_handle": null,
+    "verified_at": "2025-10-21T20:01:59.616Z",
+    "website": "https://developer.nvidia.com/community",
+    "youtube_handle": null,
+    "is_personal": false,
+    "personal_user": null,
+    "timezone": null
+   },
+   "start_at": "2026-10-13T12:00:00.000Z",
+   "hosts": [
+    {
+     "api_id": "usr-fgWuHfPAh8UZSam",
+     "avatar_url": "https://images.lumacdn.com/uploads/ry/c93b93f4-e184-434b-8e3c-c8f6ede151a0.png",
+     "bio_short": "Developer Community @ NVIDIA",
+     "first_name": "NVIDIA",
+     "last_name": "",
+     "instagram_handle": null,
+     "is_verified": false,
+     "linkedin_handle": "/in/ayesha-a-asif",
+     "name": "NVIDIA",
+     "tiktok_handle": null,
+     "timezone": "America/Toronto",
+     "twitter_handle": null,
+     "username": "nvidiadeveloper",
+     "website": null,
+     "youtube_handle": null
+    }
+   ],
+   "guest_count": 0,
+   "ticket_count": 0,
+   "ticket_info": {
+    "price": null,
+    "is_free": true,
+    "max_price": null,
+    "is_sold_out": false,
+    "spots_remaining": 455,
+    "is_near_capacity": false,
+    "require_approval": true
+   },
+   "registration_availability": "open",
+   "featured_guests": [],
+   "manager_info": null,
+   "guest_info": null,
+   "host_info": null,
+   "waitlist_active": false,
+   "featured_city": null,
+   "calendar_api_id": "cal-MJ28KU4lOJNFNHk",
+   "is_manager": true,
+   "platform": "luma",
+   "status": "approved",
+   "submitted_by_user_api_id": "usr-vVGwHQHDRMDI1RN",
+   "tags": [
+    {
+     "api_id": "tag-SBCfygnYGEtai9d",
+     "name": "EMEA",
+     "color": "blue"
+    },
+    {
+     "api_id": "tag-tfN0MgeTobZObQD",
+     "name": "Meetup",
+     "color": "green"
+    }
+   ]
+  },
+  {
+   "api_id": "calev-i2bz1ramlfHrQmf",
+   "event": {
+    "api_id": "evt-4icgoP7PtnkzGSk",
+    "calendar_api_id": "cal-MJ28KU4lOJNFNHk",
+    "cover_url": "https://images.lumacdn.com/uploads/1b/a35cf7dc-589b-45b6-b399-45d54793020b.png",
+    "end_at": "2026-10-13T15:00:00.000Z",
+    "event_type": "independent",
+    "hide_rsvp": false,
+    "location_type": "unknown",
+    "name": "Claw Agent Challenge: Paris",
+    "one_to_one": true,
+    "recurrence_id": null,
+    "show_guest_list": true,
+    "social_image_url": "https://images.lumacdn.com/event-social/yt/f4f6589f-f4b3-4d76-bda2-a312ad4b6d1c.png",
+    "start_at": "2026-10-13T12:00:00.000Z",
+    "timezone": "Europe/Paris",
+    "url": "claw-agent-challenge-paris",
+    "user_api_id": "usr-sSk21YNj74KMXyM",
+    "visibility": "public",
+    "virtual_info": {
+     "has_access": false
+    },
+    "geo_address_info": null,
+    "geo_address_visibility": "public",
+    "coordinate": null,
+    "waitlist_enabled": false,
+    "waitlist_status": "disabled"
+   },
+   "cover_image": {
+    "colors": [
+     "#020101",
+     "#fafafa",
+     "#529a12",
+     "#9f4a2e"
+    ],
+    "palette": {
+     "neutral": [
+      {
+       "color": "#020101",
+       "percentage": 66
+      },
+      {
+       "color": "#fafafa",
+       "percentage": 3.74
+      }
+     ],
+     "vibrant": [
+      {
+       "color": "#529a12",
+       "percentage": 2.19
+      },
+      {
+       "color": "#e8cd06",
+       "percentage": 0.52
+      },
+      {
+       "color": "#3792b7",
+       "percentage": 0.57
+      },
+      {
+       "color": "#9f4a2e",
+       "percentage": 1.56
+      }
+     ]
+    }
+   },
+   "calendar": {
+    "access_level": "public",
+    "api_id": "cal-MJ28KU4lOJNFNHk",
+    "avatar_url": "https://images.lumacdn.com/calendars/2h/7236c1b7-05e8-4c8a-9bd2-58782f6efbb8.png",
+    "coordinate": null,
+    "cover_image_url": "https://images.lumacdn.com/calendar-cover-images/6f/6df88eaa-674f-43d6-8e1e-afc17d84be36.jpg",
+    "description_short": "Explore upcoming events hosted by NVIDIA. This is the official calendar of the NVIDIA Developer Community Team. Got questions? Reach out to community@nvidia.com \u2014 we\u2019re here to help!",
+    "end_date": null,
+    "event_submission_restriction": "open",
+    "google_measurement_id": null,
+    "instagram_handle": null,
+    "is_blocked": false,
+    "is_verified": false,
+    "launch_status": "launched",
+    "linkedin_handle": null,
+    "location": null,
+    "luma_plan": "plus",
+    "luma_plus_active": true,
+    "meta_pixel_id": null,
+    "name": "NVIDIA",
+    "personal_user_api_id": null,
+    "refund_policy": null,
+    "slug": "nvidia-events",
+    "social_image_url": null,
+    "start_date": null,
+    "stripe_account_id": null,
+    "tax_config": null,
+    "tiktok_handle": null,
+    "tint_color": "#76b900",
+    "track_meta_ads_from_luma": false,
+    "twitter_handle": null,
+    "verified_at": "2025-10-21T20:01:59.616Z",
+    "website": "https://developer.nvidia.com/community",
+    "youtube_handle": null,
+    "is_personal": false,
+    "personal_user": null,
+    "timezone": null
+   },
+   "start_at": "2026-10-13T12:00:00.000Z",
+   "hosts": [
+    {
+     "api_id": "usr-fgWuHfPAh8UZSam",
+     "avatar_url": "https://images.lumacdn.com/uploads/ry/c93b93f4-e184-434b-8e3c-c8f6ede151a0.png",
+     "bio_short": "Developer Community @ NVIDIA",
+     "first_name": "NVIDIA",
+     "last_name": "",
+     "instagram_handle": null,
+     "is_verified": false,
+     "linkedin_handle": "/in/ayesha-a-asif",
+     "name": "NVIDIA",
+     "tiktok_handle": null,
+     "timezone": "America/Toronto",
+     "twitter_handle": null,
+     "username": "nvidiadeveloper",
+     "website": null,
+     "youtube_handle": null
+    }
+   ],
+   "guest_count": 6,
+   "ticket_count": 6,
+   "ticket_info": {
+    "price": null,
+    "is_free": true,
+    "max_price": null,
+    "is_sold_out": false,
+    "spots_remaining": null,
+    "is_near_capacity": false,
+    "require_approval": false
+   },
+   "registration_availability": "open",
+   "featured_guests": [
+    {
+     "api_id": "usr-wWcAq36KheEN1Sd",
+     "avatar_url": "https://images.lumacdn.com/uploads/6k/3785ef75-7a7c-40e3-8d4c-324440591117.png",
+     "bio_short": null,
+     "first_name": "Wilfred",
+     "last_name": "Dor\u00e9",
+     "instagram_handle": null,
+     "is_verified": false,
+     "linkedin_handle": "/in/wilfred-dore",
+     "name": "Wilfred Dor\u00e9",
+     "tiktok_handle": null,
+     "timezone": "Europe/Paris",
+     "twitter_handle": null,
+     "username": null,
+     "website": null,
+     "youtube_handle": null
+    },
+    {
+     "api_id": "usr-StNek5W1EGgg9A0",
+     "avatar_url": "https://images.lumacdn.com/uploads/q8/82d8bfe9-0003-4498-b2d7-bbab193aedf1.jpg",
+     "bio_short": null,
+     "first_name": "Chiagoziem",
+     "last_name": "Egbogu",
+     "instagram_handle": null,
+     "is_verified": false,
+     "linkedin_handle": "/in/chiagoziem-e-b3a977315",
+     "name": "Chiagoziem",
+     "tiktok_handle": null,
+     "timezone": "Africa/Lagos",
+     "twitter_handle": "Gozar_4",
+     "username": null,
+     "website": null,
+     "youtube_handle": null
+    },
+    {
+     "api_id": "usr-X8UiHW1oXRTKuyu",
+     "avatar_url": "https://cdn.lu.ma/avatars-default/avatar_18.png",
+     "bio_short": null,
+     "first_name": "El Houssain",
+     "last_name": "Souhail",
+     "instagram_handle": null,
+     "is_verified": false,
+     "linkedin_handle": "/in/elhoussain",
+     "name": "El Houssain Souhail",
+     "tiktok_handle": null,
+     "timezone": "Europe/Paris",
+     "twitter_handle": null,
+     "username": null,
+     "website": null,
+     "youtube_handle": null
+    },
+    {
+     "api_id": "usr-AhyyAgze6iuterv",
+     "avatar_url": "https://cdn.lu.ma/avatars-default/avatar_32.png",
+     "bio_short": "",
+     "first_name": "Fran\u00e7ois",
+     "last_name": "Amat",
+     "instagram_handle": null,
+     "is_verified": false,
+     "linkedin_handle": "/in/famat",
+     "name": "Fran\u00e7ois",
+     "tiktok_handle": null,
+     "timezone": "Europe/Paris",
+     "twitter_handle": null,
+     "username": null,
+     "website": null,
+     "youtube_handle": ""
+    },
+    {
+     "api_id": "usr-3zOtEyzxPtKk9S2",
+     "avatar_url": "https://cdn.lu.ma/avatars-default/avatar_20.png",
+     "bio_short": "",
+     "first_name": "Miloo",
+     "last_name": "Schwartz",
+     "instagram_handle": "miloaschwartz",
+     "is_verified": false,
+     "linkedin_handle": "/in/miloaschwartz",
+     "name": "Miloo Schwartz",
+     "tiktok_handle": null,
+     "timezone": "America/Los_Angeles",
+     "twitter_handle": "miloaschwartz",
+     "username": null,
+     "website": null,
+     "youtube_handle": null
+    },
+    {
+     "api_id": "usr-IZf8mLjLat0XBse",
+     "avatar_url": "https://cdn.lu.ma/avatars-default/avatar_29.png",
+     "bio_short": null,
+     "first_name": "Faisal",
+     "last_name": "Khan",
+     "instagram_handle": null,
+     "is_verified": false,
+     "linkedin_handle": "/in/faisal-rasheed-khan-730413187",
+     "name": "Faisal",
+     "tiktok_handle": null,
+     "timezone": "America/Los_Angeles",
+     "twitter_handle": null,
+     "username": null,
+     "website": null,
+     "youtube_handle": null
+    }
+   ],
+   "manager_info": null,
+   "guest_info": null,
+   "host_info": null,
+   "waitlist_active": false,
+   "featured_city": null,
+   "calendar_api_id": "cal-MJ28KU4lOJNFNHk",
+   "is_manager": true,
+   "platform": "luma",
+   "status": "approved",
+   "submitted_by_user_api_id": "usr-sSk21YNj74KMXyM",
+   "tags": [
+    {
+     "api_id": "tag-XCdbR1pwBzAB22x",
+     "name": "Hackathon",
+     "color": "green"
+    }
+   ]
+  },
+  {
+   "api_id": "calev-2p7GJeU2QhHBiT6",
+   "event": {
+    "api_id": "evt-Et92GEmv9nhYHGW",
+    "calendar_api_id": "cal-MJ28KU4lOJNFNHk",
+    "cover_url": "https://images.lumacdn.com/uploads/2u/bda971ef-8d23-453c-b917-b6859c05a98d.png",
+    "end_at": "2026-10-13T16:30:00.000Z",
+    "event_type": "independent",
+    "hide_rsvp": false,
+    "location_type": "unknown",
+    "name": "Claw Agent Challenge: Barcelona",
+    "one_to_one": true,
+    "recurrence_id": null,
+    "show_guest_list": true,
+    "social_image_url": "https://images.lumacdn.com/event-social/1r/51db7a9e-726d-4006-a6c6-40b97597af86.png",
+    "start_at": "2026-10-13T13:00:00.000Z",
+    "timezone": "Europe/Madrid",
+    "url": "claw-agent-challenge-barcelona",
+    "user_api_id": "usr-fgWuHfPAh8UZSam",
+    "visibility": "public",
+    "virtual_info": {
+     "has_access": false
+    },
+    "geo_address_info": null,
+    "geo_address_visibility": "public",
+    "coordinate": null,
+    "waitlist_enabled": false,
+    "waitlist_status": "disabled"
+   },
+   "cover_image": {
+    "colors": [
+     "#020202",
+     "#faf9fa",
+     "#529b11",
+     "#a2482b"
+    ],
+    "palette": {
+     "neutral": [
+      {
+       "color": "#020202",
+       "percentage": 69.8
+      },
+      {
+       "color": "#faf9fa",
+       "percentage": 4.29
+      }
+     ],
+     "vibrant": [
+      {
+       "color": "#529b11",
+       "percentage": 2.15
+      },
+      {
+       "color": "#e9c60a",
+       "percentage": 0.68
+      },
+      {
+       "color": "#3690b5",
+       "percentage": 0.6
+      },
+      {
+       "color": "#a2482b",
+       "percentage": 1.49
+      }
+     ]
+    }
+   },
+   "calendar": {
+    "access_level": "public",
+    "api_id": "cal-MJ28KU4lOJNFNHk",
+    "avatar_url": "https://images.lumacdn.com/calendars/2h/7236c1b7-05e8-4c8a-9bd2-58782f6efbb8.png",
+    "coordinate": null,
+    "cover_image_url": "https://images.lumacdn.com/calendar-cover-images/6f/6df88eaa-674f-43d6-8e1e-afc17d84be36.jpg",
+    "description_short": "Explore upcoming events hosted by NVIDIA. This is the official calendar of the NVIDIA Developer Community Team. Got questions? Reach out to community@nvidia.com \u2014 we\u2019re here to help!",
+    "end_date": null,
+    "event_submission_restriction": "open",
+    "google_measurement_id": null,
+    "instagram_handle": null,
+    "is_blocked": false,
+    "is_verified": false,
+    "launch_status": "launched",
+    "linkedin_handle": null,
+    "location": null,
+    "luma_plan": "plus",
+    "luma_plus_active": true,
+    "meta_pixel_id": null,
+    "name": "NVIDIA",
+    "personal_user_api_id": null,
+    "refund_policy": null,
+    "slug": "nvidia-events",
+    "social_image_url": null,
+    "start_date": null,
+    "stripe_account_id": null,
+    "tax_config": null,
+    "tiktok_handle": null,
+    "tint_color": "#76b900",
+    "track_meta_ads_from_luma": false,
+    "twitter_handle": null,
+    "verified_at": "2025-10-21T20:01:59.616Z",
+    "website": "https://developer.nvidia.com/community",
+    "youtube_handle": null,
+    "is_personal": false,
+    "personal_user": null,
+    "timezone": null
+   },
+   "start_at": "2026-10-13T13:00:00.000Z",
+   "hosts": [
+    {
+     "api_id": "usr-fgWuHfPAh8UZSam",
+     "avatar_url": "https://images.lumacdn.com/uploads/ry/c93b93f4-e184-434b-8e3c-c8f6ede151a0.png",
+     "bio_short": "Developer Community @ NVIDIA",
+     "first_name": "NVIDIA",
+     "last_name": "",
+     "instagram_handle": null,
+     "is_verified": false,
+     "linkedin_handle": "/in/ayesha-a-asif",
+     "name": "NVIDIA",
+     "tiktok_handle": null,
+     "timezone": "America/Toronto",
+     "twitter_handle": null,
+     "username": "nvidiadeveloper",
+     "website": null,
+     "youtube_handle": null
+    }
+   ],
+   "guest_count": 2,
+   "ticket_count": 2,
+   "ticket_info": {
+    "price": null,
+    "is_free": true,
+    "max_price": null,
+    "is_sold_out": false,
+    "spots_remaining": null,
+    "is_near_capacity": false,
+    "require_approval": false
+   },
+   "registration_availability": "open",
+   "featured_guests": [
+    {
+     "api_id": "usr-ndX6gXVcL4sd870",
+     "avatar_url": "https://cdn.lu.ma/avatars-default/avatar_17.png",
+     "bio_short": null,
+     "first_name": "Joel",
+     "last_name": "M\u00e1rquez \u00c1lvarez",
+     "instagram_handle": null,
+     "is_verified": false,
+     "linkedin_handle": null,
+     "name": "Joel M\u00e1rquez \u00c1lvarez",
+     "tiktok_handle": null,
+     "timezone": "Europe/Madrid",
+     "twitter_handle": null,
+     "username": null,
+     "website": null,
+     "youtube_handle": null
+    },
+    {
+     "api_id": "usr-IYjOocQxaCzSK5a",
+     "avatar_url": "https://cdn.lu.ma/avatars-default/avatar_10.png",
+     "bio_short": "",
+     "first_name": "Ahmed",
+     "last_name": "Rahimi",
+     "instagram_handle": null,
+     "is_verified": false,
+     "linkedin_handle": "/in/ahmed-rahimi-medrix",
+     "name": "Ahmed Rahimi",
+     "tiktok_handle": null,
+     "timezone": "Europe/Riga",
+     "twitter_handle": null,
+     "username": null,
+     "website": null,
+     "youtube_handle": null
+    }
+   ],
+   "manager_info": null,
+   "guest_info": null,
+   "host_info": null,
+   "waitlist_active": false,
+   "featured_city": null,
+   "calendar_api_id": "cal-MJ28KU4lOJNFNHk",
+   "is_manager": true,
+   "platform": "luma",
+   "status": "approved",
+   "submitted_by_user_api_id": "usr-fgWuHfPAh8UZSam",
+   "tags": [
+    {
+     "api_id": "tag-SBCfygnYGEtai9d",
+     "name": "EMEA",
+     "color": "blue"
+    },
+    {
+     "api_id": "tag-XCdbR1pwBzAB22x",
+     "name": "Hackathon",
+     "color": "green"
+    }
+   ]
+  },
+  {
+   "api_id": "calev-Y0MbayoW6UwiZHX",
+   "event": {
+    "api_id": "evt-JFEfpR5A39XK3AW",
+    "calendar_api_id": "cal-MJ28KU4lOJNFNHk",
+    "cover_url": "https://images.lumacdn.com/uploads/gn/6462134e-03e0-437e-924e-54e0b8904ae5.jpg",
+    "end_at": "2026-10-14T12:00:00.000Z",
+    "event_type": "independent",
+    "hide_rsvp": false,
+    "location_type": "offline",
+    "name": "Build-A-Claw: London",
+    "one_to_one": true,
+    "recurrence_id": null,
+    "show_guest_list": false,
+    "social_image_url": "https://images.lumacdn.com/event-social/7b/d04ede98-c5c4-48a6-b04f-341caaf1194c.png",
+    "start_at": "2026-10-14T08:00:00.000Z",
+    "timezone": "Europe/London",
+    "url": "bac-london",
+    "user_api_id": "usr-vVGwHQHDRMDI1RN",
+    "visibility": "public",
+    "virtual_info": {
+     "has_access": false
+    },
+    "geo_address_info": {
+     "mode": "obfuscated",
+     "city": "London",
+     "city_state": "London, United Kingdom",
+     "sublocality": null,
+     "country": "United Kingdom",
+     "country_code": "GB",
+     "region": "England",
+     "region_short": "England"
+    },
+    "geo_address_visibility": "guests-only",
+    "coordinate": {
+     "latitude": 51.508907030747814,
+     "longitude": -0.12930015474326742
+    },
+    "waitlist_enabled": true,
+    "waitlist_status": "enabled"
+   },
+   "cover_image": {
+    "colors": [
+     "#131416",
+     "#414146",
+     "#c4c8c7",
+     "#b28a72"
+    ],
+    "palette": {
+     "neutral": [
+      {
+       "color": "#131416",
+       "percentage": 24.02
+      },
+      {
+       "color": "#c4c8c7",
+       "percentage": 8.65
+      },
+      {
+       "color": "#414146",
+       "percentage": 10.57
+      }
+     ],
+     "vibrant": [
+      {
+       "color": "#91c750",
+       "percentage": 1.37
+      },
+      {
+       "color": "#2f5a96",
+       "percentage": 1.42
+      },
+      {
+       "color": "#b28a72",
+       "percentage": 4.98
+      }
+     ]
+    }
+   },
+   "calendar": {
+    "access_level": "public",
+    "api_id": "cal-MJ28KU4lOJNFNHk",
+    "avatar_url": "https://images.lumacdn.com/calendars/2h/7236c1b7-05e8-4c8a-9bd2-58782f6efbb8.png",
+    "coordinate": null,
+    "cover_image_url": "https://images.lumacdn.com/calendar-cover-images/6f/6df88eaa-674f-43d6-8e1e-afc17d84be36.jpg",
+    "description_short": "Explore upcoming events hosted by NVIDIA. This is the official calendar of the NVIDIA Developer Community Team. Got questions? Reach out to community@nvidia.com \u2014 we\u2019re here to help!",
+    "end_date": null,
+    "event_submission_restriction": "open",
+    "google_measurement_id": null,
+    "instagram_handle": null,
+    "is_blocked": false,
+    "is_verified": false,
+    "launch_status": "launched",
+    "linkedin_handle": null,
+    "location": null,
+    "luma_plan": "plus",
+    "luma_plus_active": true,
+    "meta_pixel_id": null,
+    "name": "NVIDIA",
+    "personal_user_api_id": null,
+    "refund_policy": null,
+    "slug": "nvidia-events",
+    "social_image_url": null,
+    "start_date": null,
+    "stripe_account_id": null,
+    "tax_config": null,
+    "tiktok_handle": null,
+    "tint_color": "#76b900",
+    "track_meta_ads_from_luma": false,
+    "twitter_handle": null,
+    "verified_at": "2025-10-21T20:01:59.616Z",
+    "website": "https://developer.nvidia.com/community",
+    "youtube_handle": null,
+    "is_personal": false,
+    "personal_user": null,
+    "timezone": null
+   },
+   "start_at": "2026-10-14T08:00:00.000Z",
+   "hosts": [
+    {
+     "api_id": "usr-fgWuHfPAh8UZSam",
+     "avatar_url": "https://images.lumacdn.com/uploads/ry/c93b93f4-e184-434b-8e3c-c8f6ede151a0.png",
+     "bio_short": "Developer Community @ NVIDIA",
+     "first_name": "NVIDIA",
+     "last_name": "",
+     "instagram_handle": null,
+     "is_verified": false,
+     "linkedin_handle": "/in/ayesha-a-asif",
+     "name": "NVIDIA",
+     "tiktok_handle": null,
+     "timezone": "America/Toronto",
+     "twitter_handle": null,
+     "username": "nvidiadeveloper",
+     "website": null,
+     "youtube_handle": null
+    }
+   ],
+   "guest_count": 0,
+   "ticket_count": 0,
+   "ticket_info": {
+    "price": null,
+    "is_free": true,
+    "max_price": null,
+    "is_sold_out": false,
+    "spots_remaining": 615,
+    "is_near_capacity": false,
+    "require_approval": true
+   },
+   "registration_availability": "open",
+   "featured_guests": [],
+   "manager_info": null,
+   "guest_info": null,
+   "host_info": null,
+   "waitlist_active": false,
+   "featured_city": null,
+   "calendar_api_id": "cal-MJ28KU4lOJNFNHk",
+   "is_manager": true,
+   "platform": "luma",
+   "status": "approved",
+   "submitted_by_user_api_id": "usr-vVGwHQHDRMDI1RN",
+   "tags": [
+    {
+     "api_id": "tag-SBCfygnYGEtai9d",
+     "name": "EMEA",
+     "color": "blue"
+    },
+    {
+     "api_id": "tag-tfN0MgeTobZObQD",
+     "name": "Meetup",
+     "color": "green"
+    }
+   ]
+  },
+  {
+   "api_id": "calev-APfnLNZzQ0flFgs",
+   "event": {
+    "api_id": "evt-2gzCm44UB8ZXcrX",
+    "calendar_api_id": "cal-MJ28KU4lOJNFNHk",
+    "cover_url": "https://images.lumacdn.com/uploads/pa/d336d9fd-4916-4452-b79b-7ff645e2d602.png",
+    "end_at": "2026-10-14T15:00:00.000Z",
+    "event_type": "independent",
+    "hide_rsvp": false,
+    "location_type": "unknown",
+    "name": "Claw Agent Challenge: London",
+    "one_to_one": true,
+    "recurrence_id": null,
+    "show_guest_list": true,
+    "social_image_url": "https://images.lumacdn.com/event-social/mr/25310416-31ba-4954-8e82-87d3884f3dfd.png",
+    "start_at": "2026-10-14T12:00:00.000Z",
+    "timezone": "Europe/London",
+    "url": "claw-agent-challenge-london",
+    "user_api_id": "usr-sSk21YNj74KMXyM",
+    "visibility": "public",
+    "virtual_info": {
+     "has_access": false
+    },
+    "geo_address_info": null,
+    "geo_address_visibility": "public",
+    "coordinate": null,
+    "waitlist_enabled": false,
+    "waitlist_status": "disabled"
+   },
+   "cover_image": {
+    "colors": [
+     "#020202",
+     "#fafafa",
+     "#529912",
+     "#9d472d"
+    ],
+    "palette": {
+     "neutral": [
+      {
+       "color": "#020202",
+       "percentage": 68.47
+      },
+      {
+       "color": "#fafafa",
+       "percentage": 3.95
+      }
+     ],
+     "vibrant": [
+      {
+       "color": "#529912",
+       "percentage": 2.19
+      },
+      {
+       "color": "#e9cc06",
+       "percentage": 0.52
+      },
+      {
+       "color": "#378fb6",
+       "percentage": 0.61
+      },
+      {
+       "color": "#9d472d",
+       "percentage": 1.6
+      }
+     ]
+    }
+   },
+   "calendar": {
+    "access_level": "public",
+    "api_id": "cal-MJ28KU4lOJNFNHk",
+    "avatar_url": "https://images.lumacdn.com/calendars/2h/7236c1b7-05e8-4c8a-9bd2-58782f6efbb8.png",
+    "coordinate": null,
+    "cover_image_url": "https://images.lumacdn.com/calendar-cover-images/6f/6df88eaa-674f-43d6-8e1e-afc17d84be36.jpg",
+    "description_short": "Explore upcoming events hosted by NVIDIA. This is the official calendar of the NVIDIA Developer Community Team. Got questions? Reach out to community@nvidia.com \u2014 we\u2019re here to help!",
+    "end_date": null,
+    "event_submission_restriction": "open",
+    "google_measurement_id": null,
+    "instagram_handle": null,
+    "is_blocked": false,
+    "is_verified": false,
+    "launch_status": "launched",
+    "linkedin_handle": null,
+    "location": null,
+    "luma_plan": "plus",
+    "luma_plus_active": true,
+    "meta_pixel_id": null,
+    "name": "NVIDIA",
+    "personal_user_api_id": null,
+    "refund_policy": null,
+    "slug": "nvidia-events",
+    "social_image_url": null,
+    "start_date": null,
+    "stripe_account_id": null,
+    "tax_config": null,
+    "tiktok_handle": null,
+    "tint_color": "#76b900",
+    "track_meta_ads_from_luma": false,
+    "twitter_handle": null,
+    "verified_at": "2025-10-21T20:01:59.616Z",
+    "website": "https://developer.nvidia.com/community",
+    "youtube_handle": null,
+    "is_personal": false,
+    "personal_user": null,
+    "timezone": null
+   },
+   "start_at": "2026-10-14T12:00:00.000Z",
+   "hosts": [
+    {
+     "api_id": "usr-fgWuHfPAh8UZSam",
+     "avatar_url": "https://images.lumacdn.com/uploads/ry/c93b93f4-e184-434b-8e3c-c8f6ede151a0.png",
+     "bio_short": "Developer Community @ NVIDIA",
+     "first_name": "NVIDIA",
+     "last_name": "",
+     "instagram_handle": null,
+     "is_verified": false,
+     "linkedin_handle": "/in/ayesha-a-asif",
+     "name": "NVIDIA",
+     "tiktok_handle": null,
+     "timezone": "America/Toronto",
+     "twitter_handle": null,
+     "username": "nvidiadeveloper",
+     "website": null,
+     "youtube_handle": null
+    }
+   ],
+   "guest_count": 10,
+   "ticket_count": 10,
+   "ticket_info": {
+    "price": null,
+    "is_free": true,
+    "max_price": null,
+    "is_sold_out": false,
+    "spots_remaining": null,
+    "is_near_capacity": false,
+    "require_approval": false
+   },
+   "registration_availability": "open",
+   "featured_guests": [
+    {
+     "api_id": "usr-jp7g11LtGmDrsH2",
+     "avatar_url": "https://images.lumacdn.com/avatars/uw/ed22f0cc-9d3e-4256-a638-51dc502a2183.jpg",
+     "bio_short": null,
+     "first_name": "Chris",
+     "last_name": "Dean",
+     "instagram_handle": null,
+     "is_verified": false,
+     "linkedin_handle": "/in/chrisjohndean",
+     "name": "Chris Dean",
+     "tiktok_handle": null,
+     "timezone": "Europe/London",
+     "twitter_handle": null,
+     "username": "ChrisDean",
+     "website": "https://www.digitaltactics.co.uk",
+     "youtube_handle": ""
+    },
+    {
+     "api_id": "usr-1YW6FIYSFwdatBm",
+     "avatar_url": "https://images.lumacdn.com/avatars/td/bf0365df-0766-47fd-bc36-bdfa74f52e34.jpg",
+     "bio_short": "AI Engineer \u2014 evals, RAG, agentic workflows. 25+ years in software/data engineering. 4\u00d7 Kaggle Expert, Polyglot 0 -> 1 dev, Java Champion",
+     "first_name": "Mani",
+     "last_name": "Sarkar",
+     "instagram_handle": null,
+     "is_verified": false,
+     "linkedin_handle": "/in/mani-sarkar",
+     "name": "Mani Sarkar",
+     "tiktok_handle": null,
+     "timezone": "Europe/London",
+     "twitter_handle": "theNeomatrix369",
+     "username": "neomatrix369",
+     "website": "https://github.com/neomatrix369",
+     "youtube_handle": "neomatrix369"
+    },
+    {
+     "api_id": "usr-LSoZ90AkVacbD4a",
+     "avatar_url": "https://images.lumacdn.com/avatars/54/bdbc839a-13ed-401d-bf8e-5461e322ab54.jpg",
+     "bio_short": "Hackathon Lead at GirlsWhoML | Tech Delivery/SWE in Banking",
+     "first_name": "Melanie",
+     "last_name": "Preen",
+     "instagram_handle": null,
+     "is_verified": false,
+     "linkedin_handle": "/in/melaniepreen",
+     "name": "Melanie Preen",
+     "tiktok_handle": null,
+     "timezone": "Europe/London",
+     "twitter_handle": "melapreenio",
+     "username": null,
+     "website": null,
+     "youtube_handle": null
+    },
+    {
+     "api_id": "usr-eaug5WL7XGYTZOj",
+     "avatar_url": "https://cdn.lu.ma/avatars-default/avatar_4.png",
+     "bio_short": null,
+     "first_name": "Michele",
+     "last_name": "Di Paola",
+     "instagram_handle": null,
+     "is_verified": false,
+     "linkedin_handle": "/in/michele-di-paola-a64658b2",
+     "name": "Michele Di Paola",
+     "tiktok_handle": null,
+     "timezone": "Europe/London",
+     "twitter_handle": null,
+     "username": null,
+     "website": null,
+     "youtube_handle": null
+    },
+    {
+     "api_id": "usr-GqsRy7MM0bbnMvg",
+     "avatar_url": "https://cdn.lu.ma/avatars-default/avatar_18.png",
+     "bio_short": null,
+     "first_name": "Illia",
+     "last_name": "Herasymenko",
+     "instagram_handle": null,
+     "is_verified": false,
+     "linkedin_handle": null,
+     "name": "Illia Herasymenko",
+     "tiktok_handle": null,
+     "timezone": "Europe/London",
+     "twitter_handle": null,
+     "username": null,
+     "website": null,
+     "youtube_handle": null
+    },
+    {
+     "api_id": "usr-eyC5bCvNDn4bMyc",
+     "avatar_url": "https://cdn.lu.ma/avatars-default/avatar_42.png",
+     "bio_short": null,
+     "first_name": "Amit",
+     "last_name": "Kumar",
+     "instagram_handle": null,
+     "is_verified": false,
+     "linkedin_handle": null,
+     "name": "Amit Kumar",
+     "tiktok_handle": null,
+     "timezone": "Europe/London",
+     "twitter_handle": null,
+     "username": null,
+     "website": null,
+     "youtube_handle": null
+    },
+    {
+     "api_id": "usr-a0eOAWgK5YDMZoA",
+     "avatar_url": "https://cdn.lu.ma/avatars-default/avatar_10.png",
+     "bio_short": null,
+     "first_name": "Dylan",
+     "last_name": "Appah",
+     "instagram_handle": null,
+     "is_verified": false,
+     "linkedin_handle": null,
+     "name": "Dylan Appah",
+     "tiktok_handle": null,
+     "timezone": "Europe/London",
+     "twitter_handle": null,
+     "username": null,
+     "website": null,
+     "youtube_handle": null
+    },
+    {
+     "api_id": "usr-NhsWuyOxFke5oyj",
+     "avatar_url": "https://cdn.lu.ma/avatars-default/avatar_8.png",
+     "bio_short": null,
+     "first_name": "Stuart",
+     "last_name": null,
+     "instagram_handle": null,
+     "is_verified": false,
+     "linkedin_handle": null,
+     "name": "Stuart",
+     "tiktok_handle": null,
+     "timezone": "Europe/London",
+     "twitter_handle": null,
+     "username": null,
+     "website": null,
+     "youtube_handle": null
+    },
+    {
+     "api_id": "usr-XLLDx3jyVVl66k5",
+     "avatar_url": "https://cdn.lu.ma/avatars-default/avatar_25.png",
+     "bio_short": null,
+     "first_name": "Ekaterina",
+     "last_name": null,
+     "instagram_handle": null,
+     "is_verified": false,
+     "linkedin_handle": null,
+     "name": "Ekaterina",
+     "tiktok_handle": null,
+     "timezone": "Europe/London",
+     "twitter_handle": null,
+     "username": null,
+     "website": null,
+     "youtube_handle": null
+    },
+    {
+     "api_id": "usr-3zOtEyzxPtKk9S2",
+     "avatar_url": "https://cdn.lu.ma/avatars-default/avatar_20.png",
+     "bio_short": "",
+     "first_name": "Miloo",
+     "last_name": "Schwartz",
+     "instagram_handle": "miloaschwartz",
+     "is_verified": false,
+     "linkedin_handle": "/in/miloaschwartz",
+     "name": "Miloo Schwartz",
+     "tiktok_handle": null,
+     "timezone": "America/Los_Angeles",
+     "twitter_handle": "miloaschwartz",
+     "username": null,
+     "website": null,
+     "youtube_handle": null
+    }
+   ],
+   "manager_info": null,
+   "guest_info": null,
+   "host_info": null,
+   "waitlist_active": false,
+   "featured_city": null,
+   "calendar_api_id": "cal-MJ28KU4lOJNFNHk",
+   "is_manager": true,
+   "platform": "luma",
+   "status": "approved",
+   "submitted_by_user_api_id": "usr-sSk21YNj74KMXyM",
+   "tags": [
+    {
+     "api_id": "tag-XCdbR1pwBzAB22x",
+     "name": "Hackathon",
+     "color": "green"
+    }
+   ]
+  },
+  {
+   "api_id": "calev-G1S7YfDIfwH9BkM",
+   "event": {
+    "api_id": "evt-MmqfKDhDJN1D2zn",
+    "calendar_api_id": "cal-MJ28KU4lOJNFNHk",
+    "cover_url": "https://images.lumacdn.com/uploads/2w/010f57a1-0c58-4b3b-8c29-77dc60ff6ef1.jpg",
+    "end_at": "2026-10-15T12:00:00.000Z",
+    "event_type": "independent",
+    "hide_rsvp": false,
+    "location_type": "offline",
+    "name": "Build-A-Claw: Stockholm",
+    "one_to_one": true,
+    "recurrence_id": null,
+    "show_guest_list": false,
+    "social_image_url": "https://images.lumacdn.com/event-social/nj/76b625d3-eb2a-4baf-8e28-700fa4be7432.png",
+    "start_at": "2026-10-15T08:00:00.000Z",
+    "timezone": "Europe/Stockholm",
+    "url": "bac-stockholm",
+    "user_api_id": "usr-vVGwHQHDRMDI1RN",
+    "visibility": "public",
+    "virtual_info": {
+     "has_access": false
+    },
+    "geo_address_info": {
+     "mode": "obfuscated",
+     "city": "Stockholm",
+     "city_state": "Stockholm, Sweden",
+     "sublocality": null,
+     "country": "Sweden",
+     "country_code": "SE",
+     "region": "Stockholms l\u00e4n",
+     "region_short": "Stockholms l\u00e4n"
+    },
+    "geo_address_visibility": "guests-only",
+    "coordinate": {
+     "latitude": 59.33958273754267,
+     "longitude": 18.065073332615963
+    },
+    "waitlist_enabled": true,
+    "waitlist_status": "active"
+   },
+   "cover_image": {
+    "colors": [
+     "#131318",
+     "#072353",
+     "#d2d3d5",
+     "#985b4c"
+    ],
+    "palette": {
+     "neutral": [
+      {
+       "color": "#131318",
+       "percentage": 22.89
+      },
+      {
+       "color": "#d2d3d5",
+       "percentage": 12.42
+      }
+     ],
+     "vibrant": [
+      {
+       "color": "#072353",
+       "percentage": 13.1
+      },
+      {
+       "color": "#985b4c",
+       "percentage": 3.52
+      }
+     ]
+    }
+   },
+   "calendar": {
+    "access_level": "public",
+    "api_id": "cal-MJ28KU4lOJNFNHk",
+    "avatar_url": "https://images.lumacdn.com/calendars/2h/7236c1b7-05e8-4c8a-9bd2-58782f6efbb8.png",
+    "coordinate": null,
+    "cover_image_url": "https://images.lumacdn.com/calendar-cover-images/6f/6df88eaa-674f-43d6-8e1e-afc17d84be36.jpg",
+    "description_short": "Explore upcoming events hosted by NVIDIA. This is the official calendar of the NVIDIA Developer Community Team. Got questions? Reach out to community@nvidia.com \u2014 we\u2019re here to help!",
+    "end_date": null,
+    "event_submission_restriction": "open",
+    "google_measurement_id": null,
+    "instagram_handle": null,
+    "is_blocked": false,
+    "is_verified": false,
+    "launch_status": "launched",
+    "linkedin_handle": null,
+    "location": null,
+    "luma_plan": "plus",
+    "luma_plus_active": true,
+    "meta_pixel_id": null,
+    "name": "NVIDIA",
+    "personal_user_api_id": null,
+    "refund_policy": null,
+    "slug": "nvidia-events",
+    "social_image_url": null,
+    "start_date": null,
+    "stripe_account_id": null,
+    "tax_config": null,
+    "tiktok_handle": null,
+    "tint_color": "#76b900",
+    "track_meta_ads_from_luma": false,
+    "twitter_handle": null,
+    "verified_at": "2025-10-21T20:01:59.616Z",
+    "website": "https://developer.nvidia.com/community",
+    "youtube_handle": null,
+    "is_personal": false,
+    "personal_user": null,
+    "timezone": null
+   },
+   "start_at": "2026-10-15T08:00:00.000Z",
+   "hosts": [
+    {
+     "api_id": "usr-fgWuHfPAh8UZSam",
+     "avatar_url": "https://images.lumacdn.com/uploads/ry/c93b93f4-e184-434b-8e3c-c8f6ede151a0.png",
+     "bio_short": "Developer Community @ NVIDIA",
+     "first_name": "NVIDIA",
+     "last_name": "",
+     "instagram_handle": null,
+     "is_verified": false,
+     "linkedin_handle": "/in/ayesha-a-asif",
+     "name": "NVIDIA",
+     "tiktok_handle": null,
+     "timezone": "America/Toronto",
+     "twitter_handle": null,
+     "username": "nvidiadeveloper",
+     "website": null,
+     "youtube_handle": null
+    }
+   ],
+   "guest_count": 0,
+   "ticket_count": 0,
+   "ticket_info": {
+    "price": null,
+    "is_free": true,
+    "max_price": null,
+    "is_sold_out": false,
+    "spots_remaining": 411,
+    "is_near_capacity": false,
+    "require_approval": true
+   },
+   "registration_availability": "open",
+   "featured_guests": [],
+   "manager_info": null,
+   "guest_info": null,
+   "host_info": null,
+   "waitlist_active": false,
+   "featured_city": {
+    "api_id": "discplace-e7EG0Ef6S2aQnvN",
+    "name": "Stockholm",
+    "slug": "stockholm"
+   },
+   "calendar_api_id": "cal-MJ28KU4lOJNFNHk",
+   "is_manager": true,
+   "platform": "luma",
+   "status": "approved",
+   "submitted_by_user_api_id": "usr-vVGwHQHDRMDI1RN",
+   "tags": [
+    {
+     "api_id": "tag-SBCfygnYGEtai9d",
+     "name": "EMEA",
+     "color": "blue"
+    },
+    {
+     "api_id": "tag-tfN0MgeTobZObQD",
+     "name": "Meetup",
+     "color": "green"
+    }
+   ]
+  },
+  {
+   "api_id": "calev-69ysBlwRAokD6wm",
+   "event": {
+    "api_id": "evt-zjHtBFFyobSIpzC",
+    "calendar_api_id": "cal-MJ28KU4lOJNFNHk",
+    "cover_url": "https://images.lumacdn.com/uploads/tm/ff425332-5a04-4ec4-a1f5-5a02a7c468a2.png",
+    "end_at": "2026-10-18T20:00:00.000Z",
+    "event_type": "independent",
+    "hide_rsvp": false,
+    "location_type": "offline",
+    "name": "NVIDIA x Red Hat Small Models Hack",
+    "one_to_one": true,
+    "recurrence_id": null,
+    "show_guest_list": true,
+    "social_image_url": "https://images.lumacdn.com/event-social/e8/a7b9d7be-b2b5-4abd-b7a1-0cf7138bcfaa.png",
+    "start_at": "2026-10-17T13:00:00.000Z",
+    "timezone": "America/New_York",
+    "url": "nvidia-redhat-small-models-hack",
+    "user_api_id": "usr-sSk21YNj74KMXyM",
+    "visibility": "public",
+    "virtual_info": {
+     "has_access": false
+    },
+    "geo_address_info": {
+     "mode": "obfuscated",
+     "city": "Raleigh",
+     "city_state": "Raleigh, NC",
+     "sublocality": "Downtown",
+     "country": "United States",
+     "country_code": "US",
+     "region": "North Carolina",
+     "region_short": "NC"
+    },
+    "geo_address_visibility": "guests-only",
+    "coordinate": {
+     "latitude": 35.773725110258795,
+     "longitude": -78.63593616561123
+    },
+    "waitlist_enabled": true,
+    "waitlist_status": "active"
+   },
+   "cover_image": {
+    "colors": [
+     "#020202",
+     "#f8f8f7",
+     "#62a60b",
+     "#3287b7"
+    ],
+    "palette": {
+     "neutral": [
+      {
+       "color": "#020202",
+       "percentage": 54.68
+      },
+      {
+       "color": "#f8f8f7",
+       "percentage": 4.23
+      }
+     ],
+     "vibrant": [
+      {
+       "color": "#62a60b",
+       "percentage": 1.86
+      },
+      {
+       "color": "#d61902",
+       "percentage": 0.17
+      },
+      {
+       "color": "#3287b7",
+       "percentage": 1.12
+      }
+     ]
+    }
+   },
+   "calendar": {
+    "access_level": "public",
+    "api_id": "cal-MJ28KU4lOJNFNHk",
+    "avatar_url": "https://images.lumacdn.com/calendars/2h/7236c1b7-05e8-4c8a-9bd2-58782f6efbb8.png",
+    "coordinate": null,
+    "cover_image_url": "https://images.lumacdn.com/calendar-cover-images/6f/6df88eaa-674f-43d6-8e1e-afc17d84be36.jpg",
+    "description_short": "Explore upcoming events hosted by NVIDIA. This is the official calendar of the NVIDIA Developer Community Team. Got questions? Reach out to community@nvidia.com \u2014 we\u2019re here to help!",
+    "end_date": null,
+    "event_submission_restriction": "open",
+    "google_measurement_id": null,
+    "instagram_handle": null,
+    "is_blocked": false,
+    "is_verified": false,
+    "launch_status": "launched",
+    "linkedin_handle": null,
+    "location": null,
+    "luma_plan": "plus",
+    "luma_plus_active": true,
+    "meta_pixel_id": null,
+    "name": "NVIDIA",
+    "personal_user_api_id": null,
+    "refund_policy": null,
+    "slug": "nvidia-events",
+    "social_image_url": null,
+    "start_date": null,
+    "stripe_account_id": null,
+    "tax_config": null,
+    "tiktok_handle": null,
+    "tint_color": "#76b900",
+    "track_meta_ads_from_luma": false,
+    "twitter_handle": null,
+    "verified_at": "2025-10-21T20:01:59.616Z",
+    "website": "https://developer.nvidia.com/community",
+    "youtube_handle": null,
+    "is_personal": false,
+    "personal_user": null,
+    "timezone": null
+   },
+   "start_at": "2026-10-17T13:00:00.000Z",
+   "hosts": [
+    {
+     "api_id": "usr-sSk21YNj74KMXyM",
+     "avatar_url": "https://images.lumacdn.com/uploads/vc/ca72cf2d-489e-427e-b499-c10ec29f117e.png",
+     "bio_short": null,
+     "first_name": "Kiana",
+     "last_name": "Steele (NVIDIA)",
+     "instagram_handle": null,
+     "is_verified": false,
+     "linkedin_handle": "/in/kianasteele",
+     "name": "Kiana Steele (NVIDIA)",
+     "tiktok_handle": null,
+     "timezone": "America/Los_Angeles",
+     "twitter_handle": null,
+     "username": "ksteele",
+     "website": null,
+     "youtube_handle": null
+    },
+    {
+     "api_id": "usr-W94CLzCuESVYZEt",
+     "avatar_url": "https://images.lumacdn.com/avatars/ro/89c7d4f1-d04a-4e9f-a724-a871d011c19d.jpg",
+     "bio_short": "",
+     "first_name": "Sa\u0161a",
+     "last_name": "Zelenovi\u0107, Red Hat AI",
+     "instagram_handle": null,
+     "is_verified": false,
+     "linkedin_handle": "/in/sasazelenovic",
+     "name": "Sa\u0161a Zelenovi\u0107, Red Hat AI",
+     "tiktok_handle": null,
+     "timezone": "America/New_York",
+     "twitter_handle": null,
+     "username": null,
+     "website": null,
+     "youtube_handle": null
+    }
+   ],
+   "guest_count": 10,
+   "ticket_count": 10,
+   "ticket_info": {
+    "price": null,
+    "is_free": true,
+    "max_price": null,
+    "is_sold_out": false,
+    "spots_remaining": 140,
+    "is_near_capacity": false,
+    "require_approval": true
+   },
+   "registration_availability": "open",
+   "featured_guests": [
+    {
+     "api_id": "usr-wixh8ua5mjsI9pq",
+     "avatar_url": "https://cdn.lu.ma/avatars-default/avatar_15.png",
+     "bio_short": null,
+     "first_name": "Michael",
+     "last_name": "Gannotti",
+     "instagram_handle": null,
+     "is_verified": false,
+     "linkedin_handle": null,
+     "name": "Michael Gannotti",
+     "tiktok_handle": null,
+     "timezone": "America/New_York",
+     "twitter_handle": null,
+     "username": null,
+     "website": null,
+     "youtube_handle": null
+    },
+    {
+     "api_id": "usr-VPxAjV3Dd6Ziy0J",
+     "avatar_url": "https://cdn.lu.ma/avatars-default/avatar_5.png",
+     "bio_short": "Contractor",
+     "first_name": "Jamie",
+     "last_name": "Bergan",
+     "instagram_handle": null,
+     "is_verified": false,
+     "linkedin_handle": "/in/jamie-bergan-162735132",
+     "name": "Jamie bergan",
+     "tiktok_handle": null,
+     "timezone": "America/Chicago",
+     "twitter_handle": null,
+     "username": null,
+     "website": null,
+     "youtube_handle": null
+    },
+    {
+     "api_id": "usr-MCzf9d1ZHpcfIvs",
+     "avatar_url": "https://cdn.lu.ma/avatars-default/avatar_19.png",
+     "bio_short": null,
+     "first_name": "David",
+     "last_name": "Raditch",
+     "instagram_handle": null,
+     "is_verified": false,
+     "linkedin_handle": null,
+     "name": "David Raditch",
+     "tiktok_handle": null,
+     "timezone": "America/New_York",
+     "twitter_handle": null,
+     "username": null,
+     "website": null,
+     "youtube_handle": null
+    },
+    {
+     "api_id": "usr-I5VxgX0riTuYuCT",
+     "avatar_url": "https://cdn.lu.ma/avatars-default/avatar_23.png",
+     "bio_short": "",
+     "first_name": "James",
+     "last_name": "Cline",
+     "instagram_handle": null,
+     "is_verified": false,
+     "linkedin_handle": "/in/james-cline-a5b08813",
+     "name": "James Cline",
+     "tiktok_handle": null,
+     "timezone": "America/New_York",
+     "twitter_handle": null,
+     "username": null,
+     "website": null,
+     "youtube_handle": null
+    },
+    {
+     "api_id": "usr-n9SbY4A9Og7EQEW",
+     "avatar_url": "https://cdn.lu.ma/avatars-default/avatar_26.png",
+     "bio_short": null,
+     "first_name": "Collin",
+     "last_name": null,
+     "instagram_handle": null,
+     "is_verified": false,
+     "linkedin_handle": null,
+     "name": "Collin",
+     "tiktok_handle": null,
+     "timezone": "America/New_York",
+     "twitter_handle": null,
+     "username": null,
+     "website": null,
+     "youtube_handle": null
+    },
+    {
+     "api_id": "usr-G9GAXf2v1MqJLJz",
+     "avatar_url": "https://cdn.lu.ma/avatars-default/avatar_36.png",
+     "bio_short": "",
+     "first_name": "Pavio",
+     "last_name": null,
+     "instagram_handle": null,
+     "is_verified": false,
+     "linkedin_handle": "/in/pavio",
+     "name": "Pavio",
+     "tiktok_handle": null,
+     "timezone": "America/New_York",
+     "twitter_handle": null,
+     "username": null,
+     "website": null,
+     "youtube_handle": null
+    },
+    {
+     "api_id": "usr-8oJkRDthFZlME5s",
+     "avatar_url": "https://cdn.lu.ma/avatars-default/avatar_28.png",
+     "bio_short": null,
+     "first_name": "Omar",
+     "last_name": "Santos",
+     "instagram_handle": null,
+     "is_verified": false,
+     "linkedin_handle": null,
+     "name": "Omar Santos",
+     "tiktok_handle": null,
+     "timezone": "America/New_York",
+     "twitter_handle": null,
+     "username": null,
+     "website": null,
+     "youtube_handle": null
+    },
+    {
+     "api_id": "usr-cAwhwwwktWnN72Y",
+     "avatar_url": "https://cdn.lu.ma/avatars-default/avatar_27.png",
+     "bio_short": null,
+     "first_name": "Zack",
+     "last_name": "Stone",
+     "instagram_handle": null,
+     "is_verified": false,
+     "linkedin_handle": null,
+     "name": "Zack Stone",
+     "tiktok_handle": null,
+     "timezone": "America/New_York",
+     "twitter_handle": null,
+     "username": null,
+     "website": null,
+     "youtube_handle": null
+    },
+    {
+     "api_id": "usr-YH2J9rLlz3cE5AT",
+     "avatar_url": "https://cdn.lu.ma/avatars-default/avatar_11.png",
+     "bio_short": null,
+     "first_name": "Edmond",
+     "last_name": "Abraham",
+     "instagram_handle": null,
+     "is_verified": false,
+     "linkedin_handle": null,
+     "name": "Edmond Abraham",
+     "tiktok_handle": null,
+     "timezone": "America/New_York",
+     "twitter_handle": null,
+     "username": null,
+     "website": null,
+     "youtube_handle": null
+    },
+    {
+     "api_id": "usr-5Liz2v2RakOuyxm",
+     "avatar_url": "https://cdn.lu.ma/avatars-default/avatar_34.png",
+     "bio_short": "Founder & CEO GT Edge AI",
+     "first_name": "Tom",
+     "last_name": "Bendien",
+     "instagram_handle": null,
+     "is_verified": false,
+     "linkedin_handle": "/in/tbendien",
+     "name": "Tom Bendien",
+     "tiktok_handle": null,
+     "timezone": "America/New_York",
+     "twitter_handle": null,
+     "username": null,
+     "website": null,
+     "youtube_handle": null
+    }
+   ],
+   "manager_info": null,
+   "guest_info": null,
+   "host_info": null,
+   "waitlist_active": false,
+   "featured_city": null,
+   "calendar_api_id": "cal-MJ28KU4lOJNFNHk",
+   "is_manager": true,
+   "platform": "luma",
+   "status": "approved",
+   "submitted_by_user_api_id": "usr-sSk21YNj74KMXyM",
+   "tags": [
+    {
+     "api_id": "tag-XCdbR1pwBzAB22x",
+     "name": "Hackathon",
+     "color": "green"
+    },
+    {
+     "api_id": "tag-s3DWkbfSUxXMixi",
+     "name": "NALA",
+     "color": "blue"
+    }
+   ]
+  },
+  {
+   "api_id": "calev-BU7KZxXD9H06W4I",
+   "event": {
+    "api_id": "evt-OcLAzOjAx8ymtJV",
+    "calendar_api_id": "cal-MJ28KU4lOJNFNHk",
+    "cover_url": "https://images.lumacdn.com/uploads/ca/7613f71e-3c52-4fe3-8826-a71ea7c0abd9.png",
+    "end_at": "2026-10-17T21:00:00.000Z",
+    "event_type": "independent",
+    "hide_rsvp": false,
+    "location_type": "unknown",
+    "name": "Claw Agent Challenge: Berlin",
+    "one_to_one": true,
+    "recurrence_id": null,
+    "show_guest_list": true,
+    "social_image_url": "https://images.lumacdn.com/event-social/rg/f67f0af1-67f9-47a8-a60d-359bdccf0571.png",
+    "start_at": "2026-10-17T13:00:00.000Z",
+    "timezone": "Europe/Berlin",
+    "url": "claw-agent-challenge-berlin",
+    "user_api_id": "usr-sSk21YNj74KMXyM",
+    "visibility": "public",
+    "virtual_info": {
+     "has_access": false
+    },
+    "geo_address_info": null,
+    "geo_address_visibility": "public",
+    "coordinate": null,
+    "waitlist_enabled": false,
+    "waitlist_status": "disabled"
+   },
+   "cover_image": {
+    "colors": [
+     "#020202",
+     "#faf9fa",
+     "#56a112",
+     "#9d472a"
+    ],
+    "palette": {
+     "neutral": [
+      {
+       "color": "#020202",
+       "percentage": 68.53
+      },
+      {
+       "color": "#faf9fa",
+       "percentage": 3.89
+      }
+     ],
+     "vibrant": [
+      {
+       "color": "#56a112",
+       "percentage": 2.05
+      },
+      {
+       "color": "#e9c90b",
+       "percentage": 0.63
+      },
+      {
+       "color": "#3b91b1",
+       "percentage": 0.68
+      },
+      {
+       "color": "#9d472a",
+       "percentage": 1.51
+      }
+     ]
+    }
+   },
+   "calendar": {
+    "access_level": "public",
+    "api_id": "cal-MJ28KU4lOJNFNHk",
+    "avatar_url": "https://images.lumacdn.com/calendars/2h/7236c1b7-05e8-4c8a-9bd2-58782f6efbb8.png",
+    "coordinate": null,
+    "cover_image_url": "https://images.lumacdn.com/calendar-cover-images/6f/6df88eaa-674f-43d6-8e1e-afc17d84be36.jpg",
+    "description_short": "Explore upcoming events hosted by NVIDIA. This is the official calendar of the NVIDIA Developer Community Team. Got questions? Reach out to community@nvidia.com \u2014 we\u2019re here to help!",
+    "end_date": null,
+    "event_submission_restriction": "open",
+    "google_measurement_id": null,
+    "instagram_handle": null,
+    "is_blocked": false,
+    "is_verified": false,
+    "launch_status": "launched",
+    "linkedin_handle": null,
+    "location": null,
+    "luma_plan": "plus",
+    "luma_plus_active": true,
+    "meta_pixel_id": null,
+    "name": "NVIDIA",
+    "personal_user_api_id": null,
+    "refund_policy": null,
+    "slug": "nvidia-events",
+    "social_image_url": null,
+    "start_date": null,
+    "stripe_account_id": null,
+    "tax_config": null,
+    "tiktok_handle": null,
+    "tint_color": "#76b900",
+    "track_meta_ads_from_luma": false,
+    "twitter_handle": null,
+    "verified_at": "2025-10-21T20:01:59.616Z",
+    "website": "https://developer.nvidia.com/community",
+    "youtube_handle": null,
+    "is_personal": false,
+    "personal_user": null,
+    "timezone": null
+   },
+   "start_at": "2026-10-17T13:00:00.000Z",
+   "hosts": [
+    {
+     "api_id": "usr-fgWuHfPAh8UZSam",
+     "avatar_url": "https://images.lumacdn.com/uploads/ry/c93b93f4-e184-434b-8e3c-c8f6ede151a0.png",
+     "bio_short": "Developer Community @ NVIDIA",
+     "first_name": "NVIDIA",
+     "last_name": "",
+     "instagram_handle": null,
+     "is_verified": false,
+     "linkedin_handle": "/in/ayesha-a-asif",
+     "name": "NVIDIA",
+     "tiktok_handle": null,
+     "timezone": "America/Toronto",
+     "twitter_handle": null,
+     "username": "nvidiadeveloper",
+     "website": null,
+     "youtube_handle": null
+    }
+   ],
+   "guest_count": 8,
+   "ticket_count": 8,
+   "ticket_info": {
+    "price": null,
+    "is_free": true,
+    "max_price": null,
+    "is_sold_out": false,
+    "spots_remaining": null,
+    "is_near_capacity": false,
+    "require_approval": false
+   },
+   "registration_availability": "open",
+   "featured_guests": [
+    {
+     "api_id": "usr-oKdBYchfG5KY5yh",
+     "avatar_url": "https://images.lumacdn.com/avatars/3j/1e977286-5285-4332-a33b-56a43552efae.jpg",
+     "bio_short": "",
+     "first_name": "Viral",
+     "last_name": "Network",
+     "instagram_handle": "jadonwu",
+     "is_verified": false,
+     "linkedin_handle": "/in/jadon-wu-5aab74357",
+     "name": "Jadon Wu",
+     "tiktok_handle": null,
+     "timezone": "Europe/Berlin",
+     "twitter_handle": null,
+     "username": "jadonwu",
+     "website": null,
+     "youtube_handle": ""
+    },
+    {
+     "api_id": "usr-yCc2HMhIl5cKcDQ",
+     "avatar_url": "https://images.lumacdn.com/avatars/jy/e06c496e-764d-46ed-a7e8-6edf9cbaa8df.png",
+     "bio_short": "",
+     "first_name": "Bayang",
+     "last_name": "Mounmo",
+     "instagram_handle": null,
+     "is_verified": false,
+     "linkedin_handle": "/in/bayangmbemounmo",
+     "name": "tito",
+     "tiktok_handle": null,
+     "timezone": "Europe/Berlin",
+     "twitter_handle": "bayang_bm",
+     "username": "tihiera",
+     "website": null,
+     "youtube_handle": ""
+    },
+    {
+     "api_id": "usr-jGsxut97IM8lCfz",
+     "avatar_url": "https://images.lumacdn.com/uploads/t5/fa94f0f7-4cba-4118-9aee-7c4b94ad4a9b.jpg",
+     "bio_short": "Robotics & AI | VP @ BRISA",
+     "first_name": "Myron",
+     "last_name": "Sydorov",
+     "instagram_handle": null,
+     "is_verified": false,
+     "linkedin_handle": "/in/myron-sydorov-271a693a8",
+     "name": "Myron Sydorov",
+     "tiktok_handle": null,
+     "timezone": "Europe/Berlin",
+     "twitter_handle": null,
+     "username": null,
+     "website": null,
+     "youtube_handle": null
+    },
+    {
+     "api_id": "usr-6iab2pHa3xGjjEX",
+     "avatar_url": "https://cdn.lu.ma/avatars-default/avatar_33.png",
+     "bio_short": null,
+     "first_name": "Binh",
+     "last_name": "Pham",
+     "instagram_handle": null,
+     "is_verified": false,
+     "linkedin_handle": null,
+     "name": "Binh Pham",
+     "tiktok_handle": null,
+     "timezone": "Europe/Berlin",
+     "twitter_handle": null,
+     "username": null,
+     "website": null,
+     "youtube_handle": null
+    },
+    {
+     "api_id": "usr-ww44fPIKgEnVAke",
+     "avatar_url": "https://cdn.lu.ma/avatars-default/avatar_15.png",
+     "bio_short": null,
+     "first_name": "Zvonko",
+     "last_name": "Vugreshek",
+     "instagram_handle": "vugreshek",
+     "is_verified": false,
+     "linkedin_handle": "/in/zvvug",
+     "name": "Zvonko Vugreshek",
+     "tiktok_handle": null,
+     "timezone": "Europe/Berlin",
+     "twitter_handle": null,
+     "username": null,
+     "website": null,
+     "youtube_handle": null
+    },
+    {
+     "api_id": "usr-faPTwHS8hl8sqRD",
+     "avatar_url": "https://cdn.lu.ma/avatars-default/avatar_23.png",
+     "bio_short": "Founder of Walkenhorst Medtech\nProduct: HDICARE",
+     "first_name": "Jan",
+     "last_name": "Walkenhorst",
+     "instagram_handle": null,
+     "is_verified": false,
+     "linkedin_handle": null,
+     "name": "Jan",
+     "tiktok_handle": null,
+     "timezone": "Europe/Berlin",
+     "twitter_handle": null,
+     "username": null,
+     "website": null,
+     "youtube_handle": null
+    },
+    {
+     "api_id": "usr-3zOtEyzxPtKk9S2",
+     "avatar_url": "https://cdn.lu.ma/avatars-default/avatar_20.png",
+     "bio_short": "",
+     "first_name": "Miloo",
+     "last_name": "Schwartz",
+     "instagram_handle": "miloaschwartz",
+     "is_verified": false,
+     "linkedin_handle": "/in/miloaschwartz",
+     "name": "Miloo Schwartz",
+     "tiktok_handle": null,
+     "timezone": "America/Los_Angeles",
+     "twitter_handle": "miloaschwartz",
+     "username": null,
+     "website": null,
+     "youtube_handle": null
+    },
+    {
+     "api_id": "usr-E1VL9BavpZfwQjp",
+     "avatar_url": "https://cdn.lu.ma/avatars-default/avatar_2.png",
+     "bio_short": null,
+     "first_name": "Pro",
+     "last_name": "C.",
+     "instagram_handle": null,
+     "is_verified": false,
+     "linkedin_handle": "/in/\u0142ukasz-\u017cuchowski-807160316",
+     "name": "Pro C.",
+     "tiktok_handle": null,
+     "timezone": "Europe/Berlin",
+     "twitter_handle": null,
+     "username": null,
+     "website": null,
+     "youtube_handle": null
+    }
+   ],
+   "manager_info": null,
+   "guest_info": null,
+   "host_info": null,
+   "waitlist_active": false,
+   "featured_city": null,
+   "calendar_api_id": "cal-MJ28KU4lOJNFNHk",
+   "is_manager": true,
+   "platform": "luma",
+   "status": "approved",
+   "submitted_by_user_api_id": "usr-sSk21YNj74KMXyM",
+   "tags": [
+    {
+     "api_id": "tag-SBCfygnYGEtai9d",
+     "name": "EMEA",
+     "color": "blue"
+    },
+    {
+     "api_id": "tag-XCdbR1pwBzAB22x",
+     "name": "Hackathon",
+     "color": "green"
+    }
+   ]
+  },
+  {
+   "api_id": "calev-MnN4oBB8mAyXZz1",
+   "event": {
+    "api_id": "evt-yhT9OZk11ukrgyh",
+    "calendar_api_id": "cal-MJ28KU4lOJNFNHk",
+    "cover_url": "https://images.lumacdn.com/uploads/p0/aacc6723-f30b-479f-97ff-f6b0687f076d.jpg",
+    "end_at": "2026-10-17T18:00:00.000Z",
+    "event_type": "independent",
+    "hide_rsvp": false,
+    "location_type": "offline",
+    "name": "Build-A-Claw: Berlin",
+    "one_to_one": true,
+    "recurrence_id": null,
+    "show_guest_list": false,
+    "social_image_url": "https://images.lumacdn.com/event-social/xy/b86233ad-92a2-4e89-a9b9-1462bad4b407.png",
+    "start_at": "2026-10-17T14:00:00.000Z",
+    "timezone": "Europe/Berlin",
+    "url": "bac-berlin",
+    "user_api_id": "usr-vVGwHQHDRMDI1RN",
+    "visibility": "public",
+    "virtual_info": {
+     "has_access": false
+    },
+    "geo_address_info": {
+     "mode": "obfuscated",
+     "city": "Berlin",
+     "city_state": "Berlin, Germany",
+     "sublocality": null,
+     "country": "Germany",
+     "country_code": "DE",
+     "region": "Berlin",
+     "region_short": "BE"
+    },
+    "geo_address_visibility": "guests-only",
+    "coordinate": {
+     "latitude": 52.468002610459415,
+     "longitude": 13.464413657494354
+    },
+    "waitlist_enabled": true,
+    "waitlist_status": "active"
+   },
+   "cover_image": {
+    "colors": [
+     "#10100e",
+     "#fbfbfa",
+     "#4b5043",
+     "#dceea6"
+    ],
+    "palette": {
+     "neutral": [
+      {
+       "color": "#10100e",
+       "percentage": 14.66
+      },
+      {
+       "color": "#fbfbfa",
+       "percentage": 14.15
+      },
+      {
+       "color": "#4b5043",
+       "percentage": 12.59
+      }
+     ],
+     "vibrant": [
+      {
+       "color": "#dceea6",
+       "percentage": 10.13
+      },
+      {
+       "color": "#af7a4e",
+       "percentage": 2.99
+      }
+     ]
+    }
+   },
+   "calendar": {
+    "access_level": "public",
+    "api_id": "cal-MJ28KU4lOJNFNHk",
+    "avatar_url": "https://images.lumacdn.com/calendars/2h/7236c1b7-05e8-4c8a-9bd2-58782f6efbb8.png",
+    "coordinate": null,
+    "cover_image_url": "https://images.lumacdn.com/calendar-cover-images/6f/6df88eaa-674f-43d6-8e1e-afc17d84be36.jpg",
+    "description_short": "Explore upcoming events hosted by NVIDIA. This is the official calendar of the NVIDIA Developer Community Team. Got questions? Reach out to community@nvidia.com \u2014 we\u2019re here to help!",
+    "end_date": null,
+    "event_submission_restriction": "open",
+    "google_measurement_id": null,
+    "instagram_handle": null,
+    "is_blocked": false,
+    "is_verified": false,
+    "launch_status": "launched",
+    "linkedin_handle": null,
+    "location": null,
+    "luma_plan": "plus",
+    "luma_plus_active": true,
+    "meta_pixel_id": null,
+    "name": "NVIDIA",
+    "personal_user_api_id": null,
+    "refund_policy": null,
+    "slug": "nvidia-events",
+    "social_image_url": null,
+    "start_date": null,
+    "stripe_account_id": null,
+    "tax_config": null,
+    "tiktok_handle": null,
+    "tint_color": "#76b900",
+    "track_meta_ads_from_luma": false,
+    "twitter_handle": null,
+    "verified_at": "2025-10-21T20:01:59.616Z",
+    "website": "https://developer.nvidia.com/community",
+    "youtube_handle": null,
+    "is_personal": false,
+    "personal_user": null,
+    "timezone": null
+   },
+   "start_at": "2026-10-17T14:00:00.000Z",
+   "hosts": [
+    {
+     "api_id": "usr-fgWuHfPAh8UZSam",
+     "avatar_url": "https://images.lumacdn.com/uploads/ry/c93b93f4-e184-434b-8e3c-c8f6ede151a0.png",
+     "bio_short": "Developer Community @ NVIDIA",
+     "first_name": "NVIDIA",
+     "last_name": "",
+     "instagram_handle": null,
+     "is_verified": false,
+     "linkedin_handle": "/in/ayesha-a-asif",
+     "name": "NVIDIA",
+     "tiktok_handle": null,
+     "timezone": "America/Toronto",
+     "twitter_handle": null,
+     "username": "nvidiadeveloper",
+     "website": null,
+     "youtube_handle": null
+    }
+   ],
+   "guest_count": 0,
+   "ticket_count": 0,
+   "ticket_info": {
+    "price": null,
+    "is_free": true,
+    "max_price": null,
+    "is_sold_out": false,
+    "spots_remaining": 514,
+    "is_near_capacity": false,
+    "require_approval": true
+   },
+   "registration_availability": "open",
+   "featured_guests": [],
+   "manager_info": null,
+   "guest_info": null,
+   "host_info": null,
+   "waitlist_active": false,
+   "featured_city": null,
+   "calendar_api_id": "cal-MJ28KU4lOJNFNHk",
+   "is_manager": true,
+   "platform": "luma",
+   "status": "approved",
+   "submitted_by_user_api_id": "usr-vVGwHQHDRMDI1RN",
+   "tags": [
+    {
+     "api_id": "tag-SBCfygnYGEtai9d",
+     "name": "EMEA",
+     "color": "blue"
+    },
+    {
+     "api_id": "tag-tfN0MgeTobZObQD",
+     "name": "Meetup",
+     "color": "green"
+    }
+   ]
+  }
+ ],
+ "has_more": false
+}

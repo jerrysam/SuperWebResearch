@@ -1,0 +1,95 @@
+93 events in window before detail fetch
+
+2026-10-02 Fri 08:30 | San Francisco | tokens&                | Real-Time Video Agents Hack - SF                             | vastsf | KEY:coreweave,modal,nvidia,wandb,weights & biases,xai APPROVAL
+2026-10-02 Fri 09:00 | San Francisco | Supabase Community Eve | Supabase Select 2026                                         | supabase-select-2026 | APPROVAL
+2026-10-02 Fri 14:00 | Unknown       | The Commons            | Founder Group Coaching and Peer Support: Working Through Ove | the-z3sk | 
+2026-10-02 Fri 18:30 | Unknown       | The Commons            | Rot Night: Film Salon/Fil-Am History Month Edition           | the-6cst | 
+2026-10-03 Sat 14:00 | Unknown       | The Commons            | Real Social Connections                                      | the-heo3 | 
+2026-10-04 Sun 07:00 | Brooklyn      | Brderless              | Brderless Buildathon: AI Agents                              | buildathonnyc | APPROVAL
+2026-10-04 Sun 09:00 | Unknown       | The Commons            | The Commons Public Hours ☕                                   | the-gv3j | 
+2026-10-04 Sun 10:00 | Unknown       | The Commons            | SF Writing Club                                              | the-b0lm | 
+2026-10-04 Sun 18:00 | San Francisco | The San Francisco Tech | SF Tech Mix & Mingle                                         | rp6x87x7 | APPROVAL
+2026-10-05 Mon 09:30 | San Francisco | a16z SF Tech Week 2026 | The MCP Gateway during SF a16z TechWeek                      | scorx7qo | APPROVAL
+2026-10-05 Mon 15:00 | San Francisco | Personal               | Molecules, Models & Agents: Accelerating scientific research | Molecules2Agents | KEY:nvidia APPROVAL
+2026-10-05 Mon 17:00 | San Francisco | YC Only                | YC Founders Mixer — SF Tech Week 2026                        | szg4hzay | APPROVAL
+2026-10-05 Mon 17:30 | San Francisco | WorkOS Events          | Demo Night @ WorkOS (October)                                | demo-night-oct2026 | APPROVAL
+2026-10-05 Mon 17:30 | San Francisco | Postman Developer Even | Agents & APIs SF Developer Meetup                            | Oct-SF-agents-APIs-meetup | 
+2026-10-05 Mon 18:00 | San Francisco | Hustle Fund Events     | Founder Friends San Francisco                                | 4xjpmq1m | SOLD_OUT
+2026-10-05 Mon 18:00 | San Francisco | CopilotKit             | Ship it & Sip it: Software Factories Night                   | copilo-y6wx | 
+2026-10-05 Mon 18:30 | San Francisco | Mercury                | Off the Books: SF Dinner Edition                             | 4o1slrjc | SOLD_OUT APPROVAL
+2026-10-05 Mon 19:00 | San Francisco | Personal               | SF Founder & Investor Dinner                                 | ozrtk4ne | APPROVAL
+2026-10-06 Tue 10:30 | San Francisco | South Park Commons     | -1 to Physical Intelligence with Sergey Levine               | sergey-spc | APPROVAL
+2026-10-06 Tue 15:30 | New York      | Brderless              | AI-Enabled Services Founder Dinner                           | 0hllo4g1 | APPROVAL
+2026-10-06 Tue 16:00 | San Francisco | Array Ventures         | The SOLO Founder Club                                        | ejwagfv9 | APPROVAL
+2026-10-06 Tue 17:30 | San Francisco | SF Game Development    | SF Tech Week: Building Your Discord Server Through Every Sta | sf-tech-week-discord-game-development-meetup | 
+2026-10-06 Tue 17:30 | San Francisco | Auth0 Events - San Fra | Camp AI: Production-Ready Agents @ SFTW                      | campai-sftw-2026 | KEY:anthropic APPROVAL
+2026-10-06 Tue 18:00 | San Francisco | Persona Community      | SF Private Dinner                                            | personadinner | APPROVAL
+2026-10-06 Tue 18:00 | San Francisco | Hustle Fund Events     | Batter Up San Francisco!                                     | xenl8z74 | 
+2026-10-06 Tue 18:30 | Berkeley      | Personal               | Arguments: A Reading & Celebration with Ben Gucciardi and Ar | 4ljpaw1d | 
+2026-10-06 Tue 18:30 | San Francisco | Personal               | Practical AI for Documentation                               | mngid6og | KEY:gpt
+2026-10-07 Wed 08:00 | Unknown       | Weights & Biases by Co | From build data to better calibration: Applying physical AI  | wandb-mode | KEY:coreweave,weights & biases
+2026-10-07 Wed 08:00 | San Francisco | WorkOS Events          | init() by WorkOS                                             | init-conf | TARGET:replit KEY:anthropic,openai APPROVAL
+2026-10-07 Wed 09:00 | London        | Fin                    | Pioneer Watch Party - London                                 | fin-Ldn-Pioneer-watch | APPROVAL
+2026-10-07 Wed 09:00 | Berlin        | Fin                    | Pioneer Watch Party - Berlin                                 | Pioneer-watch-Berlin | APPROVAL
+2026-10-07 Wed 09:00 | Alameda       | Personal               | Build Better Electronics Manufacturing Summit 2026           | kle5wsv0 | APPROVAL
+2026-10-07 Wed 12:00 | Unknown       | Latent.Space (Paper Cl | LLM Paper Club - paper tba                                   | bgrmd42f | 
+2026-10-07 Wed 12:30 | San Francisco | Shor Community         | (International) YC founders picnic - #SFTechWeek             | vmjvw2ox | APPROVAL
+2026-10-07 Wed 14:00 | San Francisco | TRAU                   | Design Roasting Session (vol. 2)                             | o2u9s9lr | SOLD_OUT APPROVAL
+2026-10-07 Wed 16:00 | San Francisco | Events by Smartlead    | Smartlead x Pump: Scaling Without Scaling Headcount          | smartleadxpump | SOLD_OUT
+2026-10-07 Wed 16:30 | San Francisco | VC Backed Moms Events  | VCBM Fall Happy Hour                                         | tzx7utxg | APPROVAL
+2026-10-07 Wed 17:30 | San Francisco | The Frontier Syndicate | Bay Area Frontier Research Club #26 | Agents in Production:  | 82gz0ggu | KEY:openai APPROVAL
+2026-10-07 Wed 17:30 | San Francisco | MelanInScience         | The New Infrastructure of Biotech Entrepreneurship           | BuildBuyorPartner | 
+2026-10-07 Wed 18:00 | San Francisco | Personal               | An exhibition on the measurement of human performance - #SFT | exekfdsk | 
+2026-10-07 Wed 19:00 | San Francisco | Startup Valley         | Startup Pitch & Networking in San Francisco                  | egpwc3ua | APPROVAL
+2026-10-08 Thu 09:00 | San Francisco | VetsinTech             | NatSec + Space Innovation Summit | Fleet Week × SF Tech Week | nssis | TARGET:cognition KEY:openai APPROVAL
+2026-10-08 Thu 10:00 | London        | Arize AI               | Shipping AI agents in the EU: What the new rules mean for de | arizeai-shipping-agents-under-EU-rules | APPROVAL
+2026-10-08 Thu 10:00 | Unknown       | Enrich Events          | Don't Go Off Vibes Part 3: What Makes AI Coding Agents Effec | enrich-pmyh | APPROVAL
+2026-10-08 Thu 10:00 | San Francisco | House of AI - by bepur | Germany at the Frontier                                      | 5p58mktn | TARGET:sierra,vercel KEY:anthropic,claude SOLD_OUT APPROVAL
+2026-10-08 Thu 11:00 | San Francisco | TatianaSF              | AI Hackathon: Sales Copilot AI                               | qzct3ybt | KEY:gpt,nvidia,openai APPROVAL
+2026-10-08 Thu 17:00 | San Francisco | MelanInScience         | Scaling Biotech Without Breaking the Science                 | ScalingBiotech | 
+2026-10-08 Thu 18:00 | San Francisco | Entre                  | Founder & VC Padel Night - SF Tech Week                      | jszu8o9a | APPROVAL
+2026-10-08 Thu 18:00 | San Francisco | AI Builders            | Hello Buddy: WorkBuddy SF Meetup                             | workbuddysf | APPROVAL
+2026-10-08 Thu 18:00 | San Francisco | Builders for San Franc | 🚀 Startup Pitch Night SF | Builders for San Francisco        | b4sf-02 | TARGET:cognition APPROVAL
+2026-10-08 Thu 18:00 | San Francisco | WorkOS Events          | Developers after Dark                                        | developers-after-dark | APPROVAL
+2026-10-08 Thu 18:30 | San Francisco | Personal               | AI4Science: The Next Experiment                              | j2d9fhek | APPROVAL
+2026-10-08 Thu 20:00 | San Francisco | Personal               | speedrun sr007 | a masquerade ball                           | fldrgzgq | APPROVAL
+2026-10-08 Thu 20:30 | San Francisco | Events by Smartlead    | The GTM Afterparty                                           | the_gtm_afterparty | 
+2026-10-09 Fri 05:30 | New York      | tokens&                | Real-Time Video Agents Hack - NYC                            | vastnyc | KEY:coreweave,modal,nvidia,wandb,weights & biases,xai APPROVAL
+2026-10-09 Fri 09:30 | San Francisco | tokens&                | Cyberdefense Hackathon                                       | cyberhack | APPROVAL
+2026-10-09 Fri 10:00 | San Francisco | PAI Palooza Presents - | AI Native Summit - SF TechWeek 2026                          | 3t95uj7s | 
+2026-10-09 Fri 10:00 | San Francisco | staaake                | Connecting over a game of H.O.R.S.E 4 AI Founders — Hoopers  | staaake-203w | 
+2026-10-09 Fri 12:00 | Menlo Park    | Open Source for AI     | SF Tech Week Agent Day                                       | 7wn8tsf7 | APPROVAL
+2026-10-09 Fri 14:00 | San Francisco | sunset social club     | Sunset Neighborhood Build-a-thon                             | tzyvkp9j | 
+2026-10-09 Fri 16:00 | San Francisco | Events by Smartlead    | Smartlead x Chatbase: Bowling Mixer 🎳                        | smartleadxchatbase | APPROVAL
+2026-10-09 Fri 16:00 | San Francisco | Builders & Brews       | Builders & Brews SF                                          | tavily-u13g | TARGET:replit KEY:nvidia APPROVAL
+2026-10-09 Fri 17:00 | San Francisco | MelanInScience         | Human Performance, Capital & Innovation                      | ThePerformanceEconomy | 
+2026-10-09 Fri 17:00 | San Francisco | Hardware FYI           | Hardware FYI: SF Tech Week Edition                           | g5sdw0b6 | APPROVAL
+2026-10-09 Fri 18:30 | San Francisco | Events                 | Founders Social After Dark — #SFTechWeek                     | fukxek8f | KEY:gpt APPROVAL
+2026-10-10 Sat 09:00 | San Francisco | staaake                | Intro to boxing for tech founders - #SFTechWeek — Reverse Ne | staaake-mc1x | 
+2026-10-10 Sat 10:00 | San Francisco | tokens&                | Production Agent Lab - Workshop                              | oct10lab | APPROVAL
+2026-10-10 Sat 10:00 | San Francisco | BondHaus               | AI-Native Startup Hackathon                                  | j34m6r1z | 
+2026-10-10 Sat 13:45 | San Francisco | Maple Leaf Venture Clu | Tech Basketball Run - SF Tech Week                           | mlvc-e0o4 | APPROVAL
+2026-10-11 Sun 17:30 | San Francisco | staaake                | staaake Skybar AI/Tech Founders Hangover Event — Reverse Net | staaake-j15s | 
+2026-10-12 Mon 13:00 | Menlo Park    | TechEquity Ai - Silico | Company Brain Hackathon: Build an AI Agent That Knows Your O | oct-hackathon | APPROVAL
+2026-10-12 Mon 15:00 | Unknown       | Arize AI               | Arize x AWS AI Leaders Dinner                                | arize-aws-exec-dinner-nyc | APPROVAL
+2026-10-12 Mon 17:00 | San Francisco | Ontology of Value®     | The Future of Work Social Mixer + Open Demos: Worktech, Robo | qo2dliwb | KEY:claude
+2026-10-12 Mon 21:00 | San Francisco | Personal               | THE CUSTOMER IS IN THE ROOM: A live AI focus group for DTC b | rwhh6mha | APPROVAL
+2026-10-13 Tue 00:30 | Barcelona     | NVIDIA                 | Build-A-Claw: Barcelona                                      | bac-barcelona | KEY:gpt,nvidia APPROVAL
+2026-10-13 Tue 05:00 | Paris         |                        | Build-A-Claw: Paris                                          | bac-paris | 
+2026-10-13 Tue 05:00 | Unknown       |                        | Claw Agent Challenge: Paris                                  | claw-agent-challenge-paris | 
+2026-10-13 Tue 06:00 | Unknown       |                        | Claw Agent Challenge: Barcelona                              | claw-agent-challenge-barcelona | 
+2026-10-13 Tue 14:30 | Unknown       |                        | Table Stakes                                                 | aie-nyc-happy-hour-2026 | 
+2026-10-13 Tue 15:00 | New York      |                        | Fireworks: Code & Cocktails NYC                              | gydwrqt6 | 
+2026-10-13 Tue 17:00 | San Francisco |                        | Agentic + AI Observability Meetup SF                         | Agentic_AI_10-13 | 
+2026-10-13 Tue 18:00 | San Francisco |                        | AI Builder's Night                                           | aibuilders_techcrunch | 
+2026-10-14 Wed 01:00 | London        |                        | Build-A-Claw: London                                         | bac-london | 
+2026-10-14 Wed 05:00 | Unknown       |                        | Claw Agent Challenge: London                                 | claw-agent-challenge-london | 
+2026-10-14 Wed 12:00 | Unknown       |                        | LLM Paper Club - paper tba                                   | k8u3voz2 | 
+2026-10-14 Wed 17:30 | San Francisco |                        | Bay Area Frontier Research Club #27 | Embodied AI (dinner +  | sxoqc4og | 
+2026-10-14 Wed 19:00 | San Francisco |                        | SignalFire's Disrupt Arthaus After-Party                     | signalfire-arthaus | 
+2026-10-15 Thu 01:00 | Stockholm     |                        | Build-A-Claw: Stockholm                                      | bac-stockholm | 
+2026-10-15 Thu 05:00 | Paris         |                        | Trace It, Prove It, Scale It: AI Agents in Production        | parisoct15 | 
+2026-10-15 Thu 10:00 | Unknown       |                        | You Don't Have a Leadership Skills Gap. You Have a Leadershi | enrich-2abm | 
+2026-10-15 Thu 15:30 | New York      |                        | Founder Dinner                                               | ospdre5t | 
+2026-10-15 Thu 17:00 | San Francisco |                        | NachoThursday: TechCrunch Disrupt SaaS & AI Founder + Invest | nachon-9ui9 | 
+2026-10-16 Fri 19:00 | Berkeley      |                        | Transit Books Presents: Our Party in the Forest              | lqqg6oue | 
